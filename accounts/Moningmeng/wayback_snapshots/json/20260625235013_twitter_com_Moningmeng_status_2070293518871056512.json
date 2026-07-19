@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070122770265223168"
+      ],
+      "media_source_tweet_id": [
+        "2070122822903754856"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2070293518871056512",
+    "created_at": "2026-06-25T23:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070293518871056512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1243491753019101184",
+          "start": 3,
+          "username": "fanduizhongxiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vD4ofJif6Z",
+          "end": 62,
+          "expanded_url": "https://x.com/fanduizhongxiu/status/2070122822903754856/photo/1",
+          "media_key": "3_2070122770265223168",
+          "start": 39,
+          "url": "https://t.co/vD4ofJif6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070293518871056512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070122822903754856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fanduizhongxiu: 当你在学校厕所发现了，有没有人去闻闻 https://t.co/vD4ofJif6Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070122770265223168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqNsQsbMAAR7qp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070122770265223168"
+          ],
+          "media_source_tweet_id": [
+            "2070122822903754856"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2070293518871056512",
+        "created_at": "2026-06-25T23:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070293518871056512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243491753019101184",
+              "start": 3,
+              "username": "fanduizhongxiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vD4ofJif6Z",
+              "end": 62,
+              "expanded_url": "https://x.com/fanduizhongxiu/status/2070122822903754856/photo/1",
+              "media_key": "3_2070122770265223168",
+              "start": 39,
+              "url": "https://t.co/vD4ofJif6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070293518871056512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070122822903754856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fanduizhongxiu: 当你在学校厕所发现了，有没有人去闻闻 https://t.co/vD4ofJif6Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070122770265223168"
+          ]
+        },
+        "author_id": "1243491753019101184",
+        "conversation_id": "2070122822903754856",
+        "created_at": "2026-06-25T12:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070122822903754856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vD4ofJif6Z",
+              "end": 42,
+              "expanded_url": "https://x.com/fanduizhongxiu/status/2070122822903754856/photo/1",
+              "media_key": "3_2070122770265223168",
+              "start": 19,
+              "url": "https://t.co/vD4ofJif6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070122822903754856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你在学校厕所发现了，有没有人去闻闻 https://t.co/vD4ofJif6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27830,
+          "following_count": 11127,
+          "like_count": 92246,
+          "listed_count": 102,
+          "media_count": 5276,
+          "tweet_count": 18144
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "14年校园霸凌亲历者｜反一切压迫剥削｜民主社会主义｜最终目标是以此跨入民主的共产主义高级阶段｜友跨性别｜欢迎不同看法 但要理性讨论 ｜反对废除死刑｜支持严肃处刑毒贩｜顺直丨非被迫不销号，欢迎互fo，记得私信",
+        "id": "1243491753019101184",
+        "location": "在学习的路上",
+        "name": "天宇",
+        "pinned_tweet_id": "2062883930689392877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058166498984939520/dMcDyeOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 184,
+          "like_count": 7153,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "fanduizhongxiu",
+        "verified": true
+      }
+    ]
+  }
+}

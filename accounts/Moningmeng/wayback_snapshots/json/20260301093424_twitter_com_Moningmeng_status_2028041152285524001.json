@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027907884533821440"
+      ],
+      "media_source_tweet_id": [
+        "2027910266097484027"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2028041152285524001",
+    "created_at": "2026-03-01T09:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028041152285524001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "215939847",
+          "start": 3,
+          "username": "bboczeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtaY4ZvGda",
+          "end": 63,
+          "expanded_url": "https://x.com/bboczeng/status/2027910266097484027/photo/1",
+          "media_key": "3_2027907884533821440",
+          "start": 40,
+          "url": "https://t.co/AtaY4ZvGda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028041152285524001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027910266097484027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bboczeng: 简中评论区Ratio创下吉尼斯世界纪录：\n\n😅😅😅 https://t.co/AtaY4ZvGda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2027907884533821440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSTegbaMAAAWnL.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027907884533821440"
+          ],
+          "media_source_tweet_id": [
+            "2027910266097484027"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2028041152285524001",
+        "created_at": "2026-03-01T09:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028041152285524001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "215939847",
+              "start": 3,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtaY4ZvGda",
+              "end": 63,
+              "expanded_url": "https://x.com/bboczeng/status/2027910266097484027/photo/1",
+              "media_key": "3_2027907884533821440",
+              "start": 40,
+              "url": "https://t.co/AtaY4ZvGda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028041152285524001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027910266097484027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bboczeng: 简中评论区Ratio创下吉尼斯世界纪录：\n\n😅😅😅 https://t.co/AtaY4ZvGda"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027907884533821440"
+          ]
+        },
+        "author_id": "215939847",
+        "conversation_id": "2027910266097484027",
+        "created_at": "2026-03-01T00:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T01:45:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027907971209171118",
+          "2027910266097484027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtaY4ZvGda",
+              "end": 49,
+              "expanded_url": "https://x.com/bboczeng/status/2027910266097484027/photo/1",
+              "media_key": "3_2027907884533821440",
+              "start": 26,
+              "url": "https://t.co/AtaY4ZvGda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027910266097484027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 188444,
+          "like_count": 1401,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "简中评论区Ratio创下吉尼斯世界纪录：\n\n😅😅😅 https://t.co/AtaY4ZvGda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26781,
+          "following_count": 11024,
+          "like_count": 86734,
+          "listed_count": 101,
+          "media_count": 4796,
+          "tweet_count": 16352
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "2025783825616482808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194846,
+          "following_count": 725,
+          "like_count": 132815,
+          "listed_count": 1138,
+          "media_count": 19042,
+          "tweet_count": 114433
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975084826052235264",
+        "3_1975084826425479168"
+      ],
+      "media_source_tweet_id": [
+        "1975084829625770280",
+        "1975084829625770280"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975455754468663322",
+    "created_at": "2025-10-07T06:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T07:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975455754468663322"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "药娘"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "糖果"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894288961771900933",
+          "start": 3,
+          "username": "yangnaisam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxdSPi5c5d",
+          "end": 65,
+          "expanded_url": "https://x.com/yangnaisam/status/1975084829625770280/photo/1",
+          "media_key": "3_1975084826052235264",
+          "start": 42,
+          "url": "https://t.co/UxdSPi5c5d"
+        },
+        {
+          "display_url": "pic.x.com/UxdSPi5c5d",
+          "end": 65,
+          "expanded_url": "https://x.com/yangnaisam/status/1975084829625770280/photo/1",
+          "media_key": "3_1975084826425479168",
+          "start": 42,
+          "url": "https://t.co/UxdSPi5c5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975455754468663322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975084829625770280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangnaisam: 给所有路过的小药娘吃糖～\n#药娘 #糖果 #mtf https://t.co/UxdSPi5c5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1975084826052235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jpL1IbkAASd5g.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1975084826425479168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jpL2ha0AAUp34.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975084826052235264",
+            "3_1975084826425479168"
+          ],
+          "media_source_tweet_id": [
+            "1975084829625770280",
+            "1975084829625770280"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975455754468663322",
+        "created_at": "2025-10-07T06:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975455754468663322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "药娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "糖果"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894288961771900933",
+              "start": 3,
+              "username": "yangnaisam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxdSPi5c5d",
+              "end": 65,
+              "expanded_url": "https://x.com/yangnaisam/status/1975084829625770280/photo/1",
+              "media_key": "3_1975084826052235264",
+              "start": 42,
+              "url": "https://t.co/UxdSPi5c5d"
+            },
+            {
+              "display_url": "pic.x.com/UxdSPi5c5d",
+              "end": 65,
+              "expanded_url": "https://x.com/yangnaisam/status/1975084829625770280/photo/1",
+              "media_key": "3_1975084826425479168",
+              "start": 42,
+              "url": "https://t.co/UxdSPi5c5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975455754468663322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975084829625770280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangnaisam: 给所有路过的小药娘吃糖～\n#药娘 #糖果 #mtf https://t.co/UxdSPi5c5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975084826052235264",
+            "3_1975084826425479168"
+          ]
+        },
+        "author_id": "1894288961771900933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975084829625770280",
+        "created_at": "2025-10-06T06:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975084829625770280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "药娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "糖果"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxdSPi5c5d",
+              "end": 49,
+              "expanded_url": "https://x.com/yangnaisam/status/1975084829625770280/photo/1",
+              "media_key": "3_1975084826052235264",
+              "start": 26,
+              "url": "https://t.co/UxdSPi5c5d"
+            },
+            {
+              "display_url": "pic.x.com/UxdSPi5c5d",
+              "end": 49,
+              "expanded_url": "https://x.com/yangnaisam/status/1975084829625770280/photo/1",
+              "media_key": "3_1975084826425479168",
+              "start": 26,
+              "url": "https://t.co/UxdSPi5c5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975084829625770280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4136,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给所有路过的小药娘吃糖～\n#药娘 #糖果 #mtf https://t.co/UxdSPi5c5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23130,
+          "following_count": 10915,
+          "like_count": 84195,
+          "listed_count": 84,
+          "media_count": 4265,
+          "tweet_count": 15400
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:31:35.000Z",
+        "description": "167cm 60kg /// 喜欢同类贴的/无精神问题丨2007.1023 小可爱  无证含糖丨🍥🏳‍⚧ 丨企鹅需要40 基础过🚪哦 可私丨同类可+哦（先天体质雌高雄低性腺发育不良）半家长党 清纯高中生",
+        "id": "1894288961771900933",
+        "location": "🚪40 黄100",
+        "name": "小奈奈子酱Sam🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969634991492775938/enytBYzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 41,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 46
+        },
+        "username": "yangnaisam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2068353530038210755",
+    "created_at": "2026-06-20T15:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068353530038210755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1364200446080913413",
+          "start": 3,
+          "username": "andy88988696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068353530038210755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067770616300900750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @andy88988696: 突然想到\n\n如果说拍色情片合法\n\n嫖娼违法\n\n所以以后只要嫖娼前面摆一台摄影机\n\n我是不是就不违法了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068353530038210755",
+        "created_at": "2026-06-20T15:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068353530038210755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1364200446080913413",
+              "start": 3,
+              "username": "andy88988696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068353530038210755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067770616300900750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @andy88988696: 突然想到\n\n如果说拍色情片合法\n\n嫖娼违法\n\n所以以后只要嫖娼前面摆一台摄影机\n\n我是不是就不违法了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364200446080913413",
+        "conversation_id": "2067770616300900750",
+        "created_at": "2026-06-19T00:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067770616300900750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067770616300900750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 685352,
+          "like_count": 2536,
+          "quote_count": 1,
+          "reply_count": 456,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到\n\n如果说拍色情片合法\n\n嫖娼违法\n\n所以以后只要嫖娼前面摆一台摄影机\n\n我是不是就不违法了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27726,
+          "following_count": 11085,
+          "like_count": 91172,
+          "listed_count": 102,
+          "media_count": 5243,
+          "tweet_count": 17858
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-23T13:08:34.000Z",
+        "description": "医学生｜医学中心实习中\n把複杂的身体科学用简单的方式讲清楚\n性生理・两性关係・日常保养・生活迷思\n实证为本＋落地建议\n欢迎私讯投稿你的疑问（匿名发文）\n仅供参考，不构成医疗建议\n\n台湾保健食品(玛卡、精氨酸、B群)\n点连结购买\n即可获得全馆9折优惠\nhttps://t.co/ifdm7A3tjl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "terratw.com/ramy50",
+                "end": 148,
+                "expanded_url": "https://www.terratw.com/ramy50",
+                "start": 125,
+                "url": "https://t.co/ifdm7A3tjl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+0CJB1XqgoCQ4Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+0CJB1XqgoCQ4YTBl",
+                "start": 0,
+                "url": "https://t.co/FVQcSOlSWY"
+              }
+            ]
+          }
+        },
+        "id": "1364200446080913413",
+        "name": "迷思拆解_Panda🐼🐼",
+        "pinned_tweet_id": "2067056910852096220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897447830480097280/q4Do2mUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28233,
+          "following_count": 1981,
+          "like_count": 20660,
+          "listed_count": 92,
+          "media_count": 1020,
+          "tweet_count": 18568
+        },
+        "url": "https://t.co/FVQcSOlSWY",
+        "username": "andy88988696",
+        "verified": true
+      }
+    ]
+  }
+}

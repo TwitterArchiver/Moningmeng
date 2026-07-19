@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958569138076721152"
+      ],
+      "media_source_tweet_id": [
+        "1958569142942146947"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1958573370481480094",
+    "created_at": "2025-08-21T16:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T17:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958573370481480094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1918920268296359936",
+          "start": 3,
+          "username": "FIREFLY040132"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K6ntAHzIGl",
+          "end": 60,
+          "expanded_url": "https://x.com/FIREFLY040132/status/1958569142942146947/photo/1",
+          "media_key": "3_1958569138076721152",
+          "start": 37,
+          "url": "https://t.co/K6ntAHzIGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958573370481480094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958569142942146947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FIREFLY040132: 你妈的，打我就算了，还给我衣服撕了 https://t.co/K6ntAHzIGl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1958573370481480094].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1958573370481480094",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958573370481480094"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1958569138076721152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy48QQ8bIAAJwri.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958569138076721152"
+          ]
+        },
+        "author_id": "1918920268296359936",
+        "conversation_id": "1958569142942146947",
+        "created_at": "2025-08-21T16:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958569142942146947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6ntAHzIGl",
+              "end": 41,
+              "expanded_url": "https://x.com/FIREFLY040132/status/1958569142942146947/photo/1",
+              "media_key": "3_1958569138076721152",
+              "start": 18,
+              "url": "https://t.co/K6ntAHzIGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958569142942146947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的，打我就算了，还给我衣服撕了 https://t.co/K6ntAHzIGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953648748330201088/g7X92lyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22211,
+          "following_count": 10916,
+          "like_count": 82931,
+          "listed_count": 81,
+          "media_count": 4077,
+          "tweet_count": 15096
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁，168cm/52kg，没出息小废物，贪财好色死M，断粮断药又没钱，没钱没玩具没衣服，三无产品，求金主爸爸，不能线下，呜呜呜😭😭😭",
+        "id": "1918920268296359936",
+        "location": "山西",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948999350333624320/e-2Mljmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 366,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 333
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

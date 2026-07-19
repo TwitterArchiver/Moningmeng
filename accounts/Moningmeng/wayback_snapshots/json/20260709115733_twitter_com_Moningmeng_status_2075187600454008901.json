@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075187600454008901",
+    "created_at": "2026-07-09T11:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075187600454008901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638922874487730176",
+          "start": 3,
+          "username": "Sweet_xst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075187600454008901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074750334925169036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sweet_xst: 我突然想到一个问题：抖音有个网红猫一杯，因为编造了小学生在法国丢了寒假作业被央媒点名然后被全网封杀。我不理解，为什么呀？就算是编的那伤害谁了呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075187600454008901",
+        "created_at": "2026-07-09T11:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075187600454008901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638922874487730176",
+              "start": 3,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187600454008901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074750334925169036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sweet_xst: 我突然想到一个问题：抖音有个网红猫一杯，因为编造了小学生在法国丢了寒假作业被央媒点名然后被全网封杀。我不理解，为什么呀？就算是编的那伤害谁了呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638922874487730176",
+        "conversation_id": "2074750334925169036",
+        "created_at": "2026-07-08T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074750334925169036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074750334925169036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 2278852,
+          "like_count": 2185,
+          "quote_count": 1,
+          "reply_count": 702,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "我突然想到一个问题：抖音有个网红猫一杯，因为编造了小学生在法国丢了寒假作业被央媒点名然后被全网封杀。我不理解，为什么呀？就算是编的那伤害谁了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 64,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 41,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28130,
+          "following_count": 11520,
+          "like_count": 93603,
+          "listed_count": 104,
+          "media_count": 5362,
+          "tweet_count": 18670
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "小号：@shiguai8224\n功能号：@tangchaoli40605\n愿你每天都有好心情~\n青年大学习系列已强势归来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "shiguai8224"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "tangchaoli40605"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "2069782848232419522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200937,
+          "following_count": 231,
+          "like_count": 5444,
+          "listed_count": 290,
+          "media_count": 1773,
+          "tweet_count": 4552
+        },
+        "url": "",
+        "username": "Sweet_xst",
+        "verified": true
+      }
+    ]
+  }
+}

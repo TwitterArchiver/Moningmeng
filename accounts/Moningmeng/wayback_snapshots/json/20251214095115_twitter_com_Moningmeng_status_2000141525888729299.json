@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000109402284867585"
+      ],
+      "media_source_tweet_id": [
+        "2000109404696527041"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2000141525888729299",
+    "created_at": "2025-12-14T09:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T10:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000141525888729299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "344165300",
+          "start": 3,
+          "username": "senchannya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLwu9ATELJ",
+          "end": 85,
+          "expanded_url": "https://x.com/senchannya/status/2000109404696527041/photo/1",
+          "media_key": "3_2000109402284867585",
+          "start": 62,
+          "url": "https://t.co/gLwu9ATELJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000141525888729299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000109404696527041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senchannya: 怼脸拍好像搞事早苗，香草搞事早苗的可以来约我了（嗐死我了，也是鼓足了勇气才发出来的，别骂） https://t.co/gLwu9ATELJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000109402284867585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HQ54MbwAEYdYO.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000109402284867585"
+          ],
+          "media_source_tweet_id": [
+            "2000109404696527041"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2000141525888729299",
+        "created_at": "2025-12-14T09:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000141525888729299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "344165300",
+              "start": 3,
+              "username": "senchannya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLwu9ATELJ",
+              "end": 85,
+              "expanded_url": "https://x.com/senchannya/status/2000109404696527041/photo/1",
+              "media_key": "3_2000109402284867585",
+              "start": 62,
+              "url": "https://t.co/gLwu9ATELJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000141525888729299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000109404696527041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senchannya: 怼脸拍好像搞事早苗，香草搞事早苗的可以来约我了（嗐死我了，也是鼓足了勇气才发出来的，别骂） https://t.co/gLwu9ATELJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000109402284867585"
+          ]
+        },
+        "author_id": "344165300",
+        "conversation_id": "2000109404696527041",
+        "created_at": "2025-12-14T07:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T08:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000109404696527041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLwu9ATELJ",
+              "end": 69,
+              "expanded_url": "https://x.com/senchannya/status/2000109404696527041/photo/1",
+              "media_key": "3_2000109402284867585",
+              "start": 46,
+              "url": "https://t.co/gLwu9ATELJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000109404696527041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怼脸拍好像搞事早苗，香草搞事早苗的可以来约我了（嗐死我了，也是鼓足了勇气才发出来的，别骂） https://t.co/gLwu9ATELJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998398490142216193/RGRpCmT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25904,
+          "following_count": 10951,
+          "like_count": 85595,
+          "listed_count": 94,
+          "media_count": 4530,
+          "tweet_count": 15789
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T16:55:59.000Z",
+        "description": "https://t.co/yGbV7dZCWd\n     🚪78，多加可随机触发彩蛋（但是概率低的可怜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sen49029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sen49029",
+                "start": 0,
+                "url": "https://t.co/yGbV7dZCWd"
+              }
+            ]
+          }
+        },
+        "id": "344165300",
+        "name": "🍥传说中的小仙酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986602034980921346/1ztrZ5E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 221,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 321
+        },
+        "username": "senchannya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942742242319556610",
+        "3_1942742242281852928",
+        "3_1942742244014137344"
+      ],
+      "media_source_tweet_id": [
+        "1942742343322591370",
+        "1942742343322591370",
+        "1942742343322591370"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1942930414232080534",
+    "created_at": "2025-07-09T12:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942930414232080534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778989851226071040",
+          "start": 3,
+          "username": "HXD3C0679"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRU4i4c97O",
+          "end": 53,
+          "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+          "media_key": "3_1942742242319556610",
+          "start": 30,
+          "url": "https://t.co/NRU4i4c97O"
+        },
+        {
+          "display_url": "pic.x.com/NRU4i4c97O",
+          "end": 53,
+          "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+          "media_key": "3_1942742242281852928",
+          "start": 30,
+          "url": "https://t.co/NRU4i4c97O"
+        },
+        {
+          "display_url": "pic.x.com/NRU4i4c97O",
+          "end": 53,
+          "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+          "media_key": "3_1942742244014137344",
+          "start": 30,
+          "url": "https://t.co/NRU4i4c97O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942930414232080534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942742343322591370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HXD3C0679: 这个天气穿成这样真的很热呢😖 https://t.co/NRU4i4c97O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1942742242319556610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvYBxruaYAIyhld.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1942742242281852928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvYBxrlbEAAaUGm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1942742244014137344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvYBxyCboAAcs6g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942742242319556610",
+            "3_1942742242281852928",
+            "3_1942742244014137344"
+          ],
+          "media_source_tweet_id": [
+            "1942742343322591370",
+            "1942742343322591370",
+            "1942742343322591370"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1942930414232080534",
+        "created_at": "2025-07-09T12:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942930414232080534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778989851226071040",
+              "start": 3,
+              "username": "HXD3C0679"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRU4i4c97O",
+              "end": 53,
+              "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+              "media_key": "3_1942742242319556610",
+              "start": 30,
+              "url": "https://t.co/NRU4i4c97O"
+            },
+            {
+              "display_url": "pic.x.com/NRU4i4c97O",
+              "end": 53,
+              "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+              "media_key": "3_1942742242281852928",
+              "start": 30,
+              "url": "https://t.co/NRU4i4c97O"
+            },
+            {
+              "display_url": "pic.x.com/NRU4i4c97O",
+              "end": 53,
+              "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+              "media_key": "3_1942742244014137344",
+              "start": 30,
+              "url": "https://t.co/NRU4i4c97O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942930414232080534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942742343322591370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HXD3C0679: 这个天气穿成这样真的很热呢😖 https://t.co/NRU4i4c97O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942742242319556610",
+            "3_1942742242281852928",
+            "3_1942742244014137344"
+          ]
+        },
+        "author_id": "1778989851226071040",
+        "conversation_id": "1942742343322591370",
+        "created_at": "2025-07-09T00:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942742343322591370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRU4i4c97O",
+              "end": 38,
+              "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+              "media_key": "3_1942742242319556610",
+              "start": 15,
+              "url": "https://t.co/NRU4i4c97O"
+            },
+            {
+              "display_url": "pic.x.com/NRU4i4c97O",
+              "end": 38,
+              "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+              "media_key": "3_1942742242281852928",
+              "start": 15,
+              "url": "https://t.co/NRU4i4c97O"
+            },
+            {
+              "display_url": "pic.x.com/NRU4i4c97O",
+              "end": 38,
+              "expanded_url": "https://x.com/HXD3C0679/status/1942742343322591370/photo/1",
+              "media_key": "3_1942742244014137344",
+              "start": 15,
+              "url": "https://t.co/NRU4i4c97O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942742343322591370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 755,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个天气穿成这样真的很热呢😖 https://t.co/NRU4i4c97O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21389,
+          "following_count": 10743,
+          "like_count": 78111,
+          "listed_count": 77,
+          "media_count": 3845,
+          "tweet_count": 14005
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25饲养员&VOLVO S90临时支配使用🤑准备再入一台Nissan 14th Sylphy😔\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 214,
+          "like_count": 3593,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 2803
+        },
+        "username": "HXD3C0679",
+        "verified": false
+      }
+    ]
+  }
+}

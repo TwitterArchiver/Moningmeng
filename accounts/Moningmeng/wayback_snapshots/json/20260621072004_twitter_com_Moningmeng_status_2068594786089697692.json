@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068461027738664960"
+      ],
+      "media_source_tweet_id": [
+        "2068461037364625737"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068594786089697692",
+    "created_at": "2026-06-21T07:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068594786089697692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "RainEngine2024m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqUf3BK7Hh",
+          "end": 44,
+          "expanded_url": "https://x.com/RainEngine2024m/status/2068461037364625737/photo/1",
+          "media_key": "3_2068461027738664960",
+          "start": 21,
+          "url": "https://t.co/cqUf3BK7Hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068594786089697692",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068461037364625737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024m: https://t.co/cqUf3BK7Hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2068461027738664960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSmWHYaQAAhq3w.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068461027738664960"
+          ],
+          "media_source_tweet_id": [
+            "2068461037364625737"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068594786089697692",
+        "created_at": "2026-06-21T07:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068594786089697692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "RainEngine2024m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqUf3BK7Hh",
+              "end": 44,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2068461037364625737/photo/1",
+              "media_key": "3_2068461027738664960",
+              "start": 21,
+              "url": "https://t.co/cqUf3BK7Hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068594786089697692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068461037364625737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024m: https://t.co/cqUf3BK7Hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068461027738664960"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068461037364625737",
+        "created_at": "2026-06-20T22:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068461037364625737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqUf3BK7Hh",
+              "end": 23,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2068461037364625737/photo/1",
+              "media_key": "3_2068461027738664960",
+              "start": 0,
+              "url": "https://t.co/cqUf3BK7Hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068461037364625737",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1816,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cqUf3BK7Hh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27739,
+          "following_count": 11097,
+          "like_count": 91684,
+          "listed_count": 102,
+          "media_count": 5251,
+          "tweet_count": 17951
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、合伙人、中国区市场部总经理 | WB@高坂穗奈雪 | 生活号：@RainEngine2024s| 爱人 ：@RainEngine2024 | 米粉、数码爱好者 | 梗图、手机、政治 | 华人 | 华语/EN/JP | 如有错误 欢迎指出 | 梗图不代表个人观点、也不对其真实性负责、侵权请私删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "RainEngine2024s"
+              },
+              {
+                "end": 78,
+                "start": 63,
+                "username": "RainEngine2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://t.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/kh92v6N9oi"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin China🇹🇼",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2067873466100121868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063923048898768896/VHFTkbhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 1678,
+          "like_count": 4928,
+          "listed_count": 13,
+          "media_count": 861,
+          "tweet_count": 2849
+        },
+        "url": "https://t.co/kh92v6N9oi",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

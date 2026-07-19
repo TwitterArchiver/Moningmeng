@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069608270373793792"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069608280700432538",
+    "created_at": "2026-06-24T02:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069608280700432538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pc38iVVFj8",
+          "end": 68,
+          "expanded_url": "https://x.com/Moningmeng/status/2069608280700432538/photo/1",
+          "media_key": "3_2069608270373793792",
+          "start": 45,
+          "url": "https://t.co/pc38iVVFj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069608280700432538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包感觉非常懂人情世故，完全就是顺着用户说话，自己没有自己的想法，用户说什么她就附和什么 https://t.co/pc38iVVFj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2069608270373793792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi5wbPXMAAGG-a.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069608270373793792"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069608280700432538",
+        "created_at": "2026-06-24T02:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069608280700432538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pc38iVVFj8",
+              "end": 68,
+              "expanded_url": "https://x.com/Moningmeng/status/2069608280700432538/photo/1",
+              "media_key": "3_2069608270373793792",
+              "start": 45,
+              "url": "https://t.co/pc38iVVFj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069608280700432538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包感觉非常懂人情世故，完全就是顺着用户说话，自己没有自己的想法，用户说什么她就附和什么 https://t.co/pc38iVVFj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27826,
+          "following_count": 11117,
+          "like_count": 92161,
+          "listed_count": 102,
+          "media_count": 5269,
+          "tweet_count": 18063
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

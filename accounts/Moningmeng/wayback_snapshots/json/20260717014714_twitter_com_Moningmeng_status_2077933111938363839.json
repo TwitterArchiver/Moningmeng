@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077591827046391808",
+        "3_2077591827398725632",
+        "3_2077591827050647552"
+      ],
+      "media_source_tweet_id": [
+        "2077591834269012060",
+        "2077591834269012060",
+        "2077591834269012060"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2077933111938363839",
+    "created_at": "2026-07-17T01:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077933111938363839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022696357031743498",
+          "start": 3,
+          "username": "YiXia90314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4uJCaqmpX0",
+          "end": 117,
+          "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+          "media_key": "3_2077591827046391808",
+          "start": 94,
+          "url": "https://t.co/4uJCaqmpX0"
+        },
+        {
+          "display_url": "pic.x.com/4uJCaqmpX0",
+          "end": 117,
+          "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+          "media_key": "3_2077591827398725632",
+          "start": 94,
+          "url": "https://t.co/4uJCaqmpX0"
+        },
+        {
+          "display_url": "pic.x.com/4uJCaqmpX0",
+          "end": 117,
+          "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+          "media_key": "3_2077591827050647552",
+          "start": 94,
+          "url": "https://t.co/4uJCaqmpX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077933111938363839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077591834269012060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiXia90314: 活該！被移民署廢除入台證\n\n一名廣東的小粉紅，在小紅書上\n炫耀自己拿到入台證\n將在7月12號來台灣\n並且把國旗🇹🇼改為五星旗🇨🇳\n經過檢舉，被廢除來台資格 https://t.co/4uJCaqmpX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077591827046391808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUWwlda4AAZeRG.jpg",
+        "width": 945
+      },
+      {
+        "height": 538,
+        "media_key": "3_2077591827398725632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUWwmxbEAAX5tO.jpg",
+        "width": 2033
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077591827050647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUWwleb0AA_eOS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077591827046391808",
+            "3_2077591827398725632",
+            "3_2077591827050647552"
+          ]
+        },
+        "author_id": "2022696357031743498",
+        "conversation_id": "2077591834269012060",
+        "created_at": "2026-07-16T03:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077591834269012060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uJCaqmpX0",
+              "end": 101,
+              "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+              "media_key": "3_2077591827046391808",
+              "start": 78,
+              "url": "https://t.co/4uJCaqmpX0"
+            },
+            {
+              "display_url": "pic.x.com/4uJCaqmpX0",
+              "end": 101,
+              "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+              "media_key": "3_2077591827398725632",
+              "start": 78,
+              "url": "https://t.co/4uJCaqmpX0"
+            },
+            {
+              "display_url": "pic.x.com/4uJCaqmpX0",
+              "end": 101,
+              "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+              "media_key": "3_2077591827050647552",
+              "start": 78,
+              "url": "https://t.co/4uJCaqmpX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077591834269012060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 135236,
+          "like_count": 3431,
+          "quote_count": 13,
+          "reply_count": 161,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "活該！被移民署廢除入台證\n\n一名廣東的小粉紅，在小紅書上\n炫耀自己拿到入台證\n將在7月12號來台灣\n並且把國旗🇹🇼改為五星旗🇨🇳\n經過檢舉，被廢除來台資格 https://t.co/4uJCaqmpX0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077591827046391808",
+            "3_2077591827398725632",
+            "3_2077591827050647552"
+          ],
+          "media_source_tweet_id": [
+            "2077591834269012060",
+            "2077591834269012060",
+            "2077591834269012060"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2077933111938363839",
+        "created_at": "2026-07-17T01:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077933111938363839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022696357031743498",
+              "start": 3,
+              "username": "YiXia90314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uJCaqmpX0",
+              "end": 117,
+              "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+              "media_key": "3_2077591827046391808",
+              "start": 94,
+              "url": "https://t.co/4uJCaqmpX0"
+            },
+            {
+              "display_url": "pic.x.com/4uJCaqmpX0",
+              "end": 117,
+              "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+              "media_key": "3_2077591827398725632",
+              "start": 94,
+              "url": "https://t.co/4uJCaqmpX0"
+            },
+            {
+              "display_url": "pic.x.com/4uJCaqmpX0",
+              "end": 117,
+              "expanded_url": "https://x.com/YiXia90314/status/2077591834269012060/photo/1",
+              "media_key": "3_2077591827050647552",
+              "start": 94,
+              "url": "https://t.co/4uJCaqmpX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077933111938363839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077591834269012060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YiXia90314: 活該！被移民署廢除入台證\n\n一名廣東的小粉紅，在小紅書上\n炫耀自己拿到入台證\n將在7月12號來台灣\n並且把國旗🇹🇼改為五星旗🇨🇳\n經過檢舉，被廢除來台資格 https://t.co/4uJCaqmpX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28360,
+          "following_count": 11681,
+          "like_count": 94716,
+          "listed_count": 104,
+          "media_count": 5433,
+          "tweet_count": 18984
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T15:36:16.000Z",
+        "description": "用台灣視角剖析兩岸局勢，用真實觀點對抗威權體制。我的名字至今仍躺在中共的通緝名單上——這是我驕傲的勳章。世界正在看，我們不畏懼。Youtube(攝徒日記：132萬訂閱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@funtv8964",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@funtv8964",
+                "start": 0,
+                "url": "https://t.co/Enxv1fA9iO"
+              }
+            ]
+          }
+        },
+        "id": "2022696357031743498",
+        "location": "台灣",
+        "name": "八炯",
+        "pinned_tweet_id": "2038974614659891425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022699108369338371/HLn25IOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27124,
+          "following_count": 95,
+          "like_count": 276,
+          "listed_count": 68,
+          "media_count": 77,
+          "tweet_count": 3191
+        },
+        "url": "https://t.co/Enxv1fA9iO",
+        "username": "YiXia90314",
+        "verified": true
+      }
+    ]
+  }
+}

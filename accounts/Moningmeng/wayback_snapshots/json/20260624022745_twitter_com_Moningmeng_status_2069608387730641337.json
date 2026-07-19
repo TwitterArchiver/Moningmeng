@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069371130297876480"
+      ],
+      "media_source_tweet_id": [
+        "2069371136803328167"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069608387730641337",
+    "created_at": "2026-06-24T02:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069608387730641337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1519649212736049152",
+          "start": 3,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nQbmcyDqI9",
+          "end": 56,
+          "expanded_url": "https://x.com/Mark67358226/status/2069371136803328167/photo/1",
+          "media_key": "3_2069371130297876480",
+          "start": 33,
+          "url": "https://t.co/nQbmcyDqI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069608387730641337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069371136803328167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mark67358226: 諸君玩這個嗎，感覺很有意思😋 https://t.co/nQbmcyDqI9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2069371130297876480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfiFDnagAAHTil.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069371130297876480"
+          ],
+          "media_source_tweet_id": [
+            "2069371136803328167"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069608387730641337",
+        "created_at": "2026-06-24T02:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069608387730641337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1519649212736049152",
+              "start": 3,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQbmcyDqI9",
+              "end": 56,
+              "expanded_url": "https://x.com/Mark67358226/status/2069371136803328167/photo/1",
+              "media_key": "3_2069371130297876480",
+              "start": 33,
+              "url": "https://t.co/nQbmcyDqI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069608387730641337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069371136803328167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mark67358226: 諸君玩這個嗎，感覺很有意思😋 https://t.co/nQbmcyDqI9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069371130297876480"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2069371136803328167",
+        "created_at": "2026-06-23T10:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069371136803328167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQbmcyDqI9",
+              "end": 38,
+              "expanded_url": "https://x.com/Mark67358226/status/2069371136803328167/photo/1",
+              "media_key": "3_2069371130297876480",
+              "start": 15,
+              "url": "https://t.co/nQbmcyDqI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069371136803328167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2192,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "諸君玩這個嗎，感覺很有意思😋 https://t.co/nQbmcyDqI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27826,
+          "following_count": 11117,
+          "like_count": 92171,
+          "listed_count": 102,
+          "media_count": 5269,
+          "tweet_count": 18072
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1295,
+          "like_count": 21021,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 4569
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

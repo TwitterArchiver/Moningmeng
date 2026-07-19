@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070397545927634944",
+        "3_2070397545290088448",
+        "3_2070397546598719489",
+        "3_2070397547278127104"
+      ],
+      "media_source_tweet_id": [
+        "2070397549509529753",
+        "2070397549509529753",
+        "2070397549509529753",
+        "2070397549509529753"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2070519185168646474",
+    "created_at": "2026-06-26T14:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070519185168646474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1605093608910381056",
+          "start": 3,
+          "username": "suekageseikiyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CaIIRWRPNq",
+          "end": 104,
+          "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+          "media_key": "3_2070397545927634944",
+          "start": 81,
+          "url": "https://t.co/CaIIRWRPNq"
+        },
+        {
+          "display_url": "pic.x.com/CaIIRWRPNq",
+          "end": 104,
+          "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+          "media_key": "3_2070397545290088448",
+          "start": 81,
+          "url": "https://t.co/CaIIRWRPNq"
+        },
+        {
+          "display_url": "pic.x.com/CaIIRWRPNq",
+          "end": 104,
+          "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+          "media_key": "3_2070397546598719489",
+          "start": 81,
+          "url": "https://t.co/CaIIRWRPNq"
+        },
+        {
+          "display_url": "pic.x.com/CaIIRWRPNq",
+          "end": 104,
+          "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+          "media_key": "3_2070397547278127104",
+          "start": 81,
+          "url": "https://t.co/CaIIRWRPNq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070519185168646474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070397549509529753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suekageseikiyo: 在中国的互联网上\n雌二醇是危害远超海洛因、k粉、冰毒等硬毒品的究极成瘾性物质\n在中国有一半的人（女性）都离不开这种物质！ https://t.co/CaIIRWRPNq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070397545927634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuHmTzbcAAuInZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070397545290088448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuHmRbbQAA4gHZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070397546598719489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuHmWTbYAELFnH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070397547278127104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuHmY1aUAAH7nD.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070397545927634944",
+            "3_2070397545290088448",
+            "3_2070397546598719489",
+            "3_2070397547278127104"
+          ],
+          "media_source_tweet_id": [
+            "2070397549509529753",
+            "2070397549509529753",
+            "2070397549509529753",
+            "2070397549509529753"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2070519185168646474",
+        "created_at": "2026-06-26T14:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070519185168646474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1605093608910381056",
+              "start": 3,
+              "username": "suekageseikiyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 104,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397545927634944",
+              "start": 81,
+              "url": "https://t.co/CaIIRWRPNq"
+            },
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 104,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397545290088448",
+              "start": 81,
+              "url": "https://t.co/CaIIRWRPNq"
+            },
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 104,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397546598719489",
+              "start": 81,
+              "url": "https://t.co/CaIIRWRPNq"
+            },
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 104,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397547278127104",
+              "start": 81,
+              "url": "https://t.co/CaIIRWRPNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070519185168646474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070397549509529753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suekageseikiyo: 在中国的互联网上\n雌二醇是危害远超海洛因、k粉、冰毒等硬毒品的究极成瘾性物质\n在中国有一半的人（女性）都离不开这种物质！ https://t.co/CaIIRWRPNq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070397545927634944",
+            "3_2070397545290088448",
+            "3_2070397546598719489",
+            "3_2070397547278127104"
+          ]
+        },
+        "author_id": "1605093608910381056",
+        "conversation_id": "2070397549509529753",
+        "created_at": "2026-06-26T06:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070397549509529753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 84,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397545927634944",
+              "start": 61,
+              "url": "https://t.co/CaIIRWRPNq"
+            },
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 84,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397545290088448",
+              "start": 61,
+              "url": "https://t.co/CaIIRWRPNq"
+            },
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 84,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397546598719489",
+              "start": 61,
+              "url": "https://t.co/CaIIRWRPNq"
+            },
+            {
+              "display_url": "pic.x.com/CaIIRWRPNq",
+              "end": 84,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2070397549509529753/photo/1",
+              "media_key": "3_2070397547278127104",
+              "start": 61,
+              "url": "https://t.co/CaIIRWRPNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070397549509529753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3995,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在中国的互联网上\n雌二醇是危害远超海洛因、k粉、冰毒等硬毒品的究极成瘾性物质\n在中国有一半的人（女性）都离不开这种物质！ https://t.co/CaIIRWRPNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27843,
+          "following_count": 11127,
+          "like_count": 92311,
+          "listed_count": 102,
+          "media_count": 5279,
+          "tweet_count": 18181
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 596,
+          "like_count": 6700,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true
+      }
+    ]
+  }
+}

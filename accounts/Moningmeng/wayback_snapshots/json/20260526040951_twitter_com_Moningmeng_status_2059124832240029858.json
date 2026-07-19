@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058911009256202240",
+        "3_2058911009260351488"
+      ],
+      "media_source_tweet_id": [
+        "2058911028080197853",
+        "2058911028080197853"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059124832240029858",
+    "created_at": "2026-05-26T04:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059124832240029858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789660981901287424",
+          "start": 3,
+          "username": "jingqiu04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TK0Wttlri9",
+          "end": 52,
+          "expanded_url": "https://x.com/jingqiu04/status/2058911028080197853/photo/1",
+          "media_key": "3_2058911009256202240",
+          "start": 29,
+          "url": "https://t.co/TK0Wttlri9"
+        },
+        {
+          "display_url": "pic.x.com/TK0Wttlri9",
+          "end": 52,
+          "expanded_url": "https://x.com/jingqiu04/status/2058911028080197853/photo/1",
+          "media_key": "3_2058911009260351488",
+          "start": 29,
+          "url": "https://t.co/TK0Wttlri9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059124832240029858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058911028080197853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingqiu04: 陌生人 可以祝我生日快乐吗 https://t.co/TK0Wttlri9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058911009256202240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK4p4LbYAApBTc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058911009260351488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK4p4MasAAn5Y5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058911009256202240",
+            "3_2058911009260351488"
+          ],
+          "media_source_tweet_id": [
+            "2058911028080197853",
+            "2058911028080197853"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059124832240029858",
+        "created_at": "2026-05-26T04:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059124832240029858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789660981901287424",
+              "start": 3,
+              "username": "jingqiu04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TK0Wttlri9",
+              "end": 52,
+              "expanded_url": "https://x.com/jingqiu04/status/2058911028080197853/photo/1",
+              "media_key": "3_2058911009256202240",
+              "start": 29,
+              "url": "https://t.co/TK0Wttlri9"
+            },
+            {
+              "display_url": "pic.x.com/TK0Wttlri9",
+              "end": 52,
+              "expanded_url": "https://x.com/jingqiu04/status/2058911028080197853/photo/1",
+              "media_key": "3_2058911009260351488",
+              "start": 29,
+              "url": "https://t.co/TK0Wttlri9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059124832240029858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058911028080197853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingqiu04: 陌生人 可以祝我生日快乐吗 https://t.co/TK0Wttlri9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058911009256202240",
+            "3_2058911009260351488"
+          ]
+        },
+        "author_id": "1789660981901287424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058911028080197853",
+        "created_at": "2026-05-25T14:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058911028080197853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TK0Wttlri9",
+              "end": 37,
+              "expanded_url": "https://x.com/jingqiu04/status/2058911028080197853/photo/1",
+              "media_key": "3_2058911009256202240",
+              "start": 14,
+              "url": "https://t.co/TK0Wttlri9"
+            },
+            {
+              "display_url": "pic.x.com/TK0Wttlri9",
+              "end": 37,
+              "expanded_url": "https://x.com/jingqiu04/status/2058911028080197853/photo/1",
+              "media_key": "3_2058911009260351488",
+              "start": 14,
+              "url": "https://t.co/TK0Wttlri9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058911028080197853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 220727,
+          "like_count": 9331,
+          "quote_count": 20,
+          "reply_count": 3120,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "陌生人 可以祝我生日快乐吗 https://t.co/TK0Wttlri9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27629,
+          "following_count": 11058,
+          "like_count": 88830,
+          "listed_count": 102,
+          "media_count": 5145,
+          "tweet_count": 17352
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T14:17:34.000Z",
+        "description": "女孩子 二次元/动漫番剧/ 原神/崩铁/鸣潮/ insj \n🏳️‍⚧️",
+        "id": "1789660981901287424",
+        "location": "Kyoto-fu, Japan",
+        "name": "京秋🍥",
+        "pinned_tweet_id": "1826080033871638899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789664657936154624/bOjc32R6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 371,
+          "like_count": 155,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 332
+        },
+        "username": "jingqiu04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2076900526663561501",
+    "created_at": "2026-07-14T05:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076900526663561501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829911631931015168",
+          "start": 3,
+          "username": "ZionFromZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076900526663561501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076699494213968373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZionFromZero: 说个冷知识\n\n如果你要去中国的银行取二十万左右现金，柜员各种盘问、劝阻\n\n直接说一句：我要给彩礼\n\n后面基本就不会再为难你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2076900526663561501",
+        "created_at": "2026-07-14T05:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076900526663561501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829911631931015168",
+              "start": 3,
+              "username": "ZionFromZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076900526663561501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076699494213968373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZionFromZero: 说个冷知识\n\n如果你要去中国的银行取二十万左右现金，柜员各种盘问、劝阻\n\n直接说一句：我要给彩礼\n\n后面基本就不会再为难你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829911631931015168",
+        "conversation_id": "2076699494213968373",
+        "created_at": "2026-07-13T16:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:04:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076699356624003349",
+          "2076699494213968373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076699494213968373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 169253,
+          "like_count": 951,
+          "quote_count": 3,
+          "reply_count": 130,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "说个冷知识\n\n如果你要去中国的银行取二十万左右现金，柜员各种盘问、劝阻\n\n直接说一句：我要给彩礼\n\n后面基本就不会再为难你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28325,
+          "following_count": 11612,
+          "like_count": 94405,
+          "listed_count": 104,
+          "media_count": 5412,
+          "tweet_count": 18863
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T15:58:42.000Z",
+        "description": "认知提升｜投资观察｜AI学习｜两性情感｜在变化里寻找机会，在实践中完成破局",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xui12n",
+                "end": 23,
+                "expanded_url": "https://telegram.me/xui12n",
+                "start": 0,
+                "url": "https://t.co/avyCdlyDSp"
+              }
+            ]
+          }
+        },
+        "id": "1829911631931015168",
+        "name": "Zion",
+        "pinned_tweet_id": "2076473054218391890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065825188982538240/q-9fLyUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 1159,
+          "like_count": 2784,
+          "listed_count": 12,
+          "media_count": 103,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/avyCdlyDSp",
+        "username": "ZionFromZero",
+        "verified": true
+      }
+    ]
+  }
+}

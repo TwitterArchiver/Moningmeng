@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995127557294055424"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995363730973180143",
+    "created_at": "2025-12-01T05:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995363730973180143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYkc80WCEU",
+          "end": 23,
+          "expanded_url": "https://x.com/Moningmeng/status/1995363730973180143/photo/1",
+          "media_key": "3_1995127557294055424",
+          "start": 0,
+          "url": "https://t.co/WYkc80WCEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995363730973180143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WYkc80WCEU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_1995127557294055424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ad8VYa4AAlCzM.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995127557294055424"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995363730973180143",
+        "created_at": "2025-12-01T05:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995363730973180143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYkc80WCEU",
+              "end": 23,
+              "expanded_url": "https://x.com/Moningmeng/status/1995363730973180143/photo/1",
+              "media_key": "3_1995127557294055424",
+              "start": 0,
+              "url": "https://t.co/WYkc80WCEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995363730973180143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WYkc80WCEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691325460107264/h5E42VGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25433,
+          "following_count": 10963,
+          "like_count": 85232,
+          "listed_count": 92,
+          "media_count": 4476,
+          "tweet_count": 15697
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

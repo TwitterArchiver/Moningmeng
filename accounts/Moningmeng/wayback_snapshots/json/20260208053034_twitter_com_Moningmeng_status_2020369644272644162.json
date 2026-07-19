@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020298252810416128"
+      ],
+      "media_source_tweet_id": [
+        "2020298277334438237"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2020369644272644162",
+    "created_at": "2026-02-08T05:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020369644272644162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1434389207481401348",
+          "start": 3,
+          "username": "leelisten2017"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0pEMbEsAT",
+          "end": 69,
+          "expanded_url": "https://x.com/leelisten2017/status/2020298277334438237/photo/1",
+          "media_key": "3_2020298252810416128",
+          "start": 46,
+          "url": "https://t.co/q0pEMbEsAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020369644272644162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020298277334438237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leelisten2017: 中國人\n又違規\n翻牆找我聊天了\n但我在弄習近平沒空🥵 https://t.co/q0pEMbEsAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 597,
+        "media_key": "3_2020298252810416128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmKjpMbcAAcYqh.jpg",
+        "width": 814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020298252810416128"
+          ],
+          "media_source_tweet_id": [
+            "2020298277334438237"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2020369644272644162",
+        "created_at": "2026-02-08T05:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020369644272644162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1434389207481401348",
+              "start": 3,
+              "username": "leelisten2017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0pEMbEsAT",
+              "end": 69,
+              "expanded_url": "https://x.com/leelisten2017/status/2020298277334438237/photo/1",
+              "media_key": "3_2020298252810416128",
+              "start": 46,
+              "url": "https://t.co/q0pEMbEsAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020369644272644162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020298277334438237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leelisten2017: 中國人\n又違規\n翻牆找我聊天了\n但我在弄習近平沒空🥵 https://t.co/q0pEMbEsAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020298252810416128"
+          ]
+        },
+        "author_id": "1434389207481401348",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2020298277334438237",
+        "created_at": "2026-02-08T00:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020298277334438237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0pEMbEsAT",
+              "end": 50,
+              "expanded_url": "https://x.com/leelisten2017/status/2020298277334438237/photo/1",
+              "media_key": "3_2020298252810416128",
+              "start": 27,
+              "url": "https://t.co/q0pEMbEsAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020298277334438237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8460,
+          "like_count": 292,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中國人\n又違規\n翻牆找我聊天了\n但我在弄習近平沒空🥵 https://t.co/q0pEMbEsAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26487,
+          "following_count": 10949,
+          "like_count": 85384,
+          "listed_count": 101,
+          "media_count": 4709,
+          "tweet_count": 16040
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T05:34:12.000Z",
+        "description": "【FanArt】 #左邊畫一畫【Tag-fans】#右邊標一標 【李聽tag】 #李聽是誰【棉花糖】👉https://t.co/DfVS7XABwD 【YT直播】 👉https://t.co/d0IlITbeq8【周邊商品】👉https://t.co/jMMRhSfwjY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "左邊畫一畫"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "右邊標一標"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "李聽是誰"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/yLq85q",
+                "end": 74,
+                "expanded_url": "https://reurl.cc/yLq85q",
+                "start": 51,
+                "url": "https://t.co/DfVS7XABwD"
+              },
+              {
+                "display_url": "reurl.cc/4NN7RL",
+                "end": 106,
+                "expanded_url": "https://reurl.cc/4NN7RL",
+                "start": 83,
+                "url": "https://t.co/d0IlITbeq8"
+              },
+              {
+                "display_url": "reurl.cc/9bO9rj",
+                "end": 136,
+                "expanded_url": "https://reurl.cc/9bO9rj",
+                "start": 113,
+                "url": "https://t.co/jMMRhSfwjY"
+              }
+            ]
+          }
+        },
+        "id": "1434389207481401348",
+        "name": "李聽💕〈可愛怪+頂級聲線+50萬訂閱台V+觀看破1億的男人〉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006165720724566016/oeQ94V_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11719,
+          "following_count": 14,
+          "like_count": 10887,
+          "listed_count": 15,
+          "media_count": 1198,
+          "tweet_count": 6410
+        },
+        "username": "leelisten2017",
+        "verified": false
+      }
+    ]
+  }
+}

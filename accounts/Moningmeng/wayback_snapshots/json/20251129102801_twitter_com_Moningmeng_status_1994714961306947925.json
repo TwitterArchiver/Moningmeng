@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994670857348943875"
+      ],
+      "media_source_tweet_id": [
+        "1994670866249257376"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1994714961306947925",
+    "created_at": "2025-11-29T10:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994714961306947925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1771563104192831488",
+          "start": 3,
+          "username": "AlanKiller8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dV3EN2KfbN",
+          "end": 58,
+          "expanded_url": "https://x.com/AlanKiller8964/status/1994670866249257376/photo/1",
+          "media_key": "3_1994670857348943875",
+          "start": 35,
+          "url": "https://t.co/dV3EN2KfbN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994714961306947925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994670866249257376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlanKiller8964: 這年頭竟然還有正常的中國人😭 https://t.co/dV3EN2KfbN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1994670857348943875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65-k5gbkAMek-2.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994670857348943875"
+          ],
+          "media_source_tweet_id": [
+            "1994670866249257376"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1994714961306947925",
+        "created_at": "2025-11-29T10:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994714961306947925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1771563104192831488",
+              "start": 3,
+              "username": "AlanKiller8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dV3EN2KfbN",
+              "end": 58,
+              "expanded_url": "https://x.com/AlanKiller8964/status/1994670866249257376/photo/1",
+              "media_key": "3_1994670857348943875",
+              "start": 35,
+              "url": "https://t.co/dV3EN2KfbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994714961306947925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994670866249257376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlanKiller8964: 這年頭竟然還有正常的中國人😭 https://t.co/dV3EN2KfbN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994670857348943875"
+          ]
+        },
+        "author_id": "1771563104192831488",
+        "conversation_id": "1994670866249257376",
+        "created_at": "2025-11-29T07:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994670866249257376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dV3EN2KfbN",
+              "end": 38,
+              "expanded_url": "https://x.com/AlanKiller8964/status/1994670866249257376/photo/1",
+              "media_key": "3_1994670857348943875",
+              "start": 15,
+              "url": "https://t.co/dV3EN2KfbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994670866249257376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8932,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "這年頭竟然還有正常的中國人😭 https://t.co/dV3EN2KfbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691325460107264/h5E42VGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25352,
+          "following_count": 10941,
+          "like_count": 85114,
+          "listed_count": 91,
+          "media_count": 4466,
+          "tweet_count": 15676
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:42:25.000Z",
+        "description": "🇹🇼 華獨民國派，堅定反共，有點大中華情節（有這一情節≠全面贊同中華文化），XP是furry。另外，掛三個電子寵物@ykm520666 @TW2027liberate @BackSet36431 逃生舱：@Kuchisake8964 （PS：按贊不代表贊同推文中提及的觀點，有時按贊＝已讀）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "ykm520666"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TW2027liberate"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "BackSet36431"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "Kuchisake8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alankiller89641",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alankiller89641",
+                "start": 0,
+                "url": "https://t.co/5W9tbFssi1"
+              }
+            ]
+          }
+        },
+        "id": "1771563104192831488",
+        "location": "中華民國台灣",
+        "name": "Alan·Killer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933163018831179776/kGnzc0rW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1424,
+          "like_count": 113182,
+          "listed_count": 9,
+          "media_count": 1485,
+          "tweet_count": 14618
+        },
+        "url": "https://t.co/5W9tbFssi1",
+        "username": "AlanKiller8964",
+        "verified": false
+      }
+    ]
+  }
+}

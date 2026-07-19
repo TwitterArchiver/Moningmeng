@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066675577059467264"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066675579630571826",
+    "created_at": "2026-06-16T00:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066675579630571826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/doFqJ1RZga",
+          "end": 28,
+          "expanded_url": "https://x.com/Moningmeng/status/2066675579630571826/photo/1",
+          "media_key": "3_2066675577059467264",
+          "start": 5,
+          "url": "https://t.co/doFqJ1RZga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066675579630571826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纯绿好看 https://t.co/doFqJ1RZga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066675577059467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5OfNSa4AA5syx.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066675577059467264"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066675579630571826",
+        "created_at": "2026-06-16T00:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066675579630571826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doFqJ1RZga",
+              "end": 28,
+              "expanded_url": "https://x.com/Moningmeng/status/2066675579630571826/photo/1",
+              "media_key": "3_2066675577059467264",
+              "start": 5,
+              "url": "https://t.co/doFqJ1RZga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066675579630571826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯绿好看 https://t.co/doFqJ1RZga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27701,
+          "following_count": 11078,
+          "like_count": 90925,
+          "listed_count": 102,
+          "media_count": 5223,
+          "tweet_count": 17713
+        },
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

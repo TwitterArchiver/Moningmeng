@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070072248887898112"
+      ],
+      "media_source_tweet_id": [
+        "2070072253568647433"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2070293983939719360",
+    "created_at": "2026-06-25T23:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070293983939719360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060679315126439936",
+          "start": 3,
+          "username": "MioKitsukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BOMGQm88NH",
+          "end": 98,
+          "expanded_url": "https://x.com/MioKitsukawa/status/2070072253568647433/photo/1",
+          "media_key": "3_2070072248887898112",
+          "start": 75,
+          "url": "https://t.co/BOMGQm88NH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070293983939719360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070072253568647433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MioKitsukawa: 我的Twitter互动圈\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/BOMGQm88NH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2070072248887898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpfvh5bcAAs50X.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070072248887898112"
+          ],
+          "media_source_tweet_id": [
+            "2070072253568647433"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2070293983939719360",
+        "created_at": "2026-06-25T23:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070293983939719360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060679315126439936",
+              "start": 3,
+              "username": "MioKitsukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOMGQm88NH",
+              "end": 98,
+              "expanded_url": "https://x.com/MioKitsukawa/status/2070072253568647433/photo/1",
+              "media_key": "3_2070072248887898112",
+              "start": 75,
+              "url": "https://t.co/BOMGQm88NH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070293983939719360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070072253568647433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MioKitsukawa: 我的Twitter互动圈\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/BOMGQm88NH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070072248887898112"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2070072253568647433",
+        "created_at": "2026-06-25T09:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070072253568647433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOMGQm88NH",
+              "end": 80,
+              "expanded_url": "https://x.com/MioKitsukawa/status/2070072253568647433/photo/1",
+              "media_key": "3_2070072248887898112",
+              "start": 57,
+              "url": "https://t.co/BOMGQm88NH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070072253568647433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ infinitetweet[dot]me/interaction-circle https://t.co/BOMGQm88NH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27830,
+          "following_count": 11127,
+          "like_count": 92265,
+          "listed_count": 102,
+          "media_count": 5276,
+          "tweet_count": 18155
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | Developer | TypeScript | Node.js | 先天跨 | 会伪音 | MioMtFWiki 创建者 & 维护者 | 平权主义 | ✨同类互 fo 喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 672,
+          "like_count": 1153,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

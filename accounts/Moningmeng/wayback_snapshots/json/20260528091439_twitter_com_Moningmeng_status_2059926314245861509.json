@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2059926314245861509",
+    "created_at": "2026-05-28T09:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059926314245861509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059926314245861509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059665604672680180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 媒体中的 ADHD： 哈哈，快看！亮晶晶！！对不起，我太天马行空了！！\n\n现实中的 ADHD： 好，想象一下，只要做一件极其简单、分分钟就能搞定的事，就能解决你整个人生的问题。但是，你就是不做。你完全不知道为什么，但无论你怎么努力尝试，你就是不做。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2059926314245861509",
+        "created_at": "2026-05-28T09:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059926314245861509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926314245861509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059665604672680180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 媒体中的 ADHD： 哈哈，快看！亮晶晶！！对不起，我太天马行空了！！\n\n现实中的 ADHD： 好，想象一下，只要做一件极其简单、分分钟就能搞定的事，就能解决你整个人生的问题。但是，你就是不做。你完全不知道为什么，但无论你怎么努力尝试，你就是不做。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2059665604672680180",
+        "created_at": "2026-05-27T15:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665604672680180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059665604672680180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10130,
+          "like_count": 322,
+          "quote_count": 2,
+          "reply_count": 68,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "媒体中的 ADHD： 哈哈，快看！亮晶晶！！对不起，我太天马行空了！！\n\n现实中的 ADHD： 好，想象一下，只要做一件极其简单、分分钟就能搞定的事，就能解决你整个人生的问题。但是，你就是不做。你完全不知道为什么，但无论你怎么努力尝试，你就是不做。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27650,
+          "following_count": 11074,
+          "like_count": 89030,
+          "listed_count": 102,
+          "media_count": 5157,
+          "tweet_count": 17418
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 2319,
+          "like_count": 12141,
+          "listed_count": 19,
+          "media_count": 1839,
+          "tweet_count": 7101
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

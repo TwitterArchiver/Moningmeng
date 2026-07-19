@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954167914162212864"
+      ],
+      "media_source_tweet_id": [
+        "1954168080776499679"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1954419957413868031",
+    "created_at": "2025-08-10T05:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T06:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954419957413868031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "937675426717159424",
+          "start": 3,
+          "username": "MaoZedong1893__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/li56aKgpXH",
+          "end": 61,
+          "expanded_url": "https://x.com/MaoZedong1893__/status/1954168080776499679/photo/1",
+          "media_key": "3_1954167914162212864",
+          "start": 38,
+          "url": "https://t.co/li56aKgpXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954419957413868031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954168080776499679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoZedong1893__: 该怎么走呢？往左走还是往右走呢？ https://t.co/li56aKgpXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_1954167914162212864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6ZXUMa0AAK0kU.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954167914162212864"
+          ],
+          "media_source_tweet_id": [
+            "1954168080776499679"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1954419957413868031",
+        "created_at": "2025-08-10T05:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T06:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954419957413868031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "937675426717159424",
+              "start": 3,
+              "username": "MaoZedong1893__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/li56aKgpXH",
+              "end": 61,
+              "expanded_url": "https://x.com/MaoZedong1893__/status/1954168080776499679/photo/1",
+              "media_key": "3_1954167914162212864",
+              "start": 38,
+              "url": "https://t.co/li56aKgpXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954419957413868031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954168080776499679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoZedong1893__: 该怎么走呢？往左走还是往右走呢？ https://t.co/li56aKgpXH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954167914162212864"
+          ]
+        },
+        "author_id": "937675426717159424",
+        "conversation_id": "1954168080776499679",
+        "created_at": "2025-08-09T13:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954168080776499679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/li56aKgpXH",
+              "end": 40,
+              "expanded_url": "https://x.com/MaoZedong1893__/status/1954168080776499679/photo/1",
+              "media_key": "3_1954167914162212864",
+              "start": 17,
+              "url": "https://t.co/li56aKgpXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954168080776499679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 971,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "该怎么走呢？往左走还是往右走呢？ https://t.co/li56aKgpXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953648748330201088/g7X92lyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21989,
+          "following_count": 10909,
+          "like_count": 82624,
+          "listed_count": 78,
+          "media_count": 4025,
+          "tweet_count": 14943
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-04T13:30:17.000Z",
+        "description": "毛泽东（1893年12月26日—1976年9月9日），字润之（原作咏芝，后改润芝），笔名子任，湖南湘潭人，伟大的马克思主义者，伟大的无产阶级革命家、战略家、理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人。",
+        "id": "937675426717159424",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1951455145847586927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923359512293203968/AFltvkOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 1021,
+          "like_count": 5706,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 3553
+        },
+        "username": "MaoZedong1893__",
+        "verified": false
+      }
+    ]
+  }
+}

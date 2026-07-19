@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076203173111615488"
+      ],
+      "media_source_tweet_id": [
+        "2076203327201910932"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2076260854732140765",
+    "created_at": "2026-07-12T11:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076260854732140765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1528798633168347137",
+          "start": 3,
+          "username": "TomoriNao2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GGXJtYVOFT",
+          "end": 78,
+          "expanded_url": "https://x.com/TomoriNao2022/status/2076203327201910932/photo/1",
+          "media_key": "3_2076203173111615488",
+          "start": 55,
+          "url": "https://t.co/GGXJtYVOFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076260854732140765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076203327201910932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TomoriNao2022: 我来日本之后还从来没见过这种措辞的日语邮件。\n\n估计教授也是被震撼到了 https://t.co/GGXJtYVOFT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 241,
+        "media_key": "3_2076203173111615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAnySbbUAARHgZ.png",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076203173111615488"
+          ],
+          "media_source_tweet_id": [
+            "2076203327201910932"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2076260854732140765",
+        "created_at": "2026-07-12T11:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076260854732140765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1528798633168347137",
+              "start": 3,
+              "username": "TomoriNao2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGXJtYVOFT",
+              "end": 78,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2076203327201910932/photo/1",
+              "media_key": "3_2076203173111615488",
+              "start": 55,
+              "url": "https://t.co/GGXJtYVOFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260854732140765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076203327201910932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TomoriNao2022: 我来日本之后还从来没见过这种措辞的日语邮件。\n\n估计教授也是被震撼到了 https://t.co/GGXJtYVOFT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076203173111615488"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2076203327201910932",
+        "created_at": "2026-07-12T07:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076203327201910932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGXJtYVOFT",
+              "end": 59,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2076203327201910932/photo/1",
+              "media_key": "3_2076203173111615488",
+              "start": 36,
+              "url": "https://t.co/GGXJtYVOFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076203327201910932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 29317,
+          "like_count": 164,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我来日本之后还从来没见过这种措辞的日语邮件。\n\n估计教授也是被震撼到了 https://t.co/GGXJtYVOFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28253,
+          "following_count": 11588,
+          "like_count": 94071,
+          "listed_count": 104,
+          "media_count": 5391,
+          "tweet_count": 18789
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16727,
+          "following_count": 835,
+          "like_count": 10872,
+          "listed_count": 58,
+          "media_count": 2515,
+          "tweet_count": 10512
+        },
+        "url": "",
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

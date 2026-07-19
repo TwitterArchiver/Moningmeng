@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2068347066892578906",
+    "created_at": "2026-06-20T14:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068347066892578906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068347066892578906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天和别的药娘出去玩的时候第一次看见补佳乐，是一种很奇妙的感觉，第一次感觉糖离自己这么近。我胆子还是很小的，想先去开小证然后再根据医嘱合理吃药，怕乱吃会出事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068347066892578906",
+        "created_at": "2026-06-20T14:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068347066892578906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068347066892578906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天和别的药娘出去玩的时候第一次看见补佳乐，是一种很奇妙的感觉，第一次感觉糖离自己这么近。我胆子还是很小的，想先去开小证然后再根据医嘱合理吃药，怕乱吃会出事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27726,
+          "following_count": 11078,
+          "like_count": 91078,
+          "listed_count": 102,
+          "media_count": 5242,
+          "tweet_count": 17832
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

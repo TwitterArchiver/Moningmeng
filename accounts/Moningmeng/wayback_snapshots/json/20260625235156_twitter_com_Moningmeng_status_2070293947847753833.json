@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2070293947847753833",
+    "created_at": "2026-06-25T23:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070293947847753833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1945331416528539649",
+          "start": 3,
+          "username": "bpmiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2070…",
+          "end": 35,
+          "expanded_url": "http://x.com/i/article/2070101059473960960",
+          "start": 12,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2070101059473960960",
+          "url": "https://t.co/vd9xlcuWSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070293947847753833",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070109038080307551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpmiea: https://t.co/vd9xlcuWSy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2070293947847753833",
+        "created_at": "2026-06-25T23:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070293947847753833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1945331416528539649",
+              "start": 3,
+              "username": "bpmiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2070…",
+              "end": 35,
+              "expanded_url": "http://x.com/i/article/2070101059473960960",
+              "start": 12,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2070101059473960960",
+              "url": "https://t.co/vd9xlcuWSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070293947847753833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070109038080307551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpmiea: https://t.co/vd9xlcuWSy"
+      },
+      {
+        "article": {
+          "title": "我炸柜了"
+        },
+        "attachments": {},
+        "author_id": "1945331416528539649",
+        "conversation_id": "2070109038080307551",
+        "created_at": "2026-06-25T11:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070109038080307551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2070…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2070101059473960960",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2070101059473960960",
+              "url": "https://t.co/vd9xlcuWSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070109038080307551",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2990,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vd9xlcuWSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27830,
+          "following_count": 11127,
+          "like_count": 92263,
+          "listed_count": 102,
+          "media_count": 5276,
+          "tweet_count": 18152
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥hrt from 2026.1 | 2011出厂 | 自恨党\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid | 随缘发日常，欢迎同类互fo，私信都会回，平时上学周末复活喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV0CB7"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "Hamura-shi, Tokyo",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068571670647095296/OusQA34k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 481,
+          "like_count": 533,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/o0j8ZV0CB7",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

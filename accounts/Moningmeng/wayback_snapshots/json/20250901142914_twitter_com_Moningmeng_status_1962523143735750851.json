@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962428572779573248"
+      ],
+      "media_source_tweet_id": [
+        "1962428581377949737"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962523143735750851",
+    "created_at": "2025-09-01T14:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962523143735750851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "JDE_Alva"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/azrpeQgp4F",
+          "end": 43,
+          "expanded_url": "https://x.com/JDE_Alva/status/1962428581377949737/photo/1",
+          "media_key": "3_1962428572779573248",
+          "start": 20,
+          "url": "https://t.co/azrpeQgp4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962523143735750851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962428581377949737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDE_Alva: 《发晴了》 https://t.co/azrpeQgp4F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_1962428572779573248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvyY7macAAkOkT.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962428572779573248"
+          ],
+          "media_source_tweet_id": [
+            "1962428581377949737"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962523143735750851",
+        "created_at": "2025-09-01T14:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962523143735750851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "JDE_Alva"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/azrpeQgp4F",
+              "end": 43,
+              "expanded_url": "https://x.com/JDE_Alva/status/1962428581377949737/photo/1",
+              "media_key": "3_1962428572779573248",
+              "start": 20,
+              "url": "https://t.co/azrpeQgp4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962523143735750851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962428581377949737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDE_Alva: 《发晴了》 https://t.co/azrpeQgp4F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962428572779573248"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962428581377949737",
+        "created_at": "2025-09-01T08:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T09:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962428581377949737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azrpeQgp4F",
+              "end": 29,
+              "expanded_url": "https://x.com/JDE_Alva/status/1962428581377949737/photo/1",
+              "media_key": "3_1962428572779573248",
+              "start": 6,
+              "url": "https://t.co/azrpeQgp4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962428581377949737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4689,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "《发晴了》 https://t.co/azrpeQgp4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22503,
+          "following_count": 10958,
+          "like_count": 84276,
+          "listed_count": 82,
+          "media_count": 4135,
+          "tweet_count": 15251
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Coach｜MtX🏳️‍⚧️｜Banner Copyright © 2025 @SaiKin_XiJun｜Powered by @LX_Lacie｜Partner @Jimi_yang22770｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "SaiKin_XiJun"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "LX_Lacie"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Jimi_yang22770"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1961440554384003295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 2048,
+          "like_count": 18347,
+          "listed_count": 9,
+          "media_count": 410,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      }
+    ]
+  }
+}

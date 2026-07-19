@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059380354322980865"
+      ],
+      "media_source_tweet_id": [
+        "2059380358550815198"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2059595187614257367",
+    "created_at": "2026-05-27T11:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059595187614257367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wDjqUzNIz3",
+          "end": 50,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2059380358550815198/photo/1",
+          "media_key": "3_2059380354322980865",
+          "start": 27,
+          "url": "https://t.co/wDjqUzNIz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059595187614257367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059380358550815198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 这是哪个都市传说 https://t.co/wDjqUzNIz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "那些最终被证实的恐怖都市传说",
+        "height": 620,
+        "media_key": "3_2059380354322980865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRjhWzW4AEzdU_.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059380354322980865"
+          ],
+          "media_source_tweet_id": [
+            "2059380358550815198"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2059595187614257367",
+        "created_at": "2026-05-27T11:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059595187614257367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDjqUzNIz3",
+              "end": 50,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2059380358550815198/photo/1",
+              "media_key": "3_2059380354322980865",
+              "start": 27,
+              "url": "https://t.co/wDjqUzNIz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059595187614257367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059380358550815198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 这是哪个都市传说 https://t.co/wDjqUzNIz3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059380354322980865"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2059380358550815198",
+        "created_at": "2026-05-26T21:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059380358550815198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDjqUzNIz3",
+              "end": 32,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2059380358550815198/photo/1",
+              "media_key": "3_2059380354322980865",
+              "start": 9,
+              "url": "https://t.co/wDjqUzNIz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059380358550815198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 22689,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是哪个都市传说 https://t.co/wDjqUzNIz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27656,
+          "following_count": 11072,
+          "like_count": 88931,
+          "listed_count": 102,
+          "media_count": 5152,
+          "tweet_count": 17384
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5445,
+          "following_count": 1901,
+          "like_count": 58984,
+          "listed_count": 11,
+          "media_count": 1428,
+          "tweet_count": 11394
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

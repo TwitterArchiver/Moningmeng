@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1961699324221690254",
+    "created_at": "2025-08-30T07:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961699324221690254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585942498253238273",
+          "start": 3,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961699324221690254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961652630435877340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceEslight: 所以我不喜欢讨论性别议题，好好一个人不扯这个都很正常，一碰这个全是魔怔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1961699324221690254",
+        "created_at": "2025-08-30T07:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961699324221690254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585942498253238273",
+              "start": 3,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961699324221690254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961652630435877340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceEslight: 所以我不喜欢讨论性别议题，好好一个人不扯这个都很正常，一碰这个全是魔怔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "1961652630435877340",
+        "created_at": "2025-08-30T04:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961652630435877340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961652630435877340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "所以我不喜欢讨论性别议题，好好一个人不扯这个都很正常，一碰这个全是魔怔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958580221151793152/c1Cu6g9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22427,
+          "following_count": 10926,
+          "like_count": 83300,
+          "listed_count": 82,
+          "media_count": 4118,
+          "tweet_count": 15179
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "我多想……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "不可思议",
+        "name": "Alice",
+        "pinned_tweet_id": "1956763886964895865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901073314480877571/KPSFnYts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 65,
+          "like_count": 21890,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 7797
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

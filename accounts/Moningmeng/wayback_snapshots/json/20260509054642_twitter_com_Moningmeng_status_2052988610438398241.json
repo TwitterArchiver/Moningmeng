@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2052988610438398241",
+    "created_at": "2026-05-09T05:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052988610438398241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549875407922401281",
+          "start": 3,
+          "username": "Xiao_357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052988610438398241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052810814759801278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiao_357: mtf找工作，面试时和以后工作应该 打扮中性化尽量像男生一点，还是直接以自己自然的状态呢（女性化穿搭&amp;女声）？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2052988610438398241",
+        "created_at": "2026-05-09T05:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052988610438398241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549875407922401281",
+              "start": 3,
+              "username": "Xiao_357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052988610438398241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052810814759801278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiao_357: mtf找工作，面试时和以后工作应该 打扮中性化尽量像男生一点，还是直接以自己自然的状态呢（女性化穿搭&amp;女声）？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549875407922401281",
+        "conversation_id": "2052810814759801278",
+        "created_at": "2026-05-08T18:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052810814759801278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052810814759801278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9158,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtf找工作，面试时和以后工作应该 打扮中性化尽量像男生一点，还是直接以自己自然的状态呢（女性化穿搭&amp;女声）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27494,
+          "following_count": 11049,
+          "like_count": 88098,
+          "listed_count": 102,
+          "media_count": 5076,
+          "tweet_count": 17106
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T21:56:11.000Z",
+        "description": "ISFP｜ 🏳️‍⚧️｜🪴🌸 | CN",
+        "id": "1549875407922401281",
+        "location": "Ningbo",
+        "name": "鳉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052373223254433792/_cDZQa0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 453,
+          "like_count": 20930,
+          "listed_count": 5,
+          "media_count": 390,
+          "tweet_count": 2904
+        },
+        "username": "Xiao_357",
+        "verified": false
+      }
+    ]
+  }
+}

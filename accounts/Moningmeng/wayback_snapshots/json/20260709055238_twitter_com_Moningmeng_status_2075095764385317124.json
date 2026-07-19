@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075095764385317124",
+    "created_at": "2026-07-09T05:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075095764385317124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075095764385317124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074889973619425305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 为了考进北京大学这种世界最高水平的大学，那些学生已经在高考里拼到几乎要吐血了，结果还要继续忍受北京那种残酷的气候，这真的是什么催泪动画剧情吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075095764385317124",
+        "created_at": "2026-07-09T05:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075095764385317124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075095764385317124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074889973619425305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 为了考进北京大学这种世界最高水平的大学，那些学生已经在高考里拼到几乎要吐血了，结果还要继续忍受北京那种残酷的气候，这真的是什么催泪动画剧情吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2074889973619425305",
+        "created_at": "2026-07-08T16:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074889973619425305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074889973619425305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4713,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了考进北京大学这种世界最高水平的大学，那些学生已经在高考里拼到几乎要吐血了，结果还要继续忍受北京那种残酷的气候，这真的是什么催泪动画剧情吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 64,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 41,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28114,
+          "following_count": 11500,
+          "like_count": 93418,
+          "listed_count": 104,
+          "media_count": 5356,
+          "tweet_count": 18633
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12145,
+          "following_count": 1432,
+          "like_count": 74611,
+          "listed_count": 139,
+          "media_count": 4490,
+          "tweet_count": 55126
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

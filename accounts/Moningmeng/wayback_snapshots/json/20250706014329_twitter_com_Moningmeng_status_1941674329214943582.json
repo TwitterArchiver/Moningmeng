@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941032809394475008"
+      ],
+      "media_source_tweet_id": [
+        "1941032820186787891"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1941674329214943582",
+    "created_at": "2025-07-06T01:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T02:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941674329214943582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1218028959109210113",
+          "start": 3,
+          "username": "OikawaRizumu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eouq82Upw4",
+          "end": 59,
+          "expanded_url": "https://x.com/OikawaRizumu/status/1941032820186787891/photo/1",
+          "media_key": "3_1941032809394475008",
+          "start": 36,
+          "url": "https://t.co/eouq82Upw4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941674329214943582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941032820186787891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OikawaRizumu: 萌新如何融入 Linux 圈子 🤯 https://t.co/eouq82Upw4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_1941032809394475008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_vDl1WEAAtmRW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941032809394475008"
+          ],
+          "media_source_tweet_id": [
+            "1941032820186787891"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1941674329214943582",
+        "created_at": "2025-07-06T01:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941674329214943582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1218028959109210113",
+              "start": 3,
+              "username": "OikawaRizumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eouq82Upw4",
+              "end": 59,
+              "expanded_url": "https://x.com/OikawaRizumu/status/1941032820186787891/photo/1",
+              "media_key": "3_1941032809394475008",
+              "start": 36,
+              "url": "https://t.co/eouq82Upw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941674329214943582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941032820186787891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OikawaRizumu: 萌新如何融入 Linux 圈子 🤯 https://t.co/eouq82Upw4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941032809394475008"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1941032820186787891",
+        "created_at": "2025-07-04T07:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941032820186787891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eouq82Upw4",
+              "end": 41,
+              "expanded_url": "https://x.com/OikawaRizumu/status/1941032820186787891/photo/1",
+              "media_key": "3_1941032809394475008",
+              "start": 18,
+              "url": "https://t.co/eouq82Upw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941032820186787891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 32264,
+          "like_count": 462,
+          "quote_count": 13,
+          "reply_count": 29,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "萌新如何融入 Linux 圈子 🤯 https://t.co/eouq82Upw4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932569658647064579/Q1muwosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21363,
+          "following_count": 10725,
+          "like_count": 77449,
+          "listed_count": 77,
+          "media_count": 3822,
+          "tweet_count": 13879
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka LittleSound｜Member of Vue Vapor｜自费开源中，向往全职做自己热爱的事｜总是悲观，但尽力积极 ｜ 🐙: LittleSound｜🐘: @rizumu@mas.to\n\n🐌 Building https://t.co/LCgnH2rA6F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Guii.AI",
+                "end": 135,
+                "expanded_url": "http://Guii.AI",
+                "start": 112,
+                "url": "https://t.co/LCgnH2rA6F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/rizumu",
+                "end": 23,
+                "expanded_url": "https://bento.me/rizumu",
+                "start": 0,
+                "url": "https://t.co/fQCQsSpiz1"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "location": "she/her",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1273658900336656384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1292832903324295170/_9EaiDIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9511,
+          "following_count": 1352,
+          "like_count": 41401,
+          "listed_count": 47,
+          "media_count": 1688,
+          "tweet_count": 11961
+        },
+        "url": "https://t.co/fQCQsSpiz1",
+        "username": "OikawaRizumu",
+        "verified": true
+      }
+    ]
+  }
+}

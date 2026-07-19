@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074690815390318822",
+    "created_at": "2026-07-08T03:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074690815390318822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1813261726391148546",
+          "start": 3,
+          "username": "James483582762"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074690815390318822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074559992863064189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @James483582762: 首先回老家报个平安\n家里人情绪稳定，我没啥人身财产风险\n（暑假不打生活费算不算？）\n小服务器带回来了（寝室会断电，而且宽带登录认证还挺麻烦\n准备放在家里\n只要我家宽带有一天钱，服务器就有一天网\n唯一的问题是我必须依赖内网穿透来ssh了\n以…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074690815390318822",
+        "created_at": "2026-07-08T03:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074690815390318822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1813261726391148546",
+              "start": 3,
+              "username": "James483582762"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074690815390318822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074559992863064189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @James483582762: 首先回老家报个平安\n家里人情绪稳定，我没啥人身财产风险\n（暑假不打生活费算不算？）\n小服务器带回来了（寝室会断电，而且宽带登录认证还挺麻烦\n准备放在家里\n只要我家宽带有一天钱，服务器就有一天网\n唯一的问题是我必须依赖内网穿透来ssh了\n以…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813261726391148546",
+        "conversation_id": "2074559992863064189",
+        "created_at": "2026-07-07T18:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074559992863064189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074559992863064189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 633,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "首先回老家报个平安\n家里人情绪稳定，我没啥人身财产风险\n（暑假不打生活费算不算？）\n小服务器带回来了（寝室会断电，而且宽带登录认证还挺麻烦\n准备放在家里\n只要我家宽带有一天钱，服务器就有一天网\n唯一的问题是我必须依赖内网穿透来ssh了\n以后的运维必须越加小心\n已经安排了两种穿透方式互为备份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28055,
+          "following_count": 11372,
+          "like_count": 92586,
+          "listed_count": 104,
+          "media_count": 5321,
+          "tweet_count": 18404
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，深柜，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2069426260850167864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 706,
+          "like_count": 14083,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "James483582762",
+        "verified": false
+      }
+    ]
+  }
+}

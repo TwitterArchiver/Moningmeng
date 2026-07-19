@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046050821834428416"
+      ],
+      "media_source_tweet_id": [
+        "2046050825831678321"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2046210877100335167",
+    "created_at": "2026-04-20T12:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046210877100335167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTP2Z4qsbT",
+          "end": 61,
+          "expanded_url": "https://x.com/Kenntnis22/status/2046050825831678321/photo/1",
+          "media_key": "3_2046050821834428416",
+          "start": 38,
+          "url": "https://t.co/MTP2Z4qsbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046210877100335167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046050825831678321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 当时苏联给中国扔核弹能一劳永逸解决问题吗❓ https://t.co/MTP2Z4qsbT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2046050821834428416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUIYcvWUAA0tW6.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046050821834428416"
+          ],
+          "media_source_tweet_id": [
+            "2046050825831678321"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2046210877100335167",
+        "created_at": "2026-04-20T12:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046210877100335167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTP2Z4qsbT",
+              "end": 61,
+              "expanded_url": "https://x.com/Kenntnis22/status/2046050825831678321/photo/1",
+              "media_key": "3_2046050821834428416",
+              "start": 38,
+              "url": "https://t.co/MTP2Z4qsbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046210877100335167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046050825831678321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 当时苏联给中国扔核弹能一劳永逸解决问题吗❓ https://t.co/MTP2Z4qsbT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046050821834428416"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2046050825831678321",
+        "created_at": "2026-04-20T02:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046050825831678321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTP2Z4qsbT",
+              "end": 45,
+              "expanded_url": "https://x.com/Kenntnis22/status/2046050825831678321/photo/1",
+              "media_key": "3_2046050821834428416",
+              "start": 22,
+              "url": "https://t.co/MTP2Z4qsbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046050825831678321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 180794,
+          "like_count": 1917,
+          "quote_count": 5,
+          "reply_count": 192,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "当时苏联给中国扔核弹能一劳永逸解决问题吗❓ https://t.co/MTP2Z4qsbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26872,
+          "following_count": 10947,
+          "like_count": 87328,
+          "listed_count": 100,
+          "media_count": 5004,
+          "tweet_count": 16854
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2044836436659073291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52226,
+          "following_count": 430,
+          "like_count": 55245,
+          "listed_count": 258,
+          "media_count": 11600,
+          "tweet_count": 17832
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

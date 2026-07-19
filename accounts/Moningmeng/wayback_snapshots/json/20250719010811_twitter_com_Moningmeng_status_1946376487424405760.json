@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946230745028063234"
+      ],
+      "media_source_tweet_id": [
+        "1946230885973651962"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1946376487424405760",
+    "created_at": "2025-07-19T01:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T02:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946376487424405760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826483540554645507",
+          "start": 3,
+          "username": "zbzjzyl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cgkWADiBxV",
+          "end": 65,
+          "expanded_url": "https://x.com/zbzjzyl/status/1946230885973651962/photo/1",
+          "media_key": "3_1946230745028063234",
+          "start": 42,
+          "url": "https://t.co/cgkWADiBxV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946376487424405760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946230885973651962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zbzjzyl: 换头像了 望周知 这个是以前的↓ 希望大家还认得我🥺🥺🥺 https://t.co/cgkWADiBxV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1946230745028063234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJmjRBXcAIp04F.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946230745028063234"
+          ],
+          "media_source_tweet_id": [
+            "1946230885973651962"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1946376487424405760",
+        "created_at": "2025-07-19T01:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T02:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946376487424405760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826483540554645507",
+              "start": 3,
+              "username": "zbzjzyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgkWADiBxV",
+              "end": 65,
+              "expanded_url": "https://x.com/zbzjzyl/status/1946230885973651962/photo/1",
+              "media_key": "3_1946230745028063234",
+              "start": 42,
+              "url": "https://t.co/cgkWADiBxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946376487424405760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946230885973651962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zbzjzyl: 换头像了 望周知 这个是以前的↓ 希望大家还认得我🥺🥺🥺 https://t.co/cgkWADiBxV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946230745028063234"
+          ]
+        },
+        "author_id": "1826483540554645507",
+        "conversation_id": "1946230885973651962",
+        "created_at": "2025-07-18T15:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T16:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946230885973651962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgkWADiBxV",
+              "end": 52,
+              "expanded_url": "https://x.com/zbzjzyl/status/1946230885973651962/photo/1",
+              "media_key": "3_1946230745028063234",
+              "start": 29,
+              "url": "https://t.co/cgkWADiBxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946230885973651962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 154,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "换头像了 望周知 这个是以前的↓ 希望大家还认得我🥺🥺🥺 https://t.co/cgkWADiBxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21550,
+          "following_count": 10828,
+          "like_count": 79819,
+          "listed_count": 75,
+          "media_count": 3909,
+          "tweet_count": 14321
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T04:56:38.000Z",
+        "description": "08丨敏感丨多疑丨包容丨不鉴证丨放假玩推丨互fo看成分丨你觉得我是男的我就是男的 是女的我就是女的🤗 小号👉@zbzjzyl02 提问箱👉https://t.co/ATYjdvrqKx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "zbzjzyl02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zbzjzyl",
+                "end": 92,
+                "expanded_url": "https://ngl.link/zbzjzyl",
+                "start": 69,
+                "url": "https://t.co/ATYjdvrqKx"
+              }
+            ]
+          }
+        },
+        "id": "1826483540554645507",
+        "name": "Xi",
+        "pinned_tweet_id": "1946230885973651962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946229852811464705/Dg3kdse__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 400,
+          "like_count": 10670,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 2272
+        },
+        "username": "zbzjzyl",
+        "verified": false
+      }
+    ]
+  }
+}

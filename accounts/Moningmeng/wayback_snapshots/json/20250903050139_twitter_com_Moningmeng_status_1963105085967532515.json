@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1963105085967532515",
+    "created_at": "2025-09-03T05:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T06:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963105085967532515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1794617194954850304",
+          "start": 3,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963105085967532515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963104145172201494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baixiaoming0707: 班里面看阅兵直播，共笑了4次\n主持人说，中国共产党是抗击日寇的中流砥柱，民国派和支黑笑了\n海军方阵经过时，主持人说海军向海图强，一众反贼笑了\n网络空间部队和信息支援部队方阵出场时，主持人说他们抢占网络空间高地，反贼又笑了\n画面切到习近平…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1963105085967532515",
+        "created_at": "2025-09-03T05:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963105085967532515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1794617194954850304",
+              "start": 3,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963105085967532515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963104145172201494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Baixiaoming0707: 班里面看阅兵直播，共笑了4次\n主持人说，中国共产党是抗击日寇的中流砥柱，民国派和支黑笑了\n海军方阵经过时，主持人说海军向海图强，一众反贼笑了\n网络空间部队和信息支援部队方阵出场时，主持人说他们抢占网络空间高地，反贼又笑了\n画面切到习近平…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794617194954850304",
+        "conversation_id": "1963104145172201494",
+        "created_at": "2025-09-03T04:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963104145172201494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963104145172201494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "班里面看阅兵直播，共笑了4次\n主持人说，中国共产党是抗击日寇的中流砥柱，民国派和支黑笑了\n海军方阵经过时，主持人说海军向海图强，一众反贼笑了\n网络空间部队和信息支援部队方阵出场时，主持人说他们抢占网络空间高地，反贼又笑了\n画面切到习近平和将军讲悄悄话的时候，不分派别和男女，大家都笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22555,
+          "following_count": 10961,
+          "like_count": 84398,
+          "listed_count": 82,
+          "media_count": 4142,
+          "tweet_count": 15263
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "总有一天我会离去，在此之前我会发光到最后一刻 | 08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 147,
+                "start": 133,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1203,
+          "like_count": 15863,
+          "listed_count": 6,
+          "media_count": 797,
+          "tweet_count": 4761
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

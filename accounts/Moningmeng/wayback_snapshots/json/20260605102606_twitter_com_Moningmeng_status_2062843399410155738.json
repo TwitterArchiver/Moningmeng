@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2062843399410155738",
+    "created_at": "2026-06-05T10:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062843399410155738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841626911228780545",
+          "start": 3,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062843399410155738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062699486233935947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujou_king: 得知自己是中国人之后哭了19年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062843399410155738",
+        "created_at": "2026-06-05T10:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062843399410155738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841626911228780545",
+              "start": 3,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062843399410155738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062699486233935947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujou_king: 得知自己是中国人之后哭了19年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "2062699486233935947",
+        "created_at": "2026-06-05T00:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062699486233935947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062699486233935947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4525,
+          "like_count": 174,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "得知自己是中国人之后哭了19年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27680,
+          "following_count": 11086,
+          "like_count": 90454,
+          "listed_count": 102,
+          "media_count": 5189,
+          "tweet_count": 17609
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "中国人别骂我了，我最喜欢中国人了，女孩都会回fo的，",
+        "id": "1841626911228780545",
+        "location": "没有🚪不加V不扩列不要问了",
+        "name": "🧸猪圈传奇愛莉莎🍺",
+        "pinned_tweet_id": "1873554513598259513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946130968311394304/2JoetCo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 335,
+          "like_count": 4557,
+          "listed_count": 19,
+          "media_count": 67,
+          "tweet_count": 2003
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

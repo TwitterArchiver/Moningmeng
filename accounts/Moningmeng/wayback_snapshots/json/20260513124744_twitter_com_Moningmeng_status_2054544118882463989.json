@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2054544118882463989",
+    "created_at": "2026-05-13T12:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054544118882463989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031591173975060489",
+          "start": 3,
+          "username": "oiloou07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054544118882463989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054455155924557948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oiloou07: 特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2054544118882463989",
+        "created_at": "2026-05-13T12:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054544118882463989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031591173975060489",
+              "start": 3,
+              "username": "oiloou07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054544118882463989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054455155924557948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oiloou07: 特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031591173975060489",
+        "conversation_id": "2054455155924557948",
+        "created_at": "2026-05-13T06:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054455155924557948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054455155924557948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 94083,
+          "like_count": 1320,
+          "quote_count": 10,
+          "reply_count": 134,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27536,
+          "following_count": 11050,
+          "like_count": 88191,
+          "listed_count": 101,
+          "media_count": 5093,
+          "tweet_count": 17144
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T04:41:09.000Z",
+        "description": "˃̣̣ᯅก",
+        "id": "2031591173975060489",
+        "location": "🚪99加✈️",
+        "name": "嗲犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206249889198080/D3CrKS28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 0,
+          "like_count": 627,
+          "listed_count": 9,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "oiloou07",
+        "verified": false
+      }
+    ]
+  }
+}

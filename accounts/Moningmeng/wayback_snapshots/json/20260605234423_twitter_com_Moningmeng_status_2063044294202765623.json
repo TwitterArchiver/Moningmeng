@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062874832426156032"
+      ],
+      "media_source_tweet_id": [
+        "2062874835324412415"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063044294202765623",
+    "created_at": "2026-06-05T23:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063044294202765623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890029305205608448",
+          "start": 3,
+          "username": "wsl8297"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5h0H3UCkIJ",
+          "end": 49,
+          "expanded_url": "https://x.com/wsl8297/status/2062874835324412415/photo/1",
+          "media_key": "3_2062874832426156032",
+          "start": 26,
+          "url": "https://t.co/5h0H3UCkIJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063044294202765623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062874835324412415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wsl8297: 怎么感觉场景有点熟悉呢？ https://t.co/5h0H3UCkIJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2062874832426156032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDNuwLawAAr7oj.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062874832426156032"
+          ],
+          "media_source_tweet_id": [
+            "2062874835324412415"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063044294202765623",
+        "created_at": "2026-06-05T23:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063044294202765623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890029305205608448",
+              "start": 3,
+              "username": "wsl8297"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5h0H3UCkIJ",
+              "end": 49,
+              "expanded_url": "https://x.com/wsl8297/status/2062874835324412415/photo/1",
+              "media_key": "3_2062874832426156032",
+              "start": 26,
+              "url": "https://t.co/5h0H3UCkIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063044294202765623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062874835324412415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wsl8297: 怎么感觉场景有点熟悉呢？ https://t.co/5h0H3UCkIJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062874832426156032"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062874835324412415",
+        "created_at": "2026-06-05T12:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062874835324412415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5h0H3UCkIJ",
+              "end": 36,
+              "expanded_url": "https://x.com/wsl8297/status/2062874835324412415/photo/1",
+              "media_key": "3_2062874832426156032",
+              "start": 13,
+              "url": "https://t.co/5h0H3UCkIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062874835324412415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 63016,
+          "like_count": 593,
+          "quote_count": 1,
+          "reply_count": 133,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么感觉场景有点熟悉呢？ https://t.co/5h0H3UCkIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27683,
+          "following_count": 11087,
+          "like_count": 90577,
+          "listed_count": 102,
+          "media_count": 5190,
+          "tweet_count": 17634
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2054798253955375388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16064,
+          "following_count": 581,
+          "like_count": 15636,
+          "listed_count": 98,
+          "media_count": 1102,
+          "tweet_count": 14850
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947726754074005506"
+      ],
+      "media_source_tweet_id": [
+        "1947726759430132188"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1947855494301028731",
+    "created_at": "2025-07-23T03:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T04:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947855494301028731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1786397664722268160",
+          "start": 3,
+          "username": "proxynova712sec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DdXbJI67KQ",
+          "end": 44,
+          "expanded_url": "https://x.com/proxynova712sec/status/1947726759430132188/photo/1",
+          "media_key": "3_1947726754074005506",
+          "start": 21,
+          "url": "https://t.co/DdXbJI67KQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947855494301028731",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947726759430132188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @proxynova712sec: https://t.co/DdXbJI67KQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_1947726754074005506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwe3KdAbEAIb-nF.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947726754074005506"
+          ],
+          "media_source_tweet_id": [
+            "1947726759430132188"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1947855494301028731",
+        "created_at": "2025-07-23T03:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T04:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947855494301028731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1786397664722268160",
+              "start": 3,
+              "username": "proxynova712sec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdXbJI67KQ",
+              "end": 44,
+              "expanded_url": "https://x.com/proxynova712sec/status/1947726759430132188/photo/1",
+              "media_key": "3_1947726754074005506",
+              "start": 21,
+              "url": "https://t.co/DdXbJI67KQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947855494301028731",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947726759430132188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @proxynova712sec: https://t.co/DdXbJI67KQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947726754074005506"
+          ]
+        },
+        "author_id": "1786397664722268160",
+        "conversation_id": "1947726759430132188",
+        "created_at": "2025-07-22T18:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T19:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947726759430132188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdXbJI67KQ",
+              "end": 23,
+              "expanded_url": "https://x.com/proxynova712sec/status/1947726759430132188/photo/1",
+              "media_key": "3_1947726754074005506",
+              "start": 0,
+              "url": "https://t.co/DdXbJI67KQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947726759430132188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DdXbJI67KQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21644,
+          "following_count": 10840,
+          "like_count": 80130,
+          "listed_count": 75,
+          "media_count": 3929,
+          "tweet_count": 14451
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "she/her/2009.3.22出厂/纯情女高（不是）/mtf/抑郁/2023.7.12hrt持证含糖😋/一号机 @proxynova712/互fo\n哈气ing/老公@kbhkbh1913832",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "proxynova712"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "kbhkbh1913832"
+              }
+            ]
+          }
+        },
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "汐诺🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1941864697042538676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906624888296873985/49rtpvf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5466,
+          "following_count": 759,
+          "like_count": 13990,
+          "listed_count": 6,
+          "media_count": 274,
+          "tweet_count": 1284
+        },
+        "username": "proxynova712sec",
+        "verified": true
+      }
+    ]
+  }
+}

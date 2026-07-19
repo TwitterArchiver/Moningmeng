@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982457501539807232"
+      ],
+      "media_source_tweet_id": [
+        "1982457515133858169"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1983134681584353644",
+    "created_at": "2025-10-28T11:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983134681584353644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2886649711",
+          "start": 3,
+          "username": "Goku1683"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHGMjLCUjy",
+          "end": 40,
+          "expanded_url": "https://x.com/Goku1683/status/1982457515133858169/photo/1",
+          "media_key": "3_1982457501539807232",
+          "start": 17,
+          "url": "https://t.co/uHGMjLCUjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983134681584353644",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982457515133858169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goku1683: ➕1 https://t.co/uHGMjLCUjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1565,
+        "media_key": "3_1982457501539807232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MamBmWsAAOt5X.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982457501539807232"
+          ],
+          "media_source_tweet_id": [
+            "1982457515133858169"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1983134681584353644",
+        "created_at": "2025-10-28T11:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983134681584353644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2886649711",
+              "start": 3,
+              "username": "Goku1683"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHGMjLCUjy",
+              "end": 40,
+              "expanded_url": "https://x.com/Goku1683/status/1982457515133858169/photo/1",
+              "media_key": "3_1982457501539807232",
+              "start": 17,
+              "url": "https://t.co/uHGMjLCUjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983134681584353644",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982457515133858169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goku1683: ➕1 https://t.co/uHGMjLCUjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982457501539807232"
+          ]
+        },
+        "author_id": "2886649711",
+        "conversation_id": "1982457515133858169",
+        "created_at": "2025-10-26T14:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982457515133858169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHGMjLCUjy",
+              "end": 26,
+              "expanded_url": "https://x.com/Goku1683/status/1982457515133858169/photo/1",
+              "media_key": "3_1982457501539807232",
+              "start": 3,
+              "url": "https://t.co/uHGMjLCUjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982457515133858169",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 27610,
+          "like_count": 234,
+          "quote_count": 7,
+          "reply_count": 53,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "➕1 https://t.co/uHGMjLCUjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqhed",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqhed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1981738914479042749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23826,
+          "following_count": 10954,
+          "like_count": 84983,
+          "listed_count": 89,
+          "media_count": 4361,
+          "tweet_count": 15534
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-01T18:35:18.000Z",
+        "description": "🏳️‍⚧️/BPD/敢爱敢恨/情绪化/情绪时常处于两个极端/猎奇/表面是个m实则是个暴力s/略带偏执属性/待开发中..它说蓝色是忧郁*",
+        "id": "2886649711",
+        "name": "到里斯本看海*^🍥",
+        "pinned_tweet_id": "1955673579095539766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570985435717632/hrFmnHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 600,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 125
+        },
+        "username": "Goku1683",
+        "verified": false
+      }
+    ]
+  }
+}

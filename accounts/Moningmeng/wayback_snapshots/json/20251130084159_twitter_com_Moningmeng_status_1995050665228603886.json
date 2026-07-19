@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1995050665228603886",
+    "created_at": "2025-11-30T08:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995050665228603886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1943579141535895552",
+          "start": 3,
+          "username": "momoy2qqren"
+        },
+        {
+          "end": 29,
+          "id": "1353169870691549184",
+          "start": 17,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995050665228603886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994783130809671940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoy2qqren: @iPaulCanada 这张照片是你双击太阳穴记录下来的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1995050665228603886",
+        "created_at": "2025-11-30T08:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995050665228603886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1943579141535895552",
+              "start": 3,
+              "username": "momoy2qqren"
+            },
+            {
+              "end": 29,
+              "id": "1353169870691549184",
+              "start": 17,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995050665228603886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994783130809671940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoy2qqren: @iPaulCanada 这张照片是你双击太阳穴记录下来的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943579141535895552",
+        "conversation_id": "1994735522644623649",
+        "created_at": "2025-11-29T14:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994783130809671940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994783130809671940",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 245883,
+          "like_count": 6751,
+          "quote_count": 6,
+          "reply_count": 183,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994735522644623649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 这张照片是你双击太阳穴记录下来的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691325460107264/h5E42VGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25394,
+          "following_count": 10961,
+          "like_count": 85151,
+          "listed_count": 92,
+          "media_count": 4471,
+          "tweet_count": 15690
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T07:52:59.000Z",
+        "description": "",
+        "id": "1943579141535895552",
+        "name": "nenifor._21",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991547563192033280/_KqmiSUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 19
+        },
+        "username": "momoy2qqren",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152776,
+          "following_count": 509,
+          "like_count": 7547,
+          "listed_count": 638,
+          "media_count": 10699,
+          "tweet_count": 17176
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

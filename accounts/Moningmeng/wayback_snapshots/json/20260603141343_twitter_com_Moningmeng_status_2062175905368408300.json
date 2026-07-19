@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062028089136427008"
+      ],
+      "media_source_tweet_id": [
+        "2062028390866223590"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2062175905368408300",
+    "created_at": "2026-06-03T14:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062175905368408300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832688819017277440",
+          "start": 3,
+          "username": "homeCollider"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hZCMfpsemh",
+          "end": 48,
+          "expanded_url": "https://x.com/homeCollider/status/2062028390866223590/photo/1",
+          "media_key": "3_2062028089136427008",
+          "start": 25,
+          "url": "https://t.co/hZCMfpsemh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062175905368408300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062028390866223590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homeCollider: 没有被没收。 https://t.co/hZCMfpsemh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062028089136427008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3LnznasAAj0x6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062028089136427008"
+          ],
+          "media_source_tweet_id": [
+            "2062028390866223590"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062175905368408300",
+        "created_at": "2026-06-03T14:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062175905368408300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832688819017277440",
+              "start": 3,
+              "username": "homeCollider"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZCMfpsemh",
+              "end": 48,
+              "expanded_url": "https://x.com/homeCollider/status/2062028390866223590/photo/1",
+              "media_key": "3_2062028089136427008",
+              "start": 25,
+              "url": "https://t.co/hZCMfpsemh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062175905368408300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062028390866223590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homeCollider: 没有被没收。 https://t.co/hZCMfpsemh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062028089136427008"
+          ]
+        },
+        "author_id": "1832688819017277440",
+        "conversation_id": "2062028390866223590",
+        "created_at": "2026-06-03T04:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062028390866223590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZCMfpsemh",
+              "end": 30,
+              "expanded_url": "https://x.com/homeCollider/status/2062028390866223590/photo/1",
+              "media_key": "3_2062028089136427008",
+              "start": 7,
+              "url": "https://t.co/hZCMfpsemh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062028390866223590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7199,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有被没收。 https://t.co/hZCMfpsemh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27679,
+          "following_count": 11080,
+          "like_count": 90013,
+          "listed_count": 102,
+          "media_count": 5181,
+          "tweet_count": 17568
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ MtF | 架构师\n- 如果哪天我不在了，请忘记我，这是我的愿望。\n- 主播不会死了，但是要终身使用巴氯芬。\n- 讼棍，有一些 MtF 的案子，一些是大陆首案。",
+        "id": "1832688819017277440",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "2043383982042288482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 379,
+          "like_count": 2851,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 847
+        },
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

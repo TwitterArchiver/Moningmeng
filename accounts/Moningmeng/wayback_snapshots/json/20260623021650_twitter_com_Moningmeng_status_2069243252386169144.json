@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068925081854877696"
+      ],
+      "media_source_tweet_id": [
+        "2069013025403687083"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069243252386169144",
+    "created_at": "2026-06-23T02:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069243252386169144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZK0GBd7jh8",
+          "end": 49,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2069013025403687083/photo/1",
+          "media_key": "3_2068925081854877696",
+          "start": 26,
+          "url": "https://t.co/ZK0GBd7jh8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069243252386169144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069013025403687083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 这倒提醒我了 https://t.co/ZK0GBd7jh8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2068925081854877696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZMZnrbIAA4BQ5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068925081854877696"
+          ],
+          "media_source_tweet_id": [
+            "2069013025403687083"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069243252386169144",
+        "created_at": "2026-06-23T02:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069243252386169144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZK0GBd7jh8",
+              "end": 49,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2069013025403687083/photo/1",
+              "media_key": "3_2068925081854877696",
+              "start": 26,
+              "url": "https://t.co/ZK0GBd7jh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069243252386169144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069013025403687083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 这倒提醒我了 https://t.co/ZK0GBd7jh8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068925081854877696"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2069013025403687083",
+        "created_at": "2026-06-22T11:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069013025403687083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZK0GBd7jh8",
+              "end": 30,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2069013025403687083/photo/1",
+              "media_key": "3_2068925081854877696",
+              "start": 7,
+              "url": "https://t.co/ZK0GBd7jh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069013025403687083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2880,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这倒提醒我了 https://t.co/ZK0GBd7jh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27815,
+          "following_count": 11114,
+          "like_count": 92011,
+          "listed_count": 102,
+          "media_count": 5265,
+          "tweet_count": 18022
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13478,
+          "following_count": 1685,
+          "like_count": 26263,
+          "listed_count": 15,
+          "media_count": 5395,
+          "tweet_count": 28940
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

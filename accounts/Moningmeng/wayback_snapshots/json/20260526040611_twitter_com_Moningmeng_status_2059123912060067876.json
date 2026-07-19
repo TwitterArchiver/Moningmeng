@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058965973701636096"
+      ],
+      "media_source_tweet_id": [
+        "2058965990021767530"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059123912060067876",
+    "created_at": "2026-05-26T04:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059123912060067876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844025283676094464",
+          "start": 3,
+          "username": "Konekoutena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WzaxMbY2OY",
+          "end": 56,
+          "expanded_url": "https://x.com/Konekoutena/status/2058965990021767530/photo/1",
+          "media_key": "3_2058965973701636096",
+          "start": 33,
+          "url": "https://t.co/WzaxMbY2OY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059123912060067876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058965990021767530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konekoutena: 建议全世界一起来尊重日本的文化 https://t.co/WzaxMbY2OY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058965973701636096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLqpOsaMAAQA3n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058965973701636096"
+          ],
+          "media_source_tweet_id": [
+            "2058965990021767530"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059123912060067876",
+        "created_at": "2026-05-26T04:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059123912060067876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1844025283676094464",
+              "start": 3,
+              "username": "Konekoutena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WzaxMbY2OY",
+              "end": 56,
+              "expanded_url": "https://x.com/Konekoutena/status/2058965990021767530/photo/1",
+              "media_key": "3_2058965973701636096",
+              "start": 33,
+              "url": "https://t.co/WzaxMbY2OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059123912060067876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058965990021767530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konekoutena: 建议全世界一起来尊重日本的文化 https://t.co/WzaxMbY2OY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058965973701636096"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058965990021767530",
+        "created_at": "2026-05-25T17:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058965990021767530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WzaxMbY2OY",
+              "end": 39,
+              "expanded_url": "https://x.com/Konekoutena/status/2058965990021767530/photo/1",
+              "media_key": "3_2058965973701636096",
+              "start": 16,
+              "url": "https://t.co/WzaxMbY2OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058965990021767530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 676408,
+          "like_count": 2078,
+          "quote_count": 14,
+          "reply_count": 96,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "建议全世界一起来尊重日本的文化 https://t.co/WzaxMbY2OY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27629,
+          "following_count": 11058,
+          "like_count": 88804,
+          "listed_count": 102,
+          "media_count": 5145,
+          "tweet_count": 17342
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC角色，防失联小号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 116,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 93,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2054950564195422309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021092251036942337/Y-kSi9A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16273,
+          "following_count": 2348,
+          "like_count": 13450,
+          "listed_count": 101,
+          "media_count": 6813,
+          "tweet_count": 25736
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

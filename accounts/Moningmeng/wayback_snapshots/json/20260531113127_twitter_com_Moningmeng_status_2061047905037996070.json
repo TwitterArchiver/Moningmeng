@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060930058936823808"
+      ],
+      "media_source_tweet_id": [
+        "2060930071561712017"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2061047905037996070",
+    "created_at": "2026-05-31T11:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061047905037996070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CwftUP7CzY",
+          "end": 50,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2060930071561712017/photo/1",
+          "media_key": "3_2060930058936823808",
+          "start": 27,
+          "url": "https://t.co/CwftUP7CzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061047905037996070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060930071561712017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 豆包：你礼貌吗 https://t.co/CwftUP7CzY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2060930058936823808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnk-CXasAA9Dk4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060930058936823808"
+          ],
+          "media_source_tweet_id": [
+            "2060930071561712017"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2061047905037996070",
+        "created_at": "2026-05-31T11:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061047905037996070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwftUP7CzY",
+              "end": 50,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2060930071561712017/photo/1",
+              "media_key": "3_2060930058936823808",
+              "start": 27,
+              "url": "https://t.co/CwftUP7CzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061047905037996070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060930071561712017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 豆包：你礼貌吗 https://t.co/CwftUP7CzY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060930058936823808"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2060930071561712017",
+        "created_at": "2026-05-31T03:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060930071561712017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwftUP7CzY",
+              "end": 31,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2060930071561712017/photo/1",
+              "media_key": "3_2060930058936823808",
+              "start": 8,
+              "url": "https://t.co/CwftUP7CzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060930071561712017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 58272,
+          "like_count": 605,
+          "quote_count": 1,
+          "reply_count": 102,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "豆包：你礼貌吗 https://t.co/CwftUP7CzY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27707,
+          "following_count": 11090,
+          "like_count": 89475,
+          "listed_count": 102,
+          "media_count": 5166,
+          "tweet_count": 17487
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94994,
+          "following_count": 954,
+          "like_count": 5745,
+          "listed_count": 210,
+          "media_count": 136,
+          "tweet_count": 1936
+        },
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020379258783428608"
+      ],
+      "media_source_tweet_id": [
+        "2020379261908271202"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020443905922068837",
+    "created_at": "2026-02-08T10:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020443905922068837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2534694942",
+          "start": 3,
+          "username": "zzNeutrino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b5wLTuL6PW",
+          "end": 65,
+          "expanded_url": "https://x.com/zzNeutrino/status/2020379261908271202/photo/1",
+          "media_key": "3_2020379258783428608",
+          "start": 42,
+          "url": "https://t.co/b5wLTuL6PW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020443905922068837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020379261908271202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzNeutrino: 这些国外AI太不会营销了，我让Gemini帮帮他们 https://t.co/b5wLTuL6PW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2368,
+        "media_key": "3_2020379258783428608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnUOz9acAAZApA.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020379258783428608"
+          ],
+          "media_source_tweet_id": [
+            "2020379261908271202"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020443905922068837",
+        "created_at": "2026-02-08T10:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020443905922068837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2534694942",
+              "start": 3,
+              "username": "zzNeutrino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5wLTuL6PW",
+              "end": 65,
+              "expanded_url": "https://x.com/zzNeutrino/status/2020379261908271202/photo/1",
+              "media_key": "3_2020379258783428608",
+              "start": 42,
+              "url": "https://t.co/b5wLTuL6PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020443905922068837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020379261908271202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzNeutrino: 这些国外AI太不会营销了，我让Gemini帮帮他们 https://t.co/b5wLTuL6PW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020379258783428608"
+          ]
+        },
+        "author_id": "2534694942",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020379261908271202",
+        "created_at": "2026-02-08T06:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020379261908271202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5wLTuL6PW",
+              "end": 49,
+              "expanded_url": "https://x.com/zzNeutrino/status/2020379261908271202/photo/1",
+              "media_key": "3_2020379258783428608",
+              "start": 26,
+              "url": "https://t.co/b5wLTuL6PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020379261908271202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13829,
+          "like_count": 307,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "这些国外AI太不会营销了，我让Gemini帮帮他们 https://t.co/b5wLTuL6PW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26486,
+          "following_count": 10950,
+          "like_count": 85411,
+          "listed_count": 101,
+          "media_count": 4709,
+          "tweet_count": 16050
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-30T09:49:55.000Z",
+        "description": "发现的乐趣！",
+        "id": "2534694942",
+        "name": "我吹呀吹",
+        "pinned_tweet_id": "2006971062270177342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1031446587220754432/8DI9khzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20528,
+          "following_count": 2076,
+          "like_count": 11141,
+          "listed_count": 93,
+          "media_count": 457,
+          "tweet_count": 3663
+        },
+        "username": "zzNeutrino",
+        "verified": false
+      }
+    ]
+  }
+}

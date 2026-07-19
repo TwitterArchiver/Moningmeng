@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025467066019708931"
+      ],
+      "media_source_tweet_id": [
+        "2025467120008704227"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2025761250274328900",
+    "created_at": "2026-02-23T02:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025761250274328900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1sf38Li84v",
+          "end": 47,
+          "expanded_url": "https://x.com/DDaquaforever/status/2025467120008704227/photo/1",
+          "media_key": "3_2025467066019708931",
+          "start": 24,
+          "url": "https://t.co/1sf38Li84v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025761250274328900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025467120008704227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 有些道理 https://t.co/1sf38Li84v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_2025467066019708931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvnkK5bgAMFw0U.png",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025467066019708931"
+          ],
+          "media_source_tweet_id": [
+            "2025467120008704227"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2025761250274328900",
+        "created_at": "2026-02-23T02:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025761250274328900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sf38Li84v",
+              "end": 47,
+              "expanded_url": "https://x.com/DDaquaforever/status/2025467120008704227/photo/1",
+              "media_key": "3_2025467066019708931",
+              "start": 24,
+              "url": "https://t.co/1sf38Li84v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025761250274328900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025467120008704227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 有些道理 https://t.co/1sf38Li84v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025467066019708931"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2025467120008704227",
+        "created_at": "2026-02-22T07:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025467120008704227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sf38Li84v",
+              "end": 28,
+              "expanded_url": "https://x.com/DDaquaforever/status/2025467120008704227/photo/1",
+              "media_key": "3_2025467066019708931",
+              "start": 5,
+              "url": "https://t.co/1sf38Li84v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025467120008704227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 80377,
+          "like_count": 4261,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "有些道理 https://t.co/1sf38Li84v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26758,
+          "following_count": 11007,
+          "like_count": 86600,
+          "listed_count": 102,
+          "media_count": 4781,
+          "tweet_count": 16315
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3041,
+          "following_count": 3424,
+          "like_count": 5072,
+          "listed_count": 9,
+          "media_count": 1867,
+          "tweet_count": 8395
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

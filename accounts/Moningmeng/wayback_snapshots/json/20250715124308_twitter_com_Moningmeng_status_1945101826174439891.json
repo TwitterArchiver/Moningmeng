@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944586982858149888"
+      ],
+      "media_source_tweet_id": [
+        "1944587001963118618"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1945101826174439891",
+    "created_at": "2025-07-15T12:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T13:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945101826174439891"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "上海",
+          "probability": 0.6311,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2829688208",
+          "start": 3,
+          "username": "hamazi__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xCnr7j94YS",
+          "end": 50,
+          "expanded_url": "https://x.com/hamazi__/status/1944587001963118618/photo/1",
+          "media_key": "3_1944586982858149888",
+          "start": 27,
+          "url": "https://t.co/xCnr7j94YS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945101826174439891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 668
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944587001963118618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @hamazi__: ぼっち・ざ・上海‼️🇨🇳 https://t.co/xCnr7j94YS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_1944586982858149888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyPjtwb0AAJudA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944586982858149888"
+          ],
+          "media_source_tweet_id": [
+            "1944587001963118618"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1945101826174439891",
+        "created_at": "2025-07-15T12:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945101826174439891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "上海",
+              "probability": 0.6311,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2829688208",
+              "start": 3,
+              "username": "hamazi__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCnr7j94YS",
+              "end": 50,
+              "expanded_url": "https://x.com/hamazi__/status/1944587001963118618/photo/1",
+              "media_key": "3_1944586982858149888",
+              "start": 27,
+              "url": "https://t.co/xCnr7j94YS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945101826174439891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 668
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944587001963118618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @hamazi__: ぼっち・ざ・上海‼️🇨🇳 https://t.co/xCnr7j94YS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944586982858149888"
+          ]
+        },
+        "author_id": "2829688208",
+        "conversation_id": "1944587001963118618",
+        "created_at": "2025-07-14T02:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T03:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944587001963118618"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "上海",
+              "probability": 0.5755,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCnr7j94YS",
+              "end": 36,
+              "expanded_url": "https://x.com/hamazi__/status/1944587001963118618/photo/1",
+              "media_key": "3_1944586982858149888",
+              "start": 13,
+              "url": "https://t.co/xCnr7j94YS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944587001963118618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 335541,
+          "like_count": 10229,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 668
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ぼっち・ざ・上海‼️🇨🇳 https://t.co/xCnr7j94YS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "pinned_tweet_id": "1944975448124878924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21449,
+          "following_count": 10826,
+          "like_count": 79565,
+          "listed_count": 76,
+          "media_count": 3892,
+          "tweet_count": 14260
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-24T10:58:47.000Z",
+        "description": "まんがタイムきららMAXで『ぼっち・ざ・ろっく！』描かせてもらってます🎸7巻まで発売中。アンソロ5巻廣井スピンオフ5巻もあるよ。アニメ2022年10~12月放送してました。バンド大好き❗️アニメ公式👉@BTR_anime お仕事のご依頼👉スケジュールの都合上現在募集しておりません。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "BTR_anime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC5EeE…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC5EeElPddQb5BMOHDXHxT5Q",
+                "start": 0,
+                "url": "https://t.co/gmRJlzLs65"
+              }
+            ]
+          }
+        },
+        "id": "2829688208",
+        "name": "はまじあき🎸ぼざろ7巻発売中📚",
+        "pinned_tweet_id": "1890732435190518168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563859991215341568/eI7JvHcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437834,
+          "following_count": 753,
+          "like_count": 16718,
+          "listed_count": 1782,
+          "media_count": 468,
+          "tweet_count": 8083
+        },
+        "url": "https://t.co/gmRJlzLs65",
+        "username": "hamazi__",
+        "verified": true
+      }
+    ]
+  }
+}

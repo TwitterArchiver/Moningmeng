@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068804768550785024"
+      ],
+      "media_source_tweet_id": [
+        "2068804795276910907"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069343275908243924",
+    "created_at": "2026-06-23T08:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343275908243924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wiwQ8n0Go2",
+          "end": 44,
+          "expanded_url": "https://x.com/45_206MHz/status/2068804795276910907/photo/1",
+          "media_key": "3_2068804768550785024",
+          "start": 21,
+          "url": "https://t.co/wiwQ8n0Go2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343275908243924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068804795276910907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 被开除了😭 https://t.co/wiwQ8n0Go2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2068804768550785024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXe-dsakAABa-G.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068804768550785024"
+          ],
+          "media_source_tweet_id": [
+            "2068804795276910907"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069343275908243924",
+        "created_at": "2026-06-23T08:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343275908243924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiwQ8n0Go2",
+              "end": 44,
+              "expanded_url": "https://x.com/45_206MHz/status/2068804795276910907/photo/1",
+              "media_key": "3_2068804768550785024",
+              "start": 21,
+              "url": "https://t.co/wiwQ8n0Go2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343275908243924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068804795276910907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 被开除了😭 https://t.co/wiwQ8n0Go2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068804768550785024"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2068804795276910907",
+        "created_at": "2026-06-21T21:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068804795276910907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiwQ8n0Go2",
+              "end": 29,
+              "expanded_url": "https://x.com/45_206MHz/status/2068804795276910907/photo/1",
+              "media_key": "3_2068804768550785024",
+              "start": 6,
+              "url": "https://t.co/wiwQ8n0Go2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068804795276910907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 1611388,
+          "like_count": 4896,
+          "quote_count": 17,
+          "reply_count": 755,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "被开除了😭 https://t.co/wiwQ8n0Go2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27817,
+          "following_count": 11117,
+          "like_count": 92103,
+          "listed_count": 102,
+          "media_count": 5265,
+          "tweet_count": 18044
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 112,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 89,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 498,
+          "like_count": 37214,
+          "listed_count": 1,
+          "media_count": 812,
+          "tweet_count": 4523
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

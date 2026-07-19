@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075049866376683922",
+    "created_at": "2026-07-09T02:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075049866376683922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1635476041438461952",
+          "start": 3,
+          "username": "JiaweiShen2568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075049866376683922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074699336852881897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiaweiShen2568: 日本朋友的原话：“人群中那个长着亚洲人面孔气质却完全像美国人的家伙，一定是中国人。”\n\n为什么啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075049866376683922",
+        "created_at": "2026-07-09T02:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075049866376683922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1635476041438461952",
+              "start": 3,
+              "username": "JiaweiShen2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075049866376683922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074699336852881897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiaweiShen2568: 日本朋友的原话：“人群中那个长着亚洲人面孔气质却完全像美国人的家伙，一定是中国人。”\n\n为什么啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635476041438461952",
+        "conversation_id": "2074699336852881897",
+        "created_at": "2026-07-08T03:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074699336852881897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074699336852881897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 654717,
+          "like_count": 1107,
+          "quote_count": 6,
+          "reply_count": 364,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "日本朋友的原话：“人群中那个长着亚洲人面孔气质却完全像美国人的家伙，一定是中国人。”\n\n为什么啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 64,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 41,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28098,
+          "following_count": 11486,
+          "like_count": 93326,
+          "listed_count": 104,
+          "media_count": 5347,
+          "tweet_count": 18597
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "location": "广州，深圳",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36115,
+          "following_count": 2202,
+          "like_count": 63298,
+          "listed_count": 119,
+          "media_count": 6088,
+          "tweet_count": 45083
+        },
+        "url": "",
+        "username": "JiaweiShen2568",
+        "verified": true
+      }
+    ]
+  }
+}

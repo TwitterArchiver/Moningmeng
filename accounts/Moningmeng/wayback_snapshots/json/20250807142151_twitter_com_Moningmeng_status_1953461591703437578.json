@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1953461591703437578",
+    "created_at": "2025-08-07T14:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T15:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953461591703437578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1780578393739931648",
+          "start": 3,
+          "username": "veronica_kcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953461591703437578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952791108981014920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @veronica_kcz: 中国人给vpn交的钱就像生理期买姨妈巾，为了出生自带的可怜配置花着本不该花的钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1953461591703437578",
+        "created_at": "2025-08-07T14:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953461591703437578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1780578393739931648",
+              "start": 3,
+              "username": "veronica_kcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953461591703437578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952791108981014920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @veronica_kcz: 中国人给vpn交的钱就像生理期买姨妈巾，为了出生自带的可怜配置花着本不该花的钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780578393739931648",
+        "conversation_id": "1952791108981014920",
+        "created_at": "2025-08-05T17:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952791108981014920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952791108981014920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 447208,
+          "like_count": 2904,
+          "quote_count": 19,
+          "reply_count": 274,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "中国人给vpn交的钱就像生理期买姨妈巾，为了出生自带的可怜配置花着本不该花的钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21827,
+          "following_count": 10890,
+          "like_count": 81833,
+          "listed_count": 77,
+          "media_count": 4001,
+          "tweet_count": 14845
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:46:31.000Z",
+        "description": "抽象是我生活的主旋律",
+        "id": "1780578393739931648",
+        "location": "地球",
+        "name": "Yu riii",
+        "pinned_tweet_id": "1926928901114134794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787362738932715520/vatbSO7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21282,
+          "following_count": 418,
+          "like_count": 1641,
+          "listed_count": 22,
+          "media_count": 124,
+          "tweet_count": 12402
+        },
+        "username": "veronica_kcz",
+        "verified": false
+      }
+    ]
+  }
+}

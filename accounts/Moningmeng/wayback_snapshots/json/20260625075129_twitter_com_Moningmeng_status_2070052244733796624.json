@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2070052244733796624",
+    "created_at": "2026-06-25T07:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070052244733796624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1814598522895020033",
+          "start": 3,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070052244733796624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069840162620875013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeoTrans112233: 我就半夜在这儿饮着雪碧嚼着泡椒猪皮\n然后思考着国内男女对立继续严重下去是不是很有乐子\n甚至我是跨女🍥\nbuff叠满了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2070052244733796624",
+        "created_at": "2026-06-25T07:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070052244733796624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1814598522895020033",
+              "start": 3,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070052244733796624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069840162620875013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeoTrans112233: 我就半夜在这儿饮着雪碧嚼着泡椒猪皮\n然后思考着国内男女对立继续严重下去是不是很有乐子\n甚至我是跨女🍥\nbuff叠满了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814598522895020033",
+        "conversation_id": "2069840162620875013",
+        "created_at": "2026-06-24T17:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069840162620875013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069840162620875013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就半夜在这儿饮着雪碧嚼着泡椒猪皮\n然后思考着国内男女对立继续严重下去是不是很有乐子\n甚至我是跨女🍥\nbuff叠满了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27836,
+          "following_count": 11128,
+          "like_count": 92261,
+          "listed_count": 102,
+          "media_count": 5275,
+          "tweet_count": 18117
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "无糖跨女 08 准大学生 坐标陕西 \n属性：术力口 东方 mo maimai\n同类贴贴 不加墙内",
+        "id": "1814598522895020033",
+        "name": "锦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998411376675696640/jykyoqnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 414,
+          "like_count": 1490,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

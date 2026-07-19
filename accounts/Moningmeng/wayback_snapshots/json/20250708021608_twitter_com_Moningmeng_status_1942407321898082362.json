@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942261523981766656"
+      ],
+      "media_source_tweet_id": [
+        "1942261534648140053"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1942407321898082362",
+    "created_at": "2025-07-08T02:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942407321898082362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "男高中生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1543874333159964672",
+          "start": 3,
+          "username": "guihuajiu_886"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R0v4ap6W5l",
+          "end": 54,
+          "expanded_url": "https://x.com/guihuajiu_886/status/1942261534648140053/photo/1",
+          "media_key": "3_1942261523981766656",
+          "start": 31,
+          "url": "https://t.co/R0v4ap6W5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942407321898082362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942261534648140053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guihuajiu_886: 试着化妆了\n#男高中生 https://t.co/R0v4ap6W5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942261523981766656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRMkMXXkAABTmT.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942261523981766656"
+          ],
+          "media_source_tweet_id": [
+            "1942261534648140053"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1942407321898082362",
+        "created_at": "2025-07-08T02:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942407321898082362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "男高中生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1543874333159964672",
+              "start": 3,
+              "username": "guihuajiu_886"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0v4ap6W5l",
+              "end": 54,
+              "expanded_url": "https://x.com/guihuajiu_886/status/1942261534648140053/photo/1",
+              "media_key": "3_1942261523981766656",
+              "start": 31,
+              "url": "https://t.co/R0v4ap6W5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942407321898082362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942261534648140053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guihuajiu_886: 试着化妆了\n#男高中生 https://t.co/R0v4ap6W5l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942261523981766656"
+          ]
+        },
+        "author_id": "1543874333159964672",
+        "conversation_id": "1942261534648140053",
+        "created_at": "2025-07-07T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942261534648140053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "男高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0v4ap6W5l",
+              "end": 35,
+              "expanded_url": "https://x.com/guihuajiu_886/status/1942261534648140053/photo/1",
+              "media_key": "3_1942261523981766656",
+              "start": 12,
+              "url": "https://t.co/R0v4ap6W5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942261534648140053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "试着化妆了\n#男高中生 https://t.co/R0v4ap6W5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21381,
+          "following_count": 10724,
+          "like_count": 77830,
+          "listed_count": 77,
+          "media_count": 3836,
+          "tweet_count": 13952
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T08:28:42.000Z",
+        "description": "坐标上海的xyn\n07年高中在读~\n 不爱写作业 ai重度依赖ing\n喜欢吃各种各样好吃的小孩🥺\n私聊获取随机推荐餐厅？（only上海）\n接线下/ 欢迎来找我聊天！\n互fo请私信呀靴靴噜",
+        "id": "1543874333159964672",
+        "location": "幻夢里",
+        "name": "糯糯桂花呆",
+        "pinned_tweet_id": "1920689615905706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922256756790722560/ZHBn-8fW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 185,
+          "like_count": 910,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 344
+        },
+        "username": "guihuajiu_886",
+        "verified": false
+      }
+    ]
+  }
+}

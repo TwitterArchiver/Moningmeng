@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074160263214108672"
+      ],
+      "media_source_tweet_id": [
+        "2074160590071980073"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074508118042837469",
+    "created_at": "2026-07-07T14:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074508118042837469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7P2tIY8HBy",
+          "end": 40,
+          "expanded_url": "https://x.com/Paramjitt/status/2074160590071980073/video/1",
+          "media_key": "13_2074160263214108672",
+          "start": 17,
+          "url": "https://t.co/7P2tIY8HBy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074508118042837469",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074160590071980073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: 😼 https://t.co/7P2tIY8HBy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10573,
+        "height": 1920,
+        "media_key": "13_2074160263214108672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074160263214108672/img/Mtfcj1GPcm-yGJLg.jpg",
+        "public_metrics": {
+          "view_count": 1858
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074160263214108672/vid/avc1/1080x1920/3sogf5rPyNsUF08k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074160263214108672/pl/aQAP3ng1JrsPqLWk.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074160263214108672/vid/avc1/480x852/H0sa1sdzwoSh9pNk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074160263214108672/vid/avc1/320x568/AIeqe5wC6LUNJIyr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074160263214108672/vid/avc1/720x1280/6vdAN-FWX2xZzJGg.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074160263214108672"
+          ],
+          "media_source_tweet_id": [
+            "2074160590071980073"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074508118042837469",
+        "created_at": "2026-07-07T14:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074508118042837469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P2tIY8HBy",
+              "end": 40,
+              "expanded_url": "https://x.com/Paramjitt/status/2074160590071980073/video/1",
+              "media_key": "13_2074160263214108672",
+              "start": 17,
+              "url": "https://t.co/7P2tIY8HBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074508118042837469",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074160590071980073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: 😼 https://t.co/7P2tIY8HBy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074160263214108672"
+          ]
+        },
+        "author_id": "162974851",
+        "conversation_id": "2074160590071980073",
+        "created_at": "2026-07-06T15:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074160590071980073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P2tIY8HBy",
+              "end": 25,
+              "expanded_url": "https://x.com/Paramjitt/status/2074160590071980073/video/1",
+              "media_key": "13_2074160263214108672",
+              "start": 2,
+              "url": "https://t.co/7P2tIY8HBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074160590071980073",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4695,
+          "like_count": 165,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "😼 https://t.co/7P2tIY8HBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28047,
+          "following_count": 11347,
+          "like_count": 92490,
+          "listed_count": 104,
+          "media_count": 5319,
+          "tweet_count": 18354
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16.0互关寻回\n🚪52（加了啥也没有）\n你推六个月封11个号的人，传奇耐封王\n你应该刷到过我 所以不自介了\n性别末影人-爱我请给我钱吧*（orz）\n很健全无不良嗜好🤤请和我玩吧！！\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 115,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 92,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖🍥🏳️‍⚧️（16.0寻回爱妻）",
+        "pinned_tweet_id": "2074173391989531076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 421,
+          "like_count": 1489,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": true
+      }
+    ]
+  }
+}

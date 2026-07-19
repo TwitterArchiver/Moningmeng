@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070455251199815680"
+      ],
+      "media_source_tweet_id": [
+        "2070455253435326692"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2070519334682988786",
+    "created_at": "2026-06-26T14:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070519334682988786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995266194576961536",
+          "start": 3,
+          "username": "skyseafor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLThs14mNg",
+          "end": 56,
+          "expanded_url": "https://x.com/skyseafor/status/2070455253435326692/photo/1",
+          "media_key": "3_2070455251199815680",
+          "start": 33,
+          "url": "https://t.co/HLThs14mNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070519334682988786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070455253435326692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyseafor: 大家千万不要学我 否则也会被0分的 https://t.co/HLThs14mNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_2070455251199815680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu8FMsbcAA7Iu1.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070455251199815680"
+          ],
+          "media_source_tweet_id": [
+            "2070455253435326692"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2070519334682988786",
+        "created_at": "2026-06-26T14:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070519334682988786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995266194576961536",
+              "start": 3,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLThs14mNg",
+              "end": 56,
+              "expanded_url": "https://x.com/skyseafor/status/2070455253435326692/photo/1",
+              "media_key": "3_2070455251199815680",
+              "start": 33,
+              "url": "https://t.co/HLThs14mNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070519334682988786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070455253435326692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyseafor: 大家千万不要学我 否则也会被0分的 https://t.co/HLThs14mNg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070455251199815680"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T10:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070455253435326692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLThs14mNg",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2070455253435326692/photo/1",
+              "media_key": "3_2070455251199815680",
+              "start": 18,
+              "url": "https://t.co/HLThs14mNg"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/skyseafor/status/2070065014317420924",
+              "start": 42,
+              "url": "https://t.co/Io4WXTjTkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070455253435326692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 49262,
+          "like_count": 139,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070065014317420924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家千万不要学我 否则也会被0分的 https://t.co/HLThs14mNg https://t.co/Io4WXTjTkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27843,
+          "following_count": 11127,
+          "like_count": 92316,
+          "listed_count": 102,
+          "media_count": 5279,
+          "tweet_count": 18185
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 200,
+          "like_count": 808,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075041504805183705",
+    "created_at": "2026-07-09T02:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075041504805183705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1616813571433959424",
+          "start": 3,
+          "username": "lv__qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075041504805183705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074744464321720799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lv__qx: vpnが誰でも使えるのは知ってる流石に"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075041504805183705",
+        "created_at": "2026-07-09T02:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075041504805183705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1616813571433959424",
+              "start": 3,
+              "username": "lv__qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075041504805183705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074744464321720799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lv__qx: vpnが誰でも使えるのは知ってる流石に"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616813571433959424",
+        "conversation_id": "2074744464321720799",
+        "created_at": "2026-07-08T06:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074744464321720799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074744464321720799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10130,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "vpnが誰でも使えるのは知ってる流石に"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 64,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 41,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28095,
+          "following_count": 11480,
+          "like_count": 93302,
+          "listed_count": 104,
+          "media_count": 5346,
+          "tweet_count": 18591
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-21T15:02:57.000Z",
+        "description": "裏裏裏裏裏思考垂れ流し愚痴垢 ^. .^ ♡",
+        "id": "1616813571433959424",
+        "location": "日本語しか読めないですよ＞ᴗ＜♩翻訳してきて＞ᴗ＜♩",
+        "name": "るな 🎀‎⏦ﾟ",
+        "pinned_tweet_id": "1876738846538309985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071613131902926849/sEASNdP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "lv__qx",
+        "verified": true
+      }
+    ]
+  }
+}

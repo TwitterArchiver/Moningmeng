@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075816534543618406",
+    "created_at": "2026-07-11T05:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075816534543618406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1452537509875834880",
+          "start": 3,
+          "username": "kkggxxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075816534543618406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075568284435648818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkggxxyy: 不知道中国家长为什么不约而同地不让青春期男生刮胡子\n这是什么恶趣味吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075816534543618406",
+        "created_at": "2026-07-11T05:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075816534543618406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1452537509875834880",
+              "start": 3,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075816534543618406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075568284435648818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkggxxyy: 不知道中国家长为什么不约而同地不让青春期男生刮胡子\n这是什么恶趣味吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2075568284435648818",
+        "created_at": "2026-07-10T13:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075568284435648818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075568284435648818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 370539,
+          "like_count": 859,
+          "quote_count": 5,
+          "reply_count": 122,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "不知道中国家长为什么不约而同地不让青春期男生刮胡子\n这是什么恶趣味吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28208,
+          "following_count": 11567,
+          "like_count": 93799,
+          "listed_count": 104,
+          "media_count": 5375,
+          "tweet_count": 18723
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "🏳️‍⚧️ 不可结缘",
+        "id": "1452537509875834880",
+        "location": "大象鼻子",
+        "name": "하나나",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 237,
+          "like_count": 7112,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 6580
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false
+      }
+    ]
+  }
+}

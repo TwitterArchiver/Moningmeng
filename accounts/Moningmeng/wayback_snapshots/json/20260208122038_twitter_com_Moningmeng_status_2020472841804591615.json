@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020033346936377344"
+      ],
+      "media_source_tweet_id": [
+        "2020033381267083366"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2020472841804591615",
+    "created_at": "2026-02-08T12:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020472841804591615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2893886738",
+          "start": 3,
+          "username": "bbjk666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sIfjumCPo1",
+          "end": 36,
+          "expanded_url": "https://x.com/bbjk666/status/2020033381267083366/photo/1",
+          "media_key": "3_2020033346936377344",
+          "start": 13,
+          "url": "https://t.co/sIfjumCPo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020472841804591615",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 724
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020033381267083366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbjk666: https://t.co/sIfjumCPo1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020033346936377344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiZoF6WEAA9a8A.jpg",
+        "width": 773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020033346936377344"
+          ],
+          "media_source_tweet_id": [
+            "2020033381267083366"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2020472841804591615",
+        "created_at": "2026-02-08T12:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020472841804591615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2893886738",
+              "start": 3,
+              "username": "bbjk666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIfjumCPo1",
+              "end": 36,
+              "expanded_url": "https://x.com/bbjk666/status/2020033381267083366/photo/1",
+              "media_key": "3_2020033346936377344",
+              "start": 13,
+              "url": "https://t.co/sIfjumCPo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020472841804591615",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 724
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020033381267083366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbjk666: https://t.co/sIfjumCPo1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020033346936377344"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "2020033381267083366",
+        "created_at": "2026-02-07T07:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020033381267083366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIfjumCPo1",
+              "end": 23,
+              "expanded_url": "https://x.com/bbjk666/status/2020033381267083366/photo/1",
+              "media_key": "3_2020033346936377344",
+              "start": 0,
+              "url": "https://t.co/sIfjumCPo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020033381267083366",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1156,
+          "impression_count": 1249269,
+          "like_count": 21947,
+          "quote_count": 41,
+          "reply_count": 127,
+          "retweet_count": 724
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sIfjumCPo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26491,
+          "following_count": 10954,
+          "like_count": 85438,
+          "listed_count": 101,
+          "media_count": 4710,
+          "tweet_count": 16054
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "不看病、不卖药，如有不身体适，请尽快就医。分享的内容源自网络，侵删。点赞=已阅。 ⭐不要相信山寨我的账号和评论区非官方广告❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIoM9"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "X平台",
+        "name": "背包健客",
+        "pinned_tweet_id": "2020033381267083366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173601,
+          "following_count": 1892,
+          "like_count": 16811,
+          "listed_count": 648,
+          "media_count": 13751,
+          "tweet_count": 19244
+        },
+        "url": "https://t.co/XQRiJuIoM9",
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

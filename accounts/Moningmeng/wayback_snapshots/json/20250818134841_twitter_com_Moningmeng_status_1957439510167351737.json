@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      }
+    ],
+    "conversation_id": "1957439510167351737",
+    "created_at": "2025-08-18T13:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T14:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957439510167351737"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "LI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。",
+          "display_url": "611study.ICU",
+          "end": 70,
+          "expanded_url": "http://611study.ICU",
+          "start": 47,
+          "status": 200,
+          "title": "611 Study ICU.",
+          "unwound_url": "https://www.611study.icu/zh-CN",
+          "url": "https://t.co/lc7GDE1X9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957439510167351737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946193970633040108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 随着暑期违规补课的学校逐渐增多\n$LI 社区宣布发起 https://t.co/lc7GDE1X9o 暑假版\n如果你的学校存在暑期违规补课情况，请在下方填写问卷。我们将对全国范围内所有违规补课的学校进行曝光。\n同时，我们亦欢迎大家同时检举…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957439510167351737].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957439510167351737",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957439510167351737"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1946193482084749312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJEqRvXkAAtUmD.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946193482084749312"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1946193970633040108",
+        "created_at": "2025-07-18T13:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T14:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946193970633040108"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "LI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。",
+              "display_url": "611study.ICU",
+              "end": 50,
+              "expanded_url": "http://611study.ICU",
+              "start": 27,
+              "status": 200,
+              "title": "611 Study ICU.",
+              "unwound_url": "https://www.611study.icu/zh-CN",
+              "url": "https://t.co/lc7GDE1X9o"
+            },
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。",
+              "display_url": "611study.ICU",
+              "end": 166,
+              "expanded_url": "http://611study.ICU",
+              "start": 143,
+              "status": 200,
+              "title": "611 Study ICU.",
+              "unwound_url": "https://www.611study.icu/zh-CN",
+              "url": "https://t.co/lc7GDE1X9o"
+            },
+            {
+              "display_url": "pic.x.com/jDz6RbOkTE",
+              "end": 190,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1946193970633040108/photo/1",
+              "media_key": "3_1946193482084749312",
+              "start": 167,
+              "url": "https://t.co/jDz6RbOkTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946193970633040108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "LI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "611study.ICU",
+                "end": 50,
+                "expanded_url": "http://611study.ICU",
+                "start": 27,
+                "url": "https://t.co/5apgt8fCWs"
+              },
+              {
+                "display_url": "611study.ICU",
+                "end": 166,
+                "expanded_url": "http://611study.ICU",
+                "start": 143,
+                "url": "https://t.co/5apgt8fCWs"
+              },
+              {
+                "display_url": "611study.icu/zh-CN/summer-c…",
+                "end": 199,
+                "expanded_url": "https://www.611study.icu/zh-CN/summer-camp",
+                "start": 176,
+                "url": "https://t.co/SWyeqKmYCb"
+              }
+            ]
+          },
+          "text": "随着暑期违规补课的学校逐渐增多\n$LI 社区宣布发起 https://t.co/5apgt8fCWs 暑假版\n如果你的学校存在暑期违规补课情况，请在下方填写问卷。我们将对全国范围内所有违规补课的学校进行曝光。\n同时，我们亦欢迎大家同时检举学校存在的贪污腐败，体罚学生，升学率造假问题。\nhttps://t.co/5apgt8fCWs 暑假版 问卷地址：https://t.co/SWyeqKmYCb\n你的境遇，掷地有声！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 5643092,
+          "like_count": 2126,
+          "quote_count": 12,
+          "reply_count": 309,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "随着暑期违规补课的学校逐渐增多\n$LI 社区宣布发起 https://t.co/lc7GDE1X9o 暑假版\n如果你的学校存在暑期违规补课情况，请在下方填写问卷。我们将对全国范围内所有违规补课的学校进行曝光。\n同时，我们亦欢迎大家同时检举学校存在的贪污腐败，体罚学生，升学率造假问题。\nhttps://t.co/lc7GDE1X9o https://t.co/jDz6RbOkTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953648748330201088/g7X92lyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22125,
+          "following_count": 10909,
+          "like_count": 82607,
+          "listed_count": 80,
+          "media_count": 4054,
+          "tweet_count": 15015
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082225,
+          "following_count": 983,
+          "like_count": 7938,
+          "listed_count": 8269,
+          "media_count": 33627,
+          "tweet_count": 40379
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

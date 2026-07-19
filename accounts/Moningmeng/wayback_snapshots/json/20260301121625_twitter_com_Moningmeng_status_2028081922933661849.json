@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027956691590098944"
+      ],
+      "media_source_tweet_id": [
+        "2027956708178595973"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2028081922933661849",
+    "created_at": "2026-03-01T12:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028081922933661849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719894544693755904",
+          "start": 3,
+          "username": "wangsanyiX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/adX2HcEbd3",
+          "end": 58,
+          "expanded_url": "https://x.com/wangsanyiX/status/2027956708178595973/photo/1",
+          "media_key": "3_2027956691590098944",
+          "start": 35,
+          "url": "https://t.co/adX2HcEbd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028081922933661849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027956708178595973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangsanyiX: “这下知道爸爸为什么要造核武器了吧” https://t.co/adX2HcEbd3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2027956691590098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCS_3c4asAA8ACN.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027956691590098944"
+          ],
+          "media_source_tweet_id": [
+            "2027956708178595973"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2028081922933661849",
+        "created_at": "2026-03-01T12:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028081922933661849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719894544693755904",
+              "start": 3,
+              "username": "wangsanyiX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/adX2HcEbd3",
+              "end": 58,
+              "expanded_url": "https://x.com/wangsanyiX/status/2027956708178595973/photo/1",
+              "media_key": "3_2027956691590098944",
+              "start": 35,
+              "url": "https://t.co/adX2HcEbd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028081922933661849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027956708178595973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangsanyiX: “这下知道爸爸为什么要造核武器了吧” https://t.co/adX2HcEbd3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027956691590098944"
+          ]
+        },
+        "author_id": "1719894544693755904",
+        "conversation_id": "2027956708178595973",
+        "created_at": "2026-03-01T03:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027956708178595973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adX2HcEbd3",
+              "end": 42,
+              "expanded_url": "https://x.com/wangsanyiX/status/2027956708178595973/photo/1",
+              "media_key": "3_2027956691590098944",
+              "start": 19,
+              "url": "https://t.co/adX2HcEbd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027956708178595973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 463825,
+          "like_count": 2359,
+          "quote_count": 14,
+          "reply_count": 147,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "“这下知道爸爸为什么要造核武器了吧” https://t.co/adX2HcEbd3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26789,
+          "following_count": 11025,
+          "like_count": 86753,
+          "listed_count": 101,
+          "media_count": 4799,
+          "tweet_count": 16359
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T01:50:01.000Z",
+        "description": "看尽人间繁华，终难抵你丰乳肥臀。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/1Id5FtWYDRI/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/1Id5FtWYDRI/",
+                "start": 0,
+                "url": "https://t.co/MHxckXSSt9"
+              }
+            ]
+          }
+        },
+        "id": "1719894544693755904",
+        "location": "Shenzhen ",
+        "name": "王三一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008660692245630976/qMwHI3my_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30062,
+          "following_count": 731,
+          "like_count": 84416,
+          "listed_count": 80,
+          "media_count": 278,
+          "tweet_count": 19756
+        },
+        "url": "https://t.co/MHxckXSSt9",
+        "username": "wangsanyiX",
+        "verified": true
+      }
+    ]
+  }
+}

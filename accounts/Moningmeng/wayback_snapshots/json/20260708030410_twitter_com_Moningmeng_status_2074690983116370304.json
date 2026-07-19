@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074343016538767360"
+      ],
+      "media_source_tweet_id": [
+        "2074343018723983807"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074690983116370304",
+    "created_at": "2026-07-08T03:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074690983116370304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQBEuRAgvl",
+          "end": 62,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2074343018723983807/photo/1",
+          "media_key": "3_2074343016538767360",
+          "start": 39,
+          "url": "https://t.co/xQBEuRAgvl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074690983116370304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074343018723983807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 很多东北高校 日企德企你都不能看他的历史 https://t.co/xQBEuRAgvl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074343016538767360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmL-7MbAAApsuM.jpg",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074343016538767360"
+          ],
+          "media_source_tweet_id": [
+            "2074343018723983807"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074690983116370304",
+        "created_at": "2026-07-08T03:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074690983116370304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQBEuRAgvl",
+              "end": 62,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2074343018723983807/photo/1",
+              "media_key": "3_2074343016538767360",
+              "start": 39,
+              "url": "https://t.co/xQBEuRAgvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074690983116370304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074343018723983807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 很多东北高校 日企德企你都不能看他的历史 https://t.co/xQBEuRAgvl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074343016538767360"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2074343018723983807",
+        "created_at": "2026-07-07T04:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074343018723983807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQBEuRAgvl",
+              "end": 44,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2074343018723983807/photo/1",
+              "media_key": "3_2074343016538767360",
+              "start": 21,
+              "url": "https://t.co/xQBEuRAgvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074343018723983807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 79253,
+          "like_count": 709,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "很多东北高校 日企德企你都不能看他的历史 https://t.co/xQBEuRAgvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28055,
+          "following_count": 11377,
+          "like_count": 92589,
+          "listed_count": 104,
+          "media_count": 5321,
+          "tweet_count": 18406
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5715,
+          "following_count": 1913,
+          "like_count": 72587,
+          "listed_count": 13,
+          "media_count": 1630,
+          "tweet_count": 12422
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

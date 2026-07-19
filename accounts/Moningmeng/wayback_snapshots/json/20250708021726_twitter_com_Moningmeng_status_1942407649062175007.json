@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942142375683330048"
+      ],
+      "media_source_tweet_id": [
+        "1942142387066998969"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1942407649062175007",
+    "created_at": "2025-07-08T02:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942407649062175007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858727254345281536",
+          "start": 3,
+          "username": "yusanyyy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2T2TdZPNu",
+          "end": 41,
+          "expanded_url": "https://x.com/yusanyyy8/status/1942142387066998969/photo/1",
+          "media_key": "3_1942142375683330048",
+          "start": 18,
+          "url": "https://t.co/V2T2TdZPNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942407649062175007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942142387066998969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusanyyy8: 人机 https://t.co/V2T2TdZPNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1942142375683330048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPgM2XWkAAQbQz.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942142375683330048"
+          ],
+          "media_source_tweet_id": [
+            "1942142387066998969"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1942407649062175007",
+        "created_at": "2025-07-08T02:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942407649062175007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 3,
+              "username": "yusanyyy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2T2TdZPNu",
+              "end": 41,
+              "expanded_url": "https://x.com/yusanyyy8/status/1942142387066998969/photo/1",
+              "media_key": "3_1942142375683330048",
+              "start": 18,
+              "url": "https://t.co/V2T2TdZPNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942407649062175007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942142387066998969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusanyyy8: 人机 https://t.co/V2T2TdZPNu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942142375683330048"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "1942142387066998969",
+        "created_at": "2025-07-07T08:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942142387066998969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2T2TdZPNu",
+              "end": 26,
+              "expanded_url": "https://x.com/yusanyyy8/status/1942142387066998969/photo/1",
+              "media_key": "3_1942142375683330048",
+              "start": 3,
+              "url": "https://t.co/V2T2TdZPNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942142387066998969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2885,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "人机 https://t.co/V2T2TdZPNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21381,
+          "following_count": 10725,
+          "like_count": 77840,
+          "listed_count": 77,
+          "media_count": 3837,
+          "tweet_count": 13957
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "自恋心🍀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "location": "⌯ᐢᗜᐢ⌯ಣ",
+        "name": "南🍄",
+        "pinned_tweet_id": "1925361316891681221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903372262008557568/2_TuDRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 66,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

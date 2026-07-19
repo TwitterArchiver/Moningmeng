@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069569189300609310",
+    "created_at": "2026-07-02T12:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072651516985626954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975202429521010688",
+          "start": 0,
+          "username": "magictubawen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072651516985626954",
+    "in_reply_to_user_id": "1975202429521010688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069569189300609310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magictubawen 7.2 我来了，你人呢😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069569189300609310",
+        "created_at": "2026-07-02T12:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072651516985626954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975202429521010688",
+              "start": 0,
+              "username": "magictubawen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072651516985626954",
+        "in_reply_to_user_id": "1975202429521010688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069569189300609310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magictubawen 7.2 我来了，你人呢😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975202429521010688",
+        "conversation_id": "2069569189300609310",
+        "created_at": "2026-06-23T23:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069569189300609310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "西单"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "北京"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069569189300609310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃西单 ＃北京 ＃mtf 有人今天去西单吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27944,
+          "following_count": 11205,
+          "like_count": 92418,
+          "listed_count": 103,
+          "media_count": 5300,
+          "tweet_count": 18259
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T14:12:24.000Z",
+        "description": "七喜/北京/https://t.co/E22XnTojx5 祝大家都有人爱/梦想开心的去死",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/magicqixi",
+                "end": 29,
+                "expanded_url": "https://t.me/magicqixi",
+                "start": 6,
+                "url": "https://t.co/E22XnTojx5"
+              }
+            ]
+          }
+        },
+        "id": "1975202429521010688",
+        "location": "sea",
+        "name": "sevenhappy🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060631540481339496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039834021128249344/Kfh4_n36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 184,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "magictubawen",
+        "verified": false
+      }
+    ]
+  }
+}

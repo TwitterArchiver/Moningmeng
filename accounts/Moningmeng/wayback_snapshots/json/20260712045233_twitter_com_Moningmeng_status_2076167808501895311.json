@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075947701263294464"
+      ],
+      "media_source_tweet_id": [
+        "2075947741306339369"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2076167808501895311",
+    "created_at": "2026-07-12T04:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076167808501895311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950548412140494848",
+          "start": 3,
+          "username": "QinYueLe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GXgq3pN81M",
+          "end": 37,
+          "expanded_url": "https://x.com/QinYueLe/status/2075947741306339369/photo/1",
+          "media_key": "3_2075947701263294464",
+          "start": 14,
+          "url": "https://t.co/GXgq3pN81M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076167808501895311",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075947741306339369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QinYueLe: https://t.co/GXgq3pN81M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2075947701263294464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8_b3oWYAAPBkq.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075947701263294464"
+          ],
+          "media_source_tweet_id": [
+            "2075947741306339369"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2076167808501895311",
+        "created_at": "2026-07-12T04:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076167808501895311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950548412140494848",
+              "start": 3,
+              "username": "QinYueLe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXgq3pN81M",
+              "end": 37,
+              "expanded_url": "https://x.com/QinYueLe/status/2075947741306339369/photo/1",
+              "media_key": "3_2075947701263294464",
+              "start": 14,
+              "url": "https://t.co/GXgq3pN81M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076167808501895311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075947741306339369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QinYueLe: https://t.co/GXgq3pN81M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075947701263294464"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2075947741306339369",
+        "created_at": "2026-07-11T14:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075947741306339369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXgq3pN81M",
+              "end": 23,
+              "expanded_url": "https://x.com/QinYueLe/status/2075947741306339369/photo/1",
+              "media_key": "3_2075947701263294464",
+              "start": 0,
+              "url": "https://t.co/GXgq3pN81M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075947741306339369",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 47930,
+          "like_count": 540,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GXgq3pN81M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28251,
+          "following_count": 11590,
+          "like_count": 94039,
+          "listed_count": 104,
+          "media_count": 5389,
+          "tweet_count": 18782
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27808,
+          "following_count": 375,
+          "like_count": 2606,
+          "listed_count": 81,
+          "media_count": 2089,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": true
+      }
+    ]
+  }
+}

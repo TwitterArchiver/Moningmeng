@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2062846820599083070",
+    "created_at": "2026-06-05T10:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:36:14.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062845948322329060",
+      "2062846820599083070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062846820599083070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "警察查vpn，是为了维护国家安全稳定，人家有权力这么做\n\n什么时候轮到你学校查手机了，你有你妈的资格管学生手机？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062845948322329060",
+        "created_at": "2026-06-05T10:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:36:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062845948322329060",
+          "2062846820599083070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062845948322329060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警察查vpn，是为了维护国家安全稳定，人家有权力这么做\n\n你一个学校有你妈的资格管学生手机？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062846820599083070",
+        "created_at": "2026-06-05T10:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:36:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062845948322329060",
+          "2062846820599083070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062846820599083070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警察查vpn，是为了维护国家安全稳定，人家有权力这么做\n\n什么时候轮到你学校查手机了，你有你妈的资格管学生手机？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27681,
+          "following_count": 11086,
+          "like_count": 90514,
+          "listed_count": 102,
+          "media_count": 5189,
+          "tweet_count": 17613
+        },
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

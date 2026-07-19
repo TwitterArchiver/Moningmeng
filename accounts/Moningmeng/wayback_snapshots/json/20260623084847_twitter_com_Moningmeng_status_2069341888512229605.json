@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069341888512229605",
+    "created_at": "2026-06-23T08:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069341888512229605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829911631931015168",
+          "start": 3,
+          "username": "ZionFromZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069341888512229605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069250024706543718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZionFromZero: 这辈子做过最正确的决定之一，就是换了 Mac\n\n太好用了\n\n对于不打游戏的人来说，Win就是垃圾。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069341888512229605",
+        "created_at": "2026-06-23T08:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069341888512229605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829911631931015168",
+              "start": 3,
+              "username": "ZionFromZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069341888512229605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069250024706543718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZionFromZero: 这辈子做过最正确的决定之一，就是换了 Mac\n\n太好用了\n\n对于不打游戏的人来说，Win就是垃圾。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829911631931015168",
+        "conversation_id": "2069250024706543718",
+        "created_at": "2026-06-23T02:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:42:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069249762122240439",
+          "2069250024706543718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069250024706543718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4057,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子做过最正确的决定之一，就是换了 Mac\n\n太好用了\n\n对于不打游戏的人来说，Win就是垃圾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27817,
+          "following_count": 11116,
+          "like_count": 92057,
+          "listed_count": 102,
+          "media_count": 5265,
+          "tweet_count": 18035
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T15:58:42.000Z",
+        "description": "从0开始学AI｜A股&美股 & Crypto 观察｜健身，\n只记录真实进化。",
+        "id": "1829911631931015168",
+        "name": "Zion",
+        "pinned_tweet_id": "2068607669305545135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065825188982538240/q-9fLyUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 915,
+          "like_count": 529,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "ZionFromZero",
+        "verified": true
+      }
+    ]
+  }
+}

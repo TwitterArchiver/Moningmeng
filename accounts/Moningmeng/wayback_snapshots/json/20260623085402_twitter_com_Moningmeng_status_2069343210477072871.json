@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069343210477072871",
+    "created_at": "2026-06-23T08:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343210477072871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "45533427",
+          "start": 3,
+          "username": "lsg635579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343210477072871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069209727561851183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lsg635579: 告别贴：\n再次声明，本人已退订premium，从此告别X。各位朋友可以取关我了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069343210477072871",
+        "created_at": "2026-06-23T08:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343210477072871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "45533427",
+              "start": 3,
+              "username": "lsg635579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343210477072871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069209727561851183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lsg635579: 告别贴：\n再次声明，本人已退订premium，从此告别X。各位朋友可以取关我了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "45533427",
+        "conversation_id": "2069209727561851183",
+        "created_at": "2026-06-23T00:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069209727561851183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069209727561851183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2683,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "告别贴：\n再次声明，本人已退订premium，从此告别X。各位朋友可以取关我了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27818,
+          "following_count": 11117,
+          "like_count": 92100,
+          "listed_count": 102,
+          "media_count": 5265,
+          "tweet_count": 18042
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-08T09:39:07.000Z",
+        "description": "在星际间漫游\n发现有趣、好玩儿的事\n也感悟值得思考的现象",
+        "id": "45533427",
+        "location": "universe",
+        "name": "星际旅行观察家（star traveller and observer）",
+        "pinned_tweet_id": "2068496591170973936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041380399864320000/O7CADL5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 3644,
+          "like_count": 18938,
+          "listed_count": 5,
+          "media_count": 519,
+          "tweet_count": 18145
+        },
+        "url": "",
+        "username": "lsg635579",
+        "verified": true
+      }
+    ]
+  }
+}

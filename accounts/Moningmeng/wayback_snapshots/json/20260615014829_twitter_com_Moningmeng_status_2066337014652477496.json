@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066184458668306432"
+      ],
+      "media_source_tweet_id": [
+        "2066184790995575245"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2066337014652477496",
+    "created_at": "2026-06-15T01:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066337014652477496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1715380059278831619",
+          "start": 3,
+          "username": "Killer_Haruhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pPmnmPZDzF",
+          "end": 69,
+          "expanded_url": "https://x.com/Killer_Haruhi/status/2066184790995575245/photo/1",
+          "media_key": "3_2066184458668306432",
+          "start": 46,
+          "url": "https://t.co/pPmnmPZDzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066337014652477496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066184790995575245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Killer_Haruhi: 一般人花费一生时间也很难理解透彻的中国特色政治理论： https://t.co/pPmnmPZDzF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 119,
+        "media_key": "3_2066184458668306432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyP0WtbcAAQGLk.png",
+        "width": 402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066184458668306432"
+          ],
+          "media_source_tweet_id": [
+            "2066184790995575245"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2066337014652477496",
+        "created_at": "2026-06-15T01:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066337014652477496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1715380059278831619",
+              "start": 3,
+              "username": "Killer_Haruhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPmnmPZDzF",
+              "end": 69,
+              "expanded_url": "https://x.com/Killer_Haruhi/status/2066184790995575245/photo/1",
+              "media_key": "3_2066184458668306432",
+              "start": 46,
+              "url": "https://t.co/pPmnmPZDzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066337014652477496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066184790995575245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Killer_Haruhi: 一般人花费一生时间也很难理解透彻的中国特色政治理论： https://t.co/pPmnmPZDzF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066184458668306432"
+          ]
+        },
+        "author_id": "1715380059278831619",
+        "conversation_id": "2066184790995575245",
+        "created_at": "2026-06-14T15:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066184790995575245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPmnmPZDzF",
+              "end": 50,
+              "expanded_url": "https://x.com/Killer_Haruhi/status/2066184790995575245/photo/1",
+              "media_key": "3_2066184458668306432",
+              "start": 27,
+              "url": "https://t.co/pPmnmPZDzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066184790995575245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 57488,
+          "like_count": 685,
+          "quote_count": 7,
+          "reply_count": 87,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "一般人花费一生时间也很难理解透彻的中国特色政治理论： https://t.co/pPmnmPZDzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27704,
+          "following_count": 11080,
+          "like_count": 90912,
+          "listed_count": 102,
+          "media_count": 5219,
+          "tweet_count": 17709
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "哭泣并不会使你得到自由。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 559,
+          "like_count": 48194,
+          "listed_count": 23,
+          "media_count": 954,
+          "tweet_count": 14739
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067433830022299649"
+      ],
+      "media_source_tweet_id": [
+        "2067433832811516114"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2067587402793902248",
+    "created_at": "2026-06-18T12:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067587402793902248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4QW2SvRSm",
+          "end": 60,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2067433832811516114/photo/1",
+          "media_key": "3_2067433830022299649",
+          "start": 37,
+          "url": "https://t.co/w4QW2SvRSm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067587402793902248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067433832811516114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 这是我能想象到的最完美的人类👇 https://t.co/w4QW2SvRSm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067587402793902248].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067587402793902248",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067587402793902248"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_2067433830022299649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEAHVsawAEY8y2.jpg",
+        "width": 1679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067433830022299649"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2067433832811516114",
+        "created_at": "2026-06-18T02:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067433832811516114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4QW2SvRSm",
+              "end": 39,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2067433832811516114/photo/1",
+              "media_key": "3_2067433830022299649",
+              "start": 16,
+              "url": "https://t.co/w4QW2SvRSm"
+            },
+            {
+              "display_url": "x.com/Q0S_Rimu/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Q0S_Rimu/status/2066867046072406368",
+              "start": 40,
+              "url": "https://t.co/RRFuL647De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067433832811516114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 30434,
+          "like_count": 591,
+          "quote_count": 19,
+          "reply_count": 56,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066867046072406368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我能想象到的最完美的人类👇 https://t.co/w4QW2SvRSm https://t.co/RRFuL647De"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27726,
+          "following_count": 11077,
+          "like_count": 90942,
+          "listed_count": 102,
+          "media_count": 5231,
+          "tweet_count": 17757
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1964,
+          "like_count": 3156,
+          "listed_count": 3,
+          "media_count": 416,
+          "tweet_count": 6690
+        },
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1957806328094830602",
+    "created_at": "2025-08-19T14:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T15:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957806328094830602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1292795033272213510",
+          "start": 3,
+          "username": "xuaning2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957806328094830602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957477773154627901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuaning2: 我至今不敢相象我高一由于数学考试一直写不出来，特别紧张然后不停的夹腿，最后射了出来（这是真事）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1957806328094830602",
+        "created_at": "2025-08-19T14:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957806328094830602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1292795033272213510",
+              "start": 3,
+              "username": "xuaning2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957806328094830602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957477773154627901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuaning2: 我至今不敢相象我高一由于数学考试一直写不出来，特别紧张然后不停的夹腿，最后射了出来（这是真事）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292795033272213510",
+        "conversation_id": "1957477773154627901",
+        "created_at": "2025-08-18T16:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957477773154627901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957477773154627901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10860,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我至今不敢相象我高一由于数学考试一直写不出来，特别紧张然后不停的夹腿，最后射了出来（这是真事）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953648748330201088/g7X92lyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22151,
+          "following_count": 10912,
+          "like_count": 82714,
+          "listed_count": 80,
+          "media_count": 4063,
+          "tweet_count": 15063
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T12:08:55.000Z",
+        "description": "170/50 黑皮小药娘\n无证含糖hrt（2025.2.22—）\n未来会越来越美好！",
+        "id": "1292795033272213510",
+        "location": "🚪88",
+        "name": "小蜘xiaozi",
+        "pinned_tweet_id": "1957805333100786046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915789412212051968/Qb4e7bVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19419,
+          "following_count": 790,
+          "like_count": 4940,
+          "listed_count": 102,
+          "media_count": 45,
+          "tweet_count": 67
+        },
+        "username": "xuaning2",
+        "verified": false
+      }
+    ]
+  }
+}

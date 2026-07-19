@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947905116813856769"
+      ],
+      "media_source_tweet_id": [
+        "1947905126309761147"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1948200377230430418",
+    "created_at": "2025-07-24T01:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T02:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948200377230430418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1130781616274468864",
+          "start": 3,
+          "username": "_SHIGURERERE_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3JsRbqJRNU",
+          "end": 66,
+          "expanded_url": "https://x.com/_SHIGURERERE_/status/1947905126309761147/photo/1",
+          "media_key": "3_1947905116813856769",
+          "start": 43,
+          "url": "https://t.co/3JsRbqJRNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948200377230430418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947905126309761147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_SHIGURERERE_: 面试的时候被发现会说日语所以被赶了出来.jpg https://t.co/3JsRbqJRNU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947905116813856769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhZYh_bEAEAOvQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947905116813856769"
+          ],
+          "media_source_tweet_id": [
+            "1947905126309761147"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1948200377230430418",
+        "created_at": "2025-07-24T01:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T02:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948200377230430418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1130781616274468864",
+              "start": 3,
+              "username": "_SHIGURERERE_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JsRbqJRNU",
+              "end": 66,
+              "expanded_url": "https://x.com/_SHIGURERERE_/status/1947905126309761147/photo/1",
+              "media_key": "3_1947905116813856769",
+              "start": 43,
+              "url": "https://t.co/3JsRbqJRNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948200377230430418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947905126309761147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_SHIGURERERE_: 面试的时候被发现会说日语所以被赶了出来.jpg https://t.co/3JsRbqJRNU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947905116813856769"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "1947905126309761147",
+        "created_at": "2025-07-23T06:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T07:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947905126309761147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JsRbqJRNU",
+              "end": 47,
+              "expanded_url": "https://x.com/_SHIGURERERE_/status/1947905126309761147/photo/1",
+              "media_key": "3_1947905116813856769",
+              "start": 24,
+              "url": "https://t.co/3JsRbqJRNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947905126309761147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22602,
+          "like_count": 372,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "面试的时候被发现会说日语所以被赶了出来.jpg https://t.co/3JsRbqJRNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21637,
+          "following_count": 10853,
+          "like_count": 80228,
+          "listed_count": 75,
+          "media_count": 3934,
+          "tweet_count": 14499
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "停滞圣权 神秘观察者 🫀@███",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+XgR11PBoaTdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+XgR11PBoaTdmZGM1",
+                "start": 0,
+                "url": "https://t.co/Dc1m1q80Ht"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "失落帝国",
+        "name": "sgr",
+        "pinned_tweet_id": "1939029236301602992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930248403268841473/WgJJUqUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61826,
+          "following_count": 2099,
+          "like_count": 50322,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/Dc1m1q80Ht",
+        "username": "_SHIGURERERE_",
+        "verified": true
+      }
+    ]
+  }
+}

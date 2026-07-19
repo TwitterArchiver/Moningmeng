@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073543405980798977"
+      ],
+      "media_source_tweet_id": [
+        "2073543409722159224"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2073939208667021436",
+    "created_at": "2026-07-06T01:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073939208667021436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsoUYwvjHO",
+          "end": 42,
+          "expanded_url": "https://x.com/Kenntnis22/status/2073543409722159224/photo/1",
+          "media_key": "3_2073543405980798977",
+          "start": 19,
+          "url": "https://t.co/jsoUYwvjHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073939208667021436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073543409722159224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 好爹 https://t.co/jsoUYwvjHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2073543405980798977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMa0vdvW0AEhTZ0.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073543405980798977"
+          ],
+          "media_source_tweet_id": [
+            "2073543409722159224"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2073939208667021436",
+        "created_at": "2026-07-06T01:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073939208667021436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsoUYwvjHO",
+              "end": 42,
+              "expanded_url": "https://x.com/Kenntnis22/status/2073543409722159224/photo/1",
+              "media_key": "3_2073543405980798977",
+              "start": 19,
+              "url": "https://t.co/jsoUYwvjHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073939208667021436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073543409722159224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 好爹 https://t.co/jsoUYwvjHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073543405980798977"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2073543409722159224",
+        "created_at": "2026-07-04T23:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073543409722159224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsoUYwvjHO",
+              "end": 26,
+              "expanded_url": "https://x.com/Kenntnis22/status/2073543409722159224/photo/1",
+              "media_key": "3_2073543405980798977",
+              "start": 3,
+              "url": "https://t.co/jsoUYwvjHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073543409722159224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 322197,
+          "like_count": 3430,
+          "quote_count": 10,
+          "reply_count": 264,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "好爹 https://t.co/jsoUYwvjHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27997,
+          "following_count": 11265,
+          "like_count": 92369,
+          "listed_count": 104,
+          "media_count": 5313,
+          "tweet_count": 18305
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2072832143986729351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56293,
+          "following_count": 446,
+          "like_count": 61666,
+          "listed_count": 279,
+          "media_count": 13576,
+          "tweet_count": 20948
+        },
+        "url": "",
+        "username": "Kenntnis22",
+        "verified": false
+      }
+    ]
+  }
+}

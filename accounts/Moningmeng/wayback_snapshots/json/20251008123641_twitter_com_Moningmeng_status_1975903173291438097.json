@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975806048004177920"
+      ],
+      "media_source_tweet_id": [
+        "1975806051330236748"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1975903173291438097",
+    "created_at": "2025-10-08T12:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T13:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975903173291438097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yNKHkJ0Ibe",
+          "end": 90,
+          "expanded_url": "https://x.com/IzayoiMarin/status/1975806051330236748/photo/1",
+          "media_key": "3_1975806048004177920",
+          "start": 67,
+          "url": "https://t.co/yNKHkJ0Ibe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975903173291438097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975806051330236748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 如何评价那群一见到cos《我的英雄学院》中角色的人就开始兴奋起来大喊“柜子”并抢着争着去摘头套的人 https://t.co/yNKHkJ0Ibe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 126,
+        "media_key": "3_1975806048004177920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2t5IeRbgAAP_Mr.jpg",
+        "width": 325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975806048004177920"
+          ],
+          "media_source_tweet_id": [
+            "1975806051330236748"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1975903173291438097",
+        "created_at": "2025-10-08T12:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975903173291438097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNKHkJ0Ibe",
+              "end": 90,
+              "expanded_url": "https://x.com/IzayoiMarin/status/1975806051330236748/photo/1",
+              "media_key": "3_1975806048004177920",
+              "start": 67,
+              "url": "https://t.co/yNKHkJ0Ibe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975903173291438097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975806051330236748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 如何评价那群一见到cos《我的英雄学院》中角色的人就开始兴奋起来大喊“柜子”并抢着争着去摘头套的人 https://t.co/yNKHkJ0Ibe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975806048004177920"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "1975806051330236748",
+        "created_at": "2025-10-08T06:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975806051330236748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNKHkJ0Ibe",
+              "end": 73,
+              "expanded_url": "https://x.com/IzayoiMarin/status/1975806051330236748/photo/1",
+              "media_key": "3_1975806048004177920",
+              "start": 50,
+              "url": "https://t.co/yNKHkJ0Ibe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975806051330236748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8609,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价那群一见到cos《我的英雄学院》中角色的人就开始兴奋起来大喊“柜子”并抢着争着去摘头套的人 https://t.co/yNKHkJ0Ibe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23166,
+          "following_count": 10927,
+          "like_count": 84358,
+          "listed_count": 83,
+          "media_count": 4271,
+          "tweet_count": 15418
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "17歳（虚）/高二（上学白天不在）/物化生/生理性别女/坐标山东/尸体/国籍：🇨🇳/夢：🇯🇵/中国語OK/日本語下手/ちんこ165cm/神经病/不爱鉴证/互fo/フォローバ99.9%/音ゲ/二次元/アニメ/JPOP/纯爱butクズ女/不爱看私信/中文推文/日本語ツイート/碎碎念/各种吐槽/mktdaisuki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "daisuki",
+        "name": "まりん（死体）",
+        "pinned_tweet_id": "1975134571168674016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975116710077161472/Obi-A288_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1378,
+          "like_count": 22613,
+          "listed_count": 3,
+          "media_count": 873,
+          "tweet_count": 10299
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

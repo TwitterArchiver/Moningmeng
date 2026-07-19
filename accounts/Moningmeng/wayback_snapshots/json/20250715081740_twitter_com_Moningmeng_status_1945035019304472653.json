@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1945035019304472653",
+    "created_at": "2025-07-15T08:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T09:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945035019304472653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "330765347",
+          "start": 3,
+          "username": "hd_nvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945035019304472653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944439862699889124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hd_nvim: 抱歉，我刚才竟然update语句里面没加where，让我们重试一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1945035019304472653",
+        "created_at": "2025-07-15T08:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T09:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945035019304472653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "330765347",
+              "start": 3,
+              "username": "hd_nvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945035019304472653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944439862699889124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hd_nvim: 抱歉，我刚才竟然update语句里面没加where，让我们重试一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "330765347",
+        "conversation_id": "1944439862699889124",
+        "created_at": "2025-07-13T16:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944439862699889124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944439862699889124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 48613,
+          "like_count": 265,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉，我刚才竟然update语句里面没加where，让我们重试一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "pinned_tweet_id": "1944975448124878924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21432,
+          "following_count": 10816,
+          "like_count": 79546,
+          "listed_count": 77,
+          "media_count": 3890,
+          "tweet_count": 14254
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-07T03:39:59.000Z",
+        "description": "🌐 Frontend Vimmer \n⚒️Open Source with @typescript @vuejs and @rustlang\n💻  @KuaishouVideos\n🚀 https://t.co/SLjF6No9qD is my hobby project",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "typescript"
+              },
+              {
+                "end": 56,
+                "start": 50,
+                "username": "vuejs"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "rustlang"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "KuaishouVideos"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ast-grep.github.io",
+                "end": 115,
+                "expanded_url": "http://ast-grep.github.io",
+                "start": 92,
+                "url": "https://t.co/SLjF6No9qD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HerringtonDark…",
+                "end": 23,
+                "expanded_url": "https://github.com/HerringtonDarkholme",
+                "start": 0,
+                "url": "https://t.co/gKJBeJbqEG"
+              }
+            ]
+          }
+        },
+        "id": "330765347",
+        "name": "Herrington Darkholme",
+        "pinned_tweet_id": "1936087859343097900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2277199942/55ostut4hlc1j1zayw05_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6742,
+          "following_count": 2657,
+          "like_count": 104866,
+          "listed_count": 68,
+          "media_count": 1794,
+          "tweet_count": 14873
+        },
+        "url": "https://t.co/gKJBeJbqEG",
+        "username": "hd_nvim",
+        "verified": false
+      }
+    ]
+  }
+}

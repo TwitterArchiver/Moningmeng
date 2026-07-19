@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943127306458828800"
+      ],
+      "media_source_tweet_id": [
+        "1943127346187567342"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1943601337687499215",
+    "created_at": "2025-07-11T09:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T10:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943601337687499215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AP58BIEtcV",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/1943127346187567342/photo/1",
+          "media_key": "3_1943127306458828800",
+          "start": 15,
+          "url": "https://t.co/AP58BIEtcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943601337687499215",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943127346187567342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/AP58BIEtcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1943127306458828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvdf_XbXEAAqM3L.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943127306458828800"
+          ],
+          "media_source_tweet_id": [
+            "1943127346187567342"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1943601337687499215",
+        "created_at": "2025-07-11T09:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943601337687499215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AP58BIEtcV",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/1943127346187567342/photo/1",
+              "media_key": "3_1943127306458828800",
+              "start": 15,
+              "url": "https://t.co/AP58BIEtcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943601337687499215",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943127346187567342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/AP58BIEtcV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943127306458828800"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1943127346187567342",
+        "created_at": "2025-07-10T01:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T02:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943127346187567342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AP58BIEtcV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1943127346187567342/photo/1",
+              "media_key": "3_1943127306458828800",
+              "start": 0,
+              "url": "https://t.co/AP58BIEtcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943127346187567342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 24841,
+          "like_count": 276,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AP58BIEtcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "一只沫柠～🍋🍋‍🟩🫐🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21407,
+          "following_count": 10765,
+          "like_count": 78366,
+          "listed_count": 77,
+          "media_count": 3859,
+          "tweet_count": 14061
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1908572439300497669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11413,
+          "following_count": 1,
+          "like_count": 48,
+          "listed_count": 32,
+          "media_count": 3540,
+          "tweet_count": 3563
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      }
+    ]
+  }
+}

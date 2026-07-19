@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2024825478864163136",
+    "created_at": "2026-02-20T12:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024827877867602369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937079095852158976",
+          "start": 0,
+          "username": "Chizuru_arch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024827877867602369",
+    "in_reply_to_user_id": "1937079095852158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024827624669986908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chizuru_arch 试着去和他们说明白吧，他们会把虐待自己的人当成主人一样护着。我是真的做过这种蠢事，后来就觉得卷的不够厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2024825478864163136",
+        "created_at": "2026-02-20T12:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024827877867602369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937079095852158976",
+              "start": 0,
+              "username": "Chizuru_arch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024827877867602369",
+        "in_reply_to_user_id": "1937079095852158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024827624669986908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chizuru_arch 试着去和他们说明白吧，他们会把虐待自己的人当成主人一样护着。我是真的做过这种蠢事，后来就觉得卷的不够厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937079095852158976",
+        "conversation_id": "2024825478864163136",
+        "created_at": "2026-02-20T12:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024827624669986908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024827624669986908",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024825478864163136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 这么说就更应该同情了。因为他们都没有意识到这是在虐待他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 27,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 4,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26684,
+          "following_count": 10992,
+          "like_count": 86403,
+          "listed_count": 102,
+          "media_count": 4769,
+          "tweet_count": 16281
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:23:58.000Z",
+        "description": "𒂼𒅈𒄄",
+        "id": "1937079095852158976",
+        "name": "子芊木🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998445949686046720/xpRehX_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 71,
+          "like_count": 5259,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 735
+        },
+        "username": "Chizuru_arch",
+        "verified": false
+      }
+    ]
+  }
+}

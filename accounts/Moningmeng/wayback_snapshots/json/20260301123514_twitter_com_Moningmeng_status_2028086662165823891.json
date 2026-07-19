@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2028086662165823891",
+    "created_at": "2026-03-01T12:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028086662165823891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543862185021304832",
+          "start": 3,
+          "username": "AJiao64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028086662165823891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027454797109211172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AJiao64: 发现外国femboy都是发腰子，中国femboy都是发腿跟脚🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2028086662165823891",
+        "created_at": "2026-03-01T12:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028086662165823891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543862185021304832",
+              "start": 3,
+              "username": "AJiao64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028086662165823891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027454797109211172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AJiao64: 发现外国femboy都是发腰子，中国femboy都是发腿跟脚🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543862185021304832",
+        "conversation_id": "2027454797109211172",
+        "created_at": "2026-02-27T18:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027454797109211172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027454797109211172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 155978,
+          "like_count": 804,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "发现外国femboy都是发腰子，中国femboy都是发腿跟脚🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26789,
+          "following_count": 11025,
+          "like_count": 86820,
+          "listed_count": 101,
+          "media_count": 4800,
+          "tweet_count": 16379
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T07:40:14.000Z",
+        "description": "一个兴趣使然的男娘。发点照片和自己的碎碎念。脾气很好。欢迎交友。",
+        "id": "1543862185021304832",
+        "location": "地球村",
+        "name": "Ajiao",
+        "pinned_tweet_id": "1959449491658170416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013076174734286848/w3Z2ta2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 396,
+          "like_count": 1115,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 278
+        },
+        "username": "AJiao64",
+        "verified": false
+      }
+    ]
+  }
+}

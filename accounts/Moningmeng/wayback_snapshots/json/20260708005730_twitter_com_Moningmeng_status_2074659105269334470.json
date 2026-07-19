@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074409795176529920"
+      ],
+      "media_source_tweet_id": [
+        "2074409799391842745"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074659105269334470",
+    "created_at": "2026-07-08T00:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074659105269334470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fc2sd8YFAS",
+          "end": 63,
+          "expanded_url": "https://x.com/satireorcry1/status/2074409799391842745/photo/1",
+          "media_key": "3_2074409795176529920",
+          "start": 40,
+          "url": "https://t.co/Fc2sd8YFAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074659105269334470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074409799391842745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 祝大家有一天都来到这里\n\n祝你们移民成功🏅 https://t.co/Fc2sd8YFAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2074409795176529920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnIt9AWgAA2jqv.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074409795176529920"
+          ],
+          "media_source_tweet_id": [
+            "2074409799391842745"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074659105269334470",
+        "created_at": "2026-07-08T00:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074659105269334470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fc2sd8YFAS",
+              "end": 63,
+              "expanded_url": "https://x.com/satireorcry1/status/2074409799391842745/photo/1",
+              "media_key": "3_2074409795176529920",
+              "start": 40,
+              "url": "https://t.co/Fc2sd8YFAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074659105269334470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074409799391842745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 祝大家有一天都来到这里\n\n祝你们移民成功🏅 https://t.co/Fc2sd8YFAS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074409795176529920"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2074409799391842745",
+        "created_at": "2026-07-07T08:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074409799391842745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fc2sd8YFAS",
+              "end": 45,
+              "expanded_url": "https://x.com/satireorcry1/status/2074409799391842745/photo/1",
+              "media_key": "3_2074409795176529920",
+              "start": 22,
+              "url": "https://t.co/Fc2sd8YFAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074409799391842745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 29978,
+          "like_count": 465,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "祝大家有一天都来到这里\n\n祝你们移民成功🏅 https://t.co/Fc2sd8YFAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28052,
+          "following_count": 11363,
+          "like_count": 92549,
+          "listed_count": 104,
+          "media_count": 5320,
+          "tweet_count": 18387
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38549,
+          "following_count": 1727,
+          "like_count": 23746,
+          "listed_count": 103,
+          "media_count": 5737,
+          "tweet_count": 7685
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

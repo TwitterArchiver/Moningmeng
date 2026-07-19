@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2069610350593589293",
+    "created_at": "2026-06-24T02:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069610350593589293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021347310840795136",
+          "start": 3,
+          "username": "_eoantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069610350593589293",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069450409534451833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_eoantao: Eu nunca vou parar de chamar esse app de \"Twitter\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069610350593589293",
+        "created_at": "2026-06-24T02:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069610350593589293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021347310840795136",
+              "start": 3,
+              "username": "_eoantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069610350593589293",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069450409534451833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_eoantao: Eu nunca vou parar de chamar esse app de \"Twitter\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021347310840795136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069450409534451833",
+        "created_at": "2026-06-23T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069450409534451833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069450409534451833",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 104404,
+          "like_count": 8601,
+          "quote_count": 67,
+          "reply_count": 78,
+          "retweet_count": 2106
+        },
+        "reply_settings": "everyone",
+        "text": "Eu nunca vou parar de chamar esse app de \"Twitter\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27826,
+          "following_count": 11129,
+          "like_count": 92238,
+          "listed_count": 102,
+          "media_count": 5270,
+          "tweet_count": 18100
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-10T22:15:40.000Z",
+        "description": ".",
+        "id": "2021347310840795136",
+        "name": "floptok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021347965496066054/2QeIy85S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7641,
+          "following_count": 1983,
+          "like_count": 978,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 1683
+        },
+        "url": "",
+        "username": "_eoantao",
+        "verified": true
+      }
+    ]
+  }
+}

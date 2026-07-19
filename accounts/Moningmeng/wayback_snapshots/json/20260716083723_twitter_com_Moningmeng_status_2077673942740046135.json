@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038999681456656384"
+      ],
+      "media_source_tweet_id": [
+        "2038999683843141694"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2077673942740046135",
+    "created_at": "2026-07-16T08:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077673942740046135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1274586157125263362",
+          "start": 3,
+          "username": "Furinasoftware"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dCtZoYTMCp",
+          "end": 59,
+          "expanded_url": "https://x.com/Furinasoftware/status/2038999683843141694/photo/1",
+          "media_key": "3_2038999681456656384",
+          "start": 36,
+          "url": "https://t.co/dCtZoYTMCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077673942740046135",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2077
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038999683843141694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Furinasoftware: フリーナのモンスターがでたよ！ https://t.co/dCtZoYTMCp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2038999681456656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEv7aD5b0AAE1Lr.jpg",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038999681456656384"
+          ],
+          "media_source_tweet_id": [
+            "2038999683843141694"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2077673942740046135",
+        "created_at": "2026-07-16T08:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077673942740046135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1274586157125263362",
+              "start": 3,
+              "username": "Furinasoftware"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCtZoYTMCp",
+              "end": 59,
+              "expanded_url": "https://x.com/Furinasoftware/status/2038999683843141694/photo/1",
+              "media_key": "3_2038999681456656384",
+              "start": 36,
+              "url": "https://t.co/dCtZoYTMCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077673942740046135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2077
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038999683843141694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Furinasoftware: フリーナのモンスターがでたよ！ https://t.co/dCtZoYTMCp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038999681456656384"
+          ]
+        },
+        "author_id": "1274586157125263362",
+        "conversation_id": "2038999683843141694",
+        "created_at": "2026-03-31T15:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038999683843141694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCtZoYTMCp",
+              "end": 39,
+              "expanded_url": "https://x.com/Furinasoftware/status/2038999683843141694/photo/1",
+              "media_key": "3_2038999681456656384",
+              "start": 16,
+              "url": "https://t.co/dCtZoYTMCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038999683843141694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2651,
+          "impression_count": 1088674,
+          "like_count": 37670,
+          "quote_count": 268,
+          "reply_count": 144,
+          "retweet_count": 2077
+        },
+        "reply_settings": "everyone",
+        "text": "フリーナのモンスターがでたよ！ https://t.co/dCtZoYTMCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28346,
+          "following_count": 11646,
+          "like_count": 94607,
+          "listed_count": 104,
+          "media_count": 5426,
+          "tweet_count": 18945
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-21T06:13:23.000Z",
+        "description": "I am a traveler who loves Frina.Let's become friends！！\nDiscord「I like Frina」\nhttps://t.co/og79Jjdari\nHobbies, chatting, phone ,Party!\n\n@pookie_hutao ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 135,
+                "username": "pookie_hutao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/CZ7QdQnTU6",
+                "end": 100,
+                "expanded_url": "https://discord.gg/CZ7QdQnTU6",
+                "start": 77,
+                "url": "https://t.co/og79Jjdari"
+              }
+            ]
+          }
+        },
+        "id": "1274586157125263362",
+        "location": "🇯🇵 Japanese（TOKYO）",
+        "name": "Furinasoftware",
+        "pinned_tweet_id": "2038999683843141694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424038282792960/G_6IKUni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 7498,
+          "like_count": 6777,
+          "listed_count": 6,
+          "media_count": 82,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "Furinasoftware",
+        "verified": true
+      }
+    ]
+  }
+}

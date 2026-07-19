@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939265156300906496"
+      ],
+      "media_source_tweet_id": [
+        "1939265167604466087"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1939321020537831668",
+    "created_at": "2025-06-29T13:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T14:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939321020537831668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1603232668744761345",
+          "start": 3,
+          "username": "orugannokasa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbsXoi2C9t",
+          "end": 86,
+          "expanded_url": "https://x.com/orugannokasa/status/1939265167604466087/photo/1",
+          "media_key": "3_1939265156300906496",
+          "start": 63,
+          "url": "https://t.co/CbsXoi2C9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939321020537831668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939265167604466087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orugannokasa: 坏了，我发现现在我难受的时候哭都哭不出来了，只想着割手。\n关键是这个B地方还不让割... https://t.co/CbsXoi2C9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1939265156300906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GumnYo6boAA7tO5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939265156300906496"
+          ],
+          "media_source_tweet_id": [
+            "1939265167604466087"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1939321020537831668",
+        "created_at": "2025-06-29T13:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939321020537831668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1603232668744761345",
+              "start": 3,
+              "username": "orugannokasa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbsXoi2C9t",
+              "end": 86,
+              "expanded_url": "https://x.com/orugannokasa/status/1939265167604466087/photo/1",
+              "media_key": "3_1939265156300906496",
+              "start": 63,
+              "url": "https://t.co/CbsXoi2C9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939321020537831668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939265167604466087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orugannokasa: 坏了，我发现现在我难受的时候哭都哭不出来了，只想着割手。\n关键是这个B地方还不让割... https://t.co/CbsXoi2C9t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939265156300906496"
+          ]
+        },
+        "author_id": "1603232668744761345",
+        "conversation_id": "1939265167604466087",
+        "created_at": "2025-06-29T10:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939265167604466087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbsXoi2C9t",
+              "end": 68,
+              "expanded_url": "https://x.com/orugannokasa/status/1939265167604466087/photo/1",
+              "media_key": "3_1939265156300906496",
+              "start": 45,
+              "url": "https://t.co/CbsXoi2C9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939265167604466087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1693,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "坏了，我发现现在我难受的时候哭都哭不出来了，只想着割手。\n关键是这个B地方还不让割... https://t.co/CbsXoi2C9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 老婆 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932569658647064579/Q1muwosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21430,
+          "following_count": 10719,
+          "like_count": 77249,
+          "listed_count": 76,
+          "media_count": 3792,
+          "tweet_count": 13795
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T03:38:20.000Z",
+        "description": "一只mtf，INFP，缺爱，中度抑郁的xyn，偶尔会割手手，但是不od（）\n暂时无证含糖，身高体重保密喵～\n同类无门槛w ，互fo踢我\n永远的好妹妹 @MiaoJiang080923\n❤️永远的大笨蛋❤️@LeQing123\n永远的好闺蜜@bdxiaoxiong和@xingchengdoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "MiaoJiang080923"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "LeQing123"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "bdxiaoxiong"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "xingchengdoro"
+              }
+            ]
+          }
+        },
+        "id": "1603232668744761345",
+        "location": "苏南",
+        "name": "🍥オルガンの傘🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912096223336476672/LvsVr7Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 96,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 113
+        },
+        "username": "orugannokasa",
+        "verified": false
+      }
+    ]
+  }
+}

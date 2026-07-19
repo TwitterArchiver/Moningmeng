@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961532561215135744"
+      ],
+      "media_source_tweet_id": [
+        "1961609818608677065"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1961613954171695285",
+    "created_at": "2025-08-30T02:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T03:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961613954171695285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxoLtWiuXf",
+          "end": 76,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1961609818608677065/video/1",
+          "media_key": "13_1961532561215135744",
+          "start": 53,
+          "url": "https://t.co/LxoLtWiuXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961613954171695285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961609818608677065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 8月28日，广西省钦州市第一中学，校方强迫高一学生在暴雨中军训。 https://t.co/LxoLtWiuXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21655,
+        "height": 1024,
+        "media_key": "13_1961532561215135744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961532561215135744/img/ZBAF7LHy7hB6_dph.jpg",
+        "public_metrics": {
+          "view_count": 3035
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961532561215135744/vid/avc1/320x568/JVVKMdB-T2siT_pG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961532561215135744/vid/avc1/480x852/dYPlQ8QjVP4PmzVM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961532561215135744/vid/avc1/576x1024/yeQ9PnoQ8Whi_Gnt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961532561215135744/pl/XCi25BSUKiVIE1Wg.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961532561215135744"
+          ],
+          "media_source_tweet_id": [
+            "1961609818608677065"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1961613954171695285",
+        "created_at": "2025-08-30T02:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T03:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961613954171695285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxoLtWiuXf",
+              "end": 76,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1961609818608677065/video/1",
+              "media_key": "13_1961532561215135744",
+              "start": 53,
+              "url": "https://t.co/LxoLtWiuXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961613954171695285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961609818608677065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 8月28日，广西省钦州市第一中学，校方强迫高一学生在暴雨中军训。 https://t.co/LxoLtWiuXf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961532561215135744"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1961609818608677065",
+        "created_at": "2025-08-30T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961609818608677065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxoLtWiuXf",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1961609818608677065/video/1",
+              "media_key": "13_1961532561215135744",
+              "start": 33,
+              "url": "https://t.co/LxoLtWiuXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961609818608677065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6431,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "8月28日，广西省钦州市第一中学，校方强迫高一学生在暴雨中军训。 https://t.co/LxoLtWiuXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958580221151793152/c1Cu6g9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22412,
+          "following_count": 10923,
+          "like_count": 83211,
+          "listed_count": 81,
+          "media_count": 4115,
+          "tweet_count": 15158
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1961459295813312811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086983,
+          "following_count": 982,
+          "like_count": 8011,
+          "listed_count": 8288,
+          "media_count": 34118,
+          "tweet_count": 40886
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

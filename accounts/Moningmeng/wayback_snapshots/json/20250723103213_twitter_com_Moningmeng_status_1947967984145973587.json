@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947497384419987457",
+        "3_1947497382540939266"
+      ],
+      "media_source_tweet_id": [
+        "1947497388035477910",
+        "1947497388035477910"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1947967984145973587",
+    "created_at": "2025-07-23T10:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T11:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947967984145973587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1797202819415752705",
+          "start": 3,
+          "username": "xwdlwr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTgjLVdEUK",
+          "end": 46,
+          "expanded_url": "https://x.com/xwdlwr/status/1947497388035477910/photo/1",
+          "media_key": "3_1947497384419987457",
+          "start": 23,
+          "url": "https://t.co/lTgjLVdEUK"
+        },
+        {
+          "display_url": "pic.x.com/lTgjLVdEUK",
+          "end": 46,
+          "expanded_url": "https://x.com/xwdlwr/status/1947497388035477910/photo/1",
+          "media_key": "3_1947497382540939266",
+          "start": 23,
+          "url": "https://t.co/lTgjLVdEUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947967984145973587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947497388035477910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xwdlwr: 虽然...但是... https://t.co/lTgjLVdEUK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1947497384419987457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbmjYdbEAE9F0X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1439,
+        "media_key": "3_1947497382540939266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbmjRdbEAIrh43.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947497384419987457",
+            "3_1947497382540939266"
+          ],
+          "media_source_tweet_id": [
+            "1947497388035477910",
+            "1947497388035477910"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947967984145973587",
+        "created_at": "2025-07-23T10:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947967984145973587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797202819415752705",
+              "start": 3,
+              "username": "xwdlwr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTgjLVdEUK",
+              "end": 46,
+              "expanded_url": "https://x.com/xwdlwr/status/1947497388035477910/photo/1",
+              "media_key": "3_1947497384419987457",
+              "start": 23,
+              "url": "https://t.co/lTgjLVdEUK"
+            },
+            {
+              "display_url": "pic.x.com/lTgjLVdEUK",
+              "end": 46,
+              "expanded_url": "https://x.com/xwdlwr/status/1947497388035477910/photo/1",
+              "media_key": "3_1947497382540939266",
+              "start": 23,
+              "url": "https://t.co/lTgjLVdEUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947967984145973587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947497388035477910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xwdlwr: 虽然...但是... https://t.co/lTgjLVdEUK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947497384419987457",
+            "3_1947497382540939266"
+          ]
+        },
+        "author_id": "1797202819415752705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947497388035477910",
+        "created_at": "2025-07-22T03:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947497388035477910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTgjLVdEUK",
+              "end": 34,
+              "expanded_url": "https://x.com/xwdlwr/status/1947497388035477910/photo/1",
+              "media_key": "3_1947497384419987457",
+              "start": 11,
+              "url": "https://t.co/lTgjLVdEUK"
+            },
+            {
+              "display_url": "pic.x.com/lTgjLVdEUK",
+              "end": 34,
+              "expanded_url": "https://x.com/xwdlwr/status/1947497388035477910/photo/1",
+              "media_key": "3_1947497382540939266",
+              "start": 11,
+              "url": "https://t.co/lTgjLVdEUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947497388035477910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 14500,
+          "like_count": 231,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "虽然...但是... https://t.co/lTgjLVdEUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21647,
+          "following_count": 10849,
+          "like_count": 80192,
+          "listed_count": 75,
+          "media_count": 3933,
+          "tweet_count": 14477
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T09:45:30.000Z",
+        "description": "山竹別跑!!!/ 15岁高中无证含糖 🍥/玉林/ 喜欢睡觉 / 喜欢熬\n夜?/ 不想学习啦!!!/ 非常宅.…./随时可互fo / 其实是10\n后 / 不抽烟不喝酒不自残不自杀 / 168cm 53kg /不是机\n器人呀/HRT2025.3.22 \n已死保留@wdhswwcnm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "wdhswwcnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BAsensei",
+                "end": 23,
+                "expanded_url": "http://t.me/BAsensei",
+                "start": 0,
+                "url": "https://t.co/FvuOqGdCtL"
+              }
+            ]
+          }
+        },
+        "id": "1797202819415752705",
+        "location": "你❤️里",
+        "name": "爱吃山竹口牙🍥（慢性互fo版）🤤😚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941750149027373056/vmBXCc-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 341,
+          "like_count": 2615,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/FvuOqGdCtL",
+        "username": "xwdlwr",
+        "verified": false
+      }
+    ]
+  }
+}

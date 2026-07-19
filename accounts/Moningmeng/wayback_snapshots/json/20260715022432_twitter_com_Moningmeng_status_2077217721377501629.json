@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077214862099587072"
+      ],
+      "media_source_tweet_id": [
+        "2077214872266571820"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2077217721377501629",
+    "created_at": "2026-07-15T02:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077217721377501629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581866233225281538",
+          "start": 3,
+          "username": "K1ta_Ikuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qtm8W5PsVc",
+          "end": 48,
+          "expanded_url": "https://x.com/K1ta_Ikuyo/status/2077214872266571820/photo/1",
+          "media_key": "3_2077214862099587072",
+          "start": 25,
+          "url": "https://t.co/qtm8W5PsVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077217721377501629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077214872266571820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1ta_Ikuyo: 阿里嘎多喵^o^ https://t.co/qtm8W5PsVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_2077214862099587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNO_6VmboAA8W-E.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077214862099587072"
+          ],
+          "media_source_tweet_id": [
+            "2077214872266571820"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2077217721377501629",
+        "created_at": "2026-07-15T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077217721377501629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581866233225281538",
+              "start": 3,
+              "username": "K1ta_Ikuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtm8W5PsVc",
+              "end": 48,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2077214872266571820/photo/1",
+              "media_key": "3_2077214862099587072",
+              "start": 25,
+              "url": "https://t.co/qtm8W5PsVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077217721377501629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077214872266571820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1ta_Ikuyo: 阿里嘎多喵^o^ https://t.co/qtm8W5PsVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077214862099587072"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "conversation_id": "2077214872266571820",
+        "created_at": "2026-07-15T02:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077214872266571820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtm8W5PsVc",
+              "end": 32,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2077214872266571820/photo/1",
+              "media_key": "3_2077214862099587072",
+              "start": 9,
+              "url": "https://t.co/qtm8W5PsVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077214872266571820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阿里嘎多喵^o^ https://t.co/qtm8W5PsVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28330,
+          "following_count": 11621,
+          "like_count": 94485,
+          "listed_count": 104,
+          "media_count": 5417,
+          "tweet_count": 18908
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのギタリスト｜❤️@N2009750000｜女子力UP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "N2009750000"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "2076622153202729165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005655391951290368/i8ZUNkDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12005,
+          "following_count": 3296,
+          "like_count": 36703,
+          "listed_count": 21,
+          "media_count": 706,
+          "tweet_count": 15093
+        },
+        "url": "",
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961688620739563521"
+      ],
+      "media_source_tweet_id": [
+        "1961688632915525967"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1962015604505981207",
+    "created_at": "2025-08-31T04:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962015604505981207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709162010381090816",
+          "start": 3,
+          "username": "jiyu142857"
+        },
+        {
+          "end": 37,
+          "id": "1856322437144817667",
+          "start": 21,
+          "username": "ChosekiNoraneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IlMcIowJ7m",
+          "end": 61,
+          "expanded_url": "https://x.com/jiyu142857/status/1961688632915525967/photo/1",
+          "media_key": "3_1961688620739563521",
+          "start": 38,
+          "url": "https://t.co/IlMcIowJ7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962015604505981207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961688632915525967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiyu142857: 糖糖到啦～@ChosekiNoraneko https://t.co/IlMcIowJ7m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1961688620739563521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzlRaDcbkAEC1z1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961688620739563521"
+          ],
+          "media_source_tweet_id": [
+            "1961688632915525967"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1962015604505981207",
+        "created_at": "2025-08-31T04:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962015604505981207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709162010381090816",
+              "start": 3,
+              "username": "jiyu142857"
+            },
+            {
+              "end": 37,
+              "id": "1856322437144817667",
+              "start": 21,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlMcIowJ7m",
+              "end": 61,
+              "expanded_url": "https://x.com/jiyu142857/status/1961688632915525967/photo/1",
+              "media_key": "3_1961688620739563521",
+              "start": 38,
+              "url": "https://t.co/IlMcIowJ7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962015604505981207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961688632915525967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiyu142857: 糖糖到啦～@ChosekiNoraneko https://t.co/IlMcIowJ7m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961688620739563521"
+          ]
+        },
+        "author_id": "1709162010381090816",
+        "conversation_id": "1961688632915525967",
+        "created_at": "2025-08-30T07:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961688632915525967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1856322437144817667",
+              "start": 5,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlMcIowJ7m",
+              "end": 45,
+              "expanded_url": "https://x.com/jiyu142857/status/1961688632915525967/photo/1",
+              "media_key": "3_1961688620739563521",
+              "start": 22,
+              "url": "https://t.co/IlMcIowJ7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961688632915525967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1512,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "糖糖到啦～@ChosekiNoraneko https://t.co/IlMcIowJ7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958580221151793152/c1Cu6g9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22459,
+          "following_count": 10928,
+          "like_count": 83472,
+          "listed_count": 82,
+          "media_count": 4123,
+          "tweet_count": 15197
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T11:02:42.000Z",
+        "description": "喜欢可爱的东西……希望能开开心心的活下去丨挚爱@diaolingluo3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "diaolingluo3"
+              }
+            ]
+          }
+        },
+        "id": "1709162010381090816",
+        "location": "广东省潮州市",
+        "name": "安安にゃん🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960034278391382016/rHdxqQmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 186,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 105
+        },
+        "username": "jiyu142857",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "Choseki Pharmacy的官方賬號，售卖正规进口药品，此店铺由@Minokakay 担保并提供客服服务，欢迎https://t.co/Re1C3wHxMr或推特私信下单！ 工作时间12AM-26PM，不在时请留言，下单采取留言制，不定时回复 见谅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chosekinoraneko",
+                "end": 81,
+                "expanded_url": "http://t.me/chosekinoraneko",
+                "start": 58,
+                "url": "https://t.co/Re1C3wHxMr"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Pharmacy（HRT药商）",
+        "pinned_tweet_id": "1952126735153295762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951527617741688832/sl82roNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 27,
+          "like_count": 120,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 105
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

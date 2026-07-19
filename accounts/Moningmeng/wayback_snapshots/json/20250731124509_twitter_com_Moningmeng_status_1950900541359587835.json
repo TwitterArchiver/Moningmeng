@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950900537115000832"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1950900541359587835",
+    "created_at": "2025-07-31T12:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T13:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950900541359587835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tiR5oeamW1",
+          "end": 28,
+          "expanded_url": "https://x.com/Moningmeng/status/1950900541359587835/photo/1",
+          "media_key": "3_1950900537115000832",
+          "start": 5,
+          "url": "https://t.co/tiR5oeamW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950900541359587835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃…… https://t.co/tiR5oeamW1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950900541359587835].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950900541359587835",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950900541359587835"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2127,
+        "media_key": "3_1950900537115000832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxL9s8LbwAAvhaA.jpg",
+        "width": 1260
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21794,
+          "following_count": 10884,
+          "like_count": 81652,
+          "listed_count": 77,
+          "media_count": 3979,
+          "tweet_count": 14714
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

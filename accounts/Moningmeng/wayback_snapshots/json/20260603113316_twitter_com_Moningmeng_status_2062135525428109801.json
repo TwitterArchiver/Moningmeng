@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2062135525428109801",
+    "created_at": "2026-06-03T11:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062135525428109801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062135525428109801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062110952397668616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: 大家好。感谢今天社群朋友对《2026 中国跨性别者生存处境调查》的集中反馈。我们已经根据反馈完成一次较大的问卷修订，并将新版标记为：\n\nP1.3 / 2026-06-03（医疗障碍、信息来源、网售措辞与支持资源定义修订版）\n\n本次修订发生在国内平台正…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2062110783102910465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4W1OpaAAEo56l.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062135525428109801",
+        "created_at": "2026-06-03T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062135525428109801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062135525428109801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062110952397668616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: 大家好。感谢今天社群朋友对《2026 中国跨性别者生存处境调查》的集中反馈。我们已经根据反馈完成一次较大的问卷修订，并将新版标记为：\n\nP1.3 / 2026-06-03（医疗障碍、信息来源、网售措辞与支持资源定义修订版）\n\n本次修订发生在国内平台正…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062110783102910465"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2062110952397668616",
+        "created_at": "2026-06-03T09:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:55:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062110824672681987",
+          "2062110952397668616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4upBJZC47T",
+              "end": 168,
+              "expanded_url": "https://x.com/KiraMyao/status/2062110952397668616/photo/1",
+              "media_key": "3_2062110783102910465",
+              "start": 145,
+              "url": "https://t.co/4upBJZC47T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062110952397668616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1753,
+                "id": "1249681779218190338",
+                "start": 1739,
+                "username": "realMlgmXyysd"
+              },
+              {
+                "end": 1768,
+                "id": "1071094209749417984",
+                "start": 1754,
+                "username": "BeiyanNa3AlF6"
+              },
+              {
+                "end": 1780,
+                "id": "1220374175728095232",
+                "start": 1769,
+                "username": "yaoyao_moe"
+              },
+              {
+                "end": 1790,
+                "id": "2044001953424740352",
+                "start": 1781,
+                "username": "mtf14aaa"
+              }
+            ]
+          },
+          "text": "大家好。感谢今天社群朋友对《2026 中国跨性别者生存处境调查》的集中反馈。我们已经根据反馈完成一次较大的问卷修订，并将新版标记为：\n\nP1.3 / 2026-06-03（医疗障碍、信息来源、网售措辞与支持资源定义修订版）\n\n本次修订发生在国内平台正式大规模投放前。腾讯问卷和Google 问卷此前已有旧版答卷（腾讯13，google267），我们会对新旧数据分版本保存和处理。\n\n一、本次主要修改了什么\n\n1. 问卷开头说明\n补充了问卷版本号、发起组织、数据使用方式、样本偏差说明、退出/跳过权利、敏感内容提醒与伦理声明。\n\n2. 跳过机制\n多个敏感部分增加或强化“跳过本部分”路径，包括医疗、家庭关系、心理健康等，避免受访者被迫回答不适合自己的经历。\n\n3. 基础信息与家庭结构\n将收入问题调整为“每月可自由支配资金”，并增加资金来源多选。\n新增原生家庭/监护结构相关问题，并区分母亲/女性监护人与父亲/男性监护人的学历、收入、支持程度。\n涉及已故、长期失联、从未参与照护等情况的题目均设置为非必答，并加入“不适用/不愿回答”兜底选项。\n\n4. 医疗与 HRT 部分\n新增 HRT 使用时长、每月 HRT/体检/相关医疗支出等题项，并细化低金额区间。\n修正部分药物名称与表达。\n补充医疗信息来源，如自行查阅医学论文/临床指南。\n在“获取医疗服务障碍”中新增“未遇到明显障碍”。\n将“网络禁售”相关题面改为更准确的“限制销售、下架，或转为预约邮寄/私域转单等变相网售模式”，并增加相关选项。\n\n5. 教育、就业与经济影响\n教育部分增加不同教育阶段的经历差异，并加入“未开始该阶段”等选项。\n就业部分增加“完全没有求职或工作经历”的跳转，减少无相关经历者的填答负担。\n经济影响题新增正面影响与混合影响选项，避免只统计负面影响。\n\n6. 心理健康、社会环境与支持资源\n心理压力来源增加非性别相关的系统性压力来源，例如经济压力、社会偏见、公共政策与平台环境变化等。\n支持资源题明确为“跨性别相关支持资源”，包括医疗、心理、法律/公益、社群互助、热线、信息整理者/维护者等，不包含一般公共无障碍设施，除非其明确面向跨性别/性别多元人群。\n\n二、新旧数据如何处理\n\n旧版问卷中已经收集到的数据不会删除，也不会被新版数据覆盖。\n\n我们会采用以下方式处理：\n\n1. 按版本保存\n旧版答卷将作为旧版本数据单独保存；新版发布后的答卷将标记为 P1.3 数据。\n\n2. 不强行混合\n对于题面、选项或逻辑发生变化的题目，不会直接与旧版数据粗暴合并。报告中会标注对应题项的版本差异。\n\n3. 可比较题项继续比较\n对于没有发生实质变化的题目，可以进行跨版本合并或对照分析。\n\n4. 新增题项单独分析\n新版新增的问题，例如家庭/监护结构、HRT 支出细分、就业经历跳转、支持资源定义等，将主要基于新版答卷分析。\n\n5. 交叉验证\n对于新旧版本都涉及但口径略有变化的题目，我们会在报告中进行版本注释，并尽量通过交叉表、敏感性分析或分版本展示来避免误导。\n\n三、伦理审查声明\n\n本问卷由 KiraMyao Equal 发起，是一项社群倡议性质的匿名调查，目的在于记录中国跨性别者的真实生存处境，并为后续公共表达、社群支持与倡议工作提供参考。\n\n本问卷目前未经过大学、医院或其他机构伦理委员会（IRB）审查。因此，它不应被理解为正式医学研究，也不构成医疗建议、诊断建议或治疗建议。\n\n我们会尽力遵守以下原则：\n\n- 自愿参与：你可以选择不参与，也可以随时停止填写。\n- 可跳过：涉及医疗、家庭、心理健康等敏感内容时，你可以跳过题目或跳过整个部分。\n- 匿名处理：我们不会主动收集姓名、邮箱等可识别个人身份的信息；结果只会以汇总或匿名方式使用。\n- 最小伤害：如果填写过程中感到不适，请优先停止作答，并联系可信任的人、本地紧急服务、心理危机资源或社群支持资源。\n- 透明说明：我们会在最终报告中说明样本来源、招募方式、版本差异、数据限制与可能偏差。\n\n再次感谢所有提出批评、补充和建议的朋友。很多修改来自大家非常具体的提醒。这个问卷仍然不可能覆盖所有人的处境，但我们会尽量让它更严谨、更温和，也更接近真实。\n感谢@realMlgmXyysd @BeiyanNa3AlF6 @yaoyao_moe @mtf14aaa 还有在问卷中提出问题的小伙伴（根据KiraEqual隐私条款，问卷内的反馈不予公开，即使他们一部分填写了推特联系方式）\n\n希望大家多多转发，让问卷样本更加详实！万分感谢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 458,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好。感谢今天社群朋友对《2026 中国跨性别者生存处境调查》的集中反馈。我们已经根据反馈完成一次较大的问卷修订，并将新版标记为：\n\nP1.3 / 2026-06-03（医疗障碍、信息来源、网售措辞与支持资源定义修订版）\n\n本次修订发生在国内平台正式大规模投放前。腾讯问卷和Google https://t.co/4upBJZC47T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27677,
+          "following_count": 11078,
+          "like_count": 89746,
+          "listed_count": 102,
+          "media_count": 5180,
+          "tweet_count": 17553
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 363,
+          "like_count": 9909,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 1765
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

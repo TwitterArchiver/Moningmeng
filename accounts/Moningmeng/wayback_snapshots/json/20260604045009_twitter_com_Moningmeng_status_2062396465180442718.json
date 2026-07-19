@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062190587747696640"
+      ],
+      "media_source_tweet_id": [
+        "2062190593619734982"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2062396465180442718",
+    "created_at": "2026-06-04T04:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062396465180442718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1285577648861659137",
+          "start": 3,
+          "username": "vanillaCitron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOVr24QQZW",
+          "end": 60,
+          "expanded_url": "https://x.com/vanillaCitron/status/2062190593619734982/photo/1",
+          "media_key": "3_2062190587747696640",
+          "start": 37,
+          "url": "https://t.co/dOVr24QQZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062396465180442718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062190593619734982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vanillaCitron: 四个人吃饭花了256元但A不了钱🤣 https://t.co/dOVr24QQZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062190587747696640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5faeHbAAA0tJZ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062190587747696640"
+          ],
+          "media_source_tweet_id": [
+            "2062190593619734982"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062396465180442718",
+        "created_at": "2026-06-04T04:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062396465180442718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1285577648861659137",
+              "start": 3,
+              "username": "vanillaCitron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOVr24QQZW",
+              "end": 60,
+              "expanded_url": "https://x.com/vanillaCitron/status/2062190593619734982/photo/1",
+              "media_key": "3_2062190587747696640",
+              "start": 37,
+              "url": "https://t.co/dOVr24QQZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062396465180442718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062190593619734982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vanillaCitron: 四个人吃饭花了256元但A不了钱🤣 https://t.co/dOVr24QQZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062190587747696640"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "conversation_id": "2062190593619734982",
+        "created_at": "2026-06-03T15:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062190593619734982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOVr24QQZW",
+              "end": 41,
+              "expanded_url": "https://x.com/vanillaCitron/status/2062190593619734982/photo/1",
+              "media_key": "3_2062190587747696640",
+              "start": 18,
+              "url": "https://t.co/dOVr24QQZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062190593619734982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 283389,
+          "like_count": 1173,
+          "quote_count": 2,
+          "reply_count": 182,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "四个人吃饭花了256元但A不了钱🤣 https://t.co/dOVr24QQZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27676,
+          "following_count": 11086,
+          "like_count": 90079,
+          "listed_count": 102,
+          "media_count": 5182,
+          "tweet_count": 17579
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design designer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "name": "citron🍢🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 1109,
+          "like_count": 18990,
+          "listed_count": 12,
+          "media_count": 905,
+          "tweet_count": 6833
+        },
+        "username": "vanillaCitron",
+        "verified": false
+      }
+    ]
+  }
+}

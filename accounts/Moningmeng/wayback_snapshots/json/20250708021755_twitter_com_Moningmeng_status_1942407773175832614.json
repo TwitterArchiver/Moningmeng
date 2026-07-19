@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941888148272771072"
+      ],
+      "media_source_tweet_id": [
+        "1941888166060826703"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1942407773175832614",
+    "created_at": "2025-07-08T02:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942407773175832614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ksl3imkhqm",
+          "end": 59,
+          "expanded_url": "https://x.com/Ted_yeet/status/1941888166060826703/photo/1",
+          "media_key": "3_1941888148272771072",
+          "start": 36,
+          "url": "https://t.co/Ksl3imkhqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942407773175832614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941888166060826703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 获得两瓶神奇药水（\n一瓶自己喝一瓶扔推油😼 https://t.co/Ksl3imkhqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941888148272771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvL4-3dW8AAw5AK.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941888148272771072"
+          ],
+          "media_source_tweet_id": [
+            "1941888166060826703"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1942407773175832614",
+        "created_at": "2025-07-08T02:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942407773175832614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499442786453663745",
+              "start": 3,
+              "username": "Ted_yeet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ksl3imkhqm",
+              "end": 59,
+              "expanded_url": "https://x.com/Ted_yeet/status/1941888166060826703/photo/1",
+              "media_key": "3_1941888148272771072",
+              "start": 36,
+              "url": "https://t.co/Ksl3imkhqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942407773175832614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941888166060826703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ted_yeet: 获得两瓶神奇药水（\n一瓶自己喝一瓶扔推油😼 https://t.co/Ksl3imkhqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941888148272771072"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "1941888166060826703",
+        "created_at": "2025-07-06T15:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941888166060826703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ksl3imkhqm",
+              "end": 45,
+              "expanded_url": "https://x.com/Ted_yeet/status/1941888166060826703/photo/1",
+              "media_key": "3_1941888148272771072",
+              "start": 22,
+              "url": "https://t.co/Ksl3imkhqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941888166060826703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5297,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "获得两瓶神奇药水（\n一瓶自己喝一瓶扔推油😼 https://t.co/Ksl3imkhqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21381,
+          "following_count": 10726,
+          "like_count": 77849,
+          "listed_count": 77,
+          "media_count": 3837,
+          "tweet_count": 13961
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "MtF🏳️‍⚧️/🍥/是一台交换机/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/毛绒玩具饲养员/偶尔拍点📸/超业余贝斯手/会说LaTeX, Dansk, English, 中文/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "pinned_tweet_id": "1934647653159297144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 1138,
+          "like_count": 18817,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 4236
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

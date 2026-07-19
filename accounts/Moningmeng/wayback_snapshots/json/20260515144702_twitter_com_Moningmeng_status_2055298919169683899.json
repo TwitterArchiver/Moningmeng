@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2055298919169683899",
+    "created_at": "2026-05-15T14:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055298919169683899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028432059002150912",
+          "start": 3,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055298919169683899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054895542770061669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NinJaCatRising: 你们的品味再小众再高级，看到1000度烧红的铁球vs冰块你能不停下来看完吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2055298919169683899",
+        "created_at": "2026-05-15T14:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055298919169683899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028432059002150912",
+              "start": 3,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055298919169683899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054895542770061669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NinJaCatRising: 你们的品味再小众再高级，看到1000度烧红的铁球vs冰块你能不停下来看完吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2054895542770061669",
+        "created_at": "2026-05-14T12:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054895542770061669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054895542770061669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 87998,
+          "like_count": 2505,
+          "quote_count": 6,
+          "reply_count": 145,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "你们的品味再小众再高级，看到1000度烧红的铁球vs冰块你能不停下来看完吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27518,
+          "following_count": 11054,
+          "like_count": 88237,
+          "listed_count": 101,
+          "media_count": 5099,
+          "tweet_count": 17159
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系\n想问的：https://t.co/Dh2a6i88ri",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seoeowang",
+                "end": 32,
+                "expanded_url": "https://ngl.link/seoeowang",
+                "start": 9,
+                "url": "https://t.co/Dh2a6i88ri"
+              }
+            ]
+          }
+        },
+        "id": "2028432059002150912",
+        "name": "Rollcak3",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055250638217371648/y1PXaqD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 21,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 270
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

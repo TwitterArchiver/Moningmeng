@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1949329844518760448"
+      ],
+      "media_source_tweet_id": [
+        "1949329948776518079"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1949434446865670623",
+    "created_at": "2025-07-27T11:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949434446865670623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621761267068473344",
+          "start": 3,
+          "username": "moriyomiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/viGSssJvrX",
+          "end": 44,
+          "expanded_url": "https://x.com/moriyomiko/status/1949329948776518079/video/1",
+          "media_key": "13_1949329844518760448",
+          "start": 21,
+          "url": "https://t.co/viGSssJvrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949434446865670623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949329948776518079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moriyomiko: 今日最爆 https://t.co/viGSssJvrX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24623,
+        "height": 918,
+        "media_key": "13_1949329844518760448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949329844518760448/img/GvlbdfWZNFbQ4o5Y.jpg",
+        "public_metrics": {
+          "view_count": 1833
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949329844518760448/vid/avc1/320x408/kV6aao2lV0jG8rAu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949329844518760448/vid/avc1/480x612/HVI2u0y4XVcsYd2s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949329844518760448/vid/avc1/720x918/-10ne8bbChR621-A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949329844518760448/pl/3DopQihUKJAhmIkA.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949329844518760448"
+          ],
+          "media_source_tweet_id": [
+            "1949329948776518079"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1949434446865670623",
+        "created_at": "2025-07-27T11:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949434446865670623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621761267068473344",
+              "start": 3,
+              "username": "moriyomiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/viGSssJvrX",
+              "end": 44,
+              "expanded_url": "https://x.com/moriyomiko/status/1949329948776518079/video/1",
+              "media_key": "13_1949329844518760448",
+              "start": 21,
+              "url": "https://t.co/viGSssJvrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949434446865670623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949329948776518079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moriyomiko: 今日最爆 https://t.co/viGSssJvrX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949329844518760448"
+          ]
+        },
+        "author_id": "1621761267068473344",
+        "conversation_id": "1949329948776518079",
+        "created_at": "2025-07-27T04:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949329948776518079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viGSssJvrX",
+              "end": 28,
+              "expanded_url": "https://x.com/moriyomiko/status/1949329948776518079/video/1",
+              "media_key": "13_1949329844518760448",
+              "start": 5,
+              "url": "https://t.co/viGSssJvrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949329948776518079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5470,
+          "like_count": 83,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "今日最爆 https://t.co/viGSssJvrX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21673,
+          "following_count": 10874,
+          "like_count": 81079,
+          "listed_count": 75,
+          "media_count": 3957,
+          "tweet_count": 14641
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:43:27.000Z",
+        "description": "♪ 靖康耻，犹未雪，臣子恨，何时灭？ ♪ 保守右派 我喜欢汉文化",
+        "id": "1621761267068473344",
+        "location": "大宋临时国都临安城",
+        "name": "便利屋臭脸😔（🍐老师黑屁bot）",
+        "pinned_tweet_id": "1942886361167724705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946875730144473088/pQaBEk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 415,
+          "like_count": 9628,
+          "listed_count": 3,
+          "media_count": 528,
+          "tweet_count": 3052
+        },
+        "username": "moriyomiko",
+        "verified": false
+      }
+    ]
+  }
+}

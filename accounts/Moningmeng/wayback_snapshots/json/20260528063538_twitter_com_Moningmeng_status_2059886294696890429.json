@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2059886294696890429",
+    "created_at": "2026-05-28T06:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059886294696890429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042655089228128256",
+          "start": 3,
+          "username": "privwendley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059886294696890429",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2908
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059694277496541371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @privwendley: O bom do twitter é que você fala sozinho e ninguém se importa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059886294696890429",
+        "created_at": "2026-05-28T06:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059886294696890429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042655089228128256",
+              "start": 3,
+              "username": "privwendley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059886294696890429",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2908
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059694277496541371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @privwendley: O bom do twitter é que você fala sozinho e ninguém se importa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059694277496541371",
+        "created_at": "2026-05-27T17:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059694277496541371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059694277496541371",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 114360,
+          "like_count": 7757,
+          "quote_count": 124,
+          "reply_count": 104,
+          "retweet_count": 2908
+        },
+        "reply_settings": "everyone",
+        "text": "O bom do twitter é que você fala sozinho e ninguém se importa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27651,
+          "following_count": 11073,
+          "like_count": 88985,
+          "listed_count": 102,
+          "media_count": 5157,
+          "tweet_count": 17406
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "pinned_tweet_id": "2056415074563084443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057165048156160/9VOrd3VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 570,
+          "like_count": 7512,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 448
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

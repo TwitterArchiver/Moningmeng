@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984044285352964096",
+        "3_1984044285055127552"
+      ],
+      "media_source_tweet_id": [
+        "1984044297478664451",
+        "1984044297478664451"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984428158112890885",
+    "created_at": "2025-11-01T01:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T02:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984428158112890885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966445060872093696",
+          "start": 3,
+          "username": "woshiamio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yhL66Wcc83",
+          "end": 45,
+          "expanded_url": "https://x.com/woshiamio/status/1984044297478664451/photo/1",
+          "media_key": "3_1984044285352964096",
+          "start": 22,
+          "url": "https://t.co/yhL66Wcc83"
+        },
+        {
+          "display_url": "pic.x.com/yhL66Wcc83",
+          "end": 45,
+          "expanded_url": "https://x.com/woshiamio/status/1984044297478664451/photo/1",
+          "media_key": "3_1984044285055127552",
+          "start": 22,
+          "url": "https://t.co/yhL66Wcc83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984428158112890885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984044297478664451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshiamio: 这个真没绷住 https://t.co/yhL66Wcc83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984044285352964096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4i9w_8bcAADRDT.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984044285055127552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4i9w-1a0AAEsSg.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984044285352964096",
+            "3_1984044285055127552"
+          ],
+          "media_source_tweet_id": [
+            "1984044297478664451",
+            "1984044297478664451"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984428158112890885",
+        "created_at": "2025-11-01T01:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984428158112890885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966445060872093696",
+              "start": 3,
+              "username": "woshiamio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhL66Wcc83",
+              "end": 45,
+              "expanded_url": "https://x.com/woshiamio/status/1984044297478664451/photo/1",
+              "media_key": "3_1984044285352964096",
+              "start": 22,
+              "url": "https://t.co/yhL66Wcc83"
+            },
+            {
+              "display_url": "pic.x.com/yhL66Wcc83",
+              "end": 45,
+              "expanded_url": "https://x.com/woshiamio/status/1984044297478664451/photo/1",
+              "media_key": "3_1984044285055127552",
+              "start": 22,
+              "url": "https://t.co/yhL66Wcc83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984428158112890885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984044297478664451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woshiamio: 这个真没绷住 https://t.co/yhL66Wcc83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984044285352964096",
+            "3_1984044285055127552"
+          ]
+        },
+        "author_id": "1966445060872093696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984044297478664451",
+        "created_at": "2025-10-30T23:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T00:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984044297478664451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhL66Wcc83",
+              "end": 30,
+              "expanded_url": "https://x.com/woshiamio/status/1984044297478664451/photo/1",
+              "media_key": "3_1984044285352964096",
+              "start": 7,
+              "url": "https://t.co/yhL66Wcc83"
+            },
+            {
+              "display_url": "pic.x.com/yhL66Wcc83",
+              "end": 30,
+              "expanded_url": "https://x.com/woshiamio/status/1984044297478664451/photo/1",
+              "media_key": "3_1984044285055127552",
+              "start": 7,
+              "url": "https://t.co/yhL66Wcc83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984044297478664451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1727,
+          "impression_count": 568378,
+          "like_count": 5506,
+          "quote_count": 49,
+          "reply_count": 111,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "这个真没绷住 https://t.co/yhL66Wcc83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqhed",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqhed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "台灣",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1981738914479042749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23974,
+          "following_count": 10960,
+          "like_count": 85031,
+          "listed_count": 90,
+          "media_count": 4374,
+          "tweet_count": 15553
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-12T10:13:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/40ZHppBx24"
+              }
+            ]
+          }
+        },
+        "id": "1966445060872093696",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966460487371218944/P9_OIoKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 340,
+          "like_count": 10347,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/40ZHppBx24",
+        "username": "woshiamio",
+        "verified": false
+      }
+    ]
+  }
+}

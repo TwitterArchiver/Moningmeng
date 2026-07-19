@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2024177287885967392",
+    "created_at": "2026-02-18T17:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024177287885967392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2250210022",
+          "start": 3,
+          "username": "stelios199948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024177287885967392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024050295022731396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stelios199948: 我妈和亲戚说我是被日本人洗脑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2024177287885967392",
+        "created_at": "2026-02-18T17:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024177287885967392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2250210022",
+              "start": 3,
+              "username": "stelios199948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024177287885967392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024050295022731396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stelios199948: 我妈和亲戚说我是被日本人洗脑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2250210022",
+        "conversation_id": "2024050295022731396",
+        "created_at": "2026-02-18T09:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024050295022731396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024050295022731396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3064,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈和亲戚说我是被日本人洗脑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 27,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 4,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26608,
+          "following_count": 10971,
+          "like_count": 86085,
+          "listed_count": 102,
+          "media_count": 4756,
+          "tweet_count": 16228
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-29T15:21:44.000Z",
+        "description": "2009.2|177cm|60Kg|\n喜欢文学，尤其是现实主义\nl出柜|家长求神拜鬼中|自由|平等|独立|反抗|私信不提示，晚回请见谅",
+        "id": "2250210022",
+        "name": "空气味🍥软糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989601523433926656/ZlzySb6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 338,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 269
+        },
+        "username": "stelios199948",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060557509073772544"
+      ],
+      "media_source_tweet_id": [
+        "2060557515520385194"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2060774246612382130",
+    "created_at": "2026-05-30T17:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060774246612382130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqsNM74wYC",
+          "end": 124,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2060557515520385194/photo/1",
+          "media_key": "3_2060557509073772544",
+          "start": 101,
+          "url": "https://t.co/pqsNM74wYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060774246612382130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060557515520385194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 你知道吗？\n如果你经常浏览二次元相关的推文，那么现在，在时间线上推送最多的外语推文大概率是西班牙语。\n\n因为二次元受众除中日韩以外，\n拉美用户是最多、最活跃的。 https://t.co/pqsNM74wYC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 189,
+        "media_key": "3_2060557509073772544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiSIx-bIAAvL-H.jpg",
+        "width": 366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060557509073772544"
+          ],
+          "media_source_tweet_id": [
+            "2060557515520385194"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2060774246612382130",
+        "created_at": "2026-05-30T17:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060774246612382130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqsNM74wYC",
+              "end": 124,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060557515520385194/photo/1",
+              "media_key": "3_2060557509073772544",
+              "start": 101,
+              "url": "https://t.co/pqsNM74wYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060774246612382130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060557515520385194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 你知道吗？\n如果你经常浏览二次元相关的推文，那么现在，在时间线上推送最多的外语推文大概率是西班牙语。\n\n因为二次元受众除中日韩以外，\n拉美用户是最多、最活跃的。 https://t.co/pqsNM74wYC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060557509073772544"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060557515520385194",
+        "created_at": "2026-05-30T03:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060557515520385194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqsNM74wYC",
+              "end": 104,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060557515520385194/photo/1",
+              "media_key": "3_2060557509073772544",
+              "start": 81,
+              "url": "https://t.co/pqsNM74wYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060557515520385194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 70212,
+          "like_count": 1273,
+          "quote_count": 8,
+          "reply_count": 192,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？\n如果你经常浏览二次元相关的推文，那么现在，在时间线上推送最多的外语推文大概率是西班牙语。\n\n因为二次元受众除中日韩以外，\n拉美用户是最多、最活跃的。 https://t.co/pqsNM74wYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27699,
+          "following_count": 11089,
+          "like_count": 89472,
+          "listed_count": 102,
+          "media_count": 5165,
+          "tweet_count": 17480
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 868,
+          "like_count": 23418,
+          "listed_count": 11,
+          "media_count": 1244,
+          "tweet_count": 6971
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

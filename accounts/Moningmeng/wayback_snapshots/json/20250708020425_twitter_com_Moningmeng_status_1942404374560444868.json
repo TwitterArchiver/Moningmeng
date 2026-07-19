@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942062836072525824"
+      ],
+      "media_source_tweet_id": [
+        "1942062850568319271"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1942404374560444868",
+    "created_at": "2025-07-08T02:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942404374560444868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832834649493762048",
+          "start": 3,
+          "username": "1n_fhtagn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a0vOO11avq",
+          "end": 54,
+          "expanded_url": "https://x.com/1n_fhtagn/status/1942062850568319271/photo/1",
+          "media_key": "3_1942062836072525824",
+          "start": 31,
+          "url": "https://t.co/a0vOO11avq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942404374560444868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942062850568319271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1n_fhtagn: 一想到我要上什么学校我就想笑（ https://t.co/a0vOO11avq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942062836072525824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOX3COXMAAse9K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942062836072525824"
+          ],
+          "media_source_tweet_id": [
+            "1942062850568319271"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1942404374560444868",
+        "created_at": "2025-07-08T02:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942404374560444868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832834649493762048",
+              "start": 3,
+              "username": "1n_fhtagn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0vOO11avq",
+              "end": 54,
+              "expanded_url": "https://x.com/1n_fhtagn/status/1942062850568319271/photo/1",
+              "media_key": "3_1942062836072525824",
+              "start": 31,
+              "url": "https://t.co/a0vOO11avq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942404374560444868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942062850568319271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1n_fhtagn: 一想到我要上什么学校我就想笑（ https://t.co/a0vOO11avq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942062836072525824"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "1942062850568319271",
+        "created_at": "2025-07-07T03:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942062850568319271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0vOO11avq",
+              "end": 39,
+              "expanded_url": "https://x.com/1n_fhtagn/status/1942062850568319271/photo/1",
+              "media_key": "3_1942062836072525824",
+              "start": 16,
+              "url": "https://t.co/a0vOO11avq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942062850568319271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21072,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一想到我要上什么学校我就想笑（ https://t.co/a0vOO11avq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21381,
+          "following_count": 10721,
+          "like_count": 77800,
+          "listed_count": 77,
+          "media_count": 3835,
+          "tweet_count": 13940
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "受到致命伤害时持续使生命值不低于1，9秒后强制退出战场，开启技能后立即恢复所有生命；攻击力+330%，攻击距离+2，攻击目标数+3，生命上限+5000，逐渐失去生命（60秒后到达最大生命20%/秒）；持续时间无限",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1924838096195223828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907296465015459840/9ECT2Sd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3571,
+          "following_count": 1247,
+          "like_count": 31100,
+          "listed_count": 6,
+          "media_count": 3077,
+          "tweet_count": 13447
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

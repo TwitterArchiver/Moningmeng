@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1948199224551866789",
+    "created_at": "2025-07-24T01:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T02:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948199224551866789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1292795033272213510",
+          "start": 3,
+          "username": "xuaning2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948199224551866789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948023610465296634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuaning2: 抽一个人免费线下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1948199224551866789",
+        "created_at": "2025-07-24T01:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T02:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948199224551866789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1292795033272213510",
+              "start": 3,
+              "username": "xuaning2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948199224551866789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948023610465296634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuaning2: 抽一个人免费线下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292795033272213510",
+        "conversation_id": "1948023610465296634",
+        "created_at": "2025-07-23T14:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948023610465296634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948023610465296634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15594,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 130,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "抽一个人免费线下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21637,
+          "following_count": 10848,
+          "like_count": 80218,
+          "listed_count": 75,
+          "media_count": 3934,
+          "tweet_count": 14493
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T12:08:55.000Z",
+        "description": "170/50 超级黑皮大唧唧的纯情小药娘一枚，无证含糖hrt（2025.2.22开始），高p的可爱小狗，求投喂求包养",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/malaxiaozi",
+                "end": 23,
+                "expanded_url": "http://t.me/malaxiaozi",
+                "start": 0,
+                "url": "https://t.co/BtW1jVJ1hu"
+              }
+            ]
+          }
+        },
+        "id": "1292795033272213510",
+        "location": "🚪88 请俺喝奶茶",
+        "name": "小蜘xiaozi",
+        "pinned_tweet_id": "1940232848373686735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915789412212051968/Qb4e7bVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15094,
+          "following_count": 750,
+          "like_count": 4875,
+          "listed_count": 73,
+          "media_count": 181,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/BtW1jVJ1hu",
+        "username": "xuaning2",
+        "verified": false
+      }
+    ]
+  }
+}

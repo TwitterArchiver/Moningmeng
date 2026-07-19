@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020083175515627520"
+      ],
+      "media_source_tweet_id": [
+        "2020083182826393952"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2020085646556340688",
+    "created_at": "2026-02-07T10:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T11:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020085646556340688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xg3whYZQf",
+          "end": 43,
+          "expanded_url": "https://x.com/amecandy_x/status/2020083182826393952/photo/1",
+          "media_key": "3_2020083175515627520",
+          "start": 20,
+          "url": "https://t.co/3xg3whYZQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020085646556340688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020083182826393952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 注意到 https://t.co/3xg3whYZQf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2020083175515627520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjG8f1aIAAkbt8.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020083175515627520"
+          ],
+          "media_source_tweet_id": [
+            "2020083182826393952"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2020085646556340688",
+        "created_at": "2026-02-07T10:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020085646556340688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xg3whYZQf",
+              "end": 43,
+              "expanded_url": "https://x.com/amecandy_x/status/2020083182826393952/photo/1",
+              "media_key": "3_2020083175515627520",
+              "start": 20,
+              "url": "https://t.co/3xg3whYZQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020085646556340688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020083182826393952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 注意到 https://t.co/3xg3whYZQf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020083175515627520"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2020083182826393952",
+        "created_at": "2026-02-07T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020083182826393952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xg3whYZQf",
+              "end": 27,
+              "expanded_url": "https://x.com/amecandy_x/status/2020083182826393952/photo/1",
+              "media_key": "3_2020083175515627520",
+              "start": 4,
+              "url": "https://t.co/3xg3whYZQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020083182826393952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "注意到 https://t.co/3xg3whYZQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26474,
+          "following_count": 10950,
+          "like_count": 85346,
+          "listed_count": 101,
+          "media_count": 4705,
+          "tweet_count": 16030
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🍥💻🤖/ Say Know to AI / 我有抑郁症 #odtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 28,
+                "tag": "odtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东省济南市",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2018576571372876012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 1872,
+          "like_count": 24421,
+          "listed_count": 16,
+          "media_count": 1090,
+          "tweet_count": 8457
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

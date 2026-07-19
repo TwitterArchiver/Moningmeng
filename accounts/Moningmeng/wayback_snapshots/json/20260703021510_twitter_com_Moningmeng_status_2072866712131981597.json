@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072129241895100416"
+      ],
+      "media_source_tweet_id": [
+        "2072168317821837818"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2072866712131981597",
+    "created_at": "2026-07-03T02:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072866712131981597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ReHQbrEwW1",
+          "end": 63,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2072168317821837818/photo/1",
+          "media_key": "3_2072129241895100416",
+          "start": 40,
+          "url": "https://t.co/ReHQbrEwW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072866712131981597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072168317821837818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 幸福的中国人，买东西不用交税🇨🇳🇨🇳 https://t.co/ReHQbrEwW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_2072129241895100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGukR_bYAAqPLX.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072129241895100416"
+          ],
+          "media_source_tweet_id": [
+            "2072168317821837818"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2072866712131981597",
+        "created_at": "2026-07-03T02:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072866712131981597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReHQbrEwW1",
+              "end": 63,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2072168317821837818/photo/1",
+              "media_key": "3_2072129241895100416",
+              "start": 40,
+              "url": "https://t.co/ReHQbrEwW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072866712131981597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072168317821837818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 幸福的中国人，买东西不用交税🇨🇳🇨🇳 https://t.co/ReHQbrEwW1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072129241895100416"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2072168317821837818",
+        "created_at": "2026-07-01T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072168317821837818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReHQbrEwW1",
+              "end": 42,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2072168317821837818/photo/1",
+              "media_key": "3_2072129241895100416",
+              "start": 19,
+              "url": "https://t.co/ReHQbrEwW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072168317821837818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 130947,
+          "like_count": 1133,
+          "quote_count": 3,
+          "reply_count": 204,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "幸福的中国人，买东西不用交税🇨🇳🇨🇳 https://t.co/ReHQbrEwW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27945,
+          "following_count": 11208,
+          "like_count": 92416,
+          "listed_count": 103,
+          "media_count": 5300,
+          "tweet_count": 18269
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 1961,
+          "like_count": 3305,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 7415
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

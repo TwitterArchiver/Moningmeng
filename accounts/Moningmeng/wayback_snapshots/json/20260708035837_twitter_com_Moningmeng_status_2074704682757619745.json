@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2074666294809698304"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074704682757619745",
+    "created_at": "2026-07-08T03:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074704682757619745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074704682757619745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074666296541872494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024m: 知道你们不爱点赞，所以想问各位一个问题，你喜欢你的父母吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-09T01:26:04.000Z",
+        "id": "2074666294809698304",
+        "options": [
+          {
+            "label": "喜欢",
+            "position": 1,
+            "votes": 6
+          },
+          {
+            "label": "不喜欢",
+            "position": 2,
+            "votes": 13
+          },
+          {
+            "label": "无感",
+            "position": 3,
+            "votes": 10
+          },
+          {
+            "label": "评论区/看答案",
+            "position": 4,
+            "votes": 5
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2074666294809698304"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074704682757619745",
+        "created_at": "2026-07-08T03:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074704682757619745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074704682757619745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074666296541872494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024m: 知道你们不爱点赞，所以想问各位一个问题，你喜欢你的父母吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2074666294809698304"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2074666296541872494",
+        "created_at": "2026-07-08T01:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074666296541872494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074666296541872494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "知道你们不爱点赞，所以想问各位一个问题，你喜欢你的父母吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28057,
+          "following_count": 11404,
+          "like_count": 92728,
+          "listed_count": 104,
+          "media_count": 5323,
+          "tweet_count": 18434
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、合伙人、中国区市场部总经理 | WB@高坂穗奈雪 | 商务：gaoban@focuscy.cn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://t.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/kh92v6N9oi"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2072641450085339349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1706,
+          "like_count": 5738,
+          "listed_count": 13,
+          "media_count": 999,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/kh92v6N9oi",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

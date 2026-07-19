@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944952641907515394"
+      ],
+      "media_source_tweet_id": [
+        "1944952644512178358"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1944958214501752931",
+    "created_at": "2025-07-15T03:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944958214501752931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620322708994068481",
+          "start": 3,
+          "username": "jinsenala"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCFDsClZQL",
+          "end": 57,
+          "expanded_url": "https://x.com/jinsenala/status/1944952644512178358/photo/1",
+          "media_key": "3_1944952641907515394",
+          "start": 34,
+          "url": "https://t.co/XCFDsClZQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944958214501752931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944952644512178358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinsenala: 窝在上海，同城或者江浙沪会更方便一些 https://t.co/XCFDsClZQL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944958214501752931].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944958214501752931",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944958214501752931"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1944952641907515394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3cH33a4AIgfa1.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944952641907515394"
+          ]
+        },
+        "author_id": "1620322708994068481",
+        "conversation_id": "1944952644512178358",
+        "created_at": "2025-07-15T02:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944952644512178358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCFDsClZQL",
+              "end": 42,
+              "expanded_url": "https://x.com/jinsenala/status/1944952644512178358/photo/1",
+              "media_key": "3_1944952641907515394",
+              "start": 19,
+              "url": "https://t.co/XCFDsClZQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944952644512178358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "窝在上海，同城或者江浙沪会更方便一些 https://t.co/XCFDsClZQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21445,
+          "following_count": 10820,
+          "like_count": 79122,
+          "listed_count": 77,
+          "media_count": 3885,
+          "tweet_count": 14189
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1934971718575288500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 596,
+          "like_count": 2171,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

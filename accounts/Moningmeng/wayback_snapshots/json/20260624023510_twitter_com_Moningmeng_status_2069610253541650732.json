@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069610253541650732",
+    "created_at": "2026-06-24T02:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069610253541650732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1154067218151272448",
+          "start": 3,
+          "username": "yingyou233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069610253541650732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069273918612091277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingyou233: 好想交朋友啊5555\n但完全不知道怎么做。。而且好担心被人讨厌。。很内向也不知道怎么主动说话，虽然话很多但什么都说不出来。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069610253541650732",
+        "created_at": "2026-06-24T02:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069610253541650732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1154067218151272448",
+              "start": 3,
+              "username": "yingyou233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069610253541650732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069273918612091277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yingyou233: 好想交朋友啊5555\n但完全不知道怎么做。。而且好担心被人讨厌。。很内向也不知道怎么主动说话，虽然话很多但什么都说不出来。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154067218151272448",
+        "conversation_id": "2069273918612091277",
+        "created_at": "2026-06-23T04:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069273918612091277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069273918612091277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7387,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想交朋友啊5555\n但完全不知道怎么做。。而且好担心被人讨厌。。很内向也不知道怎么主动说话，虽然话很多但什么都说不出来。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27826,
+          "following_count": 11128,
+          "like_count": 92234,
+          "listed_count": 102,
+          "media_count": 5270,
+          "tweet_count": 18098
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T16:34:01.000Z",
+        "description": "魔都mtx喵，想交朋友喵qwq，有点被动..如果能和我互动一起玩会很开心的，几天上线一次",
+        "id": "1154067218151272448",
+        "location": "上海, 中华人民共和国",
+        "name": "来自远方的魔女凌樱",
+        "pinned_tweet_id": "1936950691093962984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790397973442318337/j9z-i9Gj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7817,
+          "following_count": 66,
+          "like_count": 962,
+          "listed_count": 19,
+          "media_count": 497,
+          "tweet_count": 2516
+        },
+        "url": "",
+        "username": "yingyou233",
+        "verified": false
+      }
+    ]
+  }
+}

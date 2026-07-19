@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981351964320428032"
+      ],
+      "media_source_tweet_id": [
+        "1981351988651839792"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1981528761976881385",
+    "created_at": "2025-10-24T01:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981528761976881385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1769594666977210368",
+          "start": 3,
+          "username": "aiaijiango"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RiKYbBGZHt",
+          "end": 64,
+          "expanded_url": "https://x.com/aiaijiango/status/1981351988651839792/photo/1",
+          "media_key": "3_1981351964320428032",
+          "start": 41,
+          "url": "https://t.co/RiKYbBGZHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981528761976881385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981351988651839792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiaijiango: 关于成都的刻板印象，早已在人们心中筑成了一座高墙 https://t.co/RiKYbBGZHt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1630,
+        "media_key": "3_1981351964320428032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38tHShXcAAyOEC.jpg",
+        "width": 1217
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981351964320428032"
+          ],
+          "media_source_tweet_id": [
+            "1981351988651839792"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1981528761976881385",
+        "created_at": "2025-10-24T01:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981528761976881385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1769594666977210368",
+              "start": 3,
+              "username": "aiaijiango"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RiKYbBGZHt",
+              "end": 64,
+              "expanded_url": "https://x.com/aiaijiango/status/1981351988651839792/photo/1",
+              "media_key": "3_1981351964320428032",
+              "start": 41,
+              "url": "https://t.co/RiKYbBGZHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981528761976881385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981351988651839792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiaijiango: 关于成都的刻板印象，早已在人们心中筑成了一座高墙 https://t.co/RiKYbBGZHt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981351964320428032"
+          ]
+        },
+        "author_id": "1769594666977210368",
+        "conversation_id": "1981351988651839792",
+        "created_at": "2025-10-23T13:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981351988651839792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RiKYbBGZHt",
+              "end": 48,
+              "expanded_url": "https://x.com/aiaijiango/status/1981351988651839792/photo/1",
+              "media_key": "3_1981351964320428032",
+              "start": 25,
+              "url": "https://t.co/RiKYbBGZHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981351988651839792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1930,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于成都的刻板印象，早已在人们心中筑成了一座高墙 https://t.co/RiKYbBGZHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23433,
+          "following_count": 10915,
+          "like_count": 84364,
+          "listed_count": 86,
+          "media_count": 4331,
+          "tweet_count": 15486
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持usdt",
+        "id": "1769594666977210368",
+        "location": "上海🚪128❤️",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1980110000333983973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8954,
+          "following_count": 138,
+          "like_count": 358,
+          "listed_count": 31,
+          "media_count": 109,
+          "tweet_count": 888
+        },
+        "username": "aiaijiango",
+        "verified": true
+      }
+    ]
+  }
+}

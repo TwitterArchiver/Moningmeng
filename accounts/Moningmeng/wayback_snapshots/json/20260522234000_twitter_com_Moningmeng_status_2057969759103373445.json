@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2057969759103373445",
+    "created_at": "2026-05-22T23:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057969759103373445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4703070667",
+          "start": 3,
+          "username": "superbear83915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057969759103373445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057801788003369193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @superbear83915: 我還記得馬斯克\n是為了終止假帳號才收購推特的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2057969759103373445",
+        "created_at": "2026-05-22T23:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057969759103373445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4703070667",
+              "start": 3,
+              "username": "superbear83915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057969759103373445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057801788003369193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @superbear83915: 我還記得馬斯克\n是為了終止假帳號才收購推特的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4703070667",
+        "conversation_id": "2057801788003369193",
+        "created_at": "2026-05-22T12:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057801788003369193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057801788003369193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 122974,
+          "like_count": 1908,
+          "quote_count": 17,
+          "reply_count": 125,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我還記得馬斯克\n是為了終止假帳號才收購推特的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27490,
+          "following_count": 11051,
+          "like_count": 88450,
+          "listed_count": 98,
+          "media_count": 5132,
+          "tweet_count": 17260
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-03T14:06:26.000Z",
+        "description": "「銳評50% 幹話50%」Art/Meme tag: #是在kuma",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "是在kuma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC4_of…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC4_ofgezp9nrPXHSmZMT97g?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GRaF16xqx5"
+              }
+            ]
+          }
+        },
+        "id": "4703070667",
+        "location": "台北",
+        "name": "社長Kuma🐻🎙算是VTuber",
+        "pinned_tweet_id": "1963901089951973614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994464389144137729/p-4BQo3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25219,
+          "following_count": 4053,
+          "like_count": 5299,
+          "listed_count": 31,
+          "media_count": 2984,
+          "tweet_count": 11339
+        },
+        "url": "https://t.co/GRaF16xqx5",
+        "username": "superbear83915",
+        "verified": false
+      }
+    ]
+  }
+}

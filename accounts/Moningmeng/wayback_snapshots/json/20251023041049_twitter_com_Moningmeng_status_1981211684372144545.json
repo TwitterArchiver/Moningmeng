@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1981092993223577929",
+    "created_at": "2025-10-23T04:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981211684372144545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "353528348",
+          "start": 0,
+          "username": "supershigi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981211684372144545",
+    "in_reply_to_user_id": "353528348",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981092993223577929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supershigi The game music you created is among the most cherished memories of my childhood"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 166324,
+        "height": 720,
+        "media_key": "13_1981091192293986304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981091192293986304/img/89tCsI0xBL0iIID2.jpg",
+        "public_metrics": {
+          "view_count": 13734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981091192293986304/vid/avc1/480x270/TSmKX12f2xKYX7gX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981091192293986304/vid/avc1/640x360/DaABNBIgq6GB2_yB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981091192293986304/vid/avc1/1280x720/Tf_hrhpvopsLkQyY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981091192293986304/pl/U172czFQ9MzP7UuM.m3u8?v=6d1"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1981092993223577929",
+        "created_at": "2025-10-23T04:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981211684372144545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "353528348",
+              "start": 0,
+              "username": "supershigi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981211684372144545",
+        "in_reply_to_user_id": "353528348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981092993223577929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supershigi The game music you created is among the most cherished memories of my childhood"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981091192293986304"
+          ]
+        },
+        "author_id": "353528348",
+        "conversation_id": "1981092993223577929",
+        "created_at": "2025-10-22T20:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T21:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981092993223577929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 153,
+              "normalized_text": "First Day",
+              "probability": 0.8773,
+              "start": 145,
+              "type": "Other"
+            },
+            {
+              "end": 198,
+              "normalized_text": "High School Story",
+              "probability": 0.5774,
+              "start": 182,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/trfzzQnzKC",
+              "end": 226,
+              "expanded_url": "https://x.com/supershigi/status/1981092993223577929/video/1",
+              "media_key": "13_1981091192293986304",
+              "start": 203,
+              "url": "https://t.co/trfzzQnzKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981092993223577929",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 30365,
+          "like_count": 2967,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "Found a folder with a bunch of original songs and videos from a stream event~ I'll try to share them here little by little ♫\n\nThis one's called \"First Day\"... I made it for the game High School Story ❤️ https://t.co/trfzzQnzKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23395,
+          "following_count": 10905,
+          "like_count": 84287,
+          "listed_count": 86,
+          "media_count": 4326,
+          "tweet_count": 15472
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-12T06:28:56.000Z",
+        "description": "🌻 Plants vs Zombies Composer | RAKUEN Creator | DELTARUNE | メグとばけもの | WoW | CS:GO | 1.3M subs on YouTube | ハーフ 🎇 NEW song: https://t.co/WWKlvkTJgo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ffm.to/what-you-mean-…",
+                "end": 146,
+                "expanded_url": "https://ffm.to/what-you-mean-to-me",
+                "start": 123,
+                "url": "https://t.co/WWKlvkTJgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ffm.bio/shigi",
+                "end": 23,
+                "expanded_url": "https://ffm.bio/shigi",
+                "start": 0,
+                "url": "https://t.co/pUlMEgqM9Y"
+              }
+            ]
+          }
+        },
+        "id": "353528348",
+        "location": "Enhasa",
+        "name": "Laura Shigihara (鴫原ローラ ) 🍰🧋",
+        "pinned_tweet_id": "1860043640695062975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882570192057966594/5YqGDfc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166376,
+          "following_count": 198,
+          "like_count": 10171,
+          "listed_count": 0,
+          "media_count": 2169,
+          "tweet_count": 17743
+        },
+        "url": "https://t.co/pUlMEgqM9Y",
+        "username": "supershigi",
+        "verified": true
+      }
+    ]
+  }
+}

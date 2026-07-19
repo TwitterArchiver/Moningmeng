@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949323348552626176"
+      ],
+      "media_source_tweet_id": [
+        "1949323358136680866"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1949437087566143809",
+    "created_at": "2025-07-27T11:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949437087566143809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828008363273388032",
+          "start": 3,
+          "username": "akui1121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgXtKXqvqk",
+          "end": 56,
+          "expanded_url": "https://x.com/akui1121/status/1949323358136680866/photo/1",
+          "media_key": "3_1949323348552626176",
+          "start": 33,
+          "url": "https://t.co/pgXtKXqvqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949437087566143809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949323358136680866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akui1121: 我草你妈，听到没有，我草你妈👊😭👊😭 https://t.co/pgXtKXqvqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949323348552626176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1jQe7asAA0YE2.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949323348552626176"
+          ],
+          "media_source_tweet_id": [
+            "1949323358136680866"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1949437087566143809",
+        "created_at": "2025-07-27T11:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949437087566143809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828008363273388032",
+              "start": 3,
+              "username": "akui1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgXtKXqvqk",
+              "end": 56,
+              "expanded_url": "https://x.com/akui1121/status/1949323358136680866/photo/1",
+              "media_key": "3_1949323348552626176",
+              "start": 33,
+              "url": "https://t.co/pgXtKXqvqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949437087566143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949323358136680866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akui1121: 我草你妈，听到没有，我草你妈👊😭👊😭 https://t.co/pgXtKXqvqk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949323348552626176"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1949323358136680866",
+        "created_at": "2025-07-27T04:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949323358136680866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgXtKXqvqk",
+              "end": 42,
+              "expanded_url": "https://x.com/akui1121/status/1949323358136680866/photo/1",
+              "media_key": "3_1949323348552626176",
+              "start": 19,
+              "url": "https://t.co/pgXtKXqvqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949323358136680866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9950,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我草你妈，听到没有，我草你妈👊😭👊😭 https://t.co/pgXtKXqvqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21673,
+          "following_count": 10874,
+          "like_count": 81169,
+          "listed_count": 75,
+          "media_count": 3958,
+          "tweet_count": 14647
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！男娘！👻你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 🚪80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121  互炒闺蜜@1965chich",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "1965chich"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1943261520902951277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944206812791865345/VxoTQON3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26188,
+          "following_count": 1159,
+          "like_count": 18700,
+          "listed_count": 70,
+          "media_count": 832,
+          "tweet_count": 11043
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

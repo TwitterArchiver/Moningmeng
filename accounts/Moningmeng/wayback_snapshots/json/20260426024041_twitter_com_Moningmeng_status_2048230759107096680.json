@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2048230759107096680",
+    "created_at": "2026-04-26T02:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048230759107096680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226174804190883841",
+          "start": 3,
+          "username": "shutiaoniang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048230759107096680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048064945406066972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shutiaoniang: 国内还是太颠了，一边打压男娘，一边默许那些女主播假装男娘骗人。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2048230759107096680",
+        "created_at": "2026-04-26T02:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048230759107096680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226174804190883841",
+              "start": 3,
+              "username": "shutiaoniang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048230759107096680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048064945406066972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shutiaoniang: 国内还是太颠了，一边打压男娘，一边默许那些女主播假装男娘骗人。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226174804190883841",
+        "conversation_id": "2048064945406066972",
+        "created_at": "2026-04-25T15:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048064945406066972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048064945406066972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 28824,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "国内还是太颠了，一边打压男娘，一边默许那些女主播假装男娘骗人。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27117,
+          "following_count": 10994,
+          "like_count": 87577,
+          "listed_count": 102,
+          "media_count": 5025,
+          "tweet_count": 16937
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T16:04:07.000Z",
+        "description": "在 #上海 寻互勉摄影～～～～～～～～～～～～～～～～b站小主播id：薯条娘吃薯条 上舰+v～～～～～～～～～🎵🍠id:薯条娘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "上海"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/34932903620140…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3493290362014061?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/VL0lMfELX5"
+              }
+            ]
+          }
+        },
+        "id": "1226174804190883841",
+        "location": "ShangHai",
+        "name": "薯条娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971252268344410121/3XZ2FMWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32261,
+          "following_count": 648,
+          "like_count": 859,
+          "listed_count": 183,
+          "media_count": 246,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/VL0lMfELX5",
+        "username": "shutiaoniang",
+        "verified": false
+      }
+    ]
+  }
+}

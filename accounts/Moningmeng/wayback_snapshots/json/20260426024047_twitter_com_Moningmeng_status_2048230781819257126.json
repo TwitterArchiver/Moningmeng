@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047939177627725824"
+      ],
+      "media_source_tweet_id": [
+        "2047978933182706115"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048230781819257126",
+    "created_at": "2026-04-26T02:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048230781819257126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTurhSy0TD",
+          "end": 51,
+          "expanded_url": "https://x.com/youy1qwq/status/2047978933182706115/photo/1",
+          "media_key": "3_2047939177627725824",
+          "start": 28,
+          "url": "https://t.co/lTurhSy0TD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048230781819257126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047978933182706115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 好心酸仿佛看到了自己的同学 https://t.co/lTurhSy0TD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2047939177627725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu91OQbMAApMsp.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047939177627725824"
+          ],
+          "media_source_tweet_id": [
+            "2047978933182706115"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048230781819257126",
+        "created_at": "2026-04-26T02:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048230781819257126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTurhSy0TD",
+              "end": 51,
+              "expanded_url": "https://x.com/youy1qwq/status/2047978933182706115/photo/1",
+              "media_key": "3_2047939177627725824",
+              "start": 28,
+              "url": "https://t.co/lTurhSy0TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048230781819257126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047978933182706115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 好心酸仿佛看到了自己的同学 https://t.co/lTurhSy0TD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047939177627725824"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047978933182706115",
+        "created_at": "2026-04-25T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047978933182706115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTurhSy0TD",
+              "end": 37,
+              "expanded_url": "https://x.com/youy1qwq/status/2047978933182706115/photo/1",
+              "media_key": "3_2047939177627725824",
+              "start": 14,
+              "url": "https://t.co/lTurhSy0TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047978933182706115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28397,
+          "like_count": 599,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "好心酸仿佛看到了自己的同学 https://t.co/lTurhSy0TD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27117,
+          "following_count": 10994,
+          "like_count": 87578,
+          "listed_count": 102,
+          "media_count": 5025,
+          "tweet_count": 16938
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11255,
+          "following_count": 1646,
+          "like_count": 3877,
+          "listed_count": 16,
+          "media_count": 1516,
+          "tweet_count": 2004
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973348776887676928",
+        "3_1973348776891789312"
+      ],
+      "media_source_tweet_id": [
+        "1973348827500560748",
+        "1973348827500560748"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1973952854911291513",
+    "created_at": "2025-10-03T03:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973952854911291513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1794617194954850304",
+          "start": 3,
+          "username": "Baixiaoming0707"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdfncRvu4d",
+          "end": 49,
+          "expanded_url": "https://x.com/Baixiaoming0707/status/1973348827500560748/photo/1",
+          "media_key": "3_1973348776887676928",
+          "start": 26,
+          "url": "https://t.co/CdfncRvu4d"
+        },
+        {
+          "display_url": "pic.x.com/CdfncRvu4d",
+          "end": 49,
+          "expanded_url": "https://x.com/Baixiaoming0707/status/1973348827500560748/photo/1",
+          "media_key": "3_1973348776891789312",
+          "start": 26,
+          "url": "https://t.co/CdfncRvu4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973952854911291513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973348827500560748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baixiaoming0707: 安卓主席 https://t.co/CdfncRvu4d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973348776887676928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2K-QeBXcAAbrbG.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973348776891789312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2K-QeCWMAAeKnr.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973348776887676928",
+            "3_1973348776891789312"
+          ],
+          "media_source_tweet_id": [
+            "1973348827500560748",
+            "1973348827500560748"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973952854911291513",
+        "created_at": "2025-10-03T03:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973952854911291513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1794617194954850304",
+              "start": 3,
+              "username": "Baixiaoming0707"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdfncRvu4d",
+              "end": 49,
+              "expanded_url": "https://x.com/Baixiaoming0707/status/1973348827500560748/photo/1",
+              "media_key": "3_1973348776887676928",
+              "start": 26,
+              "url": "https://t.co/CdfncRvu4d"
+            },
+            {
+              "display_url": "pic.x.com/CdfncRvu4d",
+              "end": 49,
+              "expanded_url": "https://x.com/Baixiaoming0707/status/1973348827500560748/photo/1",
+              "media_key": "3_1973348776891789312",
+              "start": 26,
+              "url": "https://t.co/CdfncRvu4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973952854911291513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973348827500560748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Baixiaoming0707: 安卓主席 https://t.co/CdfncRvu4d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973348776887676928",
+            "3_1973348776891789312"
+          ]
+        },
+        "author_id": "1794617194954850304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973348827500560748",
+        "created_at": "2025-10-01T11:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T12:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973348827500560748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdfncRvu4d",
+              "end": 28,
+              "expanded_url": "https://x.com/Baixiaoming0707/status/1973348827500560748/photo/1",
+              "media_key": "3_1973348776887676928",
+              "start": 5,
+              "url": "https://t.co/CdfncRvu4d"
+            },
+            {
+              "display_url": "pic.x.com/CdfncRvu4d",
+              "end": 28,
+              "expanded_url": "https://x.com/Baixiaoming0707/status/1973348827500560748/photo/1",
+              "media_key": "3_1973348776891789312",
+              "start": 5,
+              "url": "https://t.co/CdfncRvu4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973348827500560748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 437221,
+          "like_count": 2476,
+          "quote_count": 13,
+          "reply_count": 134,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "安卓主席 https://t.co/CdfncRvu4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23081,
+          "following_count": 10916,
+          "like_count": 84059,
+          "listed_count": 85,
+          "media_count": 4249,
+          "tweet_count": 15373
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "总有一天我会离去，在此之前我会发光到最后一刻 | 不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 不知名在校高中生@IzayoiMarin | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "diangunottosm"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 1447,
+          "like_count": 17714,
+          "listed_count": 10,
+          "media_count": 874,
+          "tweet_count": 5238
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

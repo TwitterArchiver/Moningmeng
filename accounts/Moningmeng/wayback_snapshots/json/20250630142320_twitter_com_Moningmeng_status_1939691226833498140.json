@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939238770097676288"
+      ],
+      "media_source_tweet_id": [
+        "1939238773155602887"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1939691226833498140",
+    "created_at": "2025-06-30T14:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T15:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939691226833498140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1588882513111396353",
+          "start": 3,
+          "username": "love_generalu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/czfMXvOufs",
+          "end": 42,
+          "expanded_url": "https://x.com/love_generalu/status/1939238773155602887/photo/1",
+          "media_key": "3_1939238770097676288",
+          "start": 19,
+          "url": "https://t.co/czfMXvOufs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939691226833498140",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939238773155602887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love_generalu: https://t.co/czfMXvOufs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_1939238770097676288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GumPYwpWYAAeaBb.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939238770097676288"
+          ],
+          "media_source_tweet_id": [
+            "1939238773155602887"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1939691226833498140",
+        "created_at": "2025-06-30T14:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939691226833498140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1588882513111396353",
+              "start": 3,
+              "username": "love_generalu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfMXvOufs",
+              "end": 42,
+              "expanded_url": "https://x.com/love_generalu/status/1939238773155602887/photo/1",
+              "media_key": "3_1939238770097676288",
+              "start": 19,
+              "url": "https://t.co/czfMXvOufs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939691226833498140",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939238773155602887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love_generalu: https://t.co/czfMXvOufs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939238770097676288"
+          ]
+        },
+        "author_id": "1588882513111396353",
+        "conversation_id": "1939238773155602887",
+        "created_at": "2025-06-29T08:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939238773155602887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfMXvOufs",
+              "end": 23,
+              "expanded_url": "https://x.com/love_generalu/status/1939238773155602887/photo/1",
+              "media_key": "3_1939238770097676288",
+              "start": 0,
+              "url": "https://t.co/czfMXvOufs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939238773155602887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 124551,
+          "like_count": 987,
+          "quote_count": 10,
+          "reply_count": 24,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/czfMXvOufs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 老婆 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932569658647064579/Q1muwosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21404,
+          "following_count": 10722,
+          "like_count": 77311,
+          "listed_count": 76,
+          "media_count": 3797,
+          "tweet_count": 13815
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:14:54.000Z",
+        "description": "社会牛马｜摸鱼达人｜喜欢Furry｜粥｜自由意志｜中文🆗English🆗｜🈚️雷｜转发会有🚫NSFK内容请注意⚠️｜吾爱之人   @Amyer29887768   🥰｜谢谢关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Amyer29887768"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/general65838",
+                "end": 23,
+                "expanded_url": "https://ngl.link/general65838",
+                "start": 0,
+                "url": "https://t.co/FoUKtMa6Iy"
+              }
+            ]
+          }
+        },
+        "id": "1588882513111396353",
+        "location": "苏州不知名县城",
+        "name": "将军还在摆烂",
+        "pinned_tweet_id": "1804730543881547927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922293908849020928/CwAp2JP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1143,
+          "like_count": 9466,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/FoUKtMa6Iy",
+        "username": "love_generalu",
+        "verified": false
+      }
+    ]
+  }
+}

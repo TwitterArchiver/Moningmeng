@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944727652897587200"
+      ],
+      "media_source_tweet_id": [
+        "1944727657213763619"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1944797695161532889",
+    "created_at": "2025-07-14T16:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944797695161532889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1911351259749294080",
+          "start": 3,
+          "username": "Quitewaterqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/28YqfPs3CH",
+          "end": 58,
+          "expanded_url": "https://x.com/Quitewaterqwq/status/1944727657213763619/photo/1",
+          "media_key": "3_1944727652897587200",
+          "start": 35,
+          "url": "https://t.co/28YqfPs3CH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944797695161532889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944727657213763619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Quitewaterqwq: 你认为我写的四个字哪个更好看？ https://t.co/28YqfPs3CH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1944727652897587200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0PfyfXAAAnYVM.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944727652897587200"
+          ],
+          "media_source_tweet_id": [
+            "1944727657213763619"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1944797695161532889",
+        "created_at": "2025-07-14T16:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944797695161532889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1911351259749294080",
+              "start": 3,
+              "username": "Quitewaterqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28YqfPs3CH",
+              "end": 58,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/1944727657213763619/photo/1",
+              "media_key": "3_1944727652897587200",
+              "start": 35,
+              "url": "https://t.co/28YqfPs3CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944797695161532889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944727657213763619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Quitewaterqwq: 你认为我写的四个字哪个更好看？ https://t.co/28YqfPs3CH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944727652897587200"
+          ]
+        },
+        "author_id": "1911351259749294080",
+        "conversation_id": "1944727657213763619",
+        "created_at": "2025-07-14T11:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T12:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944727657213763619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28YqfPs3CH",
+              "end": 39,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/1944727657213763619/photo/1",
+              "media_key": "3_1944727652897587200",
+              "start": 16,
+              "url": "https://t.co/28YqfPs3CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944727657213763619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3688,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你认为我写的四个字哪个更好看？ https://t.co/28YqfPs3CH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21440,
+          "following_count": 10814,
+          "like_count": 78978,
+          "listed_count": 77,
+          "media_count": 3882,
+          "tweet_count": 14169
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "09山东准高一|不b任何人|坚持对任何人友好原则|是岁静人，用心过好生活|对🏳️‍🌈🏳️‍⚧️友好，非跨非同|没有固定政治立场\n|😘@1ka16103257 @tongtiaowhenXI @IzumiKonata2016 @Shimamura_Tako @你们所有人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "1ka16103257"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tongtiaowhenXI"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "IzumiKonata2016"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "Shimamura_Tako"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PJRSYa",
+                "end": 23,
+                "expanded_url": "https://t.me/PJRSYa",
+                "start": 0,
+                "url": "https://t.co/9QvFwvU0yb"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "location": "IP属地:中国",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "pinned_tweet_id": "1941510780517745036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 645,
+          "like_count": 1986,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/9QvFwvU0yb",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

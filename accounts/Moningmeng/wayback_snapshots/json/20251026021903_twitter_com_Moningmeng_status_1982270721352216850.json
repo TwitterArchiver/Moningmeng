@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982025232798846976"
+      ],
+      "media_source_tweet_id": [
+        "1982025360989696199"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "1982270721352216850",
+    "created_at": "2025-10-26T02:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T03:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982270721352216850"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "同志遊行"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "蔡英文"
+        },
+        {
+          "end": 79,
+          "start": 72,
+          "tag": "Taiwan"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "台湾"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3029501171",
+          "start": 3,
+          "username": "ltntw"
+        }
+      ],
+      "urls": [
+        {
+          "description": "第23屆台灣同志遊行今（25日）盛大登場，今年主題為「超．連結－跨越標籤，理解差異」，湧入逾13萬人共襄盛舉。前總統蔡英文也帶著愛犬「鳳梨妹」、「樂樂」現身敦化南路，向遊行隊伍揮手致意，而民眾也熱情的歡呼尖叫，氣氛沸騰。「六年了，我們一起走了這麼久。」蔡英文透過臉書表示，這幾天看到許多國外的朋友陸續來到台灣，準備參加今年的同志遊行，親身體驗這座島嶼的愛與自由。她知道還有更多的朋友，早在二十多年前，就已經在追求平權的路上默默努力。謝謝大家的勇氣與堅持，才讓台北的街頭，在每年的這個時候，充滿著各種漂亮的顏色，以及漂亮的人、勇敢的人。",
+          "display_url": "news.ltn.com.tw/news/politics/…",
+          "end": 59,
+          "expanded_url": "https://news.ltn.com.tw/news/politics/breakingnews/5223511",
+          "images": [
+            {
+              "height": 446,
+              "url": "https://pbs.twimg.com/news_img/1982025363258744832/KdCrd45p?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1982025363258744832/KdCrd45p?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "同框彩虹旗！蔡英文攜毛小孩現身同志遊行 全場歡呼爆棚 - 政治 - 自由時報電子報",
+          "unwound_url": "https://news.ltn.com.tw/news/politics/breakingnews/5223511",
+          "url": "https://t.co/av0UWlYCf4"
+        },
+        {
+          "display_url": "pic.x.com/oiBZh0dqNI",
+          "end": 107,
+          "expanded_url": "https://x.com/ltntw/status/1982025360989696199/photo/1",
+          "media_key": "3_1982025232798846976",
+          "start": 84,
+          "url": "https://t.co/oiBZh0dqNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982270721352216850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982025360989696199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ltntw: 那位最帥氣的女子帶著她的小孩來了！\n \n圖文報導：https://t.co/av0UWlYCf4\n\n#同志遊行 #蔡英文 #Taiwan #台湾 https://t.co/oiBZh0dqNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_1982025232798846976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GRcrDWEAA2Mmh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982025232798846976"
+          ],
+          "media_source_tweet_id": [
+            "1982025360989696199"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "1982270721352216850",
+        "created_at": "2025-10-26T02:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982270721352216850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "同志遊行"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "蔡英文"
+            },
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "Taiwan"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "台湾"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3029501171",
+              "start": 3,
+              "username": "ltntw"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第23屆台灣同志遊行今（25日）盛大登場，今年主題為「超．連結－跨越標籤，理解差異」，湧入逾13萬人共襄盛舉。前總統蔡英文也帶著愛犬「鳳梨妹」、「樂樂」現身敦化南路，向遊行隊伍揮手致意，而民眾也熱情的歡呼尖叫，氣氛沸騰。「六年了，我們一起走了這麼久。」蔡英文透過臉書表示，這幾天看到許多國外的朋友陸續來到台灣，準備參加今年的同志遊行，親身體驗這座島嶼的愛與自由。她知道還有更多的朋友，早在二十多年前，就已經在追求平權的路上默默努力。謝謝大家的勇氣與堅持，才讓台北的街頭，在每年的這個時候，充滿著各種漂亮的顏色，以及漂亮的人、勇敢的人。",
+              "display_url": "news.ltn.com.tw/news/politics/…",
+              "end": 59,
+              "expanded_url": "https://news.ltn.com.tw/news/politics/breakingnews/5223511",
+              "images": [
+                {
+                  "height": 446,
+                  "url": "https://pbs.twimg.com/news_img/1982025363258744832/KdCrd45p?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1982025363258744832/KdCrd45p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "同框彩虹旗！蔡英文攜毛小孩現身同志遊行 全場歡呼爆棚 - 政治 - 自由時報電子報",
+              "unwound_url": "https://news.ltn.com.tw/news/politics/breakingnews/5223511",
+              "url": "https://t.co/av0UWlYCf4"
+            },
+            {
+              "display_url": "pic.x.com/oiBZh0dqNI",
+              "end": 107,
+              "expanded_url": "https://x.com/ltntw/status/1982025360989696199/photo/1",
+              "media_key": "3_1982025232798846976",
+              "start": 84,
+              "url": "https://t.co/oiBZh0dqNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982270721352216850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982025360989696199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ltntw: 那位最帥氣的女子帶著她的小孩來了！\n \n圖文報導：https://t.co/av0UWlYCf4\n\n#同志遊行 #蔡英文 #Taiwan #台湾 https://t.co/oiBZh0dqNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982025232798846976"
+          ]
+        },
+        "author_id": "3029501171",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1982025360989696199",
+        "created_at": "2025-10-25T10:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982025360989696199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "同志遊行"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "蔡英文"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "Taiwan"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "台湾"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第23屆台灣同志遊行今（25日）盛大登場，今年主題為「超．連結－跨越標籤，理解差異」，湧入逾13萬人共襄盛舉。前總統蔡英文也帶著愛犬「鳳梨妹」、「樂樂」現身敦化南路，向遊行隊伍揮手致意，而民眾也熱情的歡呼尖叫，氣氛沸騰。「六年了，我們一起走了這麼久。」蔡英文透過臉書表示，這幾天看到許多國外的朋友陸續來到台灣，準備參加今年的同志遊行，親身體驗這座島嶼的愛與自由。她知道還有更多的朋友，早在二十多年前，就已經在追求平權的路上默默努力。謝謝大家的勇氣與堅持，才讓台北的街頭，在每年的這個時候，充滿著各種漂亮的顏色，以及漂亮的人、勇敢的人。",
+              "display_url": "news.ltn.com.tw/news/politics/…",
+              "end": 48,
+              "expanded_url": "https://news.ltn.com.tw/news/politics/breakingnews/5223511",
+              "images": [
+                {
+                  "height": 446,
+                  "url": "https://pbs.twimg.com/news_img/1982025363258744832/KdCrd45p?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1982025363258744832/KdCrd45p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "同框彩虹旗！蔡英文攜毛小孩現身同志遊行 全場歡呼爆棚 - 政治 - 自由時報電子報",
+              "unwound_url": "https://news.ltn.com.tw/news/politics/breakingnews/5223511",
+              "url": "https://t.co/av0UWlYCf4"
+            },
+            {
+              "display_url": "pic.x.com/oiBZh0dqNI",
+              "end": 96,
+              "expanded_url": "https://x.com/ltntw/status/1982025360989696199/photo/1",
+              "media_key": "3_1982025232798846976",
+              "start": 73,
+              "url": "https://t.co/oiBZh0dqNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982025360989696199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 45543,
+          "like_count": 1926,
+          "quote_count": 17,
+          "reply_count": 77,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "那位最帥氣的女子帶著她的小孩來了！\n \n圖文報導：https://t.co/av0UWlYCf4\n\n#同志遊行 #蔡英文 #Taiwan #台湾 https://t.co/oiBZh0dqNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqhed",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqhed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1981738914479042749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23594,
+          "following_count": 10951,
+          "like_count": 84887,
+          "listed_count": 87,
+          "media_count": 4350,
+          "tweet_count": 15519
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-11T04:46:42.000Z",
+        "description": "提供第一手全球各地最即時的突發事件報導，為網友精準掌握新聞脈動。Liberty Times is the largest newspaper by circulation in Taiwan, providing national and international real-time news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltn.com.tw",
+                "end": 23,
+                "expanded_url": "http://www.ltn.com.tw/",
+                "start": 0,
+                "url": "https://t.co/NNg4IPIkTF"
+              }
+            ]
+          }
+        },
+        "id": "3029501171",
+        "location": "台北市內湖區瑞光路399號14樓",
+        "name": "自由時報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975415524671823875/ebB1PK_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128078,
+          "following_count": 74,
+          "like_count": 232,
+          "listed_count": 729,
+          "media_count": 23310,
+          "tweet_count": 25092
+        },
+        "url": "https://t.co/NNg4IPIkTF",
+        "username": "ltntw",
+        "verified": false
+      }
+    ]
+  }
+}

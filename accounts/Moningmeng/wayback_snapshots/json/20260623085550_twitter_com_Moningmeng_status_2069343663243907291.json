@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069343663243907291",
+    "created_at": "2026-06-23T08:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343663243907291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796471454839816192",
+          "start": 3,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343663243907291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069078002588336175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyilingyi: 迷茫了，有人说绫英文都看不明白还想着玩国外软件，瞬间损失了一部分精神力，感觉自己像那种又菜又爱玩的，不配玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069343663243907291",
+        "created_at": "2026-06-23T08:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343663243907291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796471454839816192",
+              "start": 3,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343663243907291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069078002588336175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanyilingyi: 迷茫了，有人说绫英文都看不明白还想着玩国外软件，瞬间损失了一部分精神力，感觉自己像那种又菜又爱玩的，不配玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2069078002588336175",
+        "created_at": "2026-06-22T15:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069078002588336175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069078002588336175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷茫了，有人说绫英文都看不明白还想着玩国外软件，瞬间损失了一部分精神力，感觉自己像那种又菜又爱玩的，不配玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27818,
+          "following_count": 11117,
+          "like_count": 92115,
+          "listed_count": 102,
+          "media_count": 5265,
+          "tweet_count": 18047
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "朝雾绫澜｜本人已成年，无不良引导｜xyn｜清水日常推｜同类可互fo｜概率回fo｜转生版｜喜欢可爱的事物｜想要fo想要想要",
+        "id": "1796471454839816192",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2069062232521220222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 238,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false
+      }
+    ]
+  }
+}

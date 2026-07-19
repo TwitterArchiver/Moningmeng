@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2060317288042258788",
+    "created_at": "2026-05-29T11:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060317288042258788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969689682222170112",
+          "start": 3,
+          "username": "justakittyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060317288042258788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060215178004947239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justakittyc: 我喜欢这个自动翻译功能。可以看到全世界的人都在一起对抗讨厌的现生一起发牢骚一起碎碎念。有一种世界大同的感觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2060317288042258788",
+        "created_at": "2026-05-29T11:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060317288042258788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1969689682222170112",
+              "start": 3,
+              "username": "justakittyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060317288042258788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060215178004947239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justakittyc: 我喜欢这个自动翻译功能。可以看到全世界的人都在一起对抗讨厌的现生一起发牢骚一起碎碎念。有一种世界大同的感觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969689682222170112",
+        "conversation_id": "2060215178004947239",
+        "created_at": "2026-05-29T04:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060215178004947239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060215178004947239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16009,
+          "like_count": 667,
+          "quote_count": 3,
+          "reply_count": 77,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这个自动翻译功能。可以看到全世界的人都在一起对抗讨厌的现生一起发牢骚一起碎碎念。有一种世界大同的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27678,
+          "following_count": 11081,
+          "like_count": 89367,
+          "listed_count": 102,
+          "media_count": 5160,
+          "tweet_count": 17465
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T09:06:39.000Z",
+        "description": "可以叫我咪咪/碎碎念狂魔-最近变身大力小厨娘一枚💪🏻/只和感兴趣的人交友/@mmsyzwdkadxmdx^ ^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "mmsyzwdkadxmdx"
+              }
+            ]
+          }
+        },
+        "id": "1969689682222170112",
+        "location": "谢谢你喜欢我^ ^",
+        "name": "🐱",
+        "pinned_tweet_id": "2026505152983871997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969690815841931264/RPPMz8GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 68,
+          "like_count": 6082,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 2662
+        },
+        "username": "justakittyc",
+        "verified": false
+      }
+    ]
+  }
+}

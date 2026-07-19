@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2059925366123458811",
+    "created_at": "2026-05-28T09:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059925366123458811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "151930383",
+          "start": 3,
+          "username": "GordonGChang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059925366123458811",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059646911590572228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GordonGChang: War with China is coming."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2059925366123458811",
+        "created_at": "2026-05-28T09:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059925366123458811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "151930383",
+              "start": 3,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059925366123458811",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059646911590572228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GordonGChang: War with China is coming."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "151930383",
+        "conversation_id": "2059646911590572228",
+        "created_at": "2026-05-27T14:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059646911590572228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059646911590572228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 503669,
+          "like_count": 1971,
+          "quote_count": 60,
+          "reply_count": 554,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "War with China is coming."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27650,
+          "following_count": 11073,
+          "like_count": 89017,
+          "listed_count": 102,
+          "media_count": 5157,
+          "tweet_count": 17413
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438664,
+          "following_count": 927,
+          "like_count": 14,
+          "listed_count": 2270,
+          "media_count": 453,
+          "tweet_count": 45940
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      }
+    ]
+  }
+}

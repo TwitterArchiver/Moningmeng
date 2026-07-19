@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068002761162235904",
+        "3_2068002760650584064"
+      ],
+      "media_source_tweet_id": [
+        "2068002764920393998",
+        "2068002764920393998"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068347098467316140",
+    "created_at": "2026-06-20T14:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068347098467316140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U12OoyFUIV",
+          "end": 63,
+          "expanded_url": "https://x.com/NL8526/status/2068002764920393998/photo/1",
+          "media_key": "3_2068002761162235904",
+          "start": 40,
+          "url": "https://t.co/U12OoyFUIV"
+        },
+        {
+          "display_url": "pic.x.com/U12OoyFUIV",
+          "end": 63,
+          "expanded_url": "https://x.com/NL8526/status/2068002764920393998/photo/1",
+          "media_key": "3_2068002760650584064",
+          "start": 40,
+          "url": "https://t.co/U12OoyFUIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068347098467316140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068002764920393998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 咸口：碱水粽配豆豉鱼\n甜口：碱水粽配麦片\n快去试试吧😋 https://t.co/U12OoyFUIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2068002761162235904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMFjfWaIAAHd8T.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2068002760650584064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMFjdca8AAzmJm.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068002761162235904",
+            "3_2068002760650584064"
+          ],
+          "media_source_tweet_id": [
+            "2068002764920393998",
+            "2068002764920393998"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068347098467316140",
+        "created_at": "2026-06-20T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068347098467316140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U12OoyFUIV",
+              "end": 63,
+              "expanded_url": "https://x.com/NL8526/status/2068002764920393998/photo/1",
+              "media_key": "3_2068002761162235904",
+              "start": 40,
+              "url": "https://t.co/U12OoyFUIV"
+            },
+            {
+              "display_url": "pic.x.com/U12OoyFUIV",
+              "end": 63,
+              "expanded_url": "https://x.com/NL8526/status/2068002764920393998/photo/1",
+              "media_key": "3_2068002760650584064",
+              "start": 40,
+              "url": "https://t.co/U12OoyFUIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068347098467316140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068002764920393998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 咸口：碱水粽配豆豉鱼\n甜口：碱水粽配麦片\n快去试试吧😋 https://t.co/U12OoyFUIV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068002761162235904",
+            "3_2068002760650584064"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068002764920393998",
+        "created_at": "2026-06-19T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068002764920393998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U12OoyFUIV",
+              "end": 51,
+              "expanded_url": "https://x.com/NL8526/status/2068002764920393998/photo/1",
+              "media_key": "3_2068002761162235904",
+              "start": 28,
+              "url": "https://t.co/U12OoyFUIV"
+            },
+            {
+              "display_url": "pic.x.com/U12OoyFUIV",
+              "end": 51,
+              "expanded_url": "https://x.com/NL8526/status/2068002764920393998/photo/1",
+              "media_key": "3_2068002760650584064",
+              "start": 28,
+              "url": "https://t.co/U12OoyFUIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068002764920393998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 874,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "咸口：碱水粽配豆豉鱼\n甜口：碱水粽配麦片\n快去试试吧😋 https://t.co/U12OoyFUIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27726,
+          "following_count": 11078,
+          "like_count": 91080,
+          "listed_count": 102,
+          "media_count": 5242,
+          "tweet_count": 17833
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 837,
+          "like_count": 17642,
+          "listed_count": 5,
+          "media_count": 188,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

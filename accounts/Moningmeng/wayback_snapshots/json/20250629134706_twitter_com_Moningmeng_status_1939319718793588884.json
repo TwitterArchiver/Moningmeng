@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939000211562536960"
+      ],
+      "media_source_tweet_id": [
+        "1939000250934665289"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1939319718793588884",
+    "created_at": "2025-06-29T13:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T14:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939319718793588884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1637040866526396416",
+          "start": 3,
+          "username": "KurozumiR82539"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDrsEYt77L",
+          "end": 60,
+          "expanded_url": "https://x.com/KurozumiR82539/status/1939000250934665289/photo/1",
+          "media_key": "3_1939000211562536960",
+          "start": 37,
+          "url": "https://t.co/gDrsEYt77L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939319718793588884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939000250934665289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KurozumiR82539: 不是这标题真的能在墙内放出来吗？ https://t.co/gDrsEYt77L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_1939000211562536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gui2a02XoAAytOV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939000211562536960"
+          ],
+          "media_source_tweet_id": [
+            "1939000250934665289"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1939319718793588884",
+        "created_at": "2025-06-29T13:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939319718793588884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1637040866526396416",
+              "start": 3,
+              "username": "KurozumiR82539"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDrsEYt77L",
+              "end": 60,
+              "expanded_url": "https://x.com/KurozumiR82539/status/1939000250934665289/photo/1",
+              "media_key": "3_1939000211562536960",
+              "start": 37,
+              "url": "https://t.co/gDrsEYt77L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939319718793588884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939000250934665289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KurozumiR82539: 不是这标题真的能在墙内放出来吗？ https://t.co/gDrsEYt77L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939000211562536960"
+          ]
+        },
+        "author_id": "1637040866526396416",
+        "conversation_id": "1939000250934665289",
+        "created_at": "2025-06-28T16:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939000250934665289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDrsEYt77L",
+              "end": 40,
+              "expanded_url": "https://x.com/KurozumiR82539/status/1939000250934665289/photo/1",
+              "media_key": "3_1939000211562536960",
+              "start": 17,
+              "url": "https://t.co/gDrsEYt77L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939000250934665289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 42648,
+          "like_count": 523,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不是这标题真的能在墙内放出来吗？ https://t.co/gDrsEYt77L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 老婆 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932569658647064579/Q1muwosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21429,
+          "following_count": 10718,
+          "like_count": 77201,
+          "listed_count": 76,
+          "media_count": 3792,
+          "tweet_count": 13786
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T10:39:01.000Z",
+        "description": "🤝🇯🇵  東亞聯合，一致對俄🇷🇺🚫 \n吵架💢❌   交友⭕️   友跨\n歡迎朋友们互fo哦！\n個人愛好www：\nCity-pop🎶、JDM等80s🇯🇵元素❤️\n（學日語中🥺）",
+        "id": "1637040866526396416",
+        "location": "うみ",
+        "name": "绪山 哨🤝🇯🇵",
+        "pinned_tweet_id": "1925920338841342092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821537948635889664/8YYTu6Li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 937,
+          "like_count": 37069,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3296
+        },
+        "username": "KurozumiR82539",
+        "verified": false
+      }
+    ]
+  }
+}

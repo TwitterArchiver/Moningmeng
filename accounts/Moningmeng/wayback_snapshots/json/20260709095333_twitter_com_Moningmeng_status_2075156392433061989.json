@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075156392433061989",
+    "created_at": "2026-07-09T09:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075156392433061989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664098332673982465",
+          "start": 3,
+          "username": "MrLuAnn001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075156392433061989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074814029621760064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrLuAnn001: 你们信不信，过两个月，广西的灾民，一样嘲笑日本人吃不起香蕉，欧洲人用不起空调。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075156392433061989",
+        "created_at": "2026-07-09T09:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075156392433061989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664098332673982465",
+              "start": 3,
+              "username": "MrLuAnn001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075156392433061989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074814029621760064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrLuAnn001: 你们信不信，过两个月，广西的灾民，一样嘲笑日本人吃不起香蕉，欧洲人用不起空调。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664098332673982465",
+        "conversation_id": "2074814029621760064",
+        "created_at": "2026-07-08T11:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074814029621760064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074814029621760064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 102552,
+          "like_count": 1440,
+          "quote_count": 8,
+          "reply_count": 313,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "你们信不信，过两个月，广西的灾民，一样嘲笑日本人吃不起香蕉，欧洲人用不起空调。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 64,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 41,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28126,
+          "following_count": 11508,
+          "like_count": 93488,
+          "listed_count": 104,
+          "media_count": 5360,
+          "tweet_count": 18650
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-01T02:35:47.000Z",
+        "description": "油管频道 https://t.co/U1dJs5oPfl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mr.luann001?s…",
+                "end": 28,
+                "expanded_url": "https://youtube.com/@mr.luann001?si=KaXTEmKgFT36bmnQ",
+                "start": 5,
+                "url": "https://t.co/U1dJs5oPfl"
+              }
+            ]
+          }
+        },
+        "id": "1664098332673982465",
+        "location": "British Columbia, Canada",
+        "name": "麓安先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667831217331515392/-vKglVd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 78,
+          "like_count": 3765,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "MrLuAnn001",
+        "verified": true
+      }
+    ]
+  }
+}

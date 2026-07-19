@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971472451906437120"
+      ],
+      "media_source_tweet_id": [
+        "1971472458302849462"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971651062668177644",
+    "created_at": "2025-09-26T19:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T20:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971651062668177644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945200532471341056",
+          "start": 3,
+          "username": "LuLuCapcake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RgDfyl7w3K",
+          "end": 55,
+          "expanded_url": "https://x.com/LuLuCapcake/status/1971472458302849462/photo/1",
+          "media_key": "3_1971472451906437120",
+          "start": 32,
+          "url": "https://t.co/RgDfyl7w3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971651062668177644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971472458302849462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuLuCapcake: 我身边咋个个都是神人.... https://t.co/RgDfyl7w3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_1971472451906437120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wTv-xaAAAPqII.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971472451906437120"
+          ],
+          "media_source_tweet_id": [
+            "1971472458302849462"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971651062668177644",
+        "created_at": "2025-09-26T19:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971651062668177644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945200532471341056",
+              "start": 3,
+              "username": "LuLuCapcake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgDfyl7w3K",
+              "end": 55,
+              "expanded_url": "https://x.com/LuLuCapcake/status/1971472458302849462/photo/1",
+              "media_key": "3_1971472451906437120",
+              "start": 32,
+              "url": "https://t.co/RgDfyl7w3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971651062668177644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971472458302849462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuLuCapcake: 我身边咋个个都是神人.... https://t.co/RgDfyl7w3K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971472451906437120"
+          ]
+        },
+        "author_id": "1945200532471341056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971472458302849462",
+        "created_at": "2025-09-26T07:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971472458302849462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RgDfyl7w3K",
+              "end": 38,
+              "expanded_url": "https://x.com/LuLuCapcake/status/1971472458302849462/photo/1",
+              "media_key": "3_1971472451906437120",
+              "start": 15,
+              "url": "https://t.co/RgDfyl7w3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971472458302849462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23865,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我身边咋个个都是神人.... https://t.co/RgDfyl7w3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23091,
+          "following_count": 10925,
+          "like_count": 84180,
+          "listed_count": 85,
+          "media_count": 4235,
+          "tweet_count": 15359
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:15:31.000Z",
+        "description": "我会坚持走我自己的道路下去.....无论发生什么\n\n生产日期2008-03-08 HRT2025-07-05 什么技能也不会 初中辍学 正在努力攒钱 25岁之前完成srs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuLuCapcake",
+                "end": 23,
+                "expanded_url": "http://t.me/LuLuCapcake",
+                "start": 0,
+                "url": "https://t.co/HdPMmhNkq6"
+              }
+            ]
+          }
+        },
+        "id": "1945200532471341056",
+        "location": "你的心里",
+        "name": "事露露酱呀~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1969129324029591849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957544090175959041/kWXKF_gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 288,
+          "like_count": 365,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/HdPMmhNkq6",
+        "username": "LuLuCapcake",
+        "verified": true
+      }
+    ]
+  }
+}

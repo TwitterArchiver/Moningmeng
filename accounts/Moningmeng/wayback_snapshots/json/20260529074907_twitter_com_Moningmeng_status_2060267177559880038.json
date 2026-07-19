@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2060267177559880038",
+    "created_at": "2026-05-29T07:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060267177559880038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2708927389",
+          "start": 3,
+          "username": "horace_yee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060267177559880038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060214562176077912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horace_yee: 大家好，我是一名来自中国的小男孩，很好奇会有日本小男孩、韩国小男孩、台湾小男孩可以看到这条推文吗？谢谢大家！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2060267177559880038",
+        "created_at": "2026-05-29T07:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060267177559880038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2708927389",
+              "start": 3,
+              "username": "horace_yee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060267177559880038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060214562176077912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horace_yee: 大家好，我是一名来自中国的小男孩，很好奇会有日本小男孩、韩国小男孩、台湾小男孩可以看到这条推文吗？谢谢大家！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2708927389",
+        "conversation_id": "2060214562176077912",
+        "created_at": "2026-05-29T04:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060214562176077912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060214562176077912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11729,
+          "like_count": 115,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是一名来自中国的小男孩，很好奇会有日本小男孩、韩国小男孩、台湾小男孩可以看到这条推文吗？谢谢大家！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27678,
+          "following_count": 11079,
+          "like_count": 89267,
+          "listed_count": 102,
+          "media_count": 5160,
+          "tweet_count": 17453
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-05T09:54:04.000Z",
+        "description": "只谈乾坤风月，莫论人间是非｜❤️@xiaomawow777 ｜😇@KzCynic ☺️@jshy896516",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "xiaomawow777"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "KzCynic"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "jshy896516"
+              }
+            ]
+          }
+        },
+        "id": "2708927389",
+        "location": "Baltimore, MD",
+        "name": "Horace",
+        "pinned_tweet_id": "1931032088922497233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007508839751659522/cgrKbdf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7696,
+          "following_count": 963,
+          "like_count": 42752,
+          "listed_count": 9,
+          "media_count": 546,
+          "tweet_count": 12449
+        },
+        "username": "horace_yee",
+        "verified": true
+      }
+    ]
+  }
+}

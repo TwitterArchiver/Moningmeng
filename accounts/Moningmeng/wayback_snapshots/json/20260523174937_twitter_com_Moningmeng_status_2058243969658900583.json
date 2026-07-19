@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057434487848644608"
+      ],
+      "media_source_tweet_id": [
+        "2057917664811487434"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2058243969658900583",
+    "created_at": "2026-05-23T17:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058243969658900583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2eTYbeqBk0",
+          "end": 48,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2057917664811487434/photo/1",
+          "media_key": "3_2057434487848644608",
+          "start": 25,
+          "url": "https://t.co/2eTYbeqBk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058243969658900583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057917664811487434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 为什么呢\n好难猜呀 https://t.co/2eTYbeqBk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2057434487848644608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI15xBTbMAAtGBF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057434487848644608"
+          ],
+          "media_source_tweet_id": [
+            "2057917664811487434"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2058243969658900583",
+        "created_at": "2026-05-23T17:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058243969658900583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eTYbeqBk0",
+              "end": 48,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2057917664811487434/photo/1",
+              "media_key": "3_2057434487848644608",
+              "start": 25,
+              "url": "https://t.co/2eTYbeqBk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058243969658900583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057917664811487434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 为什么呢\n好难猜呀 https://t.co/2eTYbeqBk0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057434487848644608"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2057917664811487434",
+        "created_at": "2026-05-22T20:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057917664811487434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eTYbeqBk0",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2057917664811487434/photo/1",
+              "media_key": "3_2057434487848644608",
+              "start": 10,
+              "url": "https://t.co/2eTYbeqBk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057917664811487434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 18211,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "为什么呢\n好难猜呀 https://t.co/2eTYbeqBk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27519,
+          "following_count": 11056,
+          "like_count": 88478,
+          "listed_count": 99,
+          "media_count": 5136,
+          "tweet_count": 17271
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8795,
+          "following_count": 2370,
+          "like_count": 31009,
+          "listed_count": 25,
+          "media_count": 1635,
+          "tweet_count": 5555
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073758819033989120"
+      ],
+      "media_source_tweet_id": [
+        "2073758821387018457"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074075390830874844",
+    "created_at": "2026-07-06T10:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074075390830874844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fP2Oh7Dlqj",
+          "end": 53,
+          "expanded_url": "https://x.com/kxk1388574/status/2073758821387018457/photo/1",
+          "media_key": "3_2073758819033989120",
+          "start": 30,
+          "url": "https://t.co/fP2Oh7Dlqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074075390830874844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073758821387018457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 郁金香也不如小男娘的玉茎香 https://t.co/fP2Oh7Dlqj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2073758819033989120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd4qJ5awAAcCVm.jpg",
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073758819033989120"
+          ],
+          "media_source_tweet_id": [
+            "2073758821387018457"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074075390830874844",
+        "created_at": "2026-07-06T10:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074075390830874844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fP2Oh7Dlqj",
+              "end": 53,
+              "expanded_url": "https://x.com/kxk1388574/status/2073758821387018457/photo/1",
+              "media_key": "3_2073758819033989120",
+              "start": 30,
+              "url": "https://t.co/fP2Oh7Dlqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074075390830874844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073758821387018457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 郁金香也不如小男娘的玉茎香 https://t.co/fP2Oh7Dlqj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073758819033989120"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2073758821387018457",
+        "created_at": "2026-07-05T13:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073758821387018457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fP2Oh7Dlqj",
+              "end": 37,
+              "expanded_url": "https://x.com/kxk1388574/status/2073758821387018457/photo/1",
+              "media_key": "3_2073758819033989120",
+              "start": 14,
+              "url": "https://t.co/fP2Oh7Dlqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073758821387018457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 8015,
+          "like_count": 302,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "郁金香也不如小男娘的玉茎香 https://t.co/fP2Oh7Dlqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28022,
+          "following_count": 11295,
+          "like_count": 92458,
+          "listed_count": 104,
+          "media_count": 5314,
+          "tweet_count": 18335
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10357,
+          "following_count": 5885,
+          "like_count": 54080,
+          "listed_count": 16,
+          "media_count": 1013,
+          "tweet_count": 7940
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

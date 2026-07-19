@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019825336326733824"
+      ],
+      "media_source_tweet_id": [
+        "2020301684321448415"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020370643708231993",
+    "created_at": "2026-02-08T05:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020370643708231993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qG7NXCxoN7",
+          "end": 70,
+          "expanded_url": "https://x.com/satireorcry1/status/2020301684321448415/video/1",
+          "media_key": "13_2019825336326733824",
+          "start": 47,
+          "url": "https://t.co/qG7NXCxoN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020370643708231993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020301684321448415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 美国小伙在天安门广场冲塔反共。并且用著名辱华歌曲当配乐。 https://t.co/qG7NXCxoN7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9933,
+        "height": 1280,
+        "media_key": "13_2019825336326733824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019825336326733824/img/LwJCq9IY2LC9JEkj.jpg",
+        "public_metrics": {
+          "view_count": 5141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019825336326733824/vid/avc1/320x568/v1BUGuqfDNUaS2Lw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019825336326733824/vid/avc1/480x852/KUhN76_073YFwFpb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019825336326733824/vid/avc1/720x1280/xQk_hKHC2aasajKB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019825336326733824/pl/FCdpdpwn6K5hnXCP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019825336326733824"
+          ],
+          "media_source_tweet_id": [
+            "2020301684321448415"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020370643708231993",
+        "created_at": "2026-02-08T05:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020370643708231993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qG7NXCxoN7",
+              "end": 70,
+              "expanded_url": "https://x.com/satireorcry1/status/2020301684321448415/video/1",
+              "media_key": "13_2019825336326733824",
+              "start": 47,
+              "url": "https://t.co/qG7NXCxoN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020370643708231993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020301684321448415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 美国小伙在天安门广场冲塔反共。并且用著名辱华歌曲当配乐。 https://t.co/qG7NXCxoN7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019825336326733824"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020301684321448415",
+        "created_at": "2026-02-08T01:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020301684321448415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qG7NXCxoN7",
+              "end": 52,
+              "expanded_url": "https://x.com/satireorcry1/status/2020301684321448415/video/1",
+              "media_key": "13_2019825336326733824",
+              "start": 29,
+              "url": "https://t.co/qG7NXCxoN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020301684321448415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9446,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "美国小伙在天安门广场冲塔反共。并且用著名辱华歌曲当配乐。 https://t.co/qG7NXCxoN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26486,
+          "following_count": 10949,
+          "like_count": 85422,
+          "listed_count": 101,
+          "media_count": 4709,
+          "tweet_count": 16048
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。\n这是我的telegram 群：https://t.co/CvY9OVfNUg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+6Mz0zsyL_tQ1Z…",
+                "end": 49,
+                "expanded_url": "https://t.me/+6Mz0zsyL_tQ1ZTY0",
+                "start": 26,
+                "url": "https://t.co/CvY9OVfNUg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6Mz0zsyL_tQ1Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6Mz0zsyL_tQ1ZTY0",
+                "start": 0,
+                "url": "https://t.co/CvY9OVfNUg"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2018157436402815399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7623,
+          "following_count": 1147,
+          "like_count": 4413,
+          "listed_count": 16,
+          "media_count": 392,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/CvY9OVfNUg",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

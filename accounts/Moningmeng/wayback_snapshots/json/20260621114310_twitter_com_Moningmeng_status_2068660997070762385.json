@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068660994478583808"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2068660997070762385",
+    "created_at": "2026-06-21T11:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068660997070762385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOrOjvmaCe",
+          "end": 56,
+          "expanded_url": "https://x.com/Moningmeng/status/2068660997070762385/photo/1",
+          "media_key": "3_2068660994478583808",
+          "start": 33,
+          "url": "https://t.co/tOrOjvmaCe"
+        },
+        {
+          "display_url": "x.com/Moningmeng/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Moningmeng/status/2068364376349040650",
+          "start": 57,
+          "url": "https://t.co/NOUopFP0fP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068660997070762385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "说一下在国内使用Pixel的一些缺点和一些解决办法，以及使用体验\n\n🔴首先，很多人最关心的通讯和网络问题，Pixel在国内是无法使用高清通话和5G网络的，同时也无法使用中国电信电话卡。Pixel使用的电话频段是2G和3G，而国内电话采用的通常是4G频段，所以国内很多地区已经关闭了2G和3G频段，导致无法正常高清通话（基本就是打不通，听不见。无法高清通话的意思不是说可以通话但是通话达不到「高清」，是说根本无法通话）。5G网络是可以连家里的5Gwifi的（就是wifi名称后面跟“_5G”那些），但是出门的时候用流量无法使用5G，最高4G（意思就是图中5G+的地方变为4G）\n\n🔵解决办法：不需要刷机！！！只需要使用Carrier IMS和shizuku两个软件，具体操作可以看B站up主fenibook的教程（不必嫌麻烦，非常简单，两三分钟就够了），shizuku可以在Google play里下载。而Carrier IMS在视频里有下载方法，并且这个应用本身有检查更新功能\n\n特殊说明：该方法在进行「系统更新」，「安卓版本更新」，「关机重启」，「重新拔插电话卡」后会失效，需要重新搞。而且方法可能会随系统的升级而失效（目前没有，目前的方法可以解决最新版本的信号和网络问题）。如果突然失效，可以等待B站的教程\n\n另：Carrier IMS还附带解决Tiktok无网络问题的功能。关于解决无法使用电信卡的方法，我也不知道，因为我不用电信所以没专门去学\n\n🟢使用提醒：第一次开机使用，不要插卡！不要联网！除了语言之外的所有设定都一律跳过，一直跳过到开机后便可以放心联网插卡。然后是联网问题，第一次进入手机内部没有vpn软件，这时就要进入Chrome，把搜索引擎改成百度，然后从百度里下载一个应用宝或类似的软件来下载国内软件，然后通过蓝牙或者国内软件（如QQ收藏vpn安装包文件）的方法下载vpn。🟥使用蓝牙方法的要注意，谷歌手机光开启蓝牙时，其他设备是无法查询到谷歌设备的，你需要再长按蓝牙并点击「配对新装置」后，别的设备才可以搜索到你的谷歌设备\n\n🟠使用体验：性能一般，不适合玩原神崩铁那些大型游戏，发热比大多数国产机严重，耗电量较快"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068364376349040650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说一下在国内使用Pixel的一些缺点和一些解决办法，以及使用体验 https://t.co/tOrOjvmaCe https://t.co/NOUopFP0fP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2068660994478583808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVcNtiaMAAZOQi.jpg",
+        "width": 407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068660994478583808"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068660997070762385",
+        "created_at": "2026-06-21T11:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068660997070762385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOrOjvmaCe",
+              "end": 56,
+              "expanded_url": "https://x.com/Moningmeng/status/2068660997070762385/photo/1",
+              "media_key": "3_2068660994478583808",
+              "start": 33,
+              "url": "https://t.co/tOrOjvmaCe"
+            },
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2068364376349040650",
+              "start": 57,
+              "url": "https://t.co/NOUopFP0fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068660997070762385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说一下在国内使用Pixel的一些缺点和一些解决办法，以及使用体验\n\n🔴首先，很多人最关心的通讯和网络问题，Pixel在国内是无法使用高清通话和5G网络的，同时也无法使用中国电信电话卡。Pixel使用的电话频段是2G和3G，而国内电话采用的通常是4G频段，所以国内很多地区已经关闭了2G和3G频段，导致无法正常高清通话（基本就是打不通，听不见。无法高清通话的意思不是说可以通话但是通话达不到「高清」，是说根本无法通话）。5G网络是可以连家里的5Gwifi的（就是wifi名称后面跟“_5G”那些），但是出门的时候用流量无法使用5G，最高4G（意思就是图中5G+的地方变为4G）\n\n🔵解决办法：不需要刷机！！！只需要使用Carrier IMS和shizuku两个软件，具体操作可以看B站up主fenibook的教程（不必嫌麻烦，非常简单，两三分钟就够了），shizuku可以在Google play里下载。而Carrier IMS在视频里有下载方法，并且这个应用本身有检查更新功能\n\n特殊说明：该方法在进行「系统更新」，「安卓版本更新」，「关机重启」，「重新拔插电话卡」后会失效，需要重新搞。而且方法可能会随系统的升级而失效（目前没有，目前的方法可以解决最新版本的信号和网络问题）。如果突然失效，可以等待B站的教程\n\n另：Carrier IMS还附带解决Tiktok无网络问题的功能。关于解决无法使用电信卡的方法，我也不知道，因为我不用电信所以没专门去学\n\n🟢使用提醒：第一次开机使用，不要插卡！不要联网！除了语言之外的所有设定都一律跳过，一直跳过到开机后便可以放心联网插卡。然后是联网问题，第一次进入手机内部没有vpn软件，这时就要进入Chrome，把搜索引擎改成百度，然后从百度里下载一个应用宝或类似的软件来下载国内软件，然后通过蓝牙或者国内软件（如QQ收藏vpn安装包文件）的方法下载vpn。🟥使用蓝牙方法的要注意，谷歌手机光开启蓝牙时，其他设备是无法查询到谷歌设备的，你需要再长按蓝牙并点击「配对新装置」后，别的设备才可以搜索到你的谷歌设备\n\n🟠使用体验：性能一般，不适合玩原神崩铁那些大型游戏，发热比大多数国产机严重，耗电量较快"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068364376349040650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说一下在国内使用Pixel的一些缺点和一些解决办法，以及使用体验 https://t.co/tOrOjvmaCe https://t.co/NOUopFP0fP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068364376349040650",
+        "created_at": "2026-06-20T16:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068364376349040650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068364376349040650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6557,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有多少用谷歌手机的推友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27755,
+          "following_count": 11114,
+          "like_count": 91856,
+          "listed_count": 102,
+          "media_count": 5256,
+          "tweet_count": 17982
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

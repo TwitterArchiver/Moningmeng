@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2020063305273090396",
+    "created_at": "2026-02-07T09:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020063305273090396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1805655851786711040",
+          "start": 3,
+          "username": "meiriaikua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020063305273090396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020059289046643021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiriaikua: 为什么总有药娘把激素当成神药？你底子不好也不愿意打扮自己，光吃那个人妖药有啥用。你不会就靠互联网上虚伪的包容活着吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2020063305273090396",
+        "created_at": "2026-02-07T09:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020063305273090396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1805655851786711040",
+              "start": 3,
+              "username": "meiriaikua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020063305273090396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020059289046643021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiriaikua: 为什么总有药娘把激素当成神药？你底子不好也不愿意打扮自己，光吃那个人妖药有啥用。你不会就靠互联网上虚伪的包容活着吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805655851786711040",
+        "conversation_id": "2020059289046643021",
+        "created_at": "2026-02-07T08:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020059289046643021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020059289046643021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么总有药娘把激素当成神药？你底子不好也不愿意打扮自己，光吃那个人妖药有啥用。你不会就靠互联网上虚伪的包容活着吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26473,
+          "following_count": 10948,
+          "like_count": 85303,
+          "listed_count": 102,
+          "media_count": 4703,
+          "tweet_count": 16022
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T17:34:52.000Z",
+        "description": "中立混沌  欢迎各位爱跨雅士和跨性别私信交流、投稿、匿名传话（本人不对任何推友来稿言论做负责）我没活了就去找他们👉 \n鉴跨人： @mysml44 \n爱跨TV： @AKTV202411 \n清蒸协会： @MtFAllahuakbar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "mysml44"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "AKTV202411"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "MtFAllahuakbar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveMtF",
+                "end": 23,
+                "expanded_url": "http://t.me/LoveMtF",
+                "start": 0,
+                "url": "https://t.co/XJnCuDdeAI"
+              }
+            ]
+          }
+        },
+        "id": "1805655851786711040",
+        "location": " “吾杀汝辈，实救汝辈于世上诸苦，虽杀之，实爱之也”  ",
+        "name": "每日爱跨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1877058901067100529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945044242893545472/u_9eZ8Un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 83,
+          "like_count": 1574,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/XJnCuDdeAI",
+        "username": "meiriaikua",
+        "verified": false
+      }
+    ]
+  }
+}

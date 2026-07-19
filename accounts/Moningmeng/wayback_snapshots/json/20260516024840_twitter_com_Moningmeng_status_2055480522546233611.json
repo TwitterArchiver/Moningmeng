@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055227347637301248"
+      ],
+      "media_source_tweet_id": [
+        "2055227351844151586"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2055480522546233611",
+    "created_at": "2026-05-16T02:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055480522546233611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2279301618",
+          "start": 3,
+          "username": "lukedepulford"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1uLFGQ0DU",
+          "end": 42,
+          "expanded_url": "https://x.com/lukedepulford/status/2055227351844151586/photo/1",
+          "media_key": "3_2055227347637301248",
+          "start": 19,
+          "url": "https://t.co/D1uLFGQ0DU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055480522546233611",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 865
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055227351844151586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lukedepulford: https://t.co/D1uLFGQ0DU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2055227347637301248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWiYjSW8AAN8Qk.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055227347637301248"
+          ],
+          "media_source_tweet_id": [
+            "2055227351844151586"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2055480522546233611",
+        "created_at": "2026-05-16T02:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055480522546233611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2279301618",
+              "start": 3,
+              "username": "lukedepulford"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1uLFGQ0DU",
+              "end": 42,
+              "expanded_url": "https://x.com/lukedepulford/status/2055227351844151586/photo/1",
+              "media_key": "3_2055227347637301248",
+              "start": 19,
+              "url": "https://t.co/D1uLFGQ0DU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055480522546233611",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 865
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055227351844151586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lukedepulford: https://t.co/D1uLFGQ0DU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055227347637301248"
+          ]
+        },
+        "author_id": "2279301618",
+        "conversation_id": "2055227351844151586",
+        "created_at": "2026-05-15T10:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055227351844151586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1uLFGQ0DU",
+              "end": 23,
+              "expanded_url": "https://x.com/lukedepulford/status/2055227351844151586/photo/1",
+              "media_key": "3_2055227347637301248",
+              "start": 0,
+              "url": "https://t.co/D1uLFGQ0DU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055227351844151586",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 128783,
+          "like_count": 6583,
+          "quote_count": 101,
+          "reply_count": 120,
+          "retweet_count": 865
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D1uLFGQ0DU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27516,
+          "following_count": 11052,
+          "like_count": 88338,
+          "listed_count": 101,
+          "media_count": 5101,
+          "tweet_count": 17186
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-06T16:27:06.000Z",
+        "description": "Co-Founder, Executive Director: Inter-Parliamentary Alliance on China. Personal account. DMs open.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipac.global",
+                "end": 23,
+                "expanded_url": "http://ipac.global",
+                "start": 0,
+                "url": "https://t.co/I6878htv3I"
+              }
+            ]
+          }
+        },
+        "id": "2279301618",
+        "location": "Itinerant",
+        "name": "Luke de Pulford",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775850788381663232/rKPula_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166571,
+          "following_count": 2769,
+          "like_count": 39333,
+          "listed_count": 492,
+          "media_count": 1969,
+          "tweet_count": 12965
+        },
+        "url": "https://t.co/I6878htv3I",
+        "username": "lukedepulford",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1981529819814023416",
+    "created_at": "2025-10-24T01:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981529819814023416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926720510982844416",
+          "start": 3,
+          "username": "DeRoss2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981529819814023416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981014106414166052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeRoss2778: 右下角是小姚吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1981529819814023416",
+        "created_at": "2025-10-24T01:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981529819814023416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926720510982844416",
+              "start": 3,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981529819814023416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981014106414166052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeRoss2778: 右下角是小姚吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926720510982844416",
+        "conversation_id": "1981014106414166052",
+        "created_at": "2025-10-22T15:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981014106414166052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dingzzz258/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dingzzz258/status/1980947897291313297",
+              "start": 8,
+              "url": "https://t.co/vrBFNLnKiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981014106414166052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6714,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980947897291313297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右下角是小姚吗 https://t.co/vrBFNLnKiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23433,
+          "following_count": 10916,
+          "like_count": 84419,
+          "listed_count": 86,
+          "media_count": 4331,
+          "tweet_count": 15490
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号｜封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子｜毛主义者，毛主席的真正继承者，非腊左",
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955551801878671360/xVfcT2zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 364,
+          "like_count": 6431,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1302
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

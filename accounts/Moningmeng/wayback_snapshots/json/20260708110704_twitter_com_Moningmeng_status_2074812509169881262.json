@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074812509169881262",
+    "created_at": "2026-07-08T11:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074812509169881262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863473278247141376",
+          "start": 3,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074812509169881262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074400810650480864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaq5777: 别讲韩国人吃不起西瓜了好不！我在中国也吃不起面包呀 随便走进一家面包店全都卖我二三十。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074812509169881262",
+        "created_at": "2026-07-08T11:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074812509169881262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863473278247141376",
+              "start": 3,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074812509169881262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074400810650480864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaq5777: 别讲韩国人吃不起西瓜了好不！我在中国也吃不起面包呀 随便走进一家面包店全都卖我二三十。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "2074400810650480864",
+        "created_at": "2026-07-07T07:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074400810650480864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074400810650480864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 133753,
+          "like_count": 2699,
+          "quote_count": 9,
+          "reply_count": 305,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "别讲韩国人吃不起西瓜了好不！我在中国也吃不起面包呀 随便走进一家面包店全都卖我二三十。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28076,
+          "following_count": 11429,
+          "like_count": 93057,
+          "listed_count": 104,
+          "media_count": 5337,
+          "tweet_count": 18506
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2074400810650480864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42922,
+          "following_count": 263,
+          "like_count": 13212,
+          "listed_count": 79,
+          "media_count": 247,
+          "tweet_count": 5809
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": true
+      }
+    ]
+  }
+}

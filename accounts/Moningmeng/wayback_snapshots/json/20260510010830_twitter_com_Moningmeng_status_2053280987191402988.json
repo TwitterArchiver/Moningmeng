@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2053280987191402988",
+    "created_at": "2026-05-10T01:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053280987191402988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789599446881513472",
+          "start": 3,
+          "username": "xchase173294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053280987191402988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053085071704539157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xchase173294: 大家发现没有\n\n语文好的人普遍浪漫\n\n英语好的人普遍开朗\n\n历史好的人普遍通透\n\n地理好的人普遍豁达\n\n政治好的人普遍清醒\n\n数学好的人普遍精神状态堪忧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2053280987191402988",
+        "created_at": "2026-05-10T01:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053280987191402988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789599446881513472",
+              "start": 3,
+              "username": "xchase173294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280987191402988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053085071704539157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xchase173294: 大家发现没有\n\n语文好的人普遍浪漫\n\n英语好的人普遍开朗\n\n历史好的人普遍通透\n\n地理好的人普遍豁达\n\n政治好的人普遍清醒\n\n数学好的人普遍精神状态堪忧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789599446881513472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2053085071704539157",
+        "created_at": "2026-05-09T12:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053085071704539157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053085071704539157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 15648,
+          "like_count": 342,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "大家发现没有\n\n语文好的人普遍浪漫\n\n英语好的人普遍开朗\n\n历史好的人普遍通透\n\n地理好的人普遍豁达\n\n政治好的人普遍清醒\n\n数学好的人普遍精神状态堪忧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27499,
+          "following_count": 11055,
+          "like_count": 88171,
+          "listed_count": 102,
+          "media_count": 5077,
+          "tweet_count": 17122
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 297,
+          "like_count": 3703,
+          "listed_count": 8,
+          "media_count": 443,
+          "tweet_count": 3357
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

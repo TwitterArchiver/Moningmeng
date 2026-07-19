@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074429360329961472"
+      ],
+      "media_source_tweet_id": [
+        "2074429369322455522"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074695883300737254",
+    "created_at": "2026-07-08T03:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074695883300737254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1601549039287566336",
+          "start": 3,
+          "username": "mmmammm_a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4lRDjkLAT",
+          "end": 52,
+          "expanded_url": "https://x.com/mmmammm_a/status/2074429369322455522/photo/1",
+          "media_key": "3_2074429360329961472",
+          "start": 29,
+          "url": "https://t.co/R4lRDjkLAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074695883300737254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074429369322455522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmammm_a: 一天8mg雌二醇就这样…… https://t.co/R4lRDjkLAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2074429360329961472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnagy4bsAA12n6.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074429360329961472"
+          ],
+          "media_source_tweet_id": [
+            "2074429369322455522"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074695883300737254",
+        "created_at": "2026-07-08T03:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074695883300737254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1601549039287566336",
+              "start": 3,
+              "username": "mmmammm_a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4lRDjkLAT",
+              "end": 52,
+              "expanded_url": "https://x.com/mmmammm_a/status/2074429369322455522/photo/1",
+              "media_key": "3_2074429360329961472",
+              "start": 29,
+              "url": "https://t.co/R4lRDjkLAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074695883300737254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074429369322455522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmmammm_a: 一天8mg雌二醇就这样…… https://t.co/R4lRDjkLAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074429360329961472"
+          ]
+        },
+        "author_id": "1601549039287566336",
+        "conversation_id": "2074429369322455522",
+        "created_at": "2026-07-07T09:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074429369322455522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4lRDjkLAT",
+              "end": 37,
+              "expanded_url": "https://x.com/mmmammm_a/status/2074429369322455522/photo/1",
+              "media_key": "3_2074429360329961472",
+              "start": 14,
+              "url": "https://t.co/R4lRDjkLAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074429369322455522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1512,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天8mg雌二醇就这样…… https://t.co/R4lRDjkLAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28057,
+          "following_count": 11397,
+          "like_count": 92683,
+          "listed_count": 104,
+          "media_count": 5322,
+          "tweet_count": 18431
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2070469024417227003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 275,
+          "like_count": 12381,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 4291
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": true
+      }
+    ]
+  }
+}

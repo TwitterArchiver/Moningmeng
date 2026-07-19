@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948410800361607168",
+        "3_1948410801724747776"
+      ],
+      "media_source_tweet_id": [
+        "1948410849963446405",
+        "1948410849963446405"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1948413131694174501",
+    "created_at": "2025-07-24T16:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T17:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948413131694174501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935719415175372801",
+          "start": 3,
+          "username": "qikiqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U8zpx5wv8W",
+          "end": 61,
+          "expanded_url": "https://x.com/qikiqwq/status/1948410849963446405/photo/1",
+          "media_key": "3_1948410800361607168",
+          "start": 38,
+          "url": "https://t.co/U8zpx5wv8W"
+        },
+        {
+          "display_url": "pic.x.com/U8zpx5wv8W",
+          "end": 61,
+          "expanded_url": "https://x.com/qikiqwq/status/1948410849963446405/photo/1",
+          "media_key": "3_1948410801724747776",
+          "start": 38,
+          "url": "https://t.co/U8zpx5wv8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948413131694174501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948410849963446405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qikiqwq: 只能拿晚上偷偷顺的软不拉叽的牙线棒棒解解压了呜呜 https://t.co/U8zpx5wv8W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948413131694174501].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948413131694174501",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948413131694174501"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1948410800361607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwolTMAWkAAAzyU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1948410801724747776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwolTRFWcAAD5B0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948410800361607168",
+            "3_1948410801724747776"
+          ]
+        },
+        "author_id": "1935719415175372801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1948410849963446405",
+        "created_at": "2025-07-24T15:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948410849963446405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8zpx5wv8W",
+              "end": 48,
+              "expanded_url": "https://x.com/qikiqwq/status/1948410849963446405/photo/1",
+              "media_key": "3_1948410800361607168",
+              "start": 25,
+              "url": "https://t.co/U8zpx5wv8W"
+            },
+            {
+              "display_url": "pic.x.com/U8zpx5wv8W",
+              "end": 48,
+              "expanded_url": "https://x.com/qikiqwq/status/1948410849963446405/photo/1",
+              "media_key": "3_1948410801724747776",
+              "start": 25,
+              "url": "https://t.co/U8zpx5wv8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948410849963446405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只能拿晚上偷偷顺的软不拉叽的牙线棒棒解解压了呜呜 https://t.co/U8zpx5wv8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21654,
+          "following_count": 10861,
+          "like_count": 80633,
+          "listed_count": 75,
+          "media_count": 3941,
+          "tweet_count": 14588
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T15:21:07.000Z",
+        "description": "Just want to be myself 喵~\n\n（🏳️‍⚧🍥简介在置顶🍥🏳️‍⚧）\n\n介里是记录qiki在成为真正的自己道路上的地方呀，qiki又傻又笨，希望可以和大家一起和谐相处呀，愿每个小蛋糕都能被温柔以待呢~希望大家不要o，不要紫砂。。。（已出柜，家人反对态度捏）（蓝粉白宝宝们fo我我都会回fo哦）",
+        "id": "1935719415175372801",
+        "name": "qiki🏳️‍⚧🍥",
+        "pinned_tweet_id": "1936111039776534570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942107708976488448/ijqrPhOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 166,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 183
+        },
+        "username": "qikiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

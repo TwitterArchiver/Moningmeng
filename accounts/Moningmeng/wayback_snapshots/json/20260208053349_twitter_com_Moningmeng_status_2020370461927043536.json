@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017945962073993217"
+      ],
+      "media_source_tweet_id": [
+        "2019984466463322381"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020370461927043536",
+    "created_at": "2026-02-08T05:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020370461927043536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/liWS50BHbr",
+          "end": 42,
+          "expanded_url": "https://x.com/BI3BXI/status/2019984466463322381/photo/1",
+          "media_key": "3_2017945962073993217",
+          "start": 19,
+          "url": "https://t.co/liWS50BHbr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020370461927043536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019984466463322381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 情商是好东西 https://t.co/liWS50BHbr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2017945962073993217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEvKTVasAE-ivz.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017945962073993217"
+          ],
+          "media_source_tweet_id": [
+            "2019984466463322381"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020370461927043536",
+        "created_at": "2026-02-08T05:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020370461927043536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liWS50BHbr",
+              "end": 42,
+              "expanded_url": "https://x.com/BI3BXI/status/2019984466463322381/photo/1",
+              "media_key": "3_2017945962073993217",
+              "start": 19,
+              "url": "https://t.co/liWS50BHbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020370461927043536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019984466463322381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 情商是好东西 https://t.co/liWS50BHbr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017945962073993217"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019984466463322381",
+        "created_at": "2026-02-07T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019984466463322381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liWS50BHbr",
+              "end": 30,
+              "expanded_url": "https://x.com/BI3BXI/status/2019984466463322381/photo/1",
+              "media_key": "3_2017945962073993217",
+              "start": 7,
+              "url": "https://t.co/liWS50BHbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019984466463322381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 214009,
+          "like_count": 1156,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "情商是好东西 https://t.co/liWS50BHbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26486,
+          "following_count": 10949,
+          "like_count": 85411,
+          "listed_count": 101,
+          "media_count": 4709,
+          "tweet_count": 16045
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby🏳️‍⚧️｜请不要屏蔽我🥺｜前世 @ryq59｜本体@yqua_｜点击“查看更多”可以了解我～｜老姐 @TennoujiNyano｜牢🦠@Saikin_XiJun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 27,
+                "username": "ryq59"
+              },
+              {
+                "end": 42,
+                "start": 36,
+                "username": "yqua_"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Saikin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "你是要气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7037,
+          "following_count": 3413,
+          "like_count": 31413,
+          "listed_count": 18,
+          "media_count": 1442,
+          "tweet_count": 6027
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

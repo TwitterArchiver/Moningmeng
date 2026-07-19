@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1953044283751297024"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1953126692068966436",
+    "created_at": "2025-08-06T16:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953126692068966436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756246342676979713",
+          "start": 3,
+          "username": "sanmiguelnoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953126692068966436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953044285118660654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanmiguelnoodle: 滿分100你會給生力麵打幾分🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953126692068966436].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953126692068966436",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953126692068966436"
+    }
+  ],
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-08-07T10:43:37.000Z",
+        "id": "1953044283751297024",
+        "options": [
+          {
+            "label": "差勁😡0-59",
+            "position": 1,
+            "votes": 3
+          },
+          {
+            "label": "還好🙄60-79",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "不錯🥺80-99",
+            "position": 3,
+            "votes": 5
+          },
+          {
+            "label": "滿昏🤤100",
+            "position": 4,
+            "votes": 28
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1953044283751297024"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "1953044285118660654",
+        "created_at": "2025-08-06T10:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953044285118660654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953044285118660654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滿分100你會給生力麵打幾分🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21800,
+          "following_count": 10879,
+          "like_count": 81739,
+          "listed_count": 77,
+          "media_count": 3994,
+          "tweet_count": 14811
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "🇹🇼中華民國派❂​　　　　台灣人です\n🇹🇼正體中文/🇹🇼简体中文/🇬🇧🇺🇸English/🇯🇵日本語homiez @fuckpregabalin @VicoOci @Lmao_Quien \n🥺❤️窩很愛很愛的寶寶@MTNEKO123❤️🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "fuckpregabalin"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "VicoOci"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "MTNEKO123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/prumlin._.06171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/prumlin._.06171",
+                "start": 0,
+                "url": "https://t.co/0sezusOF4u"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "距您1.1km",
+        "name": "生力麵🍥🐱🐈",
+        "pinned_tweet_id": "1951233007156863102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097912569090053/O7Im7m4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 261,
+          "like_count": 1527,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/0sezusOF4u",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      }
+    ]
+  }
+}

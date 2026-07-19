@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1957047020151251434",
+    "created_at": "2025-08-17T11:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957047020151251434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "nva2ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957047020151251434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956692714721862013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nva2ka: 我在推特上炸柜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1957047020151251434",
+        "created_at": "2025-08-17T11:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957047020151251434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "nva2ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957047020151251434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956692714721862013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nva2ka: 我在推特上炸柜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1956692714721862013",
+        "created_at": "2025-08-16T12:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956692714721862013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956692714721862013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5314,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在推特上炸柜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953648748330201088/g7X92lyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22099,
+          "following_count": 10908,
+          "like_count": 82582,
+          "listed_count": 79,
+          "media_count": 4050,
+          "tweet_count": 14999
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "*声明：我的个人资料仅仅只是为了好玩而存在，与我实际身份无关",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "小药娘Zhi Wei🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1948326046593675681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956595670812618752/HkfhpBoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5812,
+          "following_count": 404,
+          "like_count": 30469,
+          "listed_count": 15,
+          "media_count": 1860,
+          "tweet_count": 16724
+        },
+        "username": "nva2ka",
+        "verified": false
+      }
+    ]
+  }
+}

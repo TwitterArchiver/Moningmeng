@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055202366258032640"
+      ],
+      "media_source_tweet_id": [
+        "2055257386164658438"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2055845078103654462",
+    "created_at": "2026-05-17T02:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055845078103654462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789599446881513472",
+          "start": 3,
+          "username": "xchase173294"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uk6FUepPQB",
+          "end": 62,
+          "expanded_url": "https://x.com/xchase173294/status/2055257386164658438/photo/1",
+          "media_key": "3_2055202366258032640",
+          "start": 39,
+          "url": "https://t.co/uk6FUepPQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055845078103654462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055257386164658438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xchase173294: 如果再也见不到你，祝你早安、午安、晚安。 https://t.co/uk6FUepPQB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_2055202366258032640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWLqcZaMAA7Wzb.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055202366258032640"
+          ],
+          "media_source_tweet_id": [
+            "2055257386164658438"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2055845078103654462",
+        "created_at": "2026-05-17T02:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055845078103654462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789599446881513472",
+              "start": 3,
+              "username": "xchase173294"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uk6FUepPQB",
+              "end": 62,
+              "expanded_url": "https://x.com/xchase173294/status/2055257386164658438/photo/1",
+              "media_key": "3_2055202366258032640",
+              "start": 39,
+              "url": "https://t.co/uk6FUepPQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055845078103654462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055257386164658438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xchase173294: 如果再也见不到你，祝你早安、午安、晚安。 https://t.co/uk6FUepPQB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055202366258032640"
+          ]
+        },
+        "author_id": "1789599446881513472",
+        "conversation_id": "2055257386164658438",
+        "created_at": "2026-05-15T12:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055257386164658438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uk6FUepPQB",
+              "end": 44,
+              "expanded_url": "https://x.com/xchase173294/status/2055257386164658438/photo/1",
+              "media_key": "3_2055202366258032640",
+              "start": 21,
+              "url": "https://t.co/uk6FUepPQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055257386164658438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 64726,
+          "like_count": 1954,
+          "quote_count": 5,
+          "reply_count": 88,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "如果再也见不到你，祝你早安、午安、晚安。 https://t.co/uk6FUepPQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27508,
+          "following_count": 11053,
+          "like_count": 88392,
+          "listed_count": 101,
+          "media_count": 5104,
+          "tweet_count": 17196
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 300,
+          "like_count": 4261,
+          "listed_count": 9,
+          "media_count": 506,
+          "tweet_count": 3799
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

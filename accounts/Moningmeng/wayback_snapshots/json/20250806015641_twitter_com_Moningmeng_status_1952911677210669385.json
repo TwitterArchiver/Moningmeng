@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952320501642416129"
+      ],
+      "media_source_tweet_id": [
+        "1952320752927343010"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1952911677210669385",
+    "created_at": "2025-08-06T01:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952911677210669385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/53OreSi9SU",
+          "end": 38,
+          "expanded_url": "https://x.com/Nakkar7/status/1952320752927343010/photo/1",
+          "media_key": "3_1952320501642416129",
+          "start": 15,
+          "url": "https://t.co/53OreSi9SU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952911677210669385",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952320752927343010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: ✌ https://t.co/53OreSi9SU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1952320501642416129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgJJwQb0AEvyq5.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952320501642416129"
+          ],
+          "media_source_tweet_id": [
+            "1952320752927343010"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1952911677210669385",
+        "created_at": "2025-08-06T01:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952911677210669385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53OreSi9SU",
+              "end": 38,
+              "expanded_url": "https://x.com/Nakkar7/status/1952320752927343010/photo/1",
+              "media_key": "3_1952320501642416129",
+              "start": 15,
+              "url": "https://t.co/53OreSi9SU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952911677210669385",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952320752927343010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: ✌ https://t.co/53OreSi9SU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952320501642416129"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "1952320752927343010",
+        "created_at": "2025-08-04T10:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952320752927343010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53OreSi9SU",
+              "end": 25,
+              "expanded_url": "https://x.com/Nakkar7/status/1952320752927343010/photo/1",
+              "media_key": "3_1952320501642416129",
+              "start": 2,
+              "url": "https://t.co/53OreSi9SU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952320752927343010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 40923,
+          "like_count": 2617,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "✌ https://t.co/53OreSi9SU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21784,
+          "following_count": 10872,
+          "like_count": 81629,
+          "listed_count": 77,
+          "media_count": 3992,
+          "tweet_count": 14770
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜　\n┊SHOP ➭ https://t.co/AAZW8Vxyje\n┊FANBOX ➭ https://t.co/YgsKSZVNtu\n┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 45,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 22,
+                "url": "https://t.co/AAZW8Vxyje"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 79,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 56,
+                "url": "https://t.co/YgsKSZVNtu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaaKwI"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "location": "ご連絡はHP記載のメールへお願いします！DMは見てません",
+        "name": "かなめなか　2日目南q43ab",
+        "pinned_tweet_id": "1951232975623840129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907398717344489472/i6LtN2o6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66853,
+          "following_count": 199,
+          "like_count": 15898,
+          "listed_count": 637,
+          "media_count": 963,
+          "tweet_count": 26891
+        },
+        "url": "https://t.co/HcT4NaaKwI",
+        "username": "Nakkar7",
+        "verified": false
+      }
+    ]
+  }
+}

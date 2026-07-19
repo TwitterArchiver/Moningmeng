@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2068354964997775865",
+    "created_at": "2026-06-20T15:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068354964997775865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1590221168769835009",
+          "start": 3,
+          "username": "jiejie7732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068354964997775865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068186973551145115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiejie7732: 22年刚玩推的时候，X还是叫推特，可以发很黄的图，可是现在……只剩下人机了，如今就连奶咪这种大博主也只能转自己以前发的黄图，如今发不了了，一发就ban，更别说那些宝藏博主了，他们去哪里了呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068354964997775865",
+        "created_at": "2026-06-20T15:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068354964997775865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1590221168769835009",
+              "start": 3,
+              "username": "jiejie7732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068354964997775865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068186973551145115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiejie7732: 22年刚玩推的时候，X还是叫推特，可以发很黄的图，可是现在……只剩下人机了，如今就连奶咪这种大博主也只能转自己以前发的黄图，如今发不了了，一发就ban，更别说那些宝藏博主了，他们去哪里了呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590221168769835009",
+        "conversation_id": "2068186973551145115",
+        "created_at": "2026-06-20T04:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068186973551145115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068186973551145115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 158076,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 409,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "22年刚玩推的时候，X还是叫推特，可以发很黄的图，可是现在……只剩下人机了，如今就连奶咪这种大博主也只能转自己以前发的黄图，如今发不了了，一发就ban，更别说那些宝藏博主了，他们去哪里了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27727,
+          "following_count": 11085,
+          "like_count": 91198,
+          "listed_count": 102,
+          "media_count": 5243,
+          "tweet_count": 17866
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-09T05:55:35.000Z",
+        "description": "关注哦❤️资深瑜伽老师\n 瑜伽日常 瑜伽呼吸练习",
+        "id": "1590221168769835009",
+        "name": "李姐七七",
+        "pinned_tweet_id": "2066782045129609271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590223366228623360/SYa-9vHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60165,
+          "following_count": 44,
+          "like_count": 4331,
+          "listed_count": 48,
+          "media_count": 1020,
+          "tweet_count": 9401
+        },
+        "url": "",
+        "username": "jiejie7732",
+        "verified": false
+      }
+    ]
+  }
+}

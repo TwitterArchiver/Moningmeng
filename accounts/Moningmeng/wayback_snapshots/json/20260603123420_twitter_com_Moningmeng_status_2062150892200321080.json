@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061809237060190208"
+      ],
+      "media_source_tweet_id": [
+        "2061809247130718346"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062150892200321080",
+    "created_at": "2026-06-03T12:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062150892200321080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VTq78Byz9y",
+          "end": 45,
+          "expanded_url": "https://x.com/Ted_yeet/status/2061809247130718346/photo/1",
+          "media_key": "3_2061809237060190208",
+          "start": 22,
+          "url": "https://t.co/VTq78Byz9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062150892200321080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061809247130718346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 触发底层代码了 https://t.co/VTq78Byz9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2061809237060190208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Ek8GXgAAqAJU.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061809237060190208"
+          ],
+          "media_source_tweet_id": [
+            "2061809247130718346"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062150892200321080",
+        "created_at": "2026-06-03T12:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062150892200321080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499442786453663745",
+              "start": 3,
+              "username": "Ted_yeet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTq78Byz9y",
+              "end": 45,
+              "expanded_url": "https://x.com/Ted_yeet/status/2061809247130718346/photo/1",
+              "media_key": "3_2061809237060190208",
+              "start": 22,
+              "url": "https://t.co/VTq78Byz9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062150892200321080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061809247130718346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ted_yeet: 触发底层代码了 https://t.co/VTq78Byz9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061809237060190208"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061809247130718346",
+        "created_at": "2026-06-02T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061809247130718346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTq78Byz9y",
+              "end": 31,
+              "expanded_url": "https://x.com/Ted_yeet/status/2061809247130718346/photo/1",
+              "media_key": "3_2061809237060190208",
+              "start": 8,
+              "url": "https://t.co/VTq78Byz9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061809247130718346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6661,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "触发底层代码了 https://t.co/VTq78Byz9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27677,
+          "following_count": 11079,
+          "like_count": 89938,
+          "listed_count": 102,
+          "media_count": 5181,
+          "tweet_count": 17564
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 1719,
+          "like_count": 51969,
+          "listed_count": 19,
+          "media_count": 515,
+          "tweet_count": 12101
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

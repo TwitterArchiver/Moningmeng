@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2061048423697228118",
+    "created_at": "2026-05-31T11:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061048423697228118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1516428117161689091",
+          "start": 3,
+          "username": "HelpMiaoDestiny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061048423697228118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061030500329005309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HelpMiaoDestiny: 现在抑郁，现在好痛苦，不知道怎么办😭😭😭呜呜呜，好难受，好想解决掉所有痛苦或者结束痛苦的生命😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2061048423697228118",
+        "created_at": "2026-05-31T11:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061048423697228118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1516428117161689091",
+              "start": 3,
+              "username": "HelpMiaoDestiny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061048423697228118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061030500329005309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HelpMiaoDestiny: 现在抑郁，现在好痛苦，不知道怎么办😭😭😭呜呜呜，好难受，好想解决掉所有痛苦或者结束痛苦的生命😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516428117161689091",
+        "conversation_id": "2061030500329005309",
+        "created_at": "2026-05-31T10:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061030500329005309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061030500329005309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在抑郁，现在好痛苦，不知道怎么办😭😭😭呜呜呜，好难受，好想解决掉所有痛苦或者结束痛苦的生命😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27707,
+          "following_count": 11090,
+          "like_count": 89495,
+          "listed_count": 102,
+          "media_count": 5167,
+          "tweet_count": 17491
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-19T14:48:04.000Z",
+        "description": "女大大二/双性恋跨女/童意识19岁雌二醇凝胶猫猫20泰蔡达武变女性术喉结术/废物韭菜/通模难久残废跨女无法骄傲/天赋党母亲党父家暴/脸好看女相女嗓260Hz无伪音/学金融/很穷/绿推/sub小猫/喜欢可爱/求买衣服/民主自由福利/微键政不爆照/167/60/80A/39码/沙漏型/忧郁绝望痛哭树洞/吾将死勿fo",
+        "id": "1516428117161689091",
+        "location": "深圳～喵～",
+        "name": "喵喵～快润🍁或快跳L！",
+        "pinned_tweet_id": "1936637694467281234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4872,
+          "following_count": 451,
+          "like_count": 82953,
+          "listed_count": 12,
+          "media_count": 1169,
+          "tweet_count": 40007
+        },
+        "username": "HelpMiaoDestiny",
+        "verified": false
+      }
+    ]
+  }
+}

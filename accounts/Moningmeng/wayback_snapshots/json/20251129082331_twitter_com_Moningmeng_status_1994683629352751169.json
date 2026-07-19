@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994248411315621888"
+      ],
+      "media_source_tweet_id": [
+        "1994248416587862268"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1994683629352751169",
+    "created_at": "2025-11-29T08:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994683629352751169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRf6OrBayi",
+          "end": 59,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1994248416587862268/photo/1",
+          "media_key": "3_1994248411315621888",
+          "start": 36,
+          "url": "https://t.co/bRf6OrBayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994683629352751169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994248416587862268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 一介书生就只能捐出这么点了\n🥲 https://t.co/bRf6OrBayi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994248411315621888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6z-XTZa0AAvuab.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994248411315621888"
+          ],
+          "media_source_tweet_id": [
+            "1994248416587862268"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1994683629352751169",
+        "created_at": "2025-11-29T08:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994683629352751169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRf6OrBayi",
+              "end": 59,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1994248416587862268/photo/1",
+              "media_key": "3_1994248411315621888",
+              "start": 36,
+              "url": "https://t.co/bRf6OrBayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994683629352751169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994248416587862268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 一介书生就只能捐出这么点了\n🥲 https://t.co/bRf6OrBayi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994248411315621888"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1994248416587862268",
+        "created_at": "2025-11-28T03:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994248416587862268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRf6OrBayi",
+              "end": 39,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1994248416587862268/photo/1",
+              "media_key": "3_1994248411315621888",
+              "start": 16,
+              "url": "https://t.co/bRf6OrBayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994248416587862268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12480,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一介书生就只能捐出这么点了\n🥲 https://t.co/bRf6OrBayi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991908410615627777/QtmcPVD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25346,
+          "following_count": 10940,
+          "like_count": 85059,
+          "listed_count": 92,
+          "media_count": 4464,
+          "tweet_count": 15665
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9585,
+          "following_count": 7833,
+          "like_count": 27505,
+          "listed_count": 23,
+          "media_count": 6576,
+          "tweet_count": 41759
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055971635371638784",
+        "3_2055971635371577345",
+        "3_2055971636793458688",
+        "3_2055971635807805440"
+      ],
+      "media_source_tweet_id": [
+        "2055971646314565798",
+        "2055971646314565798",
+        "2055971646314565798",
+        "2055971646314565798"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056347600153203169",
+    "created_at": "2026-05-18T12:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056347600153203169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yz6HpjyE6k",
+          "end": 55,
+          "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+          "media_key": "3_2055971635371638784",
+          "start": 32,
+          "url": "https://t.co/Yz6HpjyE6k"
+        },
+        {
+          "display_url": "pic.x.com/Yz6HpjyE6k",
+          "end": 55,
+          "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+          "media_key": "3_2055971635371577345",
+          "start": 32,
+          "url": "https://t.co/Yz6HpjyE6k"
+        },
+        {
+          "display_url": "pic.x.com/Yz6HpjyE6k",
+          "end": 55,
+          "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+          "media_key": "3_2055971636793458688",
+          "start": 32,
+          "url": "https://t.co/Yz6HpjyE6k"
+        },
+        {
+          "display_url": "pic.x.com/Yz6HpjyE6k",
+          "end": 55,
+          "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+          "media_key": "3_2055971635807805440",
+          "start": 32,
+          "url": "https://t.co/Yz6HpjyE6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056347600153203169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055971646314565798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 当你进一家模型店时能看到的提示： https://t.co/Yz6HpjyE6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2055971635371638784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhHTzKbAAAdvp9.jpg",
+        "width": 1486
+      },
+      {
+        "height": 1112,
+        "media_key": "3_2055971635371577345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhHTzKaEAE2cvO.jpg",
+        "width": 1486
+      },
+      {
+        "height": 1097,
+        "media_key": "3_2055971636793458688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhHT4daQAANIuX.jpg",
+        "width": 1486
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2055971635807805440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhHT0yaYAAq9gg.jpg",
+        "width": 1486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055971635371638784",
+            "3_2055971635371577345",
+            "3_2055971636793458688",
+            "3_2055971635807805440"
+          ],
+          "media_source_tweet_id": [
+            "2055971646314565798",
+            "2055971646314565798",
+            "2055971646314565798",
+            "2055971646314565798"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056347600153203169",
+        "created_at": "2026-05-18T12:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056347600153203169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 55,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971635371638784",
+              "start": 32,
+              "url": "https://t.co/Yz6HpjyE6k"
+            },
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 55,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971635371577345",
+              "start": 32,
+              "url": "https://t.co/Yz6HpjyE6k"
+            },
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 55,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971636793458688",
+              "start": 32,
+              "url": "https://t.co/Yz6HpjyE6k"
+            },
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 55,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971635807805440",
+              "start": 32,
+              "url": "https://t.co/Yz6HpjyE6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056347600153203169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055971646314565798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 当你进一家模型店时能看到的提示： https://t.co/Yz6HpjyE6k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055971635371638784",
+            "3_2055971635371577345",
+            "3_2055971636793458688",
+            "3_2055971635807805440"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055971646314565798",
+        "created_at": "2026-05-17T11:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055971646314565798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 40,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971635371638784",
+              "start": 17,
+              "url": "https://t.co/Yz6HpjyE6k"
+            },
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 40,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971635371577345",
+              "start": 17,
+              "url": "https://t.co/Yz6HpjyE6k"
+            },
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 40,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971636793458688",
+              "start": 17,
+              "url": "https://t.co/Yz6HpjyE6k"
+            },
+            {
+              "display_url": "pic.x.com/Yz6HpjyE6k",
+              "end": 40,
+              "expanded_url": "https://x.com/smiroyama/status/2055971646314565798/photo/1",
+              "media_key": "3_2055971635807805440",
+              "start": 17,
+              "url": "https://t.co/Yz6HpjyE6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055971646314565798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 278539,
+          "like_count": 4120,
+          "quote_count": 7,
+          "reply_count": 145,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "当你进一家模型店时能看到的提示： https://t.co/Yz6HpjyE6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2056042425714680300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056032687794892801/A2dyscSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27493,
+          "following_count": 11048,
+          "like_count": 88437,
+          "listed_count": 101,
+          "media_count": 5112,
+          "tweet_count": 17228
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5159,
+          "following_count": 2251,
+          "like_count": 11435,
+          "listed_count": 17,
+          "media_count": 1700,
+          "tweet_count": 6656
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

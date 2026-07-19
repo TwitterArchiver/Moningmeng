@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054920654819110913"
+      ],
+      "media_source_tweet_id": [
+        "2054920657239244813"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2055478257542431014",
+    "created_at": "2026-05-16T02:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055478257542431014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfgW7WN3eB",
+          "end": 51,
+          "expanded_url": "https://x.com/anblk984/status/2054920657239244813/photo/1",
+          "media_key": "3_2054920654819110913",
+          "start": 28,
+          "url": "https://t.co/GfgW7WN3eB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055478257542431014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054920657239244813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 迪士尼就是这个世界的主宰😁 https://t.co/GfgW7WN3eB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054920654819110913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISLcrgbMAEYU1c.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054920654819110913"
+          ],
+          "media_source_tweet_id": [
+            "2054920657239244813"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2055478257542431014",
+        "created_at": "2026-05-16T02:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055478257542431014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfgW7WN3eB",
+              "end": 51,
+              "expanded_url": "https://x.com/anblk984/status/2054920657239244813/photo/1",
+              "media_key": "3_2054920654819110913",
+              "start": 28,
+              "url": "https://t.co/GfgW7WN3eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055478257542431014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054920657239244813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 迪士尼就是这个世界的主宰😁 https://t.co/GfgW7WN3eB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054920654819110913"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2054920657239244813",
+        "created_at": "2026-05-14T13:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054920657239244813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfgW7WN3eB",
+              "end": 37,
+              "expanded_url": "https://x.com/anblk984/status/2054920657239244813/photo/1",
+              "media_key": "3_2054920654819110913",
+              "start": 14,
+              "url": "https://t.co/GfgW7WN3eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054920657239244813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 36334,
+          "like_count": 1209,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "迪士尼就是这个世界的主宰😁 https://t.co/GfgW7WN3eB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27516,
+          "following_count": 11051,
+          "like_count": 88254,
+          "listed_count": 101,
+          "media_count": 5101,
+          "tweet_count": 17172
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/劳保爱鸟楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13944,
+          "following_count": 997,
+          "like_count": 117260,
+          "listed_count": 69,
+          "media_count": 2780,
+          "tweet_count": 28522
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

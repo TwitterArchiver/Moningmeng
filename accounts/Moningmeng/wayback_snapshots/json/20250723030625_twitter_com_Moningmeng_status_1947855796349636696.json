@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947484863852122115"
+      ],
+      "media_source_tweet_id": [
+        "1947484868063203647"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1947855796349636696",
+    "created_at": "2025-07-23T03:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T04:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947855796349636696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1130781616274468864",
+          "start": 3,
+          "username": "_SHIGURERERE_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihU8T4WsBd",
+          "end": 83,
+          "expanded_url": "https://x.com/_SHIGURERERE_/status/1947484868063203647/photo/1",
+          "media_key": "3_1947484863852122115",
+          "start": 60,
+          "url": "https://t.co/ihU8T4WsBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947855796349636696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947484868063203647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_SHIGURERERE_: 幽默麦当劳，想给对象点早餐，10点半结束，结果他读的我系统时间觉得已经11点多了 https://t.co/ihU8T4WsBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1947484863852122115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbbKltbEAMRt3q.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947484863852122115"
+          ],
+          "media_source_tweet_id": [
+            "1947484868063203647"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1947855796349636696",
+        "created_at": "2025-07-23T03:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T04:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947855796349636696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1130781616274468864",
+              "start": 3,
+              "username": "_SHIGURERERE_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihU8T4WsBd",
+              "end": 83,
+              "expanded_url": "https://x.com/_SHIGURERERE_/status/1947484868063203647/photo/1",
+              "media_key": "3_1947484863852122115",
+              "start": 60,
+              "url": "https://t.co/ihU8T4WsBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947855796349636696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947484868063203647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_SHIGURERERE_: 幽默麦当劳，想给对象点早餐，10点半结束，结果他读的我系统时间觉得已经11点多了 https://t.co/ihU8T4WsBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947484863852122115"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "1947484868063203647",
+        "created_at": "2025-07-22T02:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947484868063203647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihU8T4WsBd",
+              "end": 64,
+              "expanded_url": "https://x.com/_SHIGURERERE_/status/1947484868063203647/photo/1",
+              "media_key": "3_1947484863852122115",
+              "start": 41,
+              "url": "https://t.co/ihU8T4WsBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947484868063203647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22385,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "幽默麦当劳，想给对象点早餐，10点半结束，结果他读的我系统时间觉得已经11点多了 https://t.co/ihU8T4WsBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21644,
+          "following_count": 10840,
+          "like_count": 80145,
+          "listed_count": 75,
+          "media_count": 3929,
+          "tweet_count": 14456
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "停滞圣权 神秘观察者 🫀@███",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+XgR11PBoaTdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+XgR11PBoaTdmZGM1",
+                "start": 0,
+                "url": "https://t.co/Dc1m1q80Ht"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "失落帝国",
+        "name": "sgr",
+        "pinned_tweet_id": "1939029236301602992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930248403268841473/WgJJUqUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61798,
+          "following_count": 2098,
+          "like_count": 50336,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/Dc1m1q80Ht",
+        "username": "_SHIGURERERE_",
+        "verified": true
+      }
+    ]
+  }
+}

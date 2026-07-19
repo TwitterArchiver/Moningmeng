@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020576640666124288"
+      ],
+      "media_source_tweet_id": [
+        "2020576649117683896"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020801760772640810",
+    "created_at": "2026-02-09T10:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020801760772640810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935176310663401472",
+          "start": 3,
+          "username": "S_Hyoscine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PH7Np0Xd42",
+          "end": 44,
+          "expanded_url": "https://x.com/S_Hyoscine/status/2020576649117683896/photo/1",
+          "media_key": "3_2020576640666124288",
+          "start": 21,
+          "url": "https://t.co/PH7Np0Xd42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020801760772640810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020576649117683896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Hyoscine: 船新版本 https://t.co/PH7Np0Xd42"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 433,
+        "media_key": "3_2020576640666124288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAqHv8xbQAArhZV.jpg",
+        "width": 367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020576640666124288"
+          ],
+          "media_source_tweet_id": [
+            "2020576649117683896"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020801760772640810",
+        "created_at": "2026-02-09T10:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020801760772640810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935176310663401472",
+              "start": 3,
+              "username": "S_Hyoscine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PH7Np0Xd42",
+              "end": 44,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2020576649117683896/photo/1",
+              "media_key": "3_2020576640666124288",
+              "start": 21,
+              "url": "https://t.co/PH7Np0Xd42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020801760772640810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020576649117683896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Hyoscine: 船新版本 https://t.co/PH7Np0Xd42"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020576640666124288"
+          ]
+        },
+        "author_id": "1935176310663401472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020576649117683896",
+        "created_at": "2026-02-08T19:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020576649117683896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PH7Np0Xd42",
+              "end": 28,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2020576649117683896/photo/1",
+              "media_key": "3_2020576640666124288",
+              "start": 5,
+              "url": "https://t.co/PH7Np0Xd42"
+            },
+            {
+              "display_url": "x.com/s_hyoscine/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/s_hyoscine/status/2020526961387352295",
+              "start": 29,
+              "url": "https://t.co/eALi9KKSdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020576649117683896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1205,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020526961387352295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "船新版本 https://t.co/PH7Np0Xd42 https://t.co/eALi9KKSdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26532,
+          "following_count": 10949,
+          "like_count": 85464,
+          "listed_count": 102,
+          "media_count": 4718,
+          "tweet_count": 16067
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "陪聊门槛50//抽象苹果粉//自由万岁/@hood438371无能的妻子//生产日期：07.03.22//要是不喜欢你的发言和观点就可能会b你//知不可乎骤得，托遗响于悲风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "三里屯水果批发市场",
+        "name": "春雪狐与东莨🍥",
+        "pinned_tweet_id": "2016068038773375401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005380683292983296/Iictc7oI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 850,
+          "like_count": 22309,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 5609
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

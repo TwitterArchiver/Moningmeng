@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2069609307726045667",
+    "created_at": "2026-06-24T02:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069609307726045667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779149099084009472",
+          "start": 3,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069609307726045667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069275742979121630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikuLoverr_: 未成年HRT：这些孩子心智不成熟以后会后悔的\n未成年触犯刑法：这些人心智已经成熟了应该按照成年人的标准判刑\n依旧薛定谔的心智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2069609307726045667",
+        "created_at": "2026-06-24T02:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069609307726045667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779149099084009472",
+              "start": 3,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069609307726045667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069275742979121630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikuLoverr_: 未成年HRT：这些孩子心智不成熟以后会后悔的\n未成年触犯刑法：这些人心智已经成熟了应该按照成年人的标准判刑\n依旧薛定谔的心智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "2069275742979121630",
+        "created_at": "2026-06-23T04:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069275742979121630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069275742979121630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2918,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "未成年HRT：这些孩子心智不成熟以后会后悔的\n未成年触犯刑法：这些人心智已经成熟了应该按照成年人的标准判刑\n依旧薛定谔的心智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 52,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 29,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2069007967769481322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27826,
+          "following_count": 11127,
+          "like_count": 92217,
+          "listed_count": 102,
+          "media_count": 5269,
+          "tweet_count": 18092
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku/双相ADHD感统失调/恋人 @mikumiku3648 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🥝",
+        "pinned_tweet_id": "2057687285504868573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055369844737146880/2rM6iWiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1141,
+          "like_count": 30605,
+          "listed_count": 11,
+          "media_count": 1022,
+          "tweet_count": 15066
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

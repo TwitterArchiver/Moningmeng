@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1948595557573767582",
+    "created_at": "2025-07-25T04:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948595557573767582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1702989845076037632",
+          "start": 3,
+          "username": "mmyouli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948595557573767582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948335612337201469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmyouli: 应该有一段时间不会再活跃了，再见了大家，等我回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1948595557573767582",
+        "created_at": "2025-07-25T04:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948595557573767582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1702989845076037632",
+              "start": 3,
+              "username": "mmyouli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948595557573767582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948335612337201469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmyouli: 应该有一段时间不会再活跃了，再见了大家，等我回来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702989845076037632",
+        "conversation_id": "1948335612337201469",
+        "created_at": "2025-07-24T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948335612337201469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948335612337201469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6174,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "应该有一段时间不会再活跃了，再见了大家，等我回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21645,
+          "following_count": 10864,
+          "like_count": 80696,
+          "listed_count": 76,
+          "media_count": 3945,
+          "tweet_count": 14600
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T10:16:42.000Z",
+        "description": "95后只想做一个普普通通温柔女娃  恋爱脑患者  对象 @YouQ318",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "YouQ318"
+              }
+            ]
+          }
+        },
+        "id": "1702989845076037632",
+        "name": "沫沫不幽默",
+        "pinned_tweet_id": "1941557178659410122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933156479588319232/qDEMsJZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 85,
+          "like_count": 873,
+          "listed_count": 19,
+          "media_count": 229,
+          "tweet_count": 1559
+        },
+        "username": "mmyouli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944643001495461888"
+      ],
+      "media_source_tweet_id": [
+        "1944643008231788684"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1944800181435949526",
+    "created_at": "2025-07-14T16:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944800181435949526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879069507328610304",
+          "start": 3,
+          "username": "Bobby_VRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qx2yepCaPg",
+          "end": 44,
+          "expanded_url": "https://x.com/Bobby_VRC/status/1944643008231788684/photo/1",
+          "media_key": "3_1944643001495461888",
+          "start": 21,
+          "url": "https://t.co/Qx2yepCaPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944800181435949526",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944643008231788684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bobby_VRC: ミ...💤 https://t.co/Qx2yepCaPg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_1944643001495461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzCgbcWIAAcwCR.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944643001495461888"
+          ],
+          "media_source_tweet_id": [
+            "1944643008231788684"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1944800181435949526",
+        "created_at": "2025-07-14T16:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944800181435949526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879069507328610304",
+              "start": 3,
+              "username": "Bobby_VRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qx2yepCaPg",
+              "end": 44,
+              "expanded_url": "https://x.com/Bobby_VRC/status/1944643008231788684/photo/1",
+              "media_key": "3_1944643001495461888",
+              "start": 21,
+              "url": "https://t.co/Qx2yepCaPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944800181435949526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944643008231788684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bobby_VRC: ミ...💤 https://t.co/Qx2yepCaPg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944643001495461888"
+          ]
+        },
+        "author_id": "1879069507328610304",
+        "conversation_id": "1944643008231788684",
+        "created_at": "2025-07-14T06:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T07:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944643008231788684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qx2yepCaPg",
+              "end": 29,
+              "expanded_url": "https://x.com/Bobby_VRC/status/1944643008231788684/photo/1",
+              "media_key": "3_1944643001495461888",
+              "start": 6,
+              "url": "https://t.co/Qx2yepCaPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944643008231788684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 802,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ミ...💤 https://t.co/Qx2yepCaPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21441,
+          "following_count": 10816,
+          "like_count": 79077,
+          "listed_count": 77,
+          "media_count": 3882,
+          "tweet_count": 14181
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T07:34:23.000Z",
+        "description": "這裡是貓貓的VR主帳號, 喜歡的話可以停下來看看喔～｜#星流Cafe 店員｜ EN 100％｜CN 90％｜Yue 60％｜JPN 30％｜本帳: @Bobby_Vtb｜干し芋: https://t.co/P8l3rbYP2P",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "星流Cafe"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "Bobby_Vtb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/8f3tB",
+                "end": 113,
+                "expanded_url": "https://x.gd/8f3tB",
+                "start": 90,
+                "url": "https://t.co/P8l3rbYP2P"
+              }
+            ]
+          }
+        },
+        "id": "1879069507328610304",
+        "location": "溫暖的貓窩裡",
+        "name": "波比貓貓@VRC",
+        "pinned_tweet_id": "1885586954278101218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879129311313072128/u748ZETh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 168,
+          "like_count": 2224,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 531
+        },
+        "username": "Bobby_VRC",
+        "verified": true
+      }
+    ]
+  }
+}

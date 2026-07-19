@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982096596654239744"
+      ],
+      "media_source_tweet_id": [
+        "1982096599796072852"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1982366328481829307",
+    "created_at": "2025-10-26T08:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982366328481829307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756246342676979713",
+          "start": 3,
+          "username": "sanmiguelnoodle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1O3gTqUQQ8",
+          "end": 59,
+          "expanded_url": "https://x.com/sanmiguelnoodle/status/1982096599796072852/photo/1",
+          "media_key": "3_1982096596654239744",
+          "start": 36,
+          "url": "https://t.co/1O3gTqUQQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982366328481829307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982096599796072852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanmiguelnoodle: 台灣人為什麼都喜歡用繁體字？ https://t.co/1O3gTqUQQ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982096596654239744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HSWmIWMAAX8dR.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982096596654239744"
+          ],
+          "media_source_tweet_id": [
+            "1982096599796072852"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1982366328481829307",
+        "created_at": "2025-10-26T08:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982366328481829307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756246342676979713",
+              "start": 3,
+              "username": "sanmiguelnoodle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1O3gTqUQQ8",
+              "end": 59,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1982096599796072852/photo/1",
+              "media_key": "3_1982096596654239744",
+              "start": 36,
+              "url": "https://t.co/1O3gTqUQQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982366328481829307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982096599796072852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanmiguelnoodle: 台灣人為什麼都喜歡用繁體字？ https://t.co/1O3gTqUQQ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982096596654239744"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "1982096599796072852",
+        "created_at": "2025-10-25T14:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982096599796072852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1O3gTqUQQ8",
+              "end": 38,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1982096599796072852/photo/1",
+              "media_key": "3_1982096596654239744",
+              "start": 15,
+              "url": "https://t.co/1O3gTqUQQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982096599796072852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18984,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "台灣人為什麼都喜歡用繁體字？ https://t.co/1O3gTqUQQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqhed",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqhed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1981738914479042749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23617,
+          "following_count": 10952,
+          "like_count": 84945,
+          "listed_count": 87,
+          "media_count": 4352,
+          "tweet_count": 15529
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "自建政黨：@CTP_TW | 中華民國派🇹🇼❂​ | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 🥺🍜❤️對象@MTNEKO8964  | 🦡@mi_huan030 |🐈@Psych_Angel_ | 可愛AB @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "CTP_TW"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "MTNEKO8964"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPJ9M"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "UTC+8",
+        "name": "生力麵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1969153581300216285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979868103245799424/EmUaWW2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 629,
+          "like_count": 2579,
+          "listed_count": 10,
+          "media_count": 538,
+          "tweet_count": 5838
+        },
+        "url": "https://t.co/2lbauKPJ9M",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      }
+    ]
+  }
+}

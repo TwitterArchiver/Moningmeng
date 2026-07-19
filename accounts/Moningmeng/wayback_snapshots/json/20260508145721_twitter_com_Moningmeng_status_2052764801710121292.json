@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052656673060540416"
+      ],
+      "media_source_tweet_id": [
+        "2052656682254377436"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2052764801710121292",
+    "created_at": "2026-05-08T14:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052764801710121292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1479550299815645185",
+          "start": 3,
+          "username": "Stanleysobest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjwa6tBKcb",
+          "end": 62,
+          "expanded_url": "https://x.com/Stanleysobest/status/2052656682254377436/photo/1",
+          "media_key": "3_2052656673060540416",
+          "start": 39,
+          "url": "https://t.co/kjwa6tBKcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052764801710121292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052656682254377436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stanleysobest: 实在想不懂，宁可当保安也不进厂打螺丝？ https://t.co/kjwa6tBKcb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_2052656673060540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyAXmOb0AAmFan.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052656673060540416"
+          ],
+          "media_source_tweet_id": [
+            "2052656682254377436"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2052764801710121292",
+        "created_at": "2026-05-08T14:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052764801710121292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1479550299815645185",
+              "start": 3,
+              "username": "Stanleysobest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjwa6tBKcb",
+              "end": 62,
+              "expanded_url": "https://x.com/Stanleysobest/status/2052656682254377436/photo/1",
+              "media_key": "3_2052656673060540416",
+              "start": 39,
+              "url": "https://t.co/kjwa6tBKcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052764801710121292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052656682254377436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stanleysobest: 实在想不懂，宁可当保安也不进厂打螺丝？ https://t.co/kjwa6tBKcb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052656673060540416"
+          ]
+        },
+        "author_id": "1479550299815645185",
+        "conversation_id": "2052656682254377436",
+        "created_at": "2026-05-08T07:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052656682254377436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjwa6tBKcb",
+              "end": 43,
+              "expanded_url": "https://x.com/Stanleysobest/status/2052656682254377436/photo/1",
+              "media_key": "3_2052656673060540416",
+              "start": 20,
+              "url": "https://t.co/kjwa6tBKcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052656682254377436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 158111,
+          "like_count": 743,
+          "quote_count": 3,
+          "reply_count": 222,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "实在想不懂，宁可当保安也不进厂打螺丝？ https://t.co/kjwa6tBKcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27479,
+          "following_count": 11051,
+          "like_count": 88015,
+          "listed_count": 102,
+          "media_count": 5073,
+          "tweet_count": 17100
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44274,
+          "following_count": 1684,
+          "like_count": 25733,
+          "listed_count": 184,
+          "media_count": 5475,
+          "tweet_count": 34795
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

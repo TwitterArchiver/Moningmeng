@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068008866525376513"
+      ],
+      "media_source_tweet_id": [
+        "2068008869885014050"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068345672336867396",
+    "created_at": "2026-06-20T14:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068345672336867396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1859514443362861056",
+          "start": 3,
+          "username": "nami16386"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0lrPtoafeu",
+          "end": 49,
+          "expanded_url": "https://x.com/nami16386/status/2068008869885014050/photo/1",
+          "media_key": "3_2068008866525376513",
+          "start": 26,
+          "url": "https://t.co/0lrPtoafeu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068345672336867396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068008869885014050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nami16386: 这个吃的叫什么来着🤔 https://t.co/0lrPtoafeu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1491,
+        "media_key": "3_2068008866525376513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMLG3macAEhYMJ.jpg",
+        "width": 1903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068008866525376513"
+          ],
+          "media_source_tweet_id": [
+            "2068008869885014050"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068345672336867396",
+        "created_at": "2026-06-20T14:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068345672336867396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1859514443362861056",
+              "start": 3,
+              "username": "nami16386"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lrPtoafeu",
+              "end": 49,
+              "expanded_url": "https://x.com/nami16386/status/2068008869885014050/photo/1",
+              "media_key": "3_2068008866525376513",
+              "start": 26,
+              "url": "https://t.co/0lrPtoafeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068345672336867396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068008869885014050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nami16386: 这个吃的叫什么来着🤔 https://t.co/0lrPtoafeu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068008866525376513"
+          ]
+        },
+        "author_id": "1859514443362861056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068008869885014050",
+        "created_at": "2026-06-19T16:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068008869885014050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lrPtoafeu",
+              "end": 34,
+              "expanded_url": "https://x.com/nami16386/status/2068008869885014050/photo/1",
+              "media_key": "3_2068008866525376513",
+              "start": 11,
+              "url": "https://t.co/0lrPtoafeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068008869885014050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2179,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个吃的叫什么来着🤔 https://t.co/0lrPtoafeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27726,
+          "following_count": 11078,
+          "like_count": 91050,
+          "listed_count": 102,
+          "media_count": 5242,
+          "tweet_count": 17821
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁🍥 | MTF 中～\n身高168cm / 50kg  | 家长不管党？HRT 2026.5.3\n想天天吃好吃的+玩游戏🎮！喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "id": "1859514443362861056",
+        "location": "湖北省黄冈市",
+        "name": "nami🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062243601548202194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 425,
+          "like_count": 1520,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "nami16386",
+        "verified": false
+      }
+    ]
+  }
+}

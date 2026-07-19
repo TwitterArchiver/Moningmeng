@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942627081394819072"
+      ],
+      "media_source_tweet_id": [
+        "1942627091251642696"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942932951106265585",
+    "created_at": "2025-07-09T13:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T14:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942932951106265585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "TOKYOheshan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dovPBxtO3y",
+          "end": 49,
+          "expanded_url": "https://x.com/TOKYOheshan/status/1942627091251642696/photo/1",
+          "media_key": "3_1942627081394819072",
+          "start": 26,
+          "url": "https://t.co/dovPBxtO3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942932951106265585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942627091251642696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYOheshan: 我操家具终于到了 https://t.co/dovPBxtO3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942627081394819072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWZCb2XkAAMbaT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942627081394819072"
+          ],
+          "media_source_tweet_id": [
+            "1942627091251642696"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942932951106265585",
+        "created_at": "2025-07-09T13:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T14:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942932951106265585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "TOKYOheshan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dovPBxtO3y",
+              "end": 49,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1942627091251642696/photo/1",
+              "media_key": "3_1942627081394819072",
+              "start": 26,
+              "url": "https://t.co/dovPBxtO3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942932951106265585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942627091251642696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYOheshan: 我操家具终于到了 https://t.co/dovPBxtO3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942627081394819072"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942627091251642696",
+        "created_at": "2025-07-08T16:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:32:19.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942622787862212847",
+          "1942626179237974417",
+          "1942626757309522111",
+          "1942627091251642696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dovPBxtO3y",
+              "end": 32,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1942627091251642696/photo/1",
+              "media_key": "3_1942627081394819072",
+              "start": 9,
+              "url": "https://t.co/dovPBxtO3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942627091251642696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13230,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我操家具终于到了 https://t.co/dovPBxtO3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734235183964160/8k0Hh0-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21389,
+          "following_count": 10743,
+          "like_count": 78154,
+          "listed_count": 77,
+          "media_count": 3846,
+          "tweet_count": 14017
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07无药男娘 IP🇯🇵東京池袋 精日罕见 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新日常或抽象爱国TV 互fo扩列请私信 欢迎线下找我玩 逃生舱:@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象耶格尔",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942513800084594688/rlG9AqcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4789,
+          "following_count": 548,
+          "like_count": 626,
+          "listed_count": 10,
+          "media_count": 255,
+          "tweet_count": 431
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "1946714068829733271",
+    "created_at": "2025-07-19T23:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T00:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946714068829733271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777864731136823296",
+          "start": 3,
+          "username": "Hotpot_2025"
+        },
+        {
+          "end": 62,
+          "id": "1946470732244135936",
+          "start": 50,
+          "username": "Hotpot_1104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946714068829733271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946474793672524280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hotpot_2025: 终于我开里推了嗯。\n以后负能，自残讯息，还有神经发言，会扔到这里 @Hotpot_1104 \n呃可能会有🔞内容对。\n后续会锁里推。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Hotpot_1104].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Hotpot_1104",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Hotpot_1104"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "1946714068829733271",
+        "created_at": "2025-07-19T23:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T00:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946714068829733271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777864731136823296",
+              "start": 3,
+              "username": "Hotpot_2025"
+            },
+            {
+              "end": 62,
+              "id": "1946470732244135936",
+              "start": 50,
+              "username": "Hotpot_1104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946714068829733271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946474793672524280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hotpot_2025: 终于我开里推了嗯。\n以后负能，自残讯息，还有神经发言，会扔到这里 @Hotpot_1104 \n呃可能会有🔞内容对。\n后续会锁里推。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777864731136823296",
+        "conversation_id": "1946474793672524280",
+        "created_at": "2025-07-19T07:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946474793672524280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1946470732244135936",
+              "start": 33,
+              "username": "Hotpot_1104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946474793672524280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9213,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "终于我开里推了嗯。\n以后负能，自残讯息，还有神经发言，会扔到这里 @Hotpot_1104 \n呃可能会有🔞内容对。\n后续会锁里推。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊🍋我是沫柠～🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21583,
+          "following_count": 10833,
+          "like_count": 79979,
+          "listed_count": 75,
+          "media_count": 3915,
+          "tweet_count": 14380
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T01:02:47.000Z",
+        "description": "里推@Hotpot_2077 | 09 | 数码 | Furry | 术力口 | 音游 | 日常 | ❌谈论政治❌ | 自由平等多元的人权🏳️‍🌈 | 审查成分后无政治与纯黄推回关，欢迎私信扩列 | 友链 @hiner233 @fengluo_0707 | 祝好🤞。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Hotpot_2077"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "hiner233"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "fengluo_0707"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hotpot20251",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hotpot20251",
+                "start": 0,
+                "url": "https://t.co/ijVESCiBBT"
+              }
+            ]
+          }
+        },
+        "id": "1777864731136823296",
+        "location": "白桦树下，我望向你的背影",
+        "name": "/tp 火鍋",
+        "pinned_tweet_id": "1945532523137962269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942495001432236032/DWTShOU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 781,
+          "like_count": 3416,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/ijVESCiBBT",
+        "username": "Hotpot_2025",
+        "verified": false
+      }
+    ]
+  }
+}

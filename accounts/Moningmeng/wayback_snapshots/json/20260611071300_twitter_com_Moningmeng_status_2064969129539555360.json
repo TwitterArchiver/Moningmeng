@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2064969129539555360",
+    "created_at": "2026-06-11T07:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064969129539555360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1754139256770207744",
+          "start": 3,
+          "username": "jianghaikuo666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064969129539555360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064778159883698642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianghaikuo666: 你们到底都是怎么解锁 VPN 这个技能的？\n\n没有 VPN 就没法翻墙，\n不翻墙又没法下载 VPN。\n\n这不就是互联网版“没有鸡就生不了蛋，没有蛋就生不了鸡”吗？\n\n这个死循环，你们是怎么破局的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2064969129539555360",
+        "created_at": "2026-06-11T07:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064969129539555360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1754139256770207744",
+              "start": 3,
+              "username": "jianghaikuo666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064969129539555360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064778159883698642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianghaikuo666: 你们到底都是怎么解锁 VPN 这个技能的？\n\n没有 VPN 就没法翻墙，\n不翻墙又没法下载 VPN。\n\n这不就是互联网版“没有鸡就生不了蛋，没有蛋就生不了鸡”吗？\n\n这个死循环，你们是怎么破局的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754139256770207744",
+        "conversation_id": "2064778159883698642",
+        "created_at": "2026-06-10T18:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064778159883698642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064778159883698642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 87245,
+          "like_count": 106,
+          "quote_count": 5,
+          "reply_count": 237,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底都是怎么解锁 VPN 这个技能的？\n\n没有 VPN 就没法翻墙，\n不翻墙又没法下载 VPN。\n\n这不就是互联网版“没有鸡就生不了蛋，没有蛋就生不了鸡”吗？\n\n这个死循环，你们是怎么破局的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27739,
+          "following_count": 11090,
+          "like_count": 90923,
+          "listed_count": 102,
+          "media_count": 5212,
+          "tweet_count": 17697
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T13:46:17.000Z",
+        "description": "🚀premium+ 用户\n三餐都靠风续命，饭钱掰成两半花。\n人间滚烫我很忙，何时能赚一千万？",
+        "id": "1754139256770207744",
+        "location": "New York, USA",
+        "name": "玛卡巴卡",
+        "pinned_tweet_id": "2064778159883698642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057761083159392257/pocAyYmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 880,
+          "like_count": 4374,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1478
+        },
+        "username": "jianghaikuo666",
+        "verified": true
+      }
+    ]
+  }
+}

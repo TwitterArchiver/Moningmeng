@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008476081763090432"
+      ],
+      "media_source_tweet_id": [
+        "2008476334742532197"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2008569588351726043",
+    "created_at": "2026-01-06T16:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008569588351726043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2262723812",
+          "start": 3,
+          "username": "abskoop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gkk9c1nBWG",
+          "end": 46,
+          "expanded_url": "https://x.com/abskoop/status/2008476334742532197/photo/1",
+          "media_key": "3_2008476081763090432",
+          "start": 23,
+          "url": "https://t.co/gkk9c1nBWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008569588351726043",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008476334742532197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abskoop: It's me✌️ https://t.co/gkk9c1nBWG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2008476081763090432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-KWuFbgAARjIr.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008476081763090432"
+          ],
+          "media_source_tweet_id": [
+            "2008476334742532197"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2008569588351726043",
+        "created_at": "2026-01-06T16:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008569588351726043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2262723812",
+              "start": 3,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkk9c1nBWG",
+              "end": 46,
+              "expanded_url": "https://x.com/abskoop/status/2008476334742532197/photo/1",
+              "media_key": "3_2008476081763090432",
+              "start": 23,
+              "url": "https://t.co/gkk9c1nBWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008569588351726043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008476334742532197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abskoop: It's me✌️ https://t.co/gkk9c1nBWG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008476081763090432"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2008476334742532197",
+        "created_at": "2026-01-06T09:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008476334742532197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkk9c1nBWG",
+              "end": 33,
+              "expanded_url": "https://x.com/abskoop/status/2008476334742532197/photo/1",
+              "media_key": "3_2008476081763090432",
+              "start": 10,
+              "url": "https://t.co/gkk9c1nBWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008476334742532197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 20299,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "It's me✌️ https://t.co/gkk9c1nBWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998398490142216193/RGRpCmT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26364,
+          "following_count": 10947,
+          "like_count": 85575,
+          "listed_count": 100,
+          "media_count": 4611,
+          "tweet_count": 15899
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736818,
+          "following_count": 1197,
+          "like_count": 26098,
+          "listed_count": 2645,
+          "media_count": 23138,
+          "tweet_count": 59640
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

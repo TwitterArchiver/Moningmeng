@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2037123634557575410",
+    "created_at": "2026-03-26T11:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037123634557575410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2036316864838770688",
+          "start": 3,
+          "username": "hyoukaatsuinya"
+        },
+        {
+          "end": 47,
+          "id": "2036316864838770688",
+          "start": 32,
+          "username": "hyoukaatsuinya"
+        },
+        {
+          "end": 62,
+          "id": "1512976991976402949",
+          "start": 54,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037123634557575410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037123088555610533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyoukaatsuinya: 各位好，这里是冰棍二世（@hyoukaatsuinya ）\n上一世（@bghtnya ）因为开源pr80获取教程被永久封禁了\n这次看广告复活了，但是痛失蓝v和9kfo\n\n之前互fo的推油们，欢迎再互fo，麻烦转帖并相互告知一下，谢谢喵 h…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [bghtnya].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "bghtnya",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "bghtnya"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2037121301484363780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPB9NbYAQZWW0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2037121366076653568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPFt1bgAAVD86.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2037122023386984448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPr-gbMAA2B-t.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2037122046908674049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPtWIbsAE2rru.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2037123634557575410",
+        "created_at": "2026-03-26T11:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037123634557575410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2036316864838770688",
+              "start": 3,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 47,
+              "id": "2036316864838770688",
+              "start": 32,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 62,
+              "id": "1512976991976402949",
+              "start": 54,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123634557575410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037123088555610533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyoukaatsuinya: 各位好，这里是冰棍二世（@hyoukaatsuinya ）\n上一世（@bghtnya ）因为开源pr80获取教程被永久封禁了\n这次看广告复活了，但是痛失蓝v和9kfo\n\n之前互fo的推油们，欢迎再互fo，麻烦转帖并相互告知一下，谢谢喵 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037121301484363780",
+            "3_2037121366076653568",
+            "3_2037122023386984448",
+            "3_2037122046908674049"
+          ]
+        },
+        "author_id": "2036316864838770688",
+        "conversation_id": "2037123088555610533",
+        "created_at": "2026-03-26T11:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037123088555610533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2036316864838770688",
+              "start": 12,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 42,
+              "id": "1512976991976402949",
+              "start": 34,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037121301484363780",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            },
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037121366076653568",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            },
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037122023386984448",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            },
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037122046908674049",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123088555610533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位好，这里是冰棍二世（@hyoukaatsuinya ）\n上一世（@bghtnya ）因为开源pr80获取教程被永久封禁了\n这次看广告复活了，但是痛失蓝v和9kfo\n\n之前互fo的推油们，欢迎再互fo，麻烦转帖并相互告知一下，谢谢喵 https://t.co/sDi0AGoQId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26714,
+          "following_count": 10968,
+          "like_count": 86908,
+          "listed_count": 101,
+          "media_count": 4893,
+          "tweet_count": 16515
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T05:39:17.000Z",
+        "description": "",
+        "id": "2036316864838770688",
+        "name": "冰棍好烫喵 二世（互fo寻回）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037111119853293568/4aK5yhyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "hyoukaatsuinya",
+        "verified": false
+      }
+    ]
+  }
+}

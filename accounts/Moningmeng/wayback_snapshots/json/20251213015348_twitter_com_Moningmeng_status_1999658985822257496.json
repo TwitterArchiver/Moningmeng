@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999511323504443395",
+        "3_1999511329422602240"
+      ],
+      "media_source_tweet_id": [
+        "1999511335437238670",
+        "1999511335437238670"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999658985822257496",
+    "created_at": "2025-12-13T01:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999658985822257496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jRWvVLriE1",
+          "end": 55,
+          "expanded_url": "https://x.com/TReverie_/status/1999511335437238670/photo/1",
+          "media_key": "3_1999511323504443395",
+          "start": 32,
+          "url": "https://t.co/jRWvVLriE1"
+        },
+        {
+          "display_url": "pic.x.com/jRWvVLriE1",
+          "end": 55,
+          "expanded_url": "https://x.com/TReverie_/status/1999511335437238670/photo/1",
+          "media_key": "3_1999511329422602240",
+          "start": 32,
+          "url": "https://t.co/jRWvVLriE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999658985822257496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999511335437238670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie_: 新版QQ，增添晶哥一键上门功能！ https://t.co/jRWvVLriE1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999658985822257496].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999658985822257496",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999658985822257496"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_1999511323504443395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-w9HHagAMyvYX.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1504,
+        "media_key": "3_1999511329422602240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-w9dKacAA25F4.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999511323504443395",
+            "3_1999511329422602240"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999511335437238670",
+        "created_at": "2025-12-12T16:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999511335437238670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRWvVLriE1",
+              "end": 40,
+              "expanded_url": "https://x.com/TReverie_/status/1999511335437238670/photo/1",
+              "media_key": "3_1999511323504443395",
+              "start": 17,
+              "url": "https://t.co/jRWvVLriE1"
+            },
+            {
+              "display_url": "pic.x.com/jRWvVLriE1",
+              "end": 40,
+              "expanded_url": "https://x.com/TReverie_/status/1999511335437238670/photo/1",
+              "media_key": "3_1999511329422602240",
+              "start": 17,
+              "url": "https://t.co/jRWvVLriE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999511335437238670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6736,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "新版QQ，增添晶哥一键上门功能！ https://t.co/jRWvVLriE1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998398490142216193/RGRpCmT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25889,
+          "following_count": 10954,
+          "like_count": 85500,
+          "listed_count": 94,
+          "media_count": 4526,
+          "tweet_count": 15773
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态 | 反共的我看到一个fo一个 | Blue Archive | 反支性，支持脱支 | Stand up for yourself",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "pinned_tweet_id": "1997905916759531682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996531878183235584/x-H22fXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 815,
+          "like_count": 11813,
+          "listed_count": 26,
+          "media_count": 804,
+          "tweet_count": 3105
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

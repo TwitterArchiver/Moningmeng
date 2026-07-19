@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075422476469972992"
+      ],
+      "media_source_tweet_id": [
+        "2075422486779527564"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075944466817720643",
+    "created_at": "2026-07-11T14:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075944466817720643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVgmELYKkh",
+          "end": 44,
+          "expanded_url": "https://x.com/__fanqie__/status/2075422486779527564/photo/1",
+          "media_key": "3_2075422476469972992",
+          "start": 21,
+          "url": "https://t.co/vVgmELYKkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075944466817720643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075422486779527564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 这期神了 https://t.co/vVgmELYKkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_2075422476469972992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1hvwzasAAcNhT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075422476469972992"
+          ],
+          "media_source_tweet_id": [
+            "2075422486779527564"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075944466817720643",
+        "created_at": "2026-07-11T14:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075944466817720643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVgmELYKkh",
+              "end": 44,
+              "expanded_url": "https://x.com/__fanqie__/status/2075422486779527564/photo/1",
+              "media_key": "3_2075422476469972992",
+              "start": 21,
+              "url": "https://t.co/vVgmELYKkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075944466817720643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075422486779527564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 这期神了 https://t.co/vVgmELYKkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075422476469972992"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2075422486779527564",
+        "created_at": "2026-07-10T03:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075422486779527564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVgmELYKkh",
+              "end": 28,
+              "expanded_url": "https://x.com/__fanqie__/status/2075422486779527564/photo/1",
+              "media_key": "3_2075422476469972992",
+              "start": 5,
+              "url": "https://t.co/vVgmELYKkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075422486779527564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 108288,
+          "like_count": 829,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/vVgmELYKkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28219,
+          "following_count": 11585,
+          "like_count": 93983,
+          "listed_count": 104,
+          "media_count": 5384,
+          "tweet_count": 18760
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2073341457092780489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10511,
+          "following_count": 2795,
+          "like_count": 1601,
+          "listed_count": 23,
+          "media_count": 2160,
+          "tweet_count": 10790
+        },
+        "url": "",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2060213264794157337",
+    "created_at": "2026-05-29T04:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060213264794157337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041735253929422850",
+          "start": 3,
+          "username": "DoroDoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060213264794157337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060016351398518931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroDoge: 今天看到日文区的内容和曝光数据之后，\n\n我才知道中文区推特博主过得到底有多苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2060213264794157337",
+        "created_at": "2026-05-29T04:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060213264794157337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041735253929422850",
+              "start": 3,
+              "username": "DoroDoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060213264794157337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060016351398518931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroDoge: 今天看到日文区的内容和曝光数据之后，\n\n我才知道中文区推特博主过得到底有多苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041735253929422850",
+        "conversation_id": "2060016351398518931",
+        "created_at": "2026-05-28T15:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060016351398518931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060016351398518931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 141145,
+          "like_count": 428,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天看到日文区的内容和曝光数据之后，\n\n我才知道中文区推特博主过得到底有多苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27673,
+          "following_count": 11082,
+          "like_count": 89240,
+          "listed_count": 102,
+          "media_count": 5160,
+          "tweet_count": 17448
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T04:30:35.000Z",
+        "description": "Vibe Coding",
+        "id": "2041735253929422850",
+        "name": "DoroDoge",
+        "pinned_tweet_id": "2059118167704977457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046082643629154304/XsM-1IsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1206,
+          "like_count": 1180,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1118
+        },
+        "username": "DoroDoge",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2030257140125040879",
+    "created_at": "2026-03-07T12:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030257140125040879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030257140125040879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029950689896731066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: 如果你现在14到25岁，而你的朋友圈子里面没有讨论\n- 唐毓文假死\n​- 鹿目圆环自曝\n​- 枣桐炸号\n​- 集体喝盐\n-币圈大佬\n那么，你就需要找一个新的圈子了\n（纯抽象贴，但是中跨某圈确实抽象）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2030257140125040879",
+        "created_at": "2026-03-07T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030257140125040879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030257140125040879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029950689896731066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: 如果你现在14到25岁，而你的朋友圈子里面没有讨论\n- 唐毓文假死\n​- 鹿目圆环自曝\n​- 枣桐炸号\n​- 集体喝盐\n-币圈大佬\n那么，你就需要找一个新的圈子了\n（纯抽象贴，但是中跨某圈确实抽象）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2029950689896731066",
+        "created_at": "2026-03-06T16:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:01:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029950473902641306",
+          "2029950689896731066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029950689896731066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4161,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果你现在14到25岁，而你的朋友圈子里面没有讨论\n- 唐毓文假死\n​- 鹿目圆环自曝\n​- 枣桐炸号\n​- 集体喝盐\n-币圈大佬\n那么，你就需要找一个新的圈子了\n（纯抽象贴，但是中跨某圈确实抽象）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26842,
+          "following_count": 11017,
+          "like_count": 86853,
+          "listed_count": 102,
+          "media_count": 4820,
+          "tweet_count": 16402
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾AIart🤖meme👻 #BocchiTheRock",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 77,
+                "tag": "BocchiTheRock"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2028763979145941303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011461446195130369/v137vh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 372,
+          "like_count": 7931,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 733
+        },
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

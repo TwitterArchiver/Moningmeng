@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052288181442433025"
+      ],
+      "media_source_tweet_id": [
+        "2052288210181689428"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2052408584391332193",
+    "created_at": "2026-05-07T15:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052408584391332193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1863998472762114048",
+          "start": 3,
+          "username": "humming_hanming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abvo2hZWsJ",
+          "end": 53,
+          "expanded_url": "https://x.com/humming_hanming/status/2052288210181689428/photo/1",
+          "media_key": "3_2052288181442433025",
+          "start": 30,
+          "url": "https://t.co/abvo2hZWsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052408584391332193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052288210181689428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @humming_hanming: 好了，這下買到了 https://t.co/abvo2hZWsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052288181442433025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsxOj-b0AE7Fch.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052288181442433025"
+          ],
+          "media_source_tweet_id": [
+            "2052288210181689428"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2052408584391332193",
+        "created_at": "2026-05-07T15:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052408584391332193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1863998472762114048",
+              "start": 3,
+              "username": "humming_hanming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abvo2hZWsJ",
+              "end": 53,
+              "expanded_url": "https://x.com/humming_hanming/status/2052288210181689428/photo/1",
+              "media_key": "3_2052288181442433025",
+              "start": 30,
+              "url": "https://t.co/abvo2hZWsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052408584391332193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052288210181689428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @humming_hanming: 好了，這下買到了 https://t.co/abvo2hZWsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052288181442433025"
+          ]
+        },
+        "author_id": "1863998472762114048",
+        "conversation_id": "2052288210181689428",
+        "created_at": "2026-05-07T07:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052288210181689428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abvo2hZWsJ",
+              "end": 32,
+              "expanded_url": "https://x.com/humming_hanming/status/2052288210181689428/photo/1",
+              "media_key": "3_2052288181442433025",
+              "start": 9,
+              "url": "https://t.co/abvo2hZWsJ"
+            },
+            {
+              "display_url": "x.com/humming_hanmin…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/humming_hanming/status/2052265740343112112",
+              "start": 33,
+              "url": "https://t.co/CgzisCwKHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052288210181689428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8331,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052265740343112112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了，這下買到了 https://t.co/abvo2hZWsJ https://t.co/CgzisCwKHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27460,
+          "following_count": 11046,
+          "like_count": 87854,
+          "listed_count": 102,
+          "media_count": 5066,
+          "tweet_count": 17063
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T17:27:39.000Z",
+        "description": "Computer Science | BTW, I use Arch. 私も死ぬ系？\n大好きのいもうとは@FoxRed695449",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "FoxRed695449"
+              }
+            ]
+          }
+        },
+        "id": "1863998472762114048",
+        "name": "Humming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863998546049155072/z9NxKTny_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 260,
+          "like_count": 5321,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 734
+        },
+        "username": "humming_hanming",
+        "verified": false
+      }
+    ]
+  }
+}

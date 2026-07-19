@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060604612198182912"
+      ],
+      "media_source_tweet_id": [
+        "2062612601000047066"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2062765592369840335",
+    "created_at": "2026-06-05T05:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062765592369840335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J3qN5D9xzv",
+          "end": 49,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2062612601000047066/photo/1",
+          "media_key": "3_2060604612198182912",
+          "start": 26,
+          "url": "https://t.co/J3qN5D9xzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062765592369840335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062612601000047066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 我反正不敢😨，你呢？ https://t.co/J3qN5D9xzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_2060604612198182912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi8-iyasAAAxRh.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060604612198182912"
+          ],
+          "media_source_tweet_id": [
+            "2062612601000047066"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2062765592369840335",
+        "created_at": "2026-06-05T05:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062765592369840335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3qN5D9xzv",
+              "end": 49,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2062612601000047066/photo/1",
+              "media_key": "3_2060604612198182912",
+              "start": 26,
+              "url": "https://t.co/J3qN5D9xzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062765592369840335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062612601000047066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 我反正不敢😨，你呢？ https://t.co/J3qN5D9xzv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060604612198182912"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2062612601000047066",
+        "created_at": "2026-06-04T19:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062612601000047066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3qN5D9xzv",
+              "end": 34,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2062612601000047066/photo/1",
+              "media_key": "3_2060604612198182912",
+              "start": 11,
+              "url": "https://t.co/J3qN5D9xzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062612601000047066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4767,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我反正不敢😨，你呢？ https://t.co/J3qN5D9xzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27679,
+          "following_count": 11089,
+          "like_count": 90382,
+          "listed_count": 102,
+          "media_count": 5186,
+          "tweet_count": 17601
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8877,
+          "following_count": 2374,
+          "like_count": 31363,
+          "listed_count": 25,
+          "media_count": 1769,
+          "tweet_count": 5760
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

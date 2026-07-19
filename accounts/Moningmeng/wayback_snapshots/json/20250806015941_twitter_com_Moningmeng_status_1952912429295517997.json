@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952593032068665344"
+      ],
+      "media_source_tweet_id": [
+        "1952593038179729743"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952912429295517997",
+    "created_at": "2025-08-06T01:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952912429295517997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679788677583765505",
+          "start": 3,
+          "username": "YlYpBKkt3257198"
+        },
+        {
+          "end": 60,
+          "id": "1755188079277801472",
+          "start": 48,
+          "username": "Chzonggemin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9z82n1DrM3",
+          "end": 134,
+          "expanded_url": "https://x.com/YlYpBKkt3257198/status/1952593038179729743/photo/1",
+          "media_key": "3_1952593032068665344",
+          "start": 111,
+          "url": "https://t.co/9z82n1DrM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952912429295517997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952593038179729743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YlYpBKkt3257198: 我记得那时候我粉丝很少的时候就和他聊上天了😮‍💨😮‍💨@Chzonggemin\n朋友们宗革走了，但宗革来过，一个温和的人倒下了，但精神永存\n还有886姐姐，我会永远记得你们的🥲🥲 https://t.co/9z82n1DrM3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Chzonggemin].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chzonggemin",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Chzonggemin"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_1952593032068665344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkBBHNbEAAz7_k.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952593032068665344"
+          ],
+          "media_source_tweet_id": [
+            "1952593038179729743"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952912429295517997",
+        "created_at": "2025-08-06T01:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952912429295517997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1679788677583765505",
+              "start": 3,
+              "username": "YlYpBKkt3257198"
+            },
+            {
+              "end": 60,
+              "id": "1755188079277801472",
+              "start": 48,
+              "username": "Chzonggemin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z82n1DrM3",
+              "end": 134,
+              "expanded_url": "https://x.com/YlYpBKkt3257198/status/1952593038179729743/photo/1",
+              "media_key": "3_1952593032068665344",
+              "start": 111,
+              "url": "https://t.co/9z82n1DrM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952912429295517997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952593038179729743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YlYpBKkt3257198: 我记得那时候我粉丝很少的时候就和他聊上天了😮‍💨😮‍💨@Chzonggemin\n朋友们宗革走了，但宗革来过，一个温和的人倒下了，但精神永存\n还有886姐姐，我会永远记得你们的🥲🥲 https://t.co/9z82n1DrM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952593032068665344"
+          ]
+        },
+        "author_id": "1679788677583765505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952593038179729743",
+        "created_at": "2025-08-05T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952593038179729743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1755188079277801472",
+              "start": 27,
+              "username": "Chzonggemin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z82n1DrM3",
+              "end": 113,
+              "expanded_url": "https://x.com/YlYpBKkt3257198/status/1952593038179729743/photo/1",
+              "media_key": "3_1952593032068665344",
+              "start": 90,
+              "url": "https://t.co/9z82n1DrM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952593038179729743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7248,
+          "like_count": 99,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我记得那时候我粉丝很少的时候就和他聊上天了😮‍💨😮‍💨@Chzonggemin\n朋友们宗革走了，但宗革来过，一个温和的人倒下了，但精神永存\n还有886姐姐，我会永远记得你们的🥲🥲 https://t.co/9z82n1DrM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | mtf | 家长反对所以暂时无证不含糖 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏大使馆",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21785,
+          "following_count": 10874,
+          "like_count": 81667,
+          "listed_count": 77,
+          "media_count": 3992,
+          "tweet_count": 14784
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T09:43:50.000Z",
+        "description": "一个喜欢东叔的香港学生，东叔偶尔键政🔴太无脑的也会开喷，这号纯闲聊，分享日常，喜欢东叔的点点关注，平时喜欢写写字 画画 弹琴🫨养🐱，不是毛左（和别人聊过才知道自己理论不强 学习中）希望能cos好东叔（一般都会互fo🫡）繁／简都会写，粤／普都会说🥰🥰",
+        "id": "1679788677583765505",
+        "location": "延安",
+        "name": "毛润之 Mao Zedong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924727739220951041/hFlBgl8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 1897,
+          "like_count": 20923,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 7777
+        },
+        "username": "YlYpBKkt3257198",
+        "verified": false
+      }
+    ]
+  }
+}

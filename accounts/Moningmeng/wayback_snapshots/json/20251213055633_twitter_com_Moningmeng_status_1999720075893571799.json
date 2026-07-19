@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999488642142863363"
+      ],
+      "media_source_tweet_id": [
+        "1999488645410226627"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1999720075893571799",
+    "created_at": "2025-12-13T05:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999720075893571799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797342252068741120",
+          "start": 3,
+          "username": "lunda5201314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARsXgD8aUI",
+          "end": 72,
+          "expanded_url": "https://x.com/lunda5201314/status/1999488645410226627/photo/1",
+          "media_key": "3_1999488642142863363",
+          "start": 49,
+          "url": "https://t.co/ARsXgD8aUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999720075893571799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999488645410226627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lunda5201314: 新群有小药娘进来玩嘛🥺\n希望看到可以推一下贴子谢谢你们mua https://t.co/ARsXgD8aUI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999720075893571799].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999720075893571799",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999720075893571799"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999488642142863363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-cU4dagAM7iuG.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999488642142863363"
+          ]
+        },
+        "author_id": "1797342252068741120",
+        "conversation_id": "1999488645410226627",
+        "created_at": "2025-12-12T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999488645410226627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARsXgD8aUI",
+              "end": 54,
+              "expanded_url": "https://x.com/lunda5201314/status/1999488645410226627/photo/1",
+              "media_key": "3_1999488642142863363",
+              "start": 31,
+              "url": "https://t.co/ARsXgD8aUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999488645410226627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新群有小药娘进来玩嘛🥺\n希望看到可以推一下贴子谢谢你们mua https://t.co/ARsXgD8aUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998398490142216193/RGRpCmT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25894,
+          "following_count": 10954,
+          "like_count": 85511,
+          "listed_count": 94,
+          "media_count": 4527,
+          "tweet_count": 15775
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T18:59:31.000Z",
+        "description": "10年mtf  2025.8.15含糖🍥  小雨  lun da  苏沐瑶  身高165cm  体重48kg  老公@520TTJZ 互fo 可以直接评论或者私信我喵 想被投喂喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "520TTJZ"
+              }
+            ]
+          }
+        },
+        "id": "1797342252068741120",
+        "location": "中国新疆",
+        "name": "lun da.🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975947123855421440/pfe3qdXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 184,
+          "like_count": 48,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 343
+        },
+        "username": "lunda5201314",
+        "verified": false
+      }
+    ]
+  }
+}

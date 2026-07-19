@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2068496695839908192",
+    "created_at": "2026-06-21T00:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068496695839908192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "897421268181409792",
+          "start": 3,
+          "username": "SYdaoren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068496695839908192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1969
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067962349235978365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SYdaoren: イギリス：名誉のために死ぬ\nアメリカ：自由のために死ぬ\nフランス：愛のために死ぬ\nロシア：死ぬことになる\n日本：死にたい\n中国：生きる\n韓国：死ね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068496695839908192",
+        "created_at": "2026-06-21T00:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068496695839908192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "897421268181409792",
+              "start": 3,
+              "username": "SYdaoren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068496695839908192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1969
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067962349235978365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SYdaoren: イギリス：名誉のために死ぬ\nアメリカ：自由のために死ぬ\nフランス：愛のために死ぬ\nロシア：死ぬことになる\n日本：死にたい\n中国：生きる\n韓国：死ね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897421268181409792",
+        "conversation_id": "2067962349235978365",
+        "created_at": "2026-06-19T13:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067962349235978365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067962349235978365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2542,
+          "impression_count": 1560095,
+          "like_count": 41094,
+          "quote_count": 138,
+          "reply_count": 108,
+          "retweet_count": 1969
+        },
+        "reply_settings": "everyone",
+        "text": "イギリス：名誉のために死ぬ\nアメリカ：自由のために死ぬ\nフランス：愛のために死ぬ\nロシア：死ぬことになる\n日本：死にたい\n中国：生きる\n韓国：死ね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27730,
+          "following_count": 11094,
+          "like_count": 91492,
+          "listed_count": 102,
+          "media_count": 5248,
+          "tweet_count": 17920
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-15T11:34:38.000Z",
+        "description": "山北水南謂之陰 ‖ 菊ヨンonly🔁❌（左右相手固定）‖ 史実向 ‖ 社会民主主義 ‖ 알게 되여반갑습니다",
+        "id": "897421268181409792",
+        "location": "🌸🌺",
+        "name": "山陰산음🇯🇵🇰🇵🇰🇷🏳️‍🌈🌹🍉",
+        "pinned_tweet_id": "2067549159649947732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054466057080066048/EcItH6Ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 168,
+          "like_count": 4120,
+          "listed_count": 0,
+          "media_count": 1444,
+          "tweet_count": 13082
+        },
+        "url": "",
+        "username": "SYdaoren",
+        "verified": false
+      }
+    ]
+  }
+}

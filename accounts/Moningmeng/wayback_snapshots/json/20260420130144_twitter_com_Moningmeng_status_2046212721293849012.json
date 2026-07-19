@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2046212721293849012",
+    "created_at": "2026-04-20T13:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046212721293849012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "881184734264479747",
+          "start": 3,
+          "username": "zuoyeben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046212721293849012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045803250193227986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuoyeben: 哪个逼样的发明了“有弟弟线下吗？”\n有你妈逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2046212721293849012",
+        "created_at": "2026-04-20T13:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046212721293849012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "881184734264479747",
+              "start": 3,
+              "username": "zuoyeben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046212721293849012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045803250193227986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuoyeben: 哪个逼样的发明了“有弟弟线下吗？”\n有你妈逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881184734264479747",
+        "conversation_id": "2045803250193227986",
+        "created_at": "2026-04-19T09:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045803250193227986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045803250193227986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 609819,
+          "like_count": 3158,
+          "quote_count": 10,
+          "reply_count": 539,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "哪个逼样的发明了“有弟弟线下吗？”\n有你妈逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26873,
+          "following_count": 10950,
+          "like_count": 87341,
+          "listed_count": 100,
+          "media_count": 5004,
+          "tweet_count": 16855
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T16:16:27.000Z",
+        "description": "",
+        "id": "881184734264479747",
+        "name": "作业本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583341387214307328/ZK0ZrXby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102936,
+          "following_count": 447,
+          "like_count": 140,
+          "listed_count": 379,
+          "media_count": 340,
+          "tweet_count": 890
+        },
+        "username": "zuoyeben",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062524983063289856"
+      ],
+      "media_source_tweet_id": [
+        "2062524989828677743"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2063043749605994973",
+    "created_at": "2026-06-05T23:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063043749605994973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "311603632",
+          "start": 3,
+          "username": "wadezone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GPnZCJ1ixZ",
+          "end": 54,
+          "expanded_url": "https://x.com/wadezone/status/2062524989828677743/photo/1",
+          "media_key": "3_2062524983063289856",
+          "start": 31,
+          "url": "https://t.co/GPnZCJ1ixZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063043749605994973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062524989828677743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wadezone: 已经转发给英叔了，看他晚上怎么说 https://t.co/GPnZCJ1ixZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_2062524983063289856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-Pi1vbIAAzrXL.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062524983063289856"
+          ],
+          "media_source_tweet_id": [
+            "2062524989828677743"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2063043749605994973",
+        "created_at": "2026-06-05T23:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063043749605994973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "311603632",
+              "start": 3,
+              "username": "wadezone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPnZCJ1ixZ",
+              "end": 54,
+              "expanded_url": "https://x.com/wadezone/status/2062524989828677743/photo/1",
+              "media_key": "3_2062524983063289856",
+              "start": 31,
+              "url": "https://t.co/GPnZCJ1ixZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063043749605994973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062524989828677743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wadezone: 已经转发给英叔了，看他晚上怎么说 https://t.co/GPnZCJ1ixZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062524983063289856"
+          ]
+        },
+        "author_id": "311603632",
+        "conversation_id": "2062524989828677743",
+        "created_at": "2026-06-04T13:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062524989828677743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPnZCJ1ixZ",
+              "end": 40,
+              "expanded_url": "https://x.com/wadezone/status/2062524989828677743/photo/1",
+              "media_key": "3_2062524983063289856",
+              "start": 17,
+              "url": "https://t.co/GPnZCJ1ixZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062524989828677743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 142234,
+          "like_count": 4198,
+          "quote_count": 3,
+          "reply_count": 145,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "已经转发给英叔了，看他晚上怎么说 https://t.co/GPnZCJ1ixZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27683,
+          "following_count": 11087,
+          "like_count": 90564,
+          "listed_count": 102,
+          "media_count": 5190,
+          "tweet_count": 17627
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-05T18:46:04.000Z",
+        "description": "我是 Koda。\n\n • Facebook广告投放\n • YouTuber\n • 投放拿到过8位数结果\n • 知识付费变现超400W\n \n2026 航向：All in AI 生产力与内容。\n\n用我 10 年创业踩过的坑，替你排掉 99% 的致命错误认知\n付费咨询：500/30min  先咨询，后付费！",
+        "id": "311603632",
+        "name": "Koda",
+        "pinned_tweet_id": "2054335305734648204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049312888649928704/UsBrY6Kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17954,
+          "following_count": 255,
+          "like_count": 386,
+          "listed_count": 82,
+          "media_count": 344,
+          "tweet_count": 7922
+        },
+        "username": "wadezone",
+        "verified": true
+      }
+    ]
+  }
+}

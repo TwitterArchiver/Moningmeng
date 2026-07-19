@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2078276581932367974",
+    "created_at": "2026-07-18T00:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078276581932367974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yunmengyue/sta…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/Yunmengyue/status/2078093799113527479",
+          "start": 78,
+          "url": "https://t.co/k6uB1h5Ifs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078276581932367974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078093799113527479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算法最成功的地方就在于精准驯化，当一个群体开始主动去掉自己的身份标签，不是因为身份变了，而是因为他们知道算法不喜欢，那最后消失的就不会只是标签，是表达本身 https://t.co/k6uB1h5Ifs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2078093791035334656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbfSvCbIAAV_7E.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2078276581932367974",
+        "created_at": "2026-07-18T00:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078276581932367974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yunmengyue/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Yunmengyue/status/2078093799113527479",
+              "start": 78,
+              "url": "https://t.co/k6uB1h5Ifs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078276581932367974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078093799113527479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算法最成功的地方就在于精准驯化，当一个群体开始主动去掉自己的身份标签，不是因为身份变了，而是因为他们知道算法不喜欢，那最后消失的就不会只是标签，是表达本身 https://t.co/k6uB1h5Ifs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078093791035334656"
+          ]
+        },
+        "author_id": "1838866598427549696",
+        "conversation_id": "2078093799113527479",
+        "created_at": "2026-07-17T12:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078093799113527479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hGupsyjcc",
+              "end": 65,
+              "expanded_url": "https://x.com/Yunmengyue/status/2078093799113527479/photo/1",
+              "media_key": "3_2078093791035334656",
+              "start": 42,
+              "url": "https://t.co/8hGupsyjcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078093799113527479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2486,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "离谱了，小红书发了一条。俩小时没动静，把内容里的#mtf标签删掉，突然就来流量了。 https://t.co/8hGupsyjcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28411,
+          "following_count": 11728,
+          "like_count": 94876,
+          "listed_count": 105,
+          "media_count": 5443,
+          "tweet_count": 19021
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "🍬2025.10吃糖\n🍥2026.5开启正规hrt\n🌈已出柜 持证含糖MtF\n🎂1997年大龄跨\n✨愿自己早日变成女生",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 268,
+          "like_count": 3567,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

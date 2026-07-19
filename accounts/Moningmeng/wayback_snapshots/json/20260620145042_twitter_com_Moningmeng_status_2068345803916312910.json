@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067999810821435392"
+      ],
+      "media_source_tweet_id": [
+        "2067999820824907861"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2068345803916312910",
+    "created_at": "2026-06-20T14:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068345803916312910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835139537418567680",
+          "start": 3,
+          "username": "WellingtonPixel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZ6ZiNGxs4",
+          "end": 62,
+          "expanded_url": "https://x.com/WellingtonPixel/status/2067999820824907861/photo/1",
+          "media_key": "3_2067999810821435392",
+          "start": 39,
+          "url": "https://t.co/LZ6ZiNGxs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068345803916312910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067999820824907861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WellingtonPixel: 我没看错的话，这应该是元宝吧？？？ https://t.co/LZ6ZiNGxs4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2067999810821435392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMC3weWMAAj9HJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067999810821435392"
+          ],
+          "media_source_tweet_id": [
+            "2067999820824907861"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2068345803916312910",
+        "created_at": "2026-06-20T14:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068345803916312910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835139537418567680",
+              "start": 3,
+              "username": "WellingtonPixel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZ6ZiNGxs4",
+              "end": 62,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067999820824907861/photo/1",
+              "media_key": "3_2067999810821435392",
+              "start": 39,
+              "url": "https://t.co/LZ6ZiNGxs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068345803916312910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067999820824907861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WellingtonPixel: 我没看错的话，这应该是元宝吧？？？ https://t.co/LZ6ZiNGxs4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067999810821435392"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2067999820824907861",
+        "created_at": "2026-06-19T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067999820824907861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZ6ZiNGxs4",
+              "end": 41,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067999820824907861/photo/1",
+              "media_key": "3_2067999810821435392",
+              "start": 18,
+              "url": "https://t.co/LZ6ZiNGxs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067999820824907861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 89288,
+          "like_count": 338,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我没看错的话，这应该是元宝吧？？？ https://t.co/LZ6ZiNGxs4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 35,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 12,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27726,
+          "following_count": 11078,
+          "like_count": 91061,
+          "listed_count": 102,
+          "media_count": 5242,
+          "tweet_count": 17827
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "亟待潜入雨中去往大河以北，于西班牙的余晖下跟随博苏伯爵\n🤍@LibDems|2nd @AbsolutelyWP|3rd @KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "LibDems"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2066953660291219488/BuXO6njq65",
+                "start": 0,
+                "url": "https://t.co/w2ff5ToOvL"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2066206560251212138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067501680761942016/ppUB_nuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 3491,
+          "like_count": 22006,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 4610
+        },
+        "url": "https://t.co/w2ff5ToOvL",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

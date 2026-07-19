@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947717158823464962"
+      ],
+      "media_source_tweet_id": [
+        "1947717165869896180"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1948231935391654338",
+    "created_at": "2025-07-24T04:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T05:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948231935391654338"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "傻逼国男",
+          "probability": 0.5822,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868205822511288320",
+          "start": 3,
+          "username": "VicoOci"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QDt6pyM2Be",
+          "end": 41,
+          "expanded_url": "https://x.com/VicoOci/status/1947717165869896180/photo/1",
+          "media_key": "3_1947717158823464962",
+          "start": 18,
+          "url": "https://t.co/QDt6pyM2Be"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948231935391654338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947717165869896180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VicoOci: 傻逼国男 https://t.co/QDt6pyM2Be"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947717158823464962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gweub76bEAIWamE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947717158823464962"
+          ],
+          "media_source_tweet_id": [
+            "1947717165869896180"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1948231935391654338",
+        "created_at": "2025-07-24T04:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T05:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948231935391654338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "傻逼国男",
+              "probability": 0.5822,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868205822511288320",
+              "start": 3,
+              "username": "VicoOci"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDt6pyM2Be",
+              "end": 41,
+              "expanded_url": "https://x.com/VicoOci/status/1947717165869896180/photo/1",
+              "media_key": "3_1947717158823464962",
+              "start": 18,
+              "url": "https://t.co/QDt6pyM2Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948231935391654338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947717165869896180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VicoOci: 傻逼国男 https://t.co/QDt6pyM2Be"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947717158823464962"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "1947717165869896180",
+        "created_at": "2025-07-22T17:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947717165869896180"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "傻逼国男",
+              "probability": 0.6179,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDt6pyM2Be",
+              "end": 28,
+              "expanded_url": "https://x.com/VicoOci/status/1947717165869896180/photo/1",
+              "media_key": "3_1947717158823464962",
+              "start": 5,
+              "url": "https://t.co/QDt6pyM2Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947717165869896180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 59597,
+          "like_count": 529,
+          "quote_count": 6,
+          "reply_count": 147,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼国男 https://t.co/QDt6pyM2Be"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21637,
+          "following_count": 10862,
+          "like_count": 80408,
+          "listed_count": 75,
+          "media_count": 3936,
+          "tweet_count": 14549
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "芨芨草@fuckpregabalin /主人@Lmao_Quien /标志@5mRtist 白粥姐@HyotoChandesuyo 星酱 @whyuounot小权@freequan2025 萌豚@niceball_wuwaa 厚米@kikyo4000 @muska56368 @sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "fuckpregabalin"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "5mRtist"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "whyuounot"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "freequan2025"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "niceball_wuwaa"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "muska56368"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "sanitf1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://5mr.top",
+                "start": 0,
+                "url": "https://t.co/fRl5cZXSvJ"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "定制举牌🪧15r一次",
+        "name": "vicoOci",
+        "pinned_tweet_id": "1941144323904655732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3430,
+          "following_count": 302,
+          "like_count": 16320,
+          "listed_count": 9,
+          "media_count": 395,
+          "tweet_count": 6431
+        },
+        "url": "https://t.co/fRl5cZXSvJ",
+        "username": "VicoOci",
+        "verified": false
+      }
+    ]
+  }
+}

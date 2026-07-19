@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2075070692928930093",
+    "created_at": "2026-07-09T04:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075070692928930093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039317124053905408",
+          "start": 3,
+          "username": "SenT0rii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075070692928930093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074767777907511577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SenT0rii: 我是苹果激推 家里冰箱必须常年囤酷儿苹果汁 洗衣液苹果味的 护衣喷雾苹果味的 香薰洗面奶沐浴露护发素漱口水身体乳留香珠都是苹果味的 苹果是世界上最善良包容的水果 性温且甘甜 苹果最好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2075070692928930093",
+        "created_at": "2026-07-09T04:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075070692928930093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039317124053905408",
+              "start": 3,
+              "username": "SenT0rii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075070692928930093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074767777907511577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SenT0rii: 我是苹果激推 家里冰箱必须常年囤酷儿苹果汁 洗衣液苹果味的 护衣喷雾苹果味的 香薰洗面奶沐浴露护发素漱口水身体乳留香珠都是苹果味的 苹果是世界上最善良包容的水果 性温且甘甜 苹果最好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039317124053905408",
+        "conversation_id": "2074767777907511577",
+        "created_at": "2026-07-08T08:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074767777907511577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074767777907511577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17665,
+          "like_count": 284,
+          "quote_count": 3,
+          "reply_count": 60,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我是苹果激推 家里冰箱必须常年囤酷儿苹果汁 洗衣液苹果味的 护衣喷雾苹果味的 香薰洗面奶沐浴露护发素漱口水身体乳留香珠都是苹果味的 苹果是世界上最善良包容的水果 性温且甘甜 苹果最好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 64,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 41,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28107,
+          "following_count": 11489,
+          "like_count": 93333,
+          "listed_count": 104,
+          "media_count": 5349,
+          "tweet_count": 18602
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T12:24:12.000Z",
+        "description": "好想喝酷儿苹果汁",
+        "id": "2039317124053905408",
+        "name": "苹果",
+        "pinned_tweet_id": "2057696200615411952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318812080955392/rRXsfmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 37,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "SenT0rii",
+        "verified": false
+      }
+    ]
+  }
+}

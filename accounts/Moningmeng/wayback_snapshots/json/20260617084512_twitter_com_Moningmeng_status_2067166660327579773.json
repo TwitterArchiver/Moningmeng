@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066518940986261504"
+      ],
+      "media_source_tweet_id": [
+        "2066518977359347932"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067166660327579773",
+    "created_at": "2026-06-17T08:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067166660327579773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2oYyoXqiVp",
+          "end": 47,
+          "expanded_url": "https://x.com/youy1qwq/status/2066518977359347932/photo/1",
+          "media_key": "3_2066518940986261504",
+          "start": 24,
+          "url": "https://t.co/2oYyoXqiVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067166660327579773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066518977359347932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 我打游戏就这么想赢 https://t.co/2oYyoXqiVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2066518940986261504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3ABycaQAADILE.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066518940986261504"
+          ],
+          "media_source_tweet_id": [
+            "2066518977359347932"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067166660327579773",
+        "created_at": "2026-06-17T08:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067166660327579773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oYyoXqiVp",
+              "end": 47,
+              "expanded_url": "https://x.com/youy1qwq/status/2066518977359347932/photo/1",
+              "media_key": "3_2066518940986261504",
+              "start": 24,
+              "url": "https://t.co/2oYyoXqiVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067166660327579773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518977359347932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 我打游戏就这么想赢 https://t.co/2oYyoXqiVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066518940986261504"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066518977359347932",
+        "created_at": "2026-06-15T13:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066518977359347932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oYyoXqiVp",
+              "end": 33,
+              "expanded_url": "https://x.com/youy1qwq/status/2066518977359347932/photo/1",
+              "media_key": "3_2066518940986261504",
+              "start": 10,
+              "url": "https://t.co/2oYyoXqiVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066518977359347932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 243986,
+          "like_count": 1805,
+          "quote_count": 2,
+          "reply_count": 147,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我打游戏就这么想赢 https://t.co/2oYyoXqiVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056364445513990144/e8qLKD9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27698,
+          "following_count": 11081,
+          "like_count": 90929,
+          "listed_count": 102,
+          "media_count": 5229,
+          "tweet_count": 17739
+        },
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14740,
+          "following_count": 2130,
+          "like_count": 6149,
+          "listed_count": 25,
+          "media_count": 2066,
+          "tweet_count": 3261
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

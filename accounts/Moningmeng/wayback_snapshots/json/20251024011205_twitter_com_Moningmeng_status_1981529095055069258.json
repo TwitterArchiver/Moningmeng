@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981036954696200192"
+      ],
+      "media_source_tweet_id": [
+        "1981036956852376027"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "1981529095055069258",
+    "created_at": "2025-10-24T01:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981529095055069258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942936994738528256",
+          "start": 3,
+          "username": "pokeris_vtb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wr0b4PR1Aa",
+          "end": 58,
+          "expanded_url": "https://x.com/pokeris_vtb/status/1981036956852376027/photo/1",
+          "media_key": "3_1981036954696200192",
+          "start": 35,
+          "url": "https://t.co/Wr0b4PR1Aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981529095055069258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981036956852376027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pokeris_vtb: 我說這是5塊\n我男友一直說這是6塊 https://t.co/Wr0b4PR1Aa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 317,
+        "media_key": "3_1981036954696200192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34OnUOWsAAPNsW.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981036954696200192"
+          ],
+          "media_source_tweet_id": [
+            "1981036956852376027"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1981529095055069258",
+        "created_at": "2025-10-24T01:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981529095055069258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942936994738528256",
+              "start": 3,
+              "username": "pokeris_vtb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wr0b4PR1Aa",
+              "end": 58,
+              "expanded_url": "https://x.com/pokeris_vtb/status/1981036956852376027/photo/1",
+              "media_key": "3_1981036954696200192",
+              "start": 35,
+              "url": "https://t.co/Wr0b4PR1Aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981529095055069258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981036956852376027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pokeris_vtb: 我說這是5塊\n我男友一直說這是6塊 https://t.co/Wr0b4PR1Aa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981036954696200192"
+          ]
+        },
+        "author_id": "1942936994738528256",
+        "conversation_id": "1981036956852376027",
+        "created_at": "2025-10-22T16:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T17:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981036956852376027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wr0b4PR1Aa",
+              "end": 41,
+              "expanded_url": "https://x.com/pokeris_vtb/status/1981036956852376027/photo/1",
+              "media_key": "3_1981036954696200192",
+              "start": 18,
+              "url": "https://t.co/Wr0b4PR1Aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981036956852376027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 93200,
+          "like_count": 723,
+          "quote_count": 7,
+          "reply_count": 139,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我說這是5塊\n我男友一直說這是6塊 https://t.co/Wr0b4PR1Aa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 56,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 33,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23433,
+          "following_count": 10916,
+          "like_count": 84381,
+          "listed_count": 86,
+          "media_count": 4331,
+          "tweet_count": 15488
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T13:21:06.000Z",
+        "description": "從撲克牌中誕生的魔術師 Vtuber ！\nArt Tag：#波可繪\nCall Tag：#波可快看\n\nhttps://t.co/I7jjvSh6F1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "波可繪"
+              },
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "波可快看"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@PokerisCh.%E6…",
+                "end": 73,
+                "expanded_url": "https://www.youtube.com/@PokerisCh.%E6%B3%A2%E5%8F%AF%E8%8E%89%E7%B5%B2",
+                "start": 50,
+                "url": "https://t.co/I7jjvSh6F1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/pokeris_…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/pokeris_vtb",
+                "start": 0,
+                "url": "https://t.co/QmHTSsINEU"
+              }
+            ]
+          }
+        },
+        "id": "1942936994738528256",
+        "location": "pokeris.vtb@gmail.com",
+        "name": "波可莉絲🎲魔術師Vtuber 9/24初配信！",
+        "pinned_tweet_id": "1981223630727237993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975677337581854720/oKhsW4Js_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 459,
+          "like_count": 691,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/QmHTSsINEU",
+        "username": "pokeris_vtb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2053269401877803156",
+    "created_at": "2026-05-10T00:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053269401877803156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1776142720056385537",
+          "start": 3,
+          "username": "Zhmgws19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053269401877803156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053119937879953429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhmgws19120101: 中共什麼的,最討厭了🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2053269401877803156",
+        "created_at": "2026-05-10T00:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053269401877803156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1776142720056385537",
+              "start": 3,
+              "username": "Zhmgws19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053269401877803156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053119937879953429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhmgws19120101: 中共什麼的,最討厭了🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "conversation_id": "2053119937879953429",
+        "created_at": "2026-05-09T14:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053119937879953429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053119937879953429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1302,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中共什麼的,最討厭了🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 35,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 12,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "2052718874852983034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27497,
+          "following_count": 11055,
+          "like_count": 88140,
+          "listed_count": 102,
+          "media_count": 5076,
+          "tweet_count": 17118
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051937451447648256/aSXNd7Z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 148,
+          "like_count": 9291,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 3074
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

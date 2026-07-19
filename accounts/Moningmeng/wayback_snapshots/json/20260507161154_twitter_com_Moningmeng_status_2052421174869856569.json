@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052110427962884096"
+      ],
+      "media_source_tweet_id": [
+        "2052131288874951103"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2052421174869856569",
+    "created_at": "2026-05-07T16:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052421174869856569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764195010986274816",
+          "start": 3,
+          "username": "CCA8798"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Uxf5G2zyJ",
+          "end": 50,
+          "expanded_url": "https://x.com/CCA8798/status/2052131288874951103/photo/1",
+          "media_key": "3_2052110427962884096",
+          "start": 27,
+          "url": "https://t.co/6Uxf5G2zyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052421174869856569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052131288874951103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798: 【定时】\n请选择你的捍卫者 https://t.co/6Uxf5G2zyJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2369,
+        "media_key": "3_2052110427962884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqPj8qaQAACfXQ.jpg",
+        "width": 3157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052110427962884096"
+          ],
+          "media_source_tweet_id": [
+            "2052131288874951103"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2052421174869856569",
+        "created_at": "2026-05-07T16:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052421174869856569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764195010986274816",
+              "start": 3,
+              "username": "CCA8798"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Uxf5G2zyJ",
+              "end": 50,
+              "expanded_url": "https://x.com/CCA8798/status/2052131288874951103/photo/1",
+              "media_key": "3_2052110427962884096",
+              "start": 27,
+              "url": "https://t.co/6Uxf5G2zyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052421174869856569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052131288874951103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798: 【定时】\n请选择你的捍卫者 https://t.co/6Uxf5G2zyJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052110427962884096"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2052131288874951103",
+        "created_at": "2026-05-06T21:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052131288874951103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Uxf5G2zyJ",
+              "end": 37,
+              "expanded_url": "https://x.com/CCA8798/status/2052131288874951103/photo/1",
+              "media_key": "3_2052110427962884096",
+              "start": 14,
+              "url": "https://t.co/6Uxf5G2zyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052131288874951103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 864,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【定时】\n请选择你的捍卫者 https://t.co/6Uxf5G2zyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052415806060052480/oqEnMFHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27460,
+          "following_count": 11048,
+          "like_count": 87888,
+          "listed_count": 102,
+          "media_count": 5066,
+          "tweet_count": 17069
+        },
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 165cm/41kg | 佛山 | 玻璃心 双相+重抑中焦不OD 好说话 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder\n可寄拍/扩列🤓\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(出柜成功版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1053,
+          "like_count": 14435,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

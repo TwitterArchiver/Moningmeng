@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975230260040916992",
+        "3_1975230261122973696"
+      ],
+      "media_source_tweet_id": [
+        "1975230265371873440",
+        "1975230265371873440"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975502311192690713",
+    "created_at": "2025-10-07T10:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975502311192690713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550811468009963521",
+          "start": 3,
+          "username": "zhi_cheng233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dTFODSyITA",
+          "end": 44,
+          "expanded_url": "https://x.com/zhi_cheng233/status/1975230265371873440/photo/1",
+          "media_key": "3_1975230260040916992",
+          "start": 21,
+          "url": "https://t.co/dTFODSyITA"
+        },
+        {
+          "display_url": "pic.x.com/dTFODSyITA",
+          "end": 44,
+          "expanded_url": "https://x.com/zhi_cheng233/status/1975230265371873440/photo/1",
+          "media_key": "3_1975230261122973696",
+          "start": 21,
+          "url": "https://t.co/dTFODSyITA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975502311192690713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975230265371873440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhi_cheng233: 哇😯 https://t.co/dTFODSyITA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1975230260040916992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ltdM9XYAAfMl4.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1975230261122973696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ltdQ_WQAAGbmV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975230260040916992",
+            "3_1975230261122973696"
+          ],
+          "media_source_tweet_id": [
+            "1975230265371873440",
+            "1975230265371873440"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975502311192690713",
+        "created_at": "2025-10-07T10:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975502311192690713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550811468009963521",
+              "start": 3,
+              "username": "zhi_cheng233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTFODSyITA",
+              "end": 44,
+              "expanded_url": "https://x.com/zhi_cheng233/status/1975230265371873440/photo/1",
+              "media_key": "3_1975230260040916992",
+              "start": 21,
+              "url": "https://t.co/dTFODSyITA"
+            },
+            {
+              "display_url": "pic.x.com/dTFODSyITA",
+              "end": 44,
+              "expanded_url": "https://x.com/zhi_cheng233/status/1975230265371873440/photo/1",
+              "media_key": "3_1975230261122973696",
+              "start": 21,
+              "url": "https://t.co/dTFODSyITA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975502311192690713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975230265371873440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhi_cheng233: 哇😯 https://t.co/dTFODSyITA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975230260040916992",
+            "3_1975230261122973696"
+          ]
+        },
+        "author_id": "1550811468009963521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975230265371873440",
+        "created_at": "2025-10-06T16:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975230265371873440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTFODSyITA",
+              "end": 26,
+              "expanded_url": "https://x.com/zhi_cheng233/status/1975230265371873440/photo/1",
+              "media_key": "3_1975230260040916992",
+              "start": 3,
+              "url": "https://t.co/dTFODSyITA"
+            },
+            {
+              "display_url": "pic.x.com/dTFODSyITA",
+              "end": 26,
+              "expanded_url": "https://x.com/zhi_cheng233/status/1975230265371873440/photo/1",
+              "media_key": "3_1975230261122973696",
+              "start": 3,
+              "url": "https://t.co/dTFODSyITA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975230265371873440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6017,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇😯 https://t.co/dTFODSyITA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23128,
+          "following_count": 10916,
+          "like_count": 84272,
+          "listed_count": 84,
+          "media_count": 4266,
+          "tweet_count": 15405
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年MTF/炸柜家暴党/INFP-T/OIer预备役/后端Java开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4NLJQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 142,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 119,
+                "url": "https://t.co/1UTMj4NLJQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 中山 IP归属:CLOUDFLARE",
+        "name": "志成🍥",
+        "pinned_tweet_id": "1934498789944902108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786366651379671040/95vguh8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 772,
+          "like_count": 6087,
+          "listed_count": 3,
+          "media_count": 386,
+          "tweet_count": 2831
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": false
+      }
+    ]
+  }
+}
