@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078169989706870784"
+      ],
+      "media_source_tweet_id": [
+        "2078172773923574138"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2078334066760577170",
+    "created_at": "2026-07-18T04:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078334066760577170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068365590998499328",
+          "start": 3,
+          "username": "enhao245"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M7Ov3gpiSk",
+          "end": 78,
+          "expanded_url": "https://x.com/enhao245/status/2078172773923574138/photo/1",
+          "media_key": "3_2078169989706870784",
+          "start": 55,
+          "url": "https://t.co/M7Ov3gpiSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078334066760577170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078172773923574138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enhao245: 妈妈从小教我男子汉大丈夫\n学了日语才发现：\n原来同款汉字只是「男孩子也没关系」啦 https://t.co/M7Ov3gpiSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2078169989706870784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNckmFNa8AALLT5.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078169989706870784"
+          ]
+        },
+        "author_id": "2068365590998499328",
+        "conversation_id": "2078172773923574138",
+        "created_at": "2026-07-17T17:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078172773923574138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7Ov3gpiSk",
+              "end": 64,
+              "expanded_url": "https://x.com/enhao245/status/2078172773923574138/photo/1",
+              "media_key": "3_2078169989706870784",
+              "start": 41,
+              "url": "https://t.co/M7Ov3gpiSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078172773923574138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1268,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈从小教我男子汉大丈夫\n学了日语才发现：\n原来同款汉字只是「男孩子也没关系」啦 https://t.co/M7Ov3gpiSk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078169989706870784"
+          ],
+          "media_source_tweet_id": [
+            "2078172773923574138"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2078334066760577170",
+        "created_at": "2026-07-18T04:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078334066760577170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068365590998499328",
+              "start": 3,
+              "username": "enhao245"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7Ov3gpiSk",
+              "end": 78,
+              "expanded_url": "https://x.com/enhao245/status/2078172773923574138/photo/1",
+              "media_key": "3_2078169989706870784",
+              "start": 55,
+              "url": "https://t.co/M7Ov3gpiSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078334066760577170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078172773923574138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enhao245: 妈妈从小教我男子汉大丈夫\n学了日语才发现：\n原来同款汉字只是「男孩子也没关系」啦 https://t.co/M7Ov3gpiSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28436,
+          "following_count": 11802,
+          "like_count": 95058,
+          "listed_count": 105,
+          "media_count": 5451,
+          "tweet_count": 19089
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-20T16:11:11.000Z",
+        "description": "08后男生 | 性格挺好吧🤤\n学日语ing✨\n超级喜欢日漫和纯音乐\n日常分享 | 有时会发涩涩\n欢迎找我聊天交友～ 🇨🇳🇹🇼🇯🇵\n同好扩列​ | 互fo交流喵",
+        "id": "2068365590998499328",
+        "name": "鱼酱あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072330198436163584/AsbwMDZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "enhao245",
+        "verified": false
+      }
+    ]
+  }
+}

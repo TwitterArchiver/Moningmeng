@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084842035870343168"
+      ],
+      "media_source_tweet_id": [
+        "2084842042187039171"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2084922959777718581",
+    "created_at": "2026-08-05T08:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084922959777718581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GAS4csFxiw",
+          "end": 61,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2084842042187039171/photo/1",
+          "media_key": "3_2084842035870343168",
+          "start": 38,
+          "url": "https://t.co/GAS4csFxiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084922959777718581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084842042187039171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 谁不想急头白脸的跑个第一领个山地车😁 https://t.co/GAS4csFxiw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084842035870343168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7YySDaoAAq2DC.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084842035870343168"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2084842042187039171",
+        "created_at": "2026-08-05T03:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084842042187039171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAS4csFxiw",
+              "end": 42,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2084842042187039171/photo/1",
+              "media_key": "3_2084842035870343168",
+              "start": 19,
+              "url": "https://t.co/GAS4csFxiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084842042187039171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 45130,
+          "like_count": 598,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想急头白脸的跑个第一领个山地车😁 https://t.co/GAS4csFxiw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084842035870343168"
+          ],
+          "media_source_tweet_id": [
+            "2084842042187039171"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2084922959777718581",
+        "created_at": "2026-08-05T08:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084922959777718581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAS4csFxiw",
+              "end": 61,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2084842042187039171/photo/1",
+              "media_key": "3_2084842035870343168",
+              "start": 38,
+              "url": "https://t.co/GAS4csFxiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084922959777718581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084842042187039171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 谁不想急头白脸的跑个第一领个山地车😁 https://t.co/GAS4csFxiw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29351,
+          "following_count": 12209,
+          "like_count": 96813,
+          "listed_count": 104,
+          "media_count": 5610,
+          "tweet_count": 19919
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97460,
+          "following_count": 2438,
+          "like_count": 7662,
+          "listed_count": 202,
+          "media_count": 671,
+          "tweet_count": 4239
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

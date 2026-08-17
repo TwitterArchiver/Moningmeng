@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080150657655615488",
+        "3_2080150662751674368"
+      ],
+      "media_source_tweet_id": [
+        "2080152145815572700",
+        "2080152145815572700"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080484204757049349",
+    "created_at": "2026-07-24T02:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080484204757049349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1672761170040692739",
+          "start": 3,
+          "username": "FrankkkkkkLau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRtejtuasr",
+          "end": 70,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+          "media_key": "3_2080150657655615488",
+          "start": 47,
+          "url": "https://t.co/IRtejtuasr"
+        },
+        {
+          "display_url": "pic.x.com/IRtejtuasr",
+          "end": 70,
+          "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+          "media_key": "3_2080150662751674368",
+          "start": 47,
+          "url": "https://t.co/IRtejtuasr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080484204757049349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080152145815572700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @FrankkkkkkLau: 难绷运营商dns把我朋友家宽建的站劫持到神必诈骗网站了 https://t.co/IRtejtuasr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 237,
+        "media_key": "3_2080150657655615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4uAITbsAA_Atz.png",
+        "width": 1374
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2080150662751674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4uAbSbYAAvnC7.jpg",
+        "width": 2579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080150657655615488",
+            "3_2080150662751674368"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2080152145815572700",
+        "created_at": "2026-07-23T04:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080152145815572700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150657655615488",
+              "start": 28,
+              "url": "https://t.co/IRtejtuasr"
+            },
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 51,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150662751674368",
+              "start": 28,
+              "url": "https://t.co/IRtejtuasr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080152145815572700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15289,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "难绷运营商dns把我朋友家宽建的站劫持到神必诈骗网站了 https://t.co/IRtejtuasr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080150657655615488",
+            "3_2080150662751674368"
+          ],
+          "media_source_tweet_id": [
+            "2080152145815572700",
+            "2080152145815572700"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080484204757049349",
+        "created_at": "2026-07-24T02:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080484204757049349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1672761170040692739",
+              "start": 3,
+              "username": "FrankkkkkkLau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 70,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150657655615488",
+              "start": 47,
+              "url": "https://t.co/IRtejtuasr"
+            },
+            {
+              "display_url": "pic.x.com/IRtejtuasr",
+              "end": 70,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2080152145815572700/photo/1",
+              "media_key": "3_2080150662751674368",
+              "start": 47,
+              "url": "https://t.co/IRtejtuasr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080484204757049349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080152145815572700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @FrankkkkkkLau: 难绷运营商dns把我朋友家宽建的站劫持到神必诈骗网站了 https://t.co/IRtejtuasr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28746,
+          "following_count": 11981,
+          "like_count": 95971,
+          "listed_count": 105,
+          "media_count": 5508,
+          "tweet_count": 19416
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "1.0.0.1",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 790,
+          "like_count": 9160,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

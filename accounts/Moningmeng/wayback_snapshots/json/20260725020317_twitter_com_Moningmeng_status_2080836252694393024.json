@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080481386860003328"
+      ],
+      "media_source_tweet_id": [
+        "2080481416614391951"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080836252694393024",
+    "created_at": "2026-07-25T02:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080836252694393024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682303195832360960",
+          "start": 3,
+          "username": "ffynya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hjgTutdWqm",
+          "end": 43,
+          "expanded_url": "https://x.com/ffynya/status/2080481416614391951/photo/1",
+          "media_key": "3_2080481386860003328",
+          "start": 20,
+          "url": "https://t.co/hjgTutdWqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080836252694393024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080481416614391951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffynya: 怎么还上瘾了🥵 https://t.co/hjgTutdWqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_2080481386860003328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9azGmaQAA6ZqB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080481386860003328"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2080481416614391951",
+        "created_at": "2026-07-24T02:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080481416614391951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjgTutdWqm",
+              "end": 31,
+              "expanded_url": "https://x.com/ffynya/status/2080481416614391951/photo/1",
+              "media_key": "3_2080481386860003328",
+              "start": 8,
+              "url": "https://t.co/hjgTutdWqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080481416614391951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 107846,
+          "like_count": 1867,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "怎么还上瘾了🥵 https://t.co/hjgTutdWqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080481386860003328"
+          ],
+          "media_source_tweet_id": [
+            "2080481416614391951"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080836252694393024",
+        "created_at": "2026-07-25T02:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080836252694393024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682303195832360960",
+              "start": 3,
+              "username": "ffynya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjgTutdWqm",
+              "end": 43,
+              "expanded_url": "https://x.com/ffynya/status/2080481416614391951/photo/1",
+              "media_key": "3_2080481386860003328",
+              "start": 20,
+              "url": "https://t.co/hjgTutdWqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080836252694393024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080481416614391951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffynya: 怎么还上瘾了🥵 https://t.co/hjgTutdWqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28811,
+          "following_count": 12043,
+          "like_count": 96354,
+          "listed_count": 105,
+          "media_count": 5530,
+          "tweet_count": 19544
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜游戏｜动画｜友跨🏳️‍⚧️｜人道主义者｜互关｜不od｜不改花刀｜心理正常｜170cm 50kg｜聊天可以推特私信哦～🥰｜🇭🇰🇨🇳🇯🇵🍥",
+        "id": "1682303195832360960",
+        "location": "地球",
+        "name": "🫥ffy喵🫥🇭🇰🇨🇳🇯🇵互fo",
+        "pinned_tweet_id": "2080251790172504204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 241,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

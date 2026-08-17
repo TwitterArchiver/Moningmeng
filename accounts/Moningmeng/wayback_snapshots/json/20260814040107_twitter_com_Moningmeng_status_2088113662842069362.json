@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2088113662842069362",
+    "created_at": "2026-08-14T04:01:07.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088113662842069362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2057338377758760960",
+          "start": 3,
+          "username": "melissa58zx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088113662842069362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087932050825478182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @melissa58zx7: 我第一次玩推特是2023年，中途因为学习原因没时间登录就卸载了，我记得当时每日大赛非常火，但现在为什么搜索不到这种了？是推特开始禁簧了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2088113662842069362",
+        "created_at": "2026-08-14T04:01:07.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088113662842069362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2057338377758760960",
+              "start": 3,
+              "username": "melissa58zx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088113662842069362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087932050825478182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @melissa58zx7: 我第一次玩推特是2023年，中途因为学习原因没时间登录就卸载了，我记得当时每日大赛非常火，但现在为什么搜索不到这种了？是推特开始禁簧了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057338377758760960",
+        "conversation_id": "2087932050825478182",
+        "created_at": "2026-08-13T15:59:27.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087932050825478182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087932050825478182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24481,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次玩推特是2023年，中途因为学习原因没时间登录就卸载了，我记得当时每日大赛非常火，但现在为什么搜索不到这种了？是推特开始禁簧了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2088113662842069362",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29485,
+          "following_count": 12255,
+          "like_count": 97812,
+          "listed_count": 104,
+          "media_count": 5670,
+          "tweet_count": 20203
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T05:51:20.000Z",
+        "description": "天蝎座，一枚喜欢吃遍天下美味的美食公主，我是走读生，放学会看手机哒",
+        "id": "2057338377758760960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088101587537592567",
+        "name": "小慧有点美",
+        "pinned_tweet_id": "2087451032423186881",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086980194930487297/fF7AnOqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "melissa58zx7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

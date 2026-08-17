@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2078315952027140372",
+    "created_at": "2026-07-18T03:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078315952027140372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586555703732289536",
+          "start": 3,
+          "username": "lan2984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078315952027140372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078142677137477950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lan2984: 为什么女孩子之间可以牵手 拥抱\n别人看到也不会说什么\n男孩子就不行\n为什么哇QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2078315952027140372",
+        "created_at": "2026-07-18T03:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078315952027140372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586555703732289536",
+              "start": 3,
+              "username": "lan2984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078315952027140372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078142677137477950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lan2984: 为什么女孩子之间可以牵手 拥抱\n别人看到也不会说什么\n男孩子就不行\n为什么哇QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586555703732289536",
+        "conversation_id": "2078142677137477950",
+        "created_at": "2026-07-17T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078142677137477950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078142677137477950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3110,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么女孩子之间可以牵手 拥抱\n别人看到也不会说什么\n男孩子就不行\n为什么哇QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28429,
+          "following_count": 11784,
+          "like_count": 94972,
+          "listed_count": 105,
+          "media_count": 5450,
+          "tweet_count": 19066
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T03:09:17.000Z",
+        "description": "初三185cm72kg\n 吉林延边 热爱MC、航拍、IT  工蜂一位~\n2026/5/17       好姐妹 情侣 @DrKiChan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "DrKiChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lan2984.xyz",
+                "end": 23,
+                "expanded_url": "http://www.lan2984.xyz",
+                "start": 0,
+                "url": "https://t.co/EQtvi75HCo"
+              }
+            ]
+          }
+        },
+        "id": "1586555703732289536",
+        "name": "lan2984🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058908165673295872/jQs1jHG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 172,
+          "like_count": 741,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/EQtvi75HCo",
+        "username": "lan2984",
+        "verified": true
+      }
+    ]
+  }
+}

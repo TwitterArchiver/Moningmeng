@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083045665559732473",
+    "created_at": "2026-07-31T04:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083045665559732473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2025288475206189056",
+          "start": 3,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083045665559732473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082844052379365385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mi0599458659662: 傻逼吧，我好奇qq被挡访客是谁，买了个QQ会员，点开发现特么是我小号。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083045665559732473",
+        "created_at": "2026-07-31T04:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083045665559732473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2025288475206189056",
+              "start": 3,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083045665559732473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082844052379365385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mi0599458659662: 傻逼吧，我好奇qq被挡访客是谁，买了个QQ会员，点开发现特么是我小号。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2082844052379365385",
+        "created_at": "2026-07-30T15:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082844052379365385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082844052379365385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 62906,
+          "like_count": 702,
+          "quote_count": 1,
+          "reply_count": 121,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼吧，我好奇qq被挡访客是谁，买了个QQ会员，点开发现特么是我小号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29196,
+          "following_count": 12127,
+          "like_count": 96616,
+          "listed_count": 104,
+          "media_count": 5572,
+          "tweet_count": 19744
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "location": "14250km",
+        "name": "T . T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767484260659200/gTCWASzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 6,
+          "like_count": 1766,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2082373264903712829",
+    "created_at": "2026-07-29T07:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082373264903712829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845674780416208897",
+          "start": 3,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082373264903712829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082248470619152489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulingyo: 今天是真的最难受的一天 和对象吵架了 又被一个药娘群踢了 外面还一直下雨 眼镜还掉床底了 下面还一直在痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2082373264903712829",
+        "created_at": "2026-07-29T07:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082373264903712829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845674780416208897",
+              "start": 3,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082373264903712829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082248470619152489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulingyo: 今天是真的最难受的一天 和对象吵架了 又被一个药娘群踢了 外面还一直下雨 眼镜还掉床底了 下面还一直在痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2082248470619152489",
+        "created_at": "2026-07-28T23:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082248470619152489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082248470619152489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5034,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是真的最难受的一天 和对象吵架了 又被一个药娘群踢了 外面还一直下雨 眼镜还掉床底了 下面还一直在痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28884,
+          "following_count": 12099,
+          "like_count": 96549,
+          "listed_count": 104,
+          "media_count": 5559,
+          "tweet_count": 19684
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "ts/已切蛋/mtf/19/1.75m/55kg/size38/已炸柜/hrt🍥2024.10/抖：00000eeo/cp：@GanYuluo 🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "📍浙",
+        "name": "悠悠ちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2079982900393722069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076546801872859136/vABM-TJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 1081,
+          "like_count": 4323,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false
+      }
+    ]
+  }
+}

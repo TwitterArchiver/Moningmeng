@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084221116152004608"
+      ],
+      "media_source_tweet_id": [
+        "2084221124389527663"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084783476956594287",
+    "created_at": "2026-08-04T23:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084783476956594287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "zhwevea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SLi1589wHN",
+          "end": 36,
+          "expanded_url": "https://x.com/zhwevea/status/2084221124389527663/photo/1",
+          "media_key": "3_2084221116152004608",
+          "start": 13,
+          "url": "https://t.co/SLi1589wHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084783476956594287",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084221124389527663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhwevea: https://t.co/SLi1589wHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1651,
+        "media_key": "3_2084221116152004608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOykD_2bwAApCxv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084221116152004608"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084221124389527663",
+        "created_at": "2026-08-03T10:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084221124389527663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLi1589wHN",
+              "end": 23,
+              "expanded_url": "https://x.com/zhwevea/status/2084221124389527663/photo/1",
+              "media_key": "3_2084221116152004608",
+              "start": 0,
+              "url": "https://t.co/SLi1589wHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084221124389527663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 159714,
+          "like_count": 1614,
+          "quote_count": 9,
+          "reply_count": 71,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SLi1589wHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084221116152004608"
+          ],
+          "media_source_tweet_id": [
+            "2084221124389527663"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084783476956594287",
+        "created_at": "2026-08-04T23:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084783476956594287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "zhwevea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLi1589wHN",
+              "end": 36,
+              "expanded_url": "https://x.com/zhwevea/status/2084221124389527663/photo/1",
+              "media_key": "3_2084221116152004608",
+              "start": 13,
+              "url": "https://t.co/SLi1589wHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084783476956594287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084221124389527663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhwevea: https://t.co/SLi1589wHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29335,
+          "following_count": 12165,
+          "like_count": 96755,
+          "listed_count": 104,
+          "media_count": 5599,
+          "tweet_count": 19872
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7720,
+          "following_count": 437,
+          "like_count": 33600,
+          "listed_count": 25,
+          "media_count": 2724,
+          "tweet_count": 21111
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

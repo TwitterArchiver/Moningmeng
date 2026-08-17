@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083066862292877312"
+      ],
+      "media_source_tweet_id": [
+        "2083066869368635518"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083181730903810143",
+    "created_at": "2026-07-31T13:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083181730903810143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxqiTx4xri",
+          "end": 66,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2083066869368635518/photo/1",
+          "media_key": "3_2083066862292877312",
+          "start": 43,
+          "url": "https://t.co/nxqiTx4xri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083181730903810143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083066869368635518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 在企鹅的眼中，我们人类又何尝不是一种福瑞呢🤔 https://t.co/nxqiTx4xri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2083066862292877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiKRlJawAAZ0eN.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083066862292877312"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2083066869368635518",
+        "created_at": "2026-07-31T05:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083066869368635518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxqiTx4xri",
+              "end": 46,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2083066869368635518/photo/1",
+              "media_key": "3_2083066862292877312",
+              "start": 23,
+              "url": "https://t.co/nxqiTx4xri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083066869368635518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9781,
+          "like_count": 402,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在企鹅的眼中，我们人类又何尝不是一种福瑞呢🤔 https://t.co/nxqiTx4xri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083066862292877312"
+          ],
+          "media_source_tweet_id": [
+            "2083066869368635518"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083181730903810143",
+        "created_at": "2026-07-31T13:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083181730903810143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxqiTx4xri",
+              "end": 66,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2083066869368635518/photo/1",
+              "media_key": "3_2083066862292877312",
+              "start": 43,
+              "url": "https://t.co/nxqiTx4xri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083181730903810143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083066869368635518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 在企鹅的眼中，我们人类又何尝不是一种福瑞呢🤔 https://t.co/nxqiTx4xri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29246,
+          "following_count": 12136,
+          "like_count": 96675,
+          "listed_count": 104,
+          "media_count": 5577,
+          "tweet_count": 19779
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12613,
+          "following_count": 879,
+          "like_count": 32178,
+          "listed_count": 21,
+          "media_count": 2355,
+          "tweet_count": 11340
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

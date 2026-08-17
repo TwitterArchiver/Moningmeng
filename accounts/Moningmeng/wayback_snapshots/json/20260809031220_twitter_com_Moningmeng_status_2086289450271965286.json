@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2085984117838274574",
+    "created_at": "2026-08-09T03:12:20.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086289450271965286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2868822726",
+          "start": 0,
+          "username": "wjl51sw007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086289450271965286",
+    "in_reply_to_user_id": "2868822726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086255065430712749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjl51sw007 我还真去买了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2085984117838274574",
+        "created_at": "2026-08-09T03:12:20.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086289450271965286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2868822726",
+              "start": 0,
+              "username": "wjl51sw007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086289450271965286",
+        "in_reply_to_user_id": "2868822726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086255065430712749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjl51sw007 我还真去买了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2868822726",
+        "conversation_id": "2085984117838274574",
+        "created_at": "2026-08-09T00:55:43.000Z",
+        "display_text_range": [
+          12,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T01:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086255065430712749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086255065430712749",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085984117838274574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 会买谷歌手机的人，怎么可能线下去买手机壳？？？这种故事编的都是够弱智的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2086289450271965286",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086057688501526528/rx19B0NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29437,
+          "following_count": 12271,
+          "like_count": 97283,
+          "listed_count": 104,
+          "media_count": 5639,
+          "tweet_count": 20093
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-21T12:12:21.000Z",
+        "description": "",
+        "id": "2868822726",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086255607850639534",
+        "name": "Nelson",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2868822726/1683297579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582966579150479361/smIZ6T_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 350,
+          "like_count": 52498,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2151
+        },
+        "url": "",
+        "username": "wjl51sw007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

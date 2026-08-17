@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082081702697115648"
+      ],
+      "media_source_tweet_id": [
+        "2082081779352297765"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2082373460240503224",
+    "created_at": "2026-07-29T07:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082373460240503224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1528798633168347137",
+          "start": 3,
+          "username": "TomoriNao2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y5vQhrzH9A",
+          "end": 57,
+          "expanded_url": "https://x.com/TomoriNao2022/status/2082081779352297765/photo/1",
+          "media_key": "3_2082081702697115648",
+          "start": 34,
+          "url": "https://t.co/y5vQhrzH9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082373460240503224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082081779352297765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TomoriNao2022: 这弹幕我不用开都知道在说什么 https://t.co/y5vQhrzH9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2082081702697115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUKRvqaIAAhFPw.png",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082081702697115648"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2082081779352297765",
+        "created_at": "2026-07-28T12:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082081779352297765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5vQhrzH9A",
+              "end": 38,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2082081779352297765/photo/1",
+              "media_key": "3_2082081702697115648",
+              "start": 15,
+              "url": "https://t.co/y5vQhrzH9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082081779352297765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 165760,
+          "like_count": 1222,
+          "quote_count": 6,
+          "reply_count": 187,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这弹幕我不用开都知道在说什么 https://t.co/y5vQhrzH9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082081702697115648"
+          ],
+          "media_source_tweet_id": [
+            "2082081779352297765"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2082373460240503224",
+        "created_at": "2026-07-29T07:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082373460240503224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1528798633168347137",
+              "start": 3,
+              "username": "TomoriNao2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5vQhrzH9A",
+              "end": 57,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2082081779352297765/photo/1",
+              "media_key": "3_2082081702697115648",
+              "start": 34,
+              "url": "https://t.co/y5vQhrzH9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082373460240503224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082081779352297765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TomoriNao2022: 这弹幕我不用开都知道在说什么 https://t.co/y5vQhrzH9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28884,
+          "following_count": 12099,
+          "like_count": 96556,
+          "listed_count": 104,
+          "media_count": 5559,
+          "tweet_count": 19688
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEliU0\ndiscord：https://t.co/g6evdifySc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEliU0"
+              },
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 80,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 57,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 23,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 0,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2078866714859860030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17536,
+          "following_count": 948,
+          "like_count": 11437,
+          "listed_count": 64,
+          "media_count": 2715,
+          "tweet_count": 11062
+        },
+        "url": "https://t.co/g6evdifySc",
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079575574205607936"
+      ],
+      "media_source_tweet_id": [
+        "2079575581990252672"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079818143061737975",
+    "created_at": "2026-07-22T06:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079818143061737975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2028748832973189120",
+          "start": 3,
+          "username": "D2r6hkpBzZ52541"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAPYGTc4Dc",
+          "end": 62,
+          "expanded_url": "https://x.com/D2r6hkpBzZ52541/status/2079575581990252672/photo/1",
+          "media_key": "3_2079575574205607936",
+          "start": 39,
+          "url": "https://t.co/wAPYGTc4Dc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079818143061737975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079575581990252672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @D2r6hkpBzZ52541: 本人的测试结果，难道我要成男娘了吗 https://t.co/wAPYGTc4Dc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079575574205607936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwi93gasAAnmmm.jpg",
+        "width": 395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079575574205607936"
+          ]
+        },
+        "author_id": "2028748832973189120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079575581990252672",
+        "created_at": "2026-07-21T14:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079575581990252672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAPYGTc4Dc",
+              "end": 41,
+              "expanded_url": "https://x.com/D2r6hkpBzZ52541/status/2079575581990252672/photo/1",
+              "media_key": "3_2079575574205607936",
+              "start": 18,
+              "url": "https://t.co/wAPYGTc4Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079575581990252672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1955,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本人的测试结果，难道我要成男娘了吗 https://t.co/wAPYGTc4Dc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079575574205607936"
+          ],
+          "media_source_tweet_id": [
+            "2079575581990252672"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079818143061737975",
+        "created_at": "2026-07-22T06:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079818143061737975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2028748832973189120",
+              "start": 3,
+              "username": "D2r6hkpBzZ52541"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAPYGTc4Dc",
+              "end": 62,
+              "expanded_url": "https://x.com/D2r6hkpBzZ52541/status/2079575581990252672/photo/1",
+              "media_key": "3_2079575574205607936",
+              "start": 39,
+              "url": "https://t.co/wAPYGTc4Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079818143061737975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079575581990252672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @D2r6hkpBzZ52541: 本人的测试结果，难道我要成男娘了吗 https://t.co/wAPYGTc4Dc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28656,
+          "following_count": 11919,
+          "like_count": 95548,
+          "listed_count": 105,
+          "media_count": 5481,
+          "tweet_count": 19257
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T08:26:46.000Z",
+        "description": "我们正在做我们的前人从来没有做过的极其光荣伟大的事业。 我们的目的一定要达到。 我们的目的一定能够达到",
+        "id": "2028748832973189120",
+        "location": "北京中南海",
+        "name": "叶剑英",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076585398604886016/4MvUG5Xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 198,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "D2r6hkpBzZ52541",
+        "verified": false
+      }
+    ]
+  }
+}

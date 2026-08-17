@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084198316535926784"
+      ],
+      "media_source_tweet_id": [
+        "2084198327856365813"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2084783465262923877",
+    "created_at": "2026-08-04T23:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084783465262923877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1958048434021437440",
+          "start": 3,
+          "username": "baizhimengyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbYmYNtCft",
+          "end": 64,
+          "expanded_url": "https://x.com/baizhimengyao/status/2084198327856365813/photo/1",
+          "media_key": "3_2084198316535926784",
+          "start": 41,
+          "url": "https://t.co/jbYmYNtCft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084783465262923877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084198327856365813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baizhimengyao: 看到群友有发这个诶……请问这是天堂吗（？） https://t.co/jbYmYNtCft"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2084198316535926784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyPU4qXUAAZLjF.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084198316535926784"
+          ]
+        },
+        "author_id": "1958048434021437440",
+        "conversation_id": "2084198327856365813",
+        "created_at": "2026-08-03T08:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084198327856365813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbYmYNtCft",
+              "end": 45,
+              "expanded_url": "https://x.com/baizhimengyao/status/2084198327856365813/photo/1",
+              "media_key": "3_2084198316535926784",
+              "start": 22,
+              "url": "https://t.co/jbYmYNtCft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084198327856365813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 25405,
+          "like_count": 459,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "看到群友有发这个诶……请问这是天堂吗（？） https://t.co/jbYmYNtCft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084198316535926784"
+          ],
+          "media_source_tweet_id": [
+            "2084198327856365813"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2084783465262923877",
+        "created_at": "2026-08-04T23:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084783465262923877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1958048434021437440",
+              "start": 3,
+              "username": "baizhimengyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbYmYNtCft",
+              "end": 64,
+              "expanded_url": "https://x.com/baizhimengyao/status/2084198327856365813/photo/1",
+              "media_key": "3_2084198316535926784",
+              "start": 41,
+              "url": "https://t.co/jbYmYNtCft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084783465262923877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084198327856365813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baizhimengyao: 看到群友有发这个诶……请问这是天堂吗（？） https://t.co/jbYmYNtCft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29335,
+          "following_count": 12165,
+          "like_count": 96755,
+          "listed_count": 104,
+          "media_count": 5599,
+          "tweet_count": 19871
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头/紧急逃生舱：@wuheyuyang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 37,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1891
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

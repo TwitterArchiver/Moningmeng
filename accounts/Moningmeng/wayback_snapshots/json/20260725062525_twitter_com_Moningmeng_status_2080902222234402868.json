@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080902222234402868",
+    "created_at": "2026-07-25T06:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080902222234402868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880194893685092354",
+          "start": 3,
+          "username": "Aelrainyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080902222234402868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080645342085972199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aelrainyx: 医生：那你穿过穿过女孩子的衣服没有啊？\n我；穿过\n医生：那你拿妈妈的衣服穿过没有啊？\n我：男妈妈？（幻听\n医生：？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080902222234402868",
+        "created_at": "2026-07-25T06:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080902222234402868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880194893685092354",
+              "start": 3,
+              "username": "Aelrainyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080902222234402868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080645342085972199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aelrainyx: 医生：那你穿过穿过女孩子的衣服没有啊？\n我；穿过\n医生：那你拿妈妈的衣服穿过没有啊？\n我：男妈妈？（幻听\n医生：？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880194893685092354",
+        "conversation_id": "2080645342085972199",
+        "created_at": "2026-07-24T13:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:54:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080637772386422986",
+          "2080645342085972199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080645342085972199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16789,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "医生：那你穿过穿过女孩子的衣服没有啊？\n我；穿过\n医生：那你拿妈妈的衣服穿过没有啊？\n我：男妈妈？（幻听\n医生：？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28817,
+          "following_count": 12051,
+          "like_count": 96372,
+          "listed_count": 105,
+          "media_count": 5532,
+          "tweet_count": 19549
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T10:06:21.000Z",
+        "description": "MTF🏳️‍⚧️|Hrt🍥05.30.2026|有小证|断糖07.12.2026😭|半家长党|生产日期08.20.2011|163cm 43kg|不od|已炸柜\n超超超超级懒批\nhttps://t.co/KJ3353Umn5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aelrainyx",
+                "end": 112,
+                "expanded_url": "https://ngl.link/aelrainyx",
+                "start": 89,
+                "url": "https://t.co/KJ3353Umn5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aelrainyx.dpdns.org",
+                "end": 23,
+                "expanded_url": "http://aelrainyx.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/o7vSgpbEJC"
+              }
+            ]
+          }
+        },
+        "id": "1880194893685092354",
+        "name": "Aelrainyx🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060694584364343296/PUQotpl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 270,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/o7vSgpbEJC",
+        "username": "Aelrainyx",
+        "verified": true
+      }
+    ]
+  }
+}

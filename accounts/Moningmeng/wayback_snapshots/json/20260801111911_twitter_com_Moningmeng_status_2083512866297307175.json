@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083512866297307175",
+    "created_at": "2026-08-01T11:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083512866297307175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1472147307730817025",
+          "start": 3,
+          "username": "20080522dqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083512866297307175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083033880337232042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @20080522dqc: 刚才在大街上碰到一个女生溜一只金毛\n想上去问能不能摸两把\n结果说出口的是\n“好可爱的大狗”\n女生愣了三秒 迟疑的回了我一句\n“叫...叫..叫？”\n我真不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083512866297307175",
+        "created_at": "2026-08-01T11:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083512866297307175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1472147307730817025",
+              "start": 3,
+              "username": "20080522dqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083512866297307175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083033880337232042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @20080522dqc: 刚才在大街上碰到一个女生溜一只金毛\n想上去问能不能摸两把\n结果说出口的是\n“好可爱的大狗”\n女生愣了三秒 迟疑的回了我一句\n“叫...叫..叫？”\n我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472147307730817025",
+        "conversation_id": "2083033880337232042",
+        "created_at": "2026-07-31T03:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083033880337232042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083033880337232042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 1159555,
+          "like_count": 4978,
+          "quote_count": 8,
+          "reply_count": 476,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "刚才在大街上碰到一个女生溜一只金毛\n想上去问能不能摸两把\n结果说出口的是\n“好可爱的大狗”\n女生愣了三秒 迟疑的回了我一句\n“叫...叫..叫？”\n我真不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29315,
+          "following_count": 12151,
+          "like_count": 96728,
+          "listed_count": 104,
+          "media_count": 5583,
+          "tweet_count": 19810
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T10:10:54.000Z",
+        "description": "坐标辽宁 18岁 叫我辰辰或者chen就好\n| 阴阳师 | 明日方舟 | Omori |一堆PC单机|音游入门",
+        "id": "1472147307730817025",
+        "name": "绮辰Chen",
+        "pinned_tweet_id": "2080559689344205259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023416956913852416/0-QXkYVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 1874,
+          "like_count": 10525,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 2032
+        },
+        "url": "",
+        "username": "20080522dqc",
+        "verified": false
+      }
+    ]
+  }
+}

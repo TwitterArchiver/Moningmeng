@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081699124924346368"
+      ],
+      "media_source_tweet_id": [
+        "2081699130343325760"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2081959797625413708",
+    "created_at": "2026-07-28T04:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081959797625413708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mtTn1BUgY",
+          "end": 44,
+          "expanded_url": "https://x.com/anblk984/status/2081699130343325760/photo/1",
+          "media_key": "3_2081699124924346368",
+          "start": 21,
+          "url": "https://t.co/4mtTn1BUgY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081959797625413708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081699130343325760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 消防员平哥： https://t.co/4mtTn1BUgY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2081699124924346368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOuUyZbcAAvQeY.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081699124924346368"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2081699130343325760",
+        "created_at": "2026-07-27T11:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081699130343325760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mtTn1BUgY",
+              "end": 30,
+              "expanded_url": "https://x.com/anblk984/status/2081699130343325760/photo/1",
+              "media_key": "3_2081699124924346368",
+              "start": 7,
+              "url": "https://t.co/4mtTn1BUgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081699130343325760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 99288,
+          "like_count": 824,
+          "quote_count": 2,
+          "reply_count": 109,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "消防员平哥： https://t.co/4mtTn1BUgY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081699124924346368"
+          ],
+          "media_source_tweet_id": [
+            "2081699130343325760"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2081959797625413708",
+        "created_at": "2026-07-28T04:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081959797625413708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mtTn1BUgY",
+              "end": 44,
+              "expanded_url": "https://x.com/anblk984/status/2081699130343325760/photo/1",
+              "media_key": "3_2081699124924346368",
+              "start": 21,
+              "url": "https://t.co/4mtTn1BUgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081959797625413708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081699130343325760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 消防员平哥： https://t.co/4mtTn1BUgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28873,
+          "following_count": 12087,
+          "like_count": 96492,
+          "listed_count": 104,
+          "media_count": 5549,
+          "tweet_count": 19641
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15944,
+          "following_count": 1057,
+          "like_count": 127102,
+          "listed_count": 78,
+          "media_count": 3372,
+          "tweet_count": 30722
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

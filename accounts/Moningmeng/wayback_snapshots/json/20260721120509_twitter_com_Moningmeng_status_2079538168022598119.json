@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2079537161293205877",
+    "created_at": "2026-07-21T12:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079538168022598119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "722120664",
+          "start": 0,
+          "username": "Hishikawa_Mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079538168022598119",
+    "in_reply_to_user_id": "722120664",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079537803281776675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hishikawa_Mio ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079537803281776675].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079537803281776675",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079537803281776675"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2079537161293205877",
+        "created_at": "2026-07-21T12:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079538168022598119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "722120664",
+              "start": 0,
+              "username": "Hishikawa_Mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079538168022598119",
+        "in_reply_to_user_id": "722120664",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079537803281776675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hishikawa_Mio ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28627,
+          "following_count": 11891,
+          "like_count": 95372,
+          "listed_count": 105,
+          "media_count": 5469,
+          "tweet_count": 19182
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-28T12:50:27.000Z",
+        "description": "ACGN爱好者，ADHD/ASD Neurodivergent 人   锁推关注者请私信",
+        "id": "722120664",
+        "location": "新加坡",
+        "name": "菱川澪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904215336293171203/swMEZANp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 822,
+          "like_count": 185990,
+          "listed_count": 6,
+          "media_count": 590,
+          "tweet_count": 19475
+        },
+        "url": "",
+        "username": "Hishikawa_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

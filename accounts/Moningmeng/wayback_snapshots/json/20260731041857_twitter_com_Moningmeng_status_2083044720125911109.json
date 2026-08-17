@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082784271258046464"
+      ],
+      "media_source_tweet_id": [
+        "2082784281169158226"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083044720125911109",
+    "created_at": "2026-07-31T04:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083044720125911109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031270533359349761",
+          "start": 3,
+          "username": "senzhiwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eyslb67ywv",
+          "end": 48,
+          "expanded_url": "https://x.com/senzhiwu/status/2082784281169158226/photo/1",
+          "media_key": "3_2082784271258046464",
+          "start": 25,
+          "url": "https://t.co/eyslb67ywv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083044720125911109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082784281169158226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senzhiwu: 到了那必须试一试了😋 https://t.co/eyslb67ywv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082784271258046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeJQngbUAA8-Tf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082784271258046464"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2082784281169158226",
+        "created_at": "2026-07-30T11:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082784281169158226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyslb67ywv",
+              "end": 34,
+              "expanded_url": "https://x.com/senzhiwu/status/2082784281169158226/photo/1",
+              "media_key": "3_2082784271258046464",
+              "start": 11,
+              "url": "https://t.co/eyslb67ywv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082784281169158226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2346,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到了那必须试一试了😋 https://t.co/eyslb67ywv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082784271258046464"
+          ],
+          "media_source_tweet_id": [
+            "2082784281169158226"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083044720125911109",
+        "created_at": "2026-07-31T04:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083044720125911109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031270533359349761",
+              "start": 3,
+              "username": "senzhiwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyslb67ywv",
+              "end": 48,
+              "expanded_url": "https://x.com/senzhiwu/status/2082784281169158226/photo/1",
+              "media_key": "3_2082784271258046464",
+              "start": 25,
+              "url": "https://t.co/eyslb67ywv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083044720125911109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082784281169158226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senzhiwu: 到了那必须试一试了😋 https://t.co/eyslb67ywv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29194,
+          "following_count": 12124,
+          "like_count": 96592,
+          "listed_count": 104,
+          "media_count": 5571,
+          "tweet_count": 19729
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜entp-t 现infp/j｜心归所至：@74025hai 愿为你的天使，化作你的羽翼，与你共赴天堂｜可爱树树子@GlowingTree880｜mtx🏳️‍⚧️｜小证偷吃｜hrt3.29｜家长党｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "74025hai"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "GlowingTree880"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 421,
+          "like_count": 3255,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 2496
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074784527839338496"
+      ],
+      "media_source_tweet_id": [
+        "2074784560793932042"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2074870229424119944",
+    "created_at": "2026-07-08T14:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074870229424119944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910893768498438146",
+          "start": 3,
+          "username": "mengxin66666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bwsNKuXOx",
+          "end": 137,
+          "expanded_url": "https://x.com/mengxin66666/status/2074784560793932042/photo/1",
+          "media_key": "3_2074784527839338496",
+          "start": 114,
+          "url": "https://t.co/7bwsNKuXOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074870229424119944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074784560793932042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengxin66666: 防止刷𝕏久了变()😅\n那请你来看一下这个python代码\n\n假如我分别在\n变量a和b的input()中都输入1\n\n请问print输出的结果是什么？\n\nA.2\nB.11\n\nC.不知道\nD.其他 https://t.co/7bwsNKuXOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2074784527839338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsdiQ9XIAANQJ8.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074784527839338496"
+          ],
+          "media_source_tweet_id": [
+            "2074784560793932042"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2074870229424119944",
+        "created_at": "2026-07-08T14:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074870229424119944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910893768498438146",
+              "start": 3,
+              "username": "mengxin66666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bwsNKuXOx",
+              "end": 137,
+              "expanded_url": "https://x.com/mengxin66666/status/2074784560793932042/photo/1",
+              "media_key": "3_2074784527839338496",
+              "start": 114,
+              "url": "https://t.co/7bwsNKuXOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074870229424119944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784560793932042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengxin66666: 防止刷𝕏久了变()😅\n那请你来看一下这个python代码\n\n假如我分别在\n变量a和b的input()中都输入1\n\n请问print输出的结果是什么？\n\nA.2\nB.11\n\nC.不知道\nD.其他 https://t.co/7bwsNKuXOx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074784527839338496"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "conversation_id": "2074784560793932042",
+        "created_at": "2026-07-08T09:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074784560793932042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bwsNKuXOx",
+              "end": 119,
+              "expanded_url": "https://x.com/mengxin66666/status/2074784560793932042/photo/1",
+              "media_key": "3_2074784527839338496",
+              "start": 96,
+              "url": "https://t.co/7bwsNKuXOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074784560793932042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1994,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "防止刷𝕏久了变()😅\n那请你来看一下这个python代码\n\n假如我分别在\n变量a和b的input()中都输入1\n\n请问print输出的结果是什么？\n\nA.2\nB.11\n\nC.不知道\nD.其他 https://t.co/7bwsNKuXOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 55,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 32,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070463166337953792/xmL4_Gt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28077,
+          "following_count": 11429,
+          "like_count": 93101,
+          "listed_count": 104,
+          "media_count": 5339,
+          "tweet_count": 18519
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 250,
+          "like_count": 10377,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1619
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      }
+    ]
+  }
+}

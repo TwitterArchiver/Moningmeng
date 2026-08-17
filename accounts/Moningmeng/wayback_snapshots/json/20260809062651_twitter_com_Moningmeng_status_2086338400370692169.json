@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086322879436906496"
+      ],
+      "media_source_tweet_id": [
+        "2086322900483862895"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2086338400370692169",
+    "created_at": "2026-08-09T06:26:51.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086338400370692169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1359811127085920260",
+          "start": 3,
+          "username": "Kangning28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17U24vFC6w",
+          "end": 103,
+          "expanded_url": "https://x.com/Kangning28/status/2086322900483862895/photo/1",
+          "media_key": "3_2086322879436906496",
+          "start": 80,
+          "url": "https://t.co/17U24vFC6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086338400370692169",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086322879436906496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086322900483862895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kangning28: 岭南四大名园之一东莞可园🌿\n\n园林曲廊环水，花窗映翠，高低错落的岭南古建移步皆景，闹市之间独得清静，一砖一瓦尽是东方造园美学！ https://t.co/17U24vFC6w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086322879436906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQbmuObYAAOjct.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086322879436906496"
+          ]
+        },
+        "author_id": "1359811127085920260",
+        "conversation_id": "2086322900483862895",
+        "created_at": "2026-08-09T05:25:16.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086322900483862895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17U24vFC6w",
+              "end": 87,
+              "expanded_url": "https://x.com/Kangning28/status/2086322900483862895/photo/1",
+              "media_key": "3_2086322879436906496",
+              "start": 64,
+              "url": "https://t.co/17U24vFC6w"
+            },
+            {
+              "display_url": "x.com/Kangning28/sta…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/Kangning28/status/2086223128712343638",
+              "start": 88,
+              "url": "https://t.co/FG7tibUFG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086322900483862895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086322879436906496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3311,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086223128712343638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "岭南四大名园之一东莞可园🌿\n\n园林曲廊环水，花窗映翠，高低错落的岭南古建移步皆景，闹市之间独得清静，一砖一瓦尽是东方造园美学！ https://t.co/17U24vFC6w https://t.co/FG7tibUFG3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086322879436906496"
+          ],
+          "media_source_tweet_id": [
+            "2086322900483862895"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2086338400370692169",
+        "created_at": "2026-08-09T06:26:51.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086338400370692169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1359811127085920260",
+              "start": 3,
+              "username": "Kangning28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17U24vFC6w",
+              "end": 103,
+              "expanded_url": "https://x.com/Kangning28/status/2086322900483862895/photo/1",
+              "media_key": "3_2086322879436906496",
+              "start": 80,
+              "url": "https://t.co/17U24vFC6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086338400370692169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086322879436906496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086322900483862895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kangning28: 岭南四大名园之一东莞可园🌿\n\n园林曲廊环水，花窗映翠，高低错落的岭南古建移步皆景，闹市之间独得清静，一砖一瓦尽是东方造园美学！ https://t.co/17U24vFC6w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2086338400370692169",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29434,
+          "following_count": 12277,
+          "like_count": 97391,
+          "listed_count": 104,
+          "media_count": 5644,
+          "tweet_count": 20108
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-11T10:26:58.000Z",
+        "description": "愛旅遊、愛生活，傳播正能量，分享中國文化和美景的熱血青年。\nPassionate young people who love tourism, love life, spread positive energy, and share Chinese culture and beauty\n圖片多為網圖，如若侵權請聯繫刪除",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kangzhu60/",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/kangzhu60/",
+                "start": 0,
+                "url": "https://t.co/izyunmkAaL"
+              }
+            ]
+          }
+        },
+        "id": "1359811127085920260",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086325163927437551",
+        "name": "惠康寧",
+        "pinned_tweet_id": "2086011970747281921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359811127085920260/1629160634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791855698260922368/h98LlYvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14912,
+          "following_count": 10793,
+          "like_count": 126571,
+          "listed_count": 20,
+          "media_count": 4058,
+          "tweet_count": 24162
+        },
+        "url": "https://t.co/izyunmkAaL",
+        "username": "Kangning28",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

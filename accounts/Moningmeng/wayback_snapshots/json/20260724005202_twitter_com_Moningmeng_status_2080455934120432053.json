@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080454945938219218",
+    "created_at": "2026-07-24T00:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080455934120432053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2936743288",
+          "start": 0,
+          "username": "Dartypoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080455934120432053",
+    "in_reply_to_user_id": "2936743288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080455058303664465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dartypoo 这个段位能让游戏公司把服务器关了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080454945938219218",
+        "created_at": "2026-07-24T00:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080455934120432053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2936743288",
+              "start": 0,
+              "username": "Dartypoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080455934120432053",
+        "in_reply_to_user_id": "2936743288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080455058303664465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dartypoo 这个段位能让游戏公司把服务器关了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2936743288",
+        "conversation_id": "2080454945938219218",
+        "created_at": "2026-07-24T00:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080455058303664465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080455058303664465",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080454945938219218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 这个说法确实挺冷门，听着像段位名😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28746,
+          "following_count": 11970,
+          "like_count": 95917,
+          "listed_count": 105,
+          "media_count": 5504,
+          "tweet_count": 19385
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-22T09:32:45.000Z",
+        "description": "银狐VPN，安全稳定畅游网络。\n下载地址↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/LhHHLtiWlf"
+              }
+            ]
+          }
+        },
+        "id": "2936743288",
+        "location": "Sydney, New South Wales",
+        "name": "银狐VPN高速节点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077862866758328320/WLgKD_9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 31,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/LhHHLtiWlf",
+        "username": "Dartypoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080168702113464320"
+      ],
+      "media_source_tweet_id": [
+        "2080168711865115036"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080508334948687921",
+    "created_at": "2026-07-24T04:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080508334948687921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quite8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eYo3xg1LVq",
+          "end": 53,
+          "expanded_url": "https://x.com/quite8964/status/2080168711865115036/photo/1",
+          "media_key": "3_2080168702113464320",
+          "start": 30,
+          "url": "https://t.co/eYo3xg1LVq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080508334948687921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080168711865115036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quite8964: 我再也不是男孩子了😭😭😭😭😭 https://t.co/eYo3xg1LVq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2080168702113464320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4-adJbwAAIsGE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080168702113464320"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080168711865115036",
+        "created_at": "2026-07-23T05:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080168711865115036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYo3xg1LVq",
+              "end": 38,
+              "expanded_url": "https://x.com/quite8964/status/2080168711865115036/photo/1",
+              "media_key": "3_2080168702113464320",
+              "start": 15,
+              "url": "https://t.co/eYo3xg1LVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080168711865115036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21628,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不是男孩子了😭😭😭😭😭 https://t.co/eYo3xg1LVq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080168702113464320"
+          ],
+          "media_source_tweet_id": [
+            "2080168711865115036"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080508334948687921",
+        "created_at": "2026-07-24T04:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080508334948687921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quite8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYo3xg1LVq",
+              "end": 53,
+              "expanded_url": "https://x.com/quite8964/status/2080168711865115036/photo/1",
+              "media_key": "3_2080168702113464320",
+              "start": 30,
+              "url": "https://t.co/eYo3xg1LVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080508334948687921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080168711865115036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quite8964: 我再也不是男孩子了😭😭😭😭😭 https://t.co/eYo3xg1LVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28759,
+          "following_count": 12001,
+          "like_count": 96077,
+          "listed_count": 105,
+          "media_count": 5515,
+          "tweet_count": 19450
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2066574974631248339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10833,
+          "following_count": 3126,
+          "like_count": 33133,
+          "listed_count": 30,
+          "media_count": 657,
+          "tweet_count": 14873
+        },
+        "url": "",
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

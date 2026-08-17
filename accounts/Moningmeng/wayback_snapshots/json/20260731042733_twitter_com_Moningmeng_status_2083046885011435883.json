@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083046885011435883",
+    "created_at": "2026-07-31T04:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083046885011435883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2078739222450851840",
+          "start": 3,
+          "username": "Xiaoqian_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083046885011435883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082772546038972686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoqian_114514: 有没有什么办法能把好兄弟掰弯的😈，在线等个诸葛亮指点..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083046885011435883",
+        "created_at": "2026-07-31T04:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083046885011435883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2078739222450851840",
+              "start": 3,
+              "username": "Xiaoqian_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083046885011435883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082772546038972686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoqian_114514: 有没有什么办法能把好兄弟掰弯的😈，在线等个诸葛亮指点..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078739222450851840",
+        "conversation_id": "2082772546038972686",
+        "created_at": "2026-07-30T10:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082772546038972686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082772546038972686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4773,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么办法能把好兄弟掰弯的😈，在线等个诸葛亮指点..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29196,
+          "following_count": 12128,
+          "like_count": 96625,
+          "listed_count": 104,
+          "media_count": 5573,
+          "tweet_count": 19751
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-19T07:11:56.000Z",
+        "description": "🏳️‍⚧️MtF 一只喵|HRT2026 7.24 无证含糖|未出柜|出厂日期2010.3.20|精神状态堪忧|轻度焦虑|喜欢发一些碎碎念🫠\n第一联系方式:https://t.co/XF9eZicYbk\n第二联系方式v:G_085249_635148\n欢迎互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/XQianyu",
+                "end": 101,
+                "expanded_url": "http://t.me/XQianyu",
+                "start": 78,
+                "url": "https://t.co/XF9eZicYbk"
+              }
+            ]
+          }
+        },
+        "id": "2078739222450851840",
+        "location": "垃圾桶旁的纸箱",
+        "name": "浅雨深言🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082774379096928469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080466236803284993/4mvhzsDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 78,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "Xiaoqian_114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078446996181127168"
+      ],
+      "media_source_tweet_id": [
+        "2078447009548402729"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2078482015482266000",
+    "created_at": "2026-07-18T14:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078482015482266000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1754494415152766976",
+          "start": 3,
+          "username": "IchinichiNagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/el71cEQQcJ",
+          "end": 59,
+          "expanded_url": "https://x.com/IchinichiNagi/status/2078447009548402729/photo/1",
+          "media_key": "3_2078446996181127168",
+          "start": 36,
+          "url": "https://t.co/el71cEQQcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078482015482266000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078447009548402729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IchinichiNagi: 谁把我微信删了拉黑了\n好难猜啊🤔 https://t.co/el71cEQQcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2078446996181127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNggh-vakAAnHIm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078446996181127168"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2078447009548402729",
+        "created_at": "2026-07-18T11:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078447009548402729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/el71cEQQcJ",
+              "end": 40,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2078447009548402729/photo/1",
+              "media_key": "3_2078446996181127168",
+              "start": 17,
+              "url": "https://t.co/el71cEQQcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078447009548402729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁把我微信删了拉黑了\n好难猜啊🤔 https://t.co/el71cEQQcJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078446996181127168"
+          ],
+          "media_source_tweet_id": [
+            "2078447009548402729"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2078482015482266000",
+        "created_at": "2026-07-18T14:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078482015482266000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1754494415152766976",
+              "start": 3,
+              "username": "IchinichiNagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/el71cEQQcJ",
+              "end": 59,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2078447009548402729/photo/1",
+              "media_key": "3_2078446996181127168",
+              "start": 36,
+              "url": "https://t.co/el71cEQQcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078482015482266000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078447009548402729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IchinichiNagi: 谁把我微信删了拉黑了\n好难猜啊🤔 https://t.co/el71cEQQcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28466,
+          "following_count": 11805,
+          "like_count": 95187,
+          "listed_count": 105,
+          "media_count": 5461,
+          "tweet_count": 19123
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Stansted Airport",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2078181346590306815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076291088625885184/U0VEOAw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6004,
+          "following_count": 2383,
+          "like_count": 30906,
+          "listed_count": 8,
+          "media_count": 2849,
+          "tweet_count": 26761
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

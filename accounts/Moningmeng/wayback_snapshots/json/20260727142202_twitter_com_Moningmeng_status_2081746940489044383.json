@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081187616230391808"
+      ],
+      "media_source_tweet_id": [
+        "2081187621481623924"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2081746940489044383",
+    "created_at": "2026-07-27T14:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081746940489044383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048745058804105216",
+          "start": 3,
+          "username": "TaoistYouth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8I4iCQY7Di",
+          "end": 69,
+          "expanded_url": "https://x.com/TaoistYouth/status/2081187621481623924/photo/1",
+          "media_key": "3_2081187616230391808",
+          "start": 46,
+          "url": "https://t.co/8I4iCQY7Di"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081746940489044383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081187621481623924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TaoistYouth: 大清早的开车上班，有个傻逼一直挡在我车前，我该怎么办啊？ https://t.co/8I4iCQY7Di"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2081187616230391808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHdHEBawAArRE3.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081187616230391808"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2081187621481623924",
+        "created_at": "2026-07-26T01:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081187621481623924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8I4iCQY7Di",
+              "end": 52,
+              "expanded_url": "https://x.com/TaoistYouth/status/2081187621481623924/photo/1",
+              "media_key": "3_2081187616230391808",
+              "start": 29,
+              "url": "https://t.co/8I4iCQY7Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081187621481623924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 73314,
+          "like_count": 1026,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "大清早的开车上班，有个傻逼一直挡在我车前，我该怎么办啊？ https://t.co/8I4iCQY7Di"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081187616230391808"
+          ],
+          "media_source_tweet_id": [
+            "2081187621481623924"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2081746940489044383",
+        "created_at": "2026-07-27T14:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081746940489044383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048745058804105216",
+              "start": 3,
+              "username": "TaoistYouth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8I4iCQY7Di",
+              "end": 69,
+              "expanded_url": "https://x.com/TaoistYouth/status/2081187621481623924/photo/1",
+              "media_key": "3_2081187616230391808",
+              "start": 46,
+              "url": "https://t.co/8I4iCQY7Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081746940489044383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081187621481623924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TaoistYouth: 大清早的开车上班，有个傻逼一直挡在我车前，我该怎么办啊？ https://t.co/8I4iCQY7Di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28846,
+          "following_count": 12057,
+          "like_count": 96461,
+          "listed_count": 104,
+          "media_count": 5543,
+          "tweet_count": 19613
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "自由，博爱，平等！一个右翼自由派，理想主义者，道教善信，目前在日本生活。致力于反抗中共，反抗独裁暴政！追求人格独立，个人自由｜六四精神永存，自由民主不死。愿我们期冀的民主之花，在不远后的将来，开遍华夏的每一个角落🕯️｜ 日更高质量政治梗图，感兴趣的关注\n小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20812…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2081268318032498774",
+                "start": 0,
+                "url": "https://t.co/O67YQyEOOR"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2081268318032498774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 759,
+          "like_count": 14339,
+          "listed_count": 13,
+          "media_count": 671,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/O67YQyEOOR",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

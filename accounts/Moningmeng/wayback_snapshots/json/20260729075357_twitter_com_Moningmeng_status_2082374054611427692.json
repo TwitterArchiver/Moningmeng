@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082015237600075777"
+      ],
+      "media_source_tweet_id": [
+        "2082015245191762299"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2082374054611427692",
+    "created_at": "2026-07-29T07:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082374054611427692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803370127041191942",
+          "start": 3,
+          "username": "cheansnow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgsrPn4tDz",
+          "end": 69,
+          "expanded_url": "https://x.com/cheansnow/status/2082015245191762299/photo/1",
+          "media_key": "3_2082015237600075777",
+          "start": 46,
+          "url": "https://t.co/DgsrPn4tDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082374054611427692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082015245191762299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheansnow: 我觉得这个表情包极其恶心  令人生理不适 以为很幽默是吗.. https://t.co/DgsrPn4tDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082015237600075777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTN094aYAEqYZN.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082015237600075777"
+          ]
+        },
+        "author_id": "1803370127041191942",
+        "conversation_id": "2082015245191762299",
+        "created_at": "2026-07-28T08:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082015245191762299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgsrPn4tDz",
+              "end": 54,
+              "expanded_url": "https://x.com/cheansnow/status/2082015245191762299/photo/1",
+              "media_key": "3_2082015237600075777",
+              "start": 31,
+              "url": "https://t.co/DgsrPn4tDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082015245191762299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 359596,
+          "like_count": 987,
+          "quote_count": 12,
+          "reply_count": 346,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个表情包极其恶心  令人生理不适 以为很幽默是吗.. https://t.co/DgsrPn4tDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082015237600075777"
+          ],
+          "media_source_tweet_id": [
+            "2082015245191762299"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2082374054611427692",
+        "created_at": "2026-07-29T07:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082374054611427692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803370127041191942",
+              "start": 3,
+              "username": "cheansnow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgsrPn4tDz",
+              "end": 69,
+              "expanded_url": "https://x.com/cheansnow/status/2082015245191762299/photo/1",
+              "media_key": "3_2082015237600075777",
+              "start": 46,
+              "url": "https://t.co/DgsrPn4tDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082374054611427692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082015245191762299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheansnow: 我觉得这个表情包极其恶心  令人生理不适 以为很幽默是吗.. https://t.co/DgsrPn4tDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28885,
+          "following_count": 12102,
+          "like_count": 96564,
+          "listed_count": 104,
+          "media_count": 5559,
+          "tweet_count": 19693
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T10:12:08.000Z",
+        "description": "Apogee. / INFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apogee26549",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apogee26549",
+                "start": 0,
+                "url": "https://t.co/1PHLNCWbEM"
+              }
+            ]
+          }
+        },
+        "id": "1803370127041191942",
+        "name": "Chean",
+        "pinned_tweet_id": "2082350991241056698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082033097537982464/EeE-ZpPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 170,
+          "like_count": 13487,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/1PHLNCWbEM",
+        "username": "cheansnow",
+        "verified": false
+      }
+    ]
+  }
+}

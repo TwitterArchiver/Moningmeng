@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081938591631261696"
+      ],
+      "media_source_tweet_id": [
+        "2081938607921827886"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2082146840439587068",
+    "created_at": "2026-07-28T16:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082146840439587068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1336576654022340608",
+          "start": 3,
+          "username": "yu_kirins"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bTz0nN6Mf0",
+          "end": 56,
+          "expanded_url": "https://x.com/yu_kirins/status/2081938607921827886/photo/1",
+          "media_key": "3_2081938591631261696",
+          "start": 33,
+          "url": "https://t.co/bTz0nN6Mf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082146840439587068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081938607921827886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_kirins: 术后第一天精索结扎后拉扯疼痛感明显 https://t.co/bTz0nN6Mf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2081938591631261696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSIHlZbwAAQLg-.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081938591631261696"
+          ]
+        },
+        "author_id": "1336576654022340608",
+        "conversation_id": "2081938607921827886",
+        "created_at": "2026-07-28T03:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081938607921827886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTz0nN6Mf0",
+              "end": 41,
+              "expanded_url": "https://x.com/yu_kirins/status/2081938607921827886/photo/1",
+              "media_key": "3_2081938591631261696",
+              "start": 18,
+              "url": "https://t.co/bTz0nN6Mf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081938607921827886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7323,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "术后第一天精索结扎后拉扯疼痛感明显 https://t.co/bTz0nN6Mf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081938591631261696"
+          ],
+          "media_source_tweet_id": [
+            "2081938607921827886"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2082146840439587068",
+        "created_at": "2026-07-28T16:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082146840439587068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1336576654022340608",
+              "start": 3,
+              "username": "yu_kirins"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTz0nN6Mf0",
+              "end": 56,
+              "expanded_url": "https://x.com/yu_kirins/status/2081938607921827886/photo/1",
+              "media_key": "3_2081938591631261696",
+              "start": 33,
+              "url": "https://t.co/bTz0nN6Mf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082146840439587068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081938607921827886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_kirins: 术后第一天精索结扎后拉扯疼痛感明显 https://t.co/bTz0nN6Mf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28865,
+          "following_count": 12090,
+          "like_count": 96520,
+          "listed_count": 104,
+          "media_count": 5553,
+          "tweet_count": 19656
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-09T07:41:57.000Z",
+        "description": "MTF|VRChat|ADHD|HRT:2025.9.16|DOB:2001.4.29",
+        "id": "1336576654022340608",
+        "location": "Shanghai",
+        "name": "yu_s",
+        "pinned_tweet_id": "2040955385121816857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007993844017905664/oXsuXX6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 120,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "yu_kirins",
+        "verified": true
+      }
+    ]
+  }
+}

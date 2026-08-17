@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080686775098572874",
+    "created_at": "2026-07-24T16:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080686775098572874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2049825426441433090",
+          "start": 3,
+          "username": "AirisTendouX2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080686775098572874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080503999829299610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AirisTendouX2K: 不想炒作，但是ICU是真难受，还要绑手绑脚，后来者别学我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080686775098572874",
+        "created_at": "2026-07-24T16:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080686775098572874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2049825426441433090",
+              "start": 3,
+              "username": "AirisTendouX2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080686775098572874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080503999829299610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AirisTendouX2K: 不想炒作，但是ICU是真难受，还要绑手绑脚，后来者别学我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049825426441433090",
+        "conversation_id": "2080503999829299610",
+        "created_at": "2026-07-24T04:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080503999829299610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080503999829299610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1224,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不想炒作，但是ICU是真难受，还要绑手绑脚，后来者别学我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28795,
+          "following_count": 12026,
+          "like_count": 96285,
+          "listed_count": 105,
+          "media_count": 5525,
+          "tweet_count": 19505
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od（化掉），但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️（2026/5/31炸柜），以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "pinned_tweet_id": "2077500001455120500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 189,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "AirisTendouX2K",
+        "verified": true
+      }
+    ]
+  }
+}

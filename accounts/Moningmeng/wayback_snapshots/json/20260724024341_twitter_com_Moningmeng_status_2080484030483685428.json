@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080151623276625920"
+      ],
+      "media_source_tweet_id": [
+        "2080151637449212044"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080484030483685428",
+    "created_at": "2026-07-24T02:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080484030483685428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486209719740289024",
+          "start": 3,
+          "username": "oxniubi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6r7kwu3jfO",
+          "end": 65,
+          "expanded_url": "https://x.com/oxniubi/status/2080151637449212044/photo/1",
+          "media_key": "3_2080151623276625920",
+          "start": 42,
+          "url": "https://t.co/6r7kwu3jfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080484030483685428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080151637449212044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oxniubi: 刚刚买了deepseek的api给了个这个，要怎么用啊？ https://t.co/6r7kwu3jfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2080151623276625920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4u4VhbAAANiAp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080151623276625920"
+          ]
+        },
+        "author_id": "1486209719740289024",
+        "conversation_id": "2080151637449212044",
+        "created_at": "2026-07-23T04:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080151637449212044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6r7kwu3jfO",
+              "end": 52,
+              "expanded_url": "https://x.com/oxniubi/status/2080151637449212044/photo/1",
+              "media_key": "3_2080151623276625920",
+              "start": 29,
+              "url": "https://t.co/6r7kwu3jfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080151637449212044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 173994,
+          "like_count": 597,
+          "quote_count": 3,
+          "reply_count": 153,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚买了deepseek的api给了个这个，要怎么用啊？ https://t.co/6r7kwu3jfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080151623276625920"
+          ],
+          "media_source_tweet_id": [
+            "2080151637449212044"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080484030483685428",
+        "created_at": "2026-07-24T02:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080484030483685428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486209719740289024",
+              "start": 3,
+              "username": "oxniubi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6r7kwu3jfO",
+              "end": 65,
+              "expanded_url": "https://x.com/oxniubi/status/2080151637449212044/photo/1",
+              "media_key": "3_2080151623276625920",
+              "start": 42,
+              "url": "https://t.co/6r7kwu3jfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080484030483685428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080151637449212044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oxniubi: 刚刚买了deepseek的api给了个这个，要怎么用啊？ https://t.co/6r7kwu3jfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28746,
+          "following_count": 11977,
+          "like_count": 95965,
+          "listed_count": 105,
+          "media_count": 5508,
+          "tweet_count": 19413
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T05:29:58.000Z",
+        "description": "昨天在梦里，我又看见你，\n宝贝，人和人一场游戏\nAI工具与生活观察爱好者，真诚交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaosen.shop",
+                "end": 23,
+                "expanded_url": "http://xiaosen.shop",
+                "start": 0,
+                "url": "https://t.co/V4kB3nNbmB"
+              }
+            ]
+          }
+        },
+        "id": "1486209719740289024",
+        "location": "Claudu 20x只要1180",
+        "name": "小森",
+        "pinned_tweet_id": "2045810440224330171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772991198715908096/Z0s5NKKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 3140,
+          "like_count": 3616,
+          "listed_count": 38,
+          "media_count": 563,
+          "tweet_count": 10047
+        },
+        "url": "https://t.co/V4kB3nNbmB",
+        "username": "oxniubi",
+        "verified": true
+      }
+    ]
+  }
+}

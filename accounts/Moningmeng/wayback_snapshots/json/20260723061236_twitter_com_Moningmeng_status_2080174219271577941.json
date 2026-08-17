@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080174219271577941",
+    "created_at": "2026-07-23T06:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080174219271577941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050537864908128256",
+          "start": 3,
+          "username": "jiutao1034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080174219271577941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080029980080398737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiutao1034: 为什么你们都是天赋党，昨天晚上跟群友发电话GD了，我是顺直男😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080174219271577941",
+        "created_at": "2026-07-23T06:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080174219271577941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050537864908128256",
+              "start": 3,
+              "username": "jiutao1034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080174219271577941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080029980080398737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiutao1034: 为什么你们都是天赋党，昨天晚上跟群友发电话GD了，我是顺直男😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050537864908128256",
+        "conversation_id": "2080029980080398737",
+        "created_at": "2026-07-22T20:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080029980080398737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080029980080398737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们都是天赋党，昨天晚上跟群友发电话GD了，我是顺直男😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28709,
+          "following_count": 11950,
+          "like_count": 95787,
+          "listed_count": 105,
+          "media_count": 5498,
+          "tweet_count": 19340
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiutao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiutao",
+                "start": 0,
+                "url": "https://t.co/r2yUTmzIja"
+              }
+            ]
+          }
+        },
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072324031664275752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341755046486016/Z5gd4bcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 184,
+          "like_count": 175,
+          "listed_count": 8,
+          "media_count": 45,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/r2yUTmzIja",
+        "username": "jiutao1034",
+        "verified": true
+      }
+    ]
+  }
+}

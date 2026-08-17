@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084680646027628544"
+      ],
+      "media_source_tweet_id": [
+        "2084680858313867375"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084819939761045738",
+    "created_at": "2026-08-05T01:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084819939761045738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781893716183060480",
+          "start": 3,
+          "username": "akihiro_0313"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfapAntVqq",
+          "end": 74,
+          "expanded_url": "https://x.com/akihiro_0313/status/2084680858313867375/photo/1",
+          "media_key": "3_2084680646027628544",
+          "start": 51,
+          "url": "https://t.co/vfapAntVqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084819939761045738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084680858313867375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akihiro_0313: 恭喜自己的粉丝数量达到1亿，感谢全球各个国家和地区的朋友的支持~ https://t.co/vfapAntVqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2084680646027628544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5GAKCb0AAfldU.jpg",
+        "width": 1371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084680646027628544"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084680858313867375",
+        "created_at": "2026-08-04T16:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084680858313867375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfapAntVqq",
+              "end": 56,
+              "expanded_url": "https://x.com/akihiro_0313/status/2084680858313867375/photo/1",
+              "media_key": "3_2084680646027628544",
+              "start": 33,
+              "url": "https://t.co/vfapAntVqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084680858313867375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜自己的粉丝数量达到1亿，感谢全球各个国家和地区的朋友的支持~ https://t.co/vfapAntVqq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084680646027628544"
+          ],
+          "media_source_tweet_id": [
+            "2084680858313867375"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084819939761045738",
+        "created_at": "2026-08-05T01:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084819939761045738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781893716183060480",
+              "start": 3,
+              "username": "akihiro_0313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfapAntVqq",
+              "end": 74,
+              "expanded_url": "https://x.com/akihiro_0313/status/2084680858313867375/photo/1",
+              "media_key": "3_2084680646027628544",
+              "start": 51,
+              "url": "https://t.co/vfapAntVqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084819939761045738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084680858313867375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akihiro_0313: 恭喜自己的粉丝数量达到1亿，感谢全球各个国家和地区的朋友的支持~ https://t.co/vfapAntVqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29342,
+          "following_count": 12204,
+          "like_count": 96791,
+          "listed_count": 104,
+          "media_count": 5603,
+          "tweet_count": 19898
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n​✨ 二次元 & アニメ\n💻 プログラミング\n✏️ 日本語勉強中\n​気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro.03131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro.03131",
+                "start": 0,
+                "url": "https://t.co/cWs0qXeWVS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079848684662202369/1bYOBN1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 2576,
+          "like_count": 12271,
+          "listed_count": 1,
+          "media_count": 1313,
+          "tweet_count": 9542
+        },
+        "url": "https://t.co/cWs0qXeWVS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

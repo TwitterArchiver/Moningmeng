@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082726697326305280"
+      ],
+      "media_source_tweet_id": [
+        "2082726699859603484"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083046850916155552",
+    "created_at": "2026-07-31T04:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083046850916155552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2075765382602969088",
+          "start": 3,
+          "username": "lxlUsually1101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yLpRmf6Q5M",
+          "end": 63,
+          "expanded_url": "https://x.com/lxlUsually1101/status/2082726699859603484/photo/1",
+          "media_key": "3_2082726697326305280",
+          "start": 40,
+          "url": "https://t.co/yLpRmf6Q5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083046850916155552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082726699859603484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxlUsually1101: 有个推友送了窝好多糖。\n太感谢了。☺️ https://t.co/yLpRmf6Q5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082726697326305280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdU5X5bYAADjeE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082726697326305280"
+          ]
+        },
+        "author_id": "2075765382602969088",
+        "conversation_id": "2082726699859603484",
+        "created_at": "2026-07-30T07:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082726699859603484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLpRmf6Q5M",
+              "end": 43,
+              "expanded_url": "https://x.com/lxlUsually1101/status/2082726699859603484/photo/1",
+              "media_key": "3_2082726697326305280",
+              "start": 20,
+              "url": "https://t.co/yLpRmf6Q5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082726699859603484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6377,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有个推友送了窝好多糖。\n太感谢了。☺️ https://t.co/yLpRmf6Q5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082726697326305280"
+          ],
+          "media_source_tweet_id": [
+            "2082726699859603484"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083046850916155552",
+        "created_at": "2026-07-31T04:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083046850916155552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2075765382602969088",
+              "start": 3,
+              "username": "lxlUsually1101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLpRmf6Q5M",
+              "end": 63,
+              "expanded_url": "https://x.com/lxlUsually1101/status/2082726699859603484/photo/1",
+              "media_key": "3_2082726697326305280",
+              "start": 40,
+              "url": "https://t.co/yLpRmf6Q5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083046850916155552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082726699859603484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxlUsually1101: 有个推友送了窝好多糖。\n太感谢了。☺️ https://t.co/yLpRmf6Q5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29196,
+          "following_count": 12128,
+          "like_count": 96623,
+          "listed_count": 104,
+          "media_count": 5573,
+          "tweet_count": 19750
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T02:15:16.000Z",
+        "description": "MTF | 坚持一个中国原则 | 生产日期2012.11.1 | 真寻粉 | 无证含糖 | 含糖日期2026.7.24 | 1米65 | BMI 19 | 墙内🐧：3886681920",
+        "id": "2075765382602969088",
+        "location": "广东省,江门市",
+        "name": "Usually🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077894554313953280/K-eTBj3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 163,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "lxlUsually1101",
+        "verified": false
+      }
+    ]
+  }
+}

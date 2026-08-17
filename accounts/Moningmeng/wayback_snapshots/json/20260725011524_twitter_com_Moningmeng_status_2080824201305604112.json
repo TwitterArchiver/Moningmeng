@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080707955964760064"
+      ],
+      "media_source_tweet_id": [
+        "2080708291798441987"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080824201305604112",
+    "created_at": "2026-07-25T01:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080824201305604112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "157011960",
+          "start": 3,
+          "username": "f_aswadi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tBdzJuVBAt",
+          "end": 50,
+          "expanded_url": "https://x.com/f_aswadi/status/2080708291798441987/photo/1",
+          "media_key": "3_2080707955964760064",
+          "start": 27,
+          "url": "https://t.co/tBdzJuVBAt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080824201305604112",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080708291798441987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @f_aswadi: اضغط مطولا 😏 https://t.co/tBdzJuVBAt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2080707955964760064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAo3KSb0AAFqYV.png",
+        "width": 2432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080707955964760064"
+          ]
+        },
+        "author_id": "157011960",
+        "conversation_id": "2080708291798441987",
+        "created_at": "2026-07-24T17:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080708291798441987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBdzJuVBAt",
+              "end": 36,
+              "expanded_url": "https://x.com/f_aswadi/status/2080708291798441987/photo/1",
+              "media_key": "3_2080707955964760064",
+              "start": 13,
+              "url": "https://t.co/tBdzJuVBAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080708291798441987",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2379,
+          "impression_count": 3357770,
+          "like_count": 19739,
+          "quote_count": 56,
+          "reply_count": 148,
+          "retweet_count": 309
+        },
+        "reply_settings": "everyone",
+        "text": "اضغط مطولا 😏 https://t.co/tBdzJuVBAt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080707955964760064"
+          ],
+          "media_source_tweet_id": [
+            "2080708291798441987"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080824201305604112",
+        "created_at": "2026-07-25T01:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080824201305604112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "157011960",
+              "start": 3,
+              "username": "f_aswadi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBdzJuVBAt",
+              "end": 50,
+              "expanded_url": "https://x.com/f_aswadi/status/2080708291798441987/photo/1",
+              "media_key": "3_2080707955964760064",
+              "start": 27,
+              "url": "https://t.co/tBdzJuVBAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080824201305604112",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080708291798441987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @f_aswadi: اضغط مطولا 😏 https://t.co/tBdzJuVBAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证 \n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28810,
+          "following_count": 12041,
+          "like_count": 96330,
+          "listed_count": 105,
+          "media_count": 5529,
+          "tweet_count": 19535
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-18T15:53:05.000Z",
+        "description": "كاتب وصانع محتوى تقني\n مدرب تقني ودربت اكثر من 150 الف متدرب حول العالم.\nمؤسس مساعد لعنب بودكاست\n @enabpodcast",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "enabpodcast"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alaswadi.github.io",
+                "end": 23,
+                "expanded_url": "https://alaswadi.github.io/",
+                "start": 0,
+                "url": "https://t.co/xrAcnpKYpl"
+              }
+            ]
+          }
+        },
+        "id": "157011960",
+        "location": "/etc/passwd",
+        "name": "Fadi Al-Aswadi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995068834672250881/WsrB8KhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72363,
+          "following_count": 95,
+          "like_count": 5916,
+          "listed_count": 365,
+          "media_count": 1797,
+          "tweet_count": 12785
+        },
+        "url": "https://t.co/xrAcnpKYpl",
+        "username": "f_aswadi",
+        "verified": true
+      }
+    ]
+  }
+}

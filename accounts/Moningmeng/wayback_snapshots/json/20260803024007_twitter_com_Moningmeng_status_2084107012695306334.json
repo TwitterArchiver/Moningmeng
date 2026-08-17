@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083853715325464576"
+      ],
+      "media_source_tweet_id": [
+        "2083853724485873967"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2084107012695306334",
+    "created_at": "2026-08-03T02:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084107012695306334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813768883540725760",
+          "start": 3,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/znDl0bT5YO",
+          "end": 86,
+          "expanded_url": "https://x.com/ye_and_yae/status/2083853724485873967/photo/1",
+          "media_key": "3_2083853715325464576",
+          "start": 63,
+          "url": "https://t.co/znDl0bT5YO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084107012695306334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083853724485873967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye_and_yae: ？？？如果她证件齐全，为什么不能出国呢？仅仅家里不同意\n（我不太清楚出国流程，有点疑惑而已） https://t.co/znDl0bT5YO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2083853715325464576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtV6dHaMAAEQ5w.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083853715325464576"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "conversation_id": "2083853724485873967",
+        "created_at": "2026-08-02T09:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083853724485873967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znDl0bT5YO",
+              "end": 70,
+              "expanded_url": "https://x.com/ye_and_yae/status/2083853724485873967/photo/1",
+              "media_key": "3_2083853715325464576",
+              "start": 47,
+              "url": "https://t.co/znDl0bT5YO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083853724485873967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 76638,
+          "like_count": 269,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？？？如果她证件齐全，为什么不能出国呢？仅仅家里不同意\n（我不太清楚出国流程，有点疑惑而已） https://t.co/znDl0bT5YO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083853715325464576"
+          ],
+          "media_source_tweet_id": [
+            "2083853724485873967"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2084107012695306334",
+        "created_at": "2026-08-03T02:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084107012695306334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813768883540725760",
+              "start": 3,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/znDl0bT5YO",
+              "end": 86,
+              "expanded_url": "https://x.com/ye_and_yae/status/2083853724485873967/photo/1",
+              "media_key": "3_2083853715325464576",
+              "start": 63,
+              "url": "https://t.co/znDl0bT5YO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084107012695306334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083853724485873967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ye_and_yae: ？？？如果她证件齐全，为什么不能出国呢？仅仅家里不同意\n（我不太清楚出国流程，有点疑惑而已） https://t.co/znDl0bT5YO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29311,
+          "following_count": 12153,
+          "like_count": 96733,
+          "listed_count": 104,
+          "media_count": 5589,
+          "tweet_count": 19833
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "距你11.4km",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 1172,
+          "like_count": 9308,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 4252
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080171027829862400"
+      ],
+      "media_source_tweet_id": [
+        "2080171033861263721"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2080291330841092504",
+    "created_at": "2026-07-23T13:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080291330841092504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsmyMCNFa6",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/2080171033861263721/photo/1",
+          "media_key": "3_2080171027829862400",
+          "start": 16,
+          "url": "https://t.co/bsmyMCNFa6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080291330841092504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080171033861263721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 喵喵 https://t.co/bsmyMCNFa6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2080171027829862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5Ah1HbsAAko2r.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080171027829862400"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2080171033861263721",
+        "created_at": "2026-07-23T05:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080171033861263721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsmyMCNFa6",
+              "end": 26,
+              "expanded_url": "https://x.com/gdioiui/status/2080171033861263721/photo/1",
+              "media_key": "3_2080171027829862400",
+              "start": 3,
+              "url": "https://t.co/bsmyMCNFa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080171033861263721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5986,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵 https://t.co/bsmyMCNFa6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080171027829862400"
+          ],
+          "media_source_tweet_id": [
+            "2080171033861263721"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2080291330841092504",
+        "created_at": "2026-07-23T13:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080291330841092504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsmyMCNFa6",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2080171033861263721/photo/1",
+              "media_key": "3_2080171027829862400",
+              "start": 16,
+              "url": "https://t.co/bsmyMCNFa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080291330841092504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080171033861263721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 喵喵 https://t.co/bsmyMCNFa6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28730,
+          "following_count": 11950,
+          "like_count": 95833,
+          "listed_count": 105,
+          "media_count": 5502,
+          "tweet_count": 19357
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 493,
+          "like_count": 4590,
+          "listed_count": 5,
+          "media_count": 1624,
+          "tweet_count": 8382
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

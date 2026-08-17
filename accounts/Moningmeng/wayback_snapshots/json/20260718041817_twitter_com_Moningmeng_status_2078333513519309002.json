@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077943288930439168",
+        "3_2077943316369604608",
+        "3_2077943362762780672",
+        "3_2077943408212201473"
+      ],
+      "media_source_tweet_id": [
+        "2078072236154421657",
+        "2078072236154421657",
+        "2078072236154421657",
+        "2078072236154421657"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078333513519309002",
+    "created_at": "2026-07-18T04:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078333513519309002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQTwvNtNfB",
+          "end": 73,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+          "media_key": "3_2077943288930439168",
+          "start": 50,
+          "url": "https://t.co/HQTwvNtNfB"
+        },
+        {
+          "display_url": "pic.x.com/HQTwvNtNfB",
+          "end": 73,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+          "media_key": "3_2077943316369604608",
+          "start": 50,
+          "url": "https://t.co/HQTwvNtNfB"
+        },
+        {
+          "display_url": "pic.x.com/HQTwvNtNfB",
+          "end": 73,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+          "media_key": "3_2077943362762780672",
+          "start": 50,
+          "url": "https://t.co/HQTwvNtNfB"
+        },
+        {
+          "display_url": "pic.x.com/HQTwvNtNfB",
+          "end": 73,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+          "media_key": "3_2077943408212201473",
+          "start": 50,
+          "url": "https://t.co/HQTwvNtNfB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078333513519309002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078072236154421657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 后续：全国各地的电子大屏均出现“禁止虐待动物”的公益宣传。 https://t.co/HQTwvNtNfB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077943288930439168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWaXAbEAA_POD.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2077943316369604608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWb9ObgAAb9EA.jpg",
+        "width": 968
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2077943362762780672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWeqDbMAA-VcP.jpg",
+        "width": 966
+      },
+      {
+        "height": 877,
+        "media_key": "3_2077943408212201473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWhTXaUAEnHQi.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077943288930439168",
+            "3_2077943316369604608",
+            "3_2077943362762780672",
+            "3_2077943408212201473"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078072236154421657",
+        "created_at": "2026-07-17T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078072236154421657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943288930439168",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943316369604608",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943362762780672",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943408212201473",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2077282011287589173",
+              "start": 54,
+              "url": "https://t.co/VcPVUO0Ij5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072236154421657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 155635,
+          "like_count": 1267,
+          "quote_count": 11,
+          "reply_count": 134,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077282011287589173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续：全国各地的电子大屏均出现“禁止虐待动物”的公益宣传。 https://t.co/HQTwvNtNfB https://t.co/VcPVUO0Ij5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077943288930439168",
+            "3_2077943316369604608",
+            "3_2077943362762780672",
+            "3_2077943408212201473"
+          ],
+          "media_source_tweet_id": [
+            "2078072236154421657",
+            "2078072236154421657",
+            "2078072236154421657",
+            "2078072236154421657"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078333513519309002",
+        "created_at": "2026-07-18T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078333513519309002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943288930439168",
+              "start": 50,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943316369604608",
+              "start": 50,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943362762780672",
+              "start": 50,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943408212201473",
+              "start": 50,
+              "url": "https://t.co/HQTwvNtNfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078333513519309002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078072236154421657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 后续：全国各地的电子大屏均出现“禁止虐待动物”的公益宣传。 https://t.co/HQTwvNtNfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2077683099979382894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28436,
+          "following_count": 11795,
+          "like_count": 95030,
+          "listed_count": 105,
+          "media_count": 5451,
+          "tweet_count": 19082
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241693,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8825,
+          "media_count": 50583,
+          "tweet_count": 57800
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

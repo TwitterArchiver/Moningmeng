@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2083043695042142382",
+    "created_at": "2026-07-31T04:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083043695042142382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055228634710065152",
+          "start": 3,
+          "username": "Ruai_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083043695042142382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082773782381629859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruai_0324: 没有人关心我 我不配获得爱 所有人都只会拿我过渡\n貌似已经哭尽了眼泪呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2083043695042142382",
+        "created_at": "2026-07-31T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083043695042142382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055228634710065152",
+              "start": 3,
+              "username": "Ruai_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083043695042142382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082773782381629859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruai_0324: 没有人关心我 我不配获得爱 所有人都只会拿我过渡\n貌似已经哭尽了眼泪呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055228634710065152",
+        "conversation_id": "2082773782381629859",
+        "created_at": "2026-07-30T10:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082773782381629859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082773782381629859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人关心我 我不配获得爱 所有人都只会拿我过渡\n貌似已经哭尽了眼泪呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29192,
+          "following_count": 12123,
+          "like_count": 96586,
+          "listed_count": 104,
+          "media_count": 5569,
+          "tweet_count": 19725
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "@Xiaoyi_0324 简中繁中混用｜这个号只有一些负面情绪和碎碎念 酌情观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzl8Sm"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "location": "来玩提问箱吧求求你了😭",
+        "name": "Ruai_🍥",
+        "pinned_tweet_id": "2077303624611557386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 99,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/mApcFzl8Sm",
+        "username": "Ruai_0324",
+        "verified": false
+      }
+    ]
+  }
+}
