@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2092902082282221784",
+    "created_at": "2026-08-27T09:08:35.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092902082282221784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3753620716",
+          "start": 3,
+          "username": "AbohadyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092902082282221784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092543175441420745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbohadyS: 不得不说满脑子色情内容真的会很影响正常生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2092902082282221784",
+        "created_at": "2026-08-27T09:08:35.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092902082282221784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3753620716",
+              "start": 3,
+              "username": "AbohadyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092902082282221784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092543175441420745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbohadyS: 不得不说满脑子色情内容真的会很影响正常生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3753620716",
+        "conversation_id": "2092543175441420745",
+        "created_at": "2026-08-26T09:22:25.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092543175441420745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092543175441420745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 196669,
+          "like_count": 1601,
+          "quote_count": 4,
+          "reply_count": 559,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "不得不说满脑子色情内容真的会很影响正常生活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2092902082282221784",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2090048700722847934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29722,
+          "following_count": 12188,
+          "like_count": 98822,
+          "listed_count": 105,
+          "media_count": 5769,
+          "tweet_count": 20519
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-09-23T22:04:10.000Z",
+        "description": "我也想被爱 小号@ckyoa5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "ckyoa5"
+              }
+            ]
+          }
+        },
+        "id": "3753620716",
+        "is_identity_verified": false,
+        "location": "有🚪",
+        "most_recent_tweet_id": "2092671562222842254",
+        "name": "Lin",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092173965095849984/AwXWxz7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 11,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "AbohadyS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

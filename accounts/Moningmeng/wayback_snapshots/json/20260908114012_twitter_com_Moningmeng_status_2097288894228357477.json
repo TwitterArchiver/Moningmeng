@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097080520878518272",
+        "3_2097080526427566080",
+        "7_2097080530735149056"
+      ],
+      "media_source_tweet_id": [
+        "2097080739317899568",
+        "2097080739317899568",
+        "2097080739317899568"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2097288894228357477",
+    "created_at": "2026-09-08T11:40:12.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097288894228357477"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "wlw"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "les"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "女同性恋"
+        },
+        {
+          "end": 68,
+          "start": 58,
+          "tag": "transbian"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055205435011936256",
+          "start": 3,
+          "username": "Amin1650752"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eckzFFntFT",
+          "end": 92,
+          "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+          "media_key": "3_2097080520878518272",
+          "start": 69,
+          "url": "https://t.co/eckzFFntFT"
+        },
+        {
+          "display_url": "pic.x.com/eckzFFntFT",
+          "end": 92,
+          "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+          "media_key": "3_2097080526427566080",
+          "start": 69,
+          "url": "https://t.co/eckzFFntFT"
+        },
+        {
+          "display_url": "pic.x.com/eckzFFntFT",
+          "end": 92,
+          "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+          "media_key": "7_2097080530735149056",
+          "start": 69,
+          "url": "https://t.co/eckzFFntFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097288894228357477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097080520878518272"
+      },
+      {
+        "media_key": "3_2097080526427566080"
+      },
+      {
+        "media_key": "7_2097080530735149056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097080739317899568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amin1650752: 再来一条。\ntransles和女朋友的爱灯建设。\n#wlw #les #女同性恋 #transbian https://t.co/eckzFFntFT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2097080520878518272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpTn3ha8AAwTY5.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2133,
+        "media_key": "3_2097080526427566080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpToMMasAAUthB.jpg",
+        "width": 1600
+      },
+      {
+        "duration_ms": 10425,
+        "height": 1280,
+        "media_key": "7_2097080530735149056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2097080530735149056/pu/img/nBbFpVGdzpktO0_C.jpg",
+        "public_metrics": {
+          "view_count": 1050
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097080530735149056/pu/vid/avc1/320x568/qZ4U03W_YueNqsBz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097080530735149056/pu/vid/avc1/480x852/mH1Df0P9iia2Pf9Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097080530735149056/pu/vid/avc1/720x1280/kZHgKAv3VqyilUw9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2097080530735149056/pu/pl/W4mawepN9gZZV3c-.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097080520878518272",
+            "3_2097080526427566080",
+            "7_2097080530735149056"
+          ],
+          "media_source_tweet_id": [
+            "2097080739317899568",
+            "2097080739317899568",
+            "2097080739317899568"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2097288894228357477",
+        "created_at": "2026-09-08T11:40:12.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097288894228357477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "wlw"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "les"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "transbian"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055205435011936256",
+              "start": 3,
+              "username": "Amin1650752"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eckzFFntFT",
+              "end": 92,
+              "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+              "media_key": "3_2097080520878518272",
+              "start": 69,
+              "url": "https://t.co/eckzFFntFT"
+            },
+            {
+              "display_url": "pic.x.com/eckzFFntFT",
+              "end": 92,
+              "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+              "media_key": "3_2097080526427566080",
+              "start": 69,
+              "url": "https://t.co/eckzFFntFT"
+            },
+            {
+              "display_url": "pic.x.com/eckzFFntFT",
+              "end": 92,
+              "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+              "media_key": "7_2097080530735149056",
+              "start": 69,
+              "url": "https://t.co/eckzFFntFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097288894228357477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097080520878518272"
+          },
+          {
+            "media_key": "3_2097080526427566080"
+          },
+          {
+            "media_key": "7_2097080530735149056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097080739317899568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amin1650752: 再来一条。\ntransles和女朋友的爱灯建设。\n#wlw #les #女同性恋 #transbian https://t.co/eckzFFntFT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097080520878518272",
+            "3_2097080526427566080",
+            "7_2097080530735149056"
+          ]
+        },
+        "author_id": "2055205435011936256",
+        "conversation_id": "2097080739317899568",
+        "created_at": "2026-09-07T21:53:04.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097080739317899568"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "wlw"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "les"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "transbian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eckzFFntFT",
+              "end": 75,
+              "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+              "media_key": "3_2097080520878518272",
+              "start": 52,
+              "url": "https://t.co/eckzFFntFT"
+            },
+            {
+              "display_url": "pic.x.com/eckzFFntFT",
+              "end": 75,
+              "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+              "media_key": "3_2097080526427566080",
+              "start": 52,
+              "url": "https://t.co/eckzFFntFT"
+            },
+            {
+              "display_url": "pic.x.com/eckzFFntFT",
+              "end": 75,
+              "expanded_url": "https://x.com/Amin1650752/status/2097080739317899568/video/1",
+              "media_key": "7_2097080530735149056",
+              "start": 52,
+              "url": "https://t.co/eckzFFntFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097080739317899568",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097080520878518272"
+          },
+          {
+            "media_key": "3_2097080526427566080"
+          },
+          {
+            "media_key": "7_2097080530735149056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 5255,
+          "like_count": 658,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "再来一条。\ntransles和女朋友的爱灯建设。\n#wlw #les #女同性恋 #transbian https://t.co/eckzFFntFT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2097288894228357477",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30062,
+          "following_count": 12169,
+          "like_count": 99291,
+          "listed_count": 105,
+          "media_count": 5827,
+          "tweet_count": 20679
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "姛/mtf/HRT 24.9.21/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/q2418203817（猫の箱）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "RiNG",
+        "most_recent_tweet_id": "2097263593607844005",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2095712124458995938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1788541715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096133941447299072/quH4TbTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1133,
+          "like_count": 16163,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1313
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

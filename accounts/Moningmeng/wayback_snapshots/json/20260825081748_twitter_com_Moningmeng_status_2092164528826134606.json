@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2092164528826134606",
+    "created_at": "2026-08-25T08:17:48.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092164528826134606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089034928982052864",
+          "start": 3,
+          "username": "Zhan1ao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092164528826134606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091890760820113784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhan1ao: 为什么我在推特上没见过朝鲜人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2092164528826134606",
+        "created_at": "2026-08-25T08:17:48.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092164528826134606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089034928982052864",
+              "start": 3,
+              "username": "Zhan1ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092164528826134606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091890760820113784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhan1ao: 为什么我在推特上没见过朝鲜人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089034928982052864",
+        "conversation_id": "2091890760820113784",
+        "created_at": "2026-08-24T14:09:57.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091890760820113784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091890760820113784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 174799,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 256,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我在推特上没见过朝鲜人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2092164528826134606",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2090048700722847934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29700,
+          "following_count": 12205,
+          "like_count": 98684,
+          "listed_count": 105,
+          "media_count": 5753,
+          "tweet_count": 20480
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T17:02:50.000Z",
+        "description": "源头对接收单 欢迎老板下单 覆盖查档业务 效率出单拉满 电报联系  https://t.co/vGvc0CaX1K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/u7chadang",
+                "end": 57,
+                "expanded_url": "https://t.me/u7chadang",
+                "start": 34,
+                "url": "https://t.co/vGvc0CaX1K"
+              }
+            ]
+          }
+        },
+        "id": "2089034928982052864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092152120434983202",
+        "name": "斩妖",
+        "pinned_tweet_id": "2089886727725043809",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089034928982052864/1786978453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089035380641472512/g0RW5RjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 39,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Zhan1ao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

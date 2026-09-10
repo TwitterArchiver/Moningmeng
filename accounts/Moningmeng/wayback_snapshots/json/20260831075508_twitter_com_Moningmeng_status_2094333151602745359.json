@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2094333151602745359",
+    "created_at": "2026-08-31T07:55:08.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094333151602745359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AsahinaShikure…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AsahinaShikure/status/2094229439945035927",
+          "start": 21,
+          "url": "https://t.co/0hJmtLjdPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094333151602745359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094229439945035927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有辜负我对中国教育环境的期待和第一印象 https://t.co/0hJmtLjdPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094229426716180480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAykWGWgAAWggf.jpg",
+        "width": 441
+      },
+      {
+        "height": 1490,
+        "media_key": "3_2094229426695241728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAykWBXAAAK2nV.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2094333151602745359",
+        "created_at": "2026-08-31T07:55:08.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094333151602745359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsahinaShikure…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AsahinaShikure/status/2094229439945035927",
+              "start": 21,
+              "url": "https://t.co/0hJmtLjdPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094333151602745359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094229439945035927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有辜负我对中国教育环境的期待和第一印象 https://t.co/0hJmtLjdPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094229426716180480",
+            "3_2094229426695241728"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094229439945035927",
+        "created_at": "2026-08-31T01:03:02.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094229439945035927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IidTz9hQWG",
+              "end": 104,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+              "media_key": "3_2094229426716180480",
+              "start": 81,
+              "url": "https://t.co/IidTz9hQWG"
+            },
+            {
+              "display_url": "pic.x.com/IidTz9hQWG",
+              "end": 104,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2094229439945035927/photo/1",
+              "media_key": "3_2094229426695241728",
+              "start": 81,
+              "url": "https://t.co/IidTz9hQWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094229439945035927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094229426716180480"
+          },
+          {
+            "media_key": "3_2094229426695241728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，中国教师公开嘲讽跨性别学生身份。\n\n据网传的聊天记录显示，一名15岁跨性别学生离家流浪、差点饿死在街上后，其班主任通过同学拿到QQ号，主动联系并公开嘲笑。\n\n班主任称“才15就上街流浪了”“看到了吧，不好好学习就这个下场”，并嘲讽对方“听说你还吃激素当药娘，早晚变成没人要的人妖”，同时还挑衅询问“过的惨不惨呐”。\n\n学生回应“嘲笑就算了，你怎么不帮我”“我差点饿死在街上你知道吗”，并表示已向校长举报，称对方教资可能保不住。班主任则回“那又怎么样”“我才不怕校长呢”，并问对方“还不回来上学吗”。\n\n学生表示不想回去上学“太苦”，并称已经举报。相关记录随后被发至群聊，有人评论“班主任真要这么说话那教资直接飞起来了”“这种班主任就等着被处分吧”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 39236,
+          "like_count": 346,
+          "quote_count": 22,
+          "reply_count": 106,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "近日，中国教师公开嘲讽跨性别学生身份。\n\n据网传的聊天记录显示，一名15岁跨性别学生离家流浪、差点饿死在街上后，其班主任通过同学拿到QQ号，主动联系并公开嘲笑。 https://t.co/IidTz9hQWG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2094333151602745359",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29880,
+          "following_count": 12179,
+          "like_count": 99153,
+          "listed_count": 106,
+          "media_count": 5796,
+          "tweet_count": 20596
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬| 中三学生| 14岁| MtF🏳️‍⚧️|格里芬联邦共和国@urggov 现任总统|社会自由主义|世界计划|我不是中国人|时事评论 从新加坡看大中华|朝比奈まふゆ と 曉山瑞希 激推|语言🇺🇸🇨🇳🇯🇵🇫🇷| 好朋友喵@Lzy2859905CH @Shadowin__ 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "urggov"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Lzy2859905CH"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Shadowin__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://president.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/qO9KGP3jOc"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2094330009682911324",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2094229439945035927",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1788141292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091024711375368192/sRv1R2U2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 1600,
+          "like_count": 5937,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/qO9KGP3jOc",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

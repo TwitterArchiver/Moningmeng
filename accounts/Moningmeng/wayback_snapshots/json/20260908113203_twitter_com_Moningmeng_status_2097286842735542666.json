@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097192059656630272"
+      ],
+      "media_source_tweet_id": [
+        "2097192070557712758"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2097286842735542666",
+    "created_at": "2026-09-08T11:32:03.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097286842735542666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887391023976038400",
+          "start": 3,
+          "username": "xiey57828"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l3XYfTHIge",
+          "end": 57,
+          "expanded_url": "https://x.com/xiey57828/status/2097192070557712758/photo/1",
+          "media_key": "3_2097192059656630272",
+          "start": 34,
+          "url": "https://t.co/l3XYfTHIge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097286842735542666",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097192059656630272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097192070557712758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiey57828: 这才是研究生宿舍！！！（就我一个人） https://t.co/l3XYfTHIge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097192059656630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq5ER2acAA_Zcc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097192059656630272"
+          ],
+          "media_source_tweet_id": [
+            "2097192070557712758"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2097286842735542666",
+        "created_at": "2026-09-08T11:32:03.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097286842735542666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887391023976038400",
+              "start": 3,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3XYfTHIge",
+              "end": 57,
+              "expanded_url": "https://x.com/xiey57828/status/2097192070557712758/photo/1",
+              "media_key": "3_2097192059656630272",
+              "start": 34,
+              "url": "https://t.co/l3XYfTHIge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097286842735542666",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097192059656630272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097192070557712758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiey57828: 这才是研究生宿舍！！！（就我一个人） https://t.co/l3XYfTHIge"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097192059656630272"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2097192070557712758",
+        "created_at": "2026-09-08T05:15:28.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097192070557712758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3XYfTHIge",
+              "end": 42,
+              "expanded_url": "https://x.com/xiey57828/status/2097192070557712758/photo/1",
+              "media_key": "3_2097192059656630272",
+              "start": 19,
+              "url": "https://t.co/l3XYfTHIge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097192070557712758",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097192059656630272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2390,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这才是研究生宿舍！！！（就我一个人） https://t.co/l3XYfTHIge"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2097286842735542666",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30061,
+          "following_count": 12169,
+          "like_count": 99290,
+          "listed_count": 105,
+          "media_count": 5827,
+          "tweet_count": 20677
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "跨女\n\n游离在自恨与自我边缘的 #普通人\n\n牢记社会主义核心价值观：\n富强、民主、文明、和谐，\n自由、平等、公正、法治，\n爱国、敬业、诚信、友善。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "普通人"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2097281483383660632",
+        "name": "沐桃",
+        "pinned_tweet_id": "2092991194926284953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988151515017216/P8OI2B6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 549,
+          "like_count": 17130,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 6202
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
