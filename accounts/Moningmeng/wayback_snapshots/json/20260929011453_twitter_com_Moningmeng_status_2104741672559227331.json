@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104472962837729280"
+      ],
+      "media_source_tweet_id": [
+        "2104473116730941691"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104741672559227331",
+    "created_at": "2026-09-29T01:14:53.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T02:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104741672559227331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4313176880",
+          "start": 3,
+          "username": "fake_fuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K7SPet9755",
+          "end": 53,
+          "expanded_url": "https://x.com/fake_fuji/status/2104473116730941691/photo/1",
+          "media_key": "3_2104472962837729280",
+          "start": 30,
+          "url": "https://t.co/K7SPet9755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104741672559227331",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104472962837729280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104473116730941691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fake_fuji: 北京其实是一座「孤独摇滚」城 https://t.co/K7SPet9755"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2104472962837729280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSXAn1bUAAhdRg.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104472962837729280"
+          ],
+          "media_source_tweet_id": [
+            "2104473116730941691"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104741672559227331",
+        "created_at": "2026-09-29T01:14:53.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T02:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104741672559227331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4313176880",
+              "start": 3,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7SPet9755",
+              "end": 53,
+              "expanded_url": "https://x.com/fake_fuji/status/2104473116730941691/photo/1",
+              "media_key": "3_2104472962837729280",
+              "start": 30,
+              "url": "https://t.co/K7SPet9755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104741672559227331",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104472962837729280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104473116730941691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fake_fuji: 北京其实是一座「孤独摇滚」城 https://t.co/K7SPet9755"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104472962837729280"
+          ]
+        },
+        "author_id": "4313176880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104473116730941691",
+        "created_at": "2026-09-28T07:27:44.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104473116730941691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7SPet9755",
+              "end": 38,
+              "expanded_url": "https://x.com/fake_fuji/status/2104473116730941691/photo/1",
+              "media_key": "3_2104472962837729280",
+              "start": 15,
+              "url": "https://t.co/K7SPet9755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104473116730941691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104472962837729280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3591,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "北京其实是一座「孤独摇滚」城 https://t.co/K7SPet9755"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104741672559227331",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1790576974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30455,
+          "following_count": 12156,
+          "like_count": 99709,
+          "listed_count": 103,
+          "media_count": 5925,
+          "tweet_count": 20990
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2104671348488581457",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 764,
+          "like_count": 2359,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

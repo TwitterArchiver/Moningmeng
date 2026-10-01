@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2103880786542051442",
+    "created_at": "2026-09-26T16:14:02.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103880786542051442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2038849475368599552",
+          "start": 3,
+          "username": "z0uy1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103880786542051442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103860994556805517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z0uy1n: ほんそれ\n何を打ってもセンシティブ規制として引っかか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2103880786542051442",
+        "created_at": "2026-09-26T16:14:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103880786542051442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2038849475368599552",
+              "start": 3,
+              "username": "z0uy1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103880786542051442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103860994556805517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z0uy1n: ほんそれ\n何を打ってもセンシティブ規制として引っかか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038849475368599552",
+        "conversation_id": "2103860994556805517",
+        "created_at": "2026-09-26T14:55:23.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103860994556805517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_NB/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/wxb_NB/status/2103855118420701366",
+              "start": 27,
+              "url": "https://t.co/1XbHvsSJl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103860994556805517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103855118420701366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ほんそれ\n何を打ってもセンシティブ規制として引っかか https://t.co/1XbHvsSJl7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2103880786542051442",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30479,
+          "following_count": 12155,
+          "like_count": 99632,
+          "listed_count": 104,
+          "media_count": 5913,
+          "tweet_count": 20944
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T05:23:07.000Z",
+        "description": "主号@K0NS10\n姐姐@LIRU__55\n最推@Silver_Forest\n\nASD / Asia / 日本人 / 跨女 / 学生 / 金欠 / 萃香推\nHRT 2026/06/08~08/20(((\n语言：日/美/中\nbsky号: https://t.co/vxqbvxcZmZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "K0NS10"
+              },
+              {
+                "end": 21,
+                "start": 12,
+                "username": "LIRU__55"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "Silver_Forest"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "atp.knn40.uk",
+                "end": 141,
+                "expanded_url": "http://atp.knn40.uk",
+                "start": 118,
+                "url": "https://t.co/vxqbvxcZmZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "KNN40.UK",
+                "end": 23,
+                "expanded_url": "http://KNN40.UK",
+                "start": 0,
+                "url": "https://t.co/D6OKYTDF4d"
+              }
+            ]
+          }
+        },
+        "id": "2038849475368599552",
+        "is_identity_verified": false,
+        "location": "Oyama city, Tochigi pref",
+        "most_recent_tweet_id": "2103861622716637532",
+        "name": "ZòuYīn No.40❄️🏳️‍⚧️",
+        "pinned_tweet_id": "2101275779351158950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038849475368599552/1783422497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102021110586126337/Xcj3TQdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 515,
+          "like_count": 16015,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/D6OKYTDF4d",
+        "username": "z0uy1n",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

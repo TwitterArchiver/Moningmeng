@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2104742680723087394",
+    "created_at": "2026-09-29T01:18:53.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T02:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104742680723087394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1819276723290095616",
+          "start": 3,
+          "username": "Natsuki_803nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104742680723087394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104537132895555969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Natsuki_803nz: 今天那个医生对于我性别的事情，让家长对我“心理干预”…\n然后晚上一回酒店，咱就有种不祥的预感…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2104742680723087394",
+        "created_at": "2026-09-29T01:18:53.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T02:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104742680723087394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1819276723290095616",
+              "start": 3,
+              "username": "Natsuki_803nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104742680723087394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104537132895555969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Natsuki_803nz: 今天那个医生对于我性别的事情，让家长对我“心理干预”…\n然后晚上一回酒店，咱就有种不祥的预感…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2104537132895555969",
+        "created_at": "2026-09-28T11:42:07.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104537132895555969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104537132895555969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2207,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天那个医生对于我性别的事情，让家长对我“心理干预”…\n然后晚上一回酒店，咱就有种不祥的预感…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104742686431547871",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1790576974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30455,
+          "following_count": 12156,
+          "like_count": 99714,
+          "listed_count": 103,
+          "media_count": 5925,
+          "tweet_count": 20994
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高二｜山东临沂｜没钱｜无证含🍥(3.0版本｜🏳️‍⚧️｜重度抑郁｜周六晚上复活，消息回复可能不及时｜179cm/63kg｜百合｜交通迷｜无聊｜想被抱抱…\n小号备用：@Natsuki_nz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "Natsuki_nz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/natsuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/natsuki803.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Wqo3MVVi1w"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2104732545619566661",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2094084081340563588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819276723290095616/1771773388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087726087333957632/6Jp9VRIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 582,
+          "like_count": 3509,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/Wqo3MVVi1w",
+        "username": "Natsuki_803nz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

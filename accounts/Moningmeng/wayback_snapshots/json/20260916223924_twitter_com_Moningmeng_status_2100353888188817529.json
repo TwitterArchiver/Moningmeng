@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2100353888188817529",
+    "created_at": "2026-09-16T22:39:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100353888188817529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1894461745277931524",
+          "start": 3,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 79,
+          "id": "1894461745277931524",
+          "start": 64,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 91,
+          "id": "2031270533359349761",
+          "start": 80,
+          "username": "hailoveszw"
+        },
+        {
+          "end": 103,
+          "id": "2004272815181385729",
+          "start": 92,
+          "username": "BaiDierose"
+        },
+        {
+          "end": 116,
+          "id": "1657702204961361922",
+          "start": 104,
+          "username": "mxiyo160320"
+        },
+        {
+          "end": 133,
+          "id": "1498893713178644482",
+          "start": 117,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100353888188817529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100144759230943659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain_Antar1121: 六人大面面～在南京的六只xyn堆在一起开猫猫趴☺️好幸福喵…(⑅˘̤ ᵕ˘̤)*❤️*\n@Rain_Antar1121 @hailoveszw @BaiDierose @mxiyo160320 @ParanQidAndrQid @yx_B…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3008,
+        "media_key": "3_2100144733393928192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ggraQAAhIgN.jpg",
+        "width": 3008
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100144733666545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ghsaEAAM14L.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2100144733662433280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ghrbUAABRTo.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2305,
+        "media_key": "3_2100144733666582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU2ghsaoAAJrtc.jpg",
+        "width": 3073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2100353888188817529",
+        "created_at": "2026-09-16T22:39:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100353888188817529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1894461745277931524",
+              "start": 3,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 79,
+              "id": "1894461745277931524",
+              "start": 64,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 91,
+              "id": "2031270533359349761",
+              "start": 80,
+              "username": "hailoveszw"
+            },
+            {
+              "end": 103,
+              "id": "2004272815181385729",
+              "start": 92,
+              "username": "BaiDierose"
+            },
+            {
+              "end": 116,
+              "id": "1657702204961361922",
+              "start": 104,
+              "username": "mxiyo160320"
+            },
+            {
+              "end": 133,
+              "id": "1498893713178644482",
+              "start": 117,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100353888188817529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100144759230943659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain_Antar1121: 六人大面面～在南京的六只xyn堆在一起开猫猫趴☺️好幸福喵…(⑅˘̤ ᵕ˘̤)*❤️*\n@Rain_Antar1121 @hailoveszw @BaiDierose @mxiyo160320 @ParanQidAndrQid @yx_B…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100144733393928192",
+            "3_2100144733666545664",
+            "3_2100144733662433280",
+            "3_2100144733666582528"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100144759230943659",
+        "created_at": "2026-09-16T08:48:24.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100144759230943659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1894461745277931524",
+              "start": 44,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 71,
+              "id": "2031270533359349761",
+              "start": 60,
+              "username": "hailoveszw"
+            },
+            {
+              "end": 83,
+              "id": "2004272815181385729",
+              "start": 72,
+              "username": "BaiDierose"
+            },
+            {
+              "end": 96,
+              "id": "1657702204961361922",
+              "start": 84,
+              "username": "mxiyo160320"
+            },
+            {
+              "end": 113,
+              "id": "1498893713178644482",
+              "start": 97,
+              "username": "ParanQidAndrQid"
+            },
+            {
+              "end": 127,
+              "id": "1986489544045412352",
+              "start": 114,
+              "username": "yx_BA4UED_11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733393928192",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            },
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733666545664",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            },
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733662433280",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            },
+            {
+              "display_url": "pic.x.com/PcyrLD4bX9",
+              "end": 186,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100144759230943659/photo/1",
+              "media_key": "3_2100144733666582528",
+              "start": 163,
+              "url": "https://t.co/PcyrLD4bX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100144759230943659",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100144733393928192"
+          },
+          {
+            "media_key": "3_2100144733666545664"
+          },
+          {
+            "media_key": "3_2100144733662433280"
+          },
+          {
+            "media_key": "3_2100144733666582528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 59,
+                "id": "1894461745277931524",
+                "start": 44,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 71,
+                "id": "2031270533359349761",
+                "start": 60,
+                "username": "hailoveszw"
+              },
+              {
+                "end": 83,
+                "id": "2004272815181385729",
+                "start": 72,
+                "username": "BaiDierose"
+              },
+              {
+                "end": 96,
+                "id": "1657702204961361922",
+                "start": 84,
+                "username": "mxiyo160320"
+              },
+              {
+                "end": 113,
+                "id": "1498893713178644482",
+                "start": 97,
+                "username": "ParanQidAndrQid"
+              },
+              {
+                "end": 127,
+                "id": "1986489544045412352",
+                "start": 114,
+                "username": "yx_BA4UED_11"
+              }
+            ]
+          },
+          "text": "六人大面面～在南京的六只xyn堆在一起开猫猫趴☺️好幸福喵…(⑅˘̤ ᵕ˘̤)*❤️*\n@Rain_Antar1121 @hailoveszw @BaiDierose @mxiyo160320 @ParanQidAndrQid @yx_BA4UED_11 \n面基拼盘…拍出来像某种鱼板🍥风味披萨🍕～谢谢最好的你们愿意陪着咱🥰\n\n不知道吃什么，于是又去了米纸越南小馆🤤～下午逛了水平方的stage cafe女仆咖啡厅…然后晚上一起激情唱K～大家声音都好可爱唱功都好好听太惊艳了🥹回家就累瘫了但是这一天玩得超开心～今生难忘呀⸝⸝⸝˘◡˘♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12313,
+          "like_count": 99,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "六人大面面～在南京的六只xyn堆在一起开猫猫趴☺️好幸福喵…(⑅˘̤ ᵕ˘̤)*❤️*\n@Rain_Antar1121 @hailoveszw @BaiDierose @mxiyo160320 @ParanQidAndrQid @yx_BA4UED_11 \n面基拼盘…拍出来像某种鱼板🍥风味披萨🍕～谢谢最好的你们愿意陪着咱🥰 https://t.co/PcyrLD4bX9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2100353888188817529",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30428,
+          "following_count": 12161,
+          "like_count": 99583,
+          "listed_count": 104,
+          "media_count": 5883,
+          "tweet_count": 20853
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2100266575869919353",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5309,
+          "following_count": 7272,
+          "like_count": 21758,
+          "listed_count": 12,
+          "media_count": 476,
+          "tweet_count": 6491
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "（淡圈中）一个什么都不擅长的废物喵｜喜欢一切可爱事物｜entp-t ｜心归所至：@lfgy74025｜小宝宝：@YuChenawa @MZiyu81757｜mtx🏳️‍⚧️｜AGP｜生产日期：2008｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "lfgy74025"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MZiyu81757"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2100153513305411731",
+        "name": "senzhiwu",
+        "pinned_tweet_id": "2086291480478712245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031270533359349761/1787898878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088941031123505152/lRU5eFsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 444,
+          "like_count": 4152,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 2972
+        },
+        "url": "",
+        "username": "hailoveszw",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-25T19:27:43.000Z",
+        "description": "HRT2026.1.4 mtf 双相努力治疗中 不od、zc 常驻南京、上海 我是我老婆@runauua的老婆～\n目前的愿望是正常毕业然后读研出柜找工作养老婆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "runauua"
+              }
+            ]
+          }
+        },
+        "id": "2004272815181385729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100152567699513840",
+        "name": "白蝶🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004272990742368256/ErzYW1T3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 36,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "BaiDierose",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-14T11:00:28.000Z",
+        "description": "木下はるか | start 20260517 |有点內向的说|南京土著|嘛,至少做上了从初一以来一直想做的事  |好吧,炸了,又做不了了(20260802)|06|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mxiyo160320/bit",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mxiyo160320/bit",
+                "start": 0,
+                "url": "https://t.co/CGqL8VKWQN"
+              }
+            ]
+          }
+        },
+        "id": "1657702204961361922",
+        "is_identity_verified": false,
+        "location": "Odawara-shi, Kanagawa",
+        "most_recent_tweet_id": "2100225951334621258",
+        "name": "木下　はるか",
+        "pinned_tweet_id": "2100225951334621258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657702204961361922/1690424990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086063064928190464/1rleYwuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 2232,
+          "like_count": 4797,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/CGqL8VKWQN",
+        "username": "mxiyo160320",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 \n抒澄/Cassie ｜ She/They ｜ Aro-Ace",
+        "id": "1498893713178644482",
+        "is_identity_verified": false,
+        "location": "在你背后！",
+        "most_recent_tweet_id": "2100297615401472400",
+        "name": "呆頭鵝Cassie🍭",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498893713178644482/1674052819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039443279473958913/Ulx2qoUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 534,
+          "like_count": 30481,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 6196
+        },
+        "url": "",
+        "username": "ParanQidAndrQid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

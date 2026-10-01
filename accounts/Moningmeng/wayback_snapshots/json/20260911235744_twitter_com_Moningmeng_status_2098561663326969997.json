@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097564192614326272",
+        "3_2097564240878182400",
+        "3_2097564271127449600"
+      ],
+      "media_source_tweet_id": [
+        "2098229040695959825",
+        "2098229040695959825",
+        "2098229040695959825"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098561663326969997",
+    "created_at": "2026-09-11T23:57:44.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T00:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098561663326969997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1938260088923557888",
+          "start": 3,
+          "username": "Mercury86456701"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jzv1oDXDQf",
+          "end": 60,
+          "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+          "media_key": "13_2097564192614326272",
+          "start": 37,
+          "url": "https://t.co/Jzv1oDXDQf"
+        },
+        {
+          "display_url": "pic.x.com/Jzv1oDXDQf",
+          "end": 60,
+          "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+          "media_key": "3_2097564240878182400",
+          "start": 37,
+          "url": "https://t.co/Jzv1oDXDQf"
+        },
+        {
+          "display_url": "pic.x.com/Jzv1oDXDQf",
+          "end": 60,
+          "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+          "media_key": "3_2097564271127449600",
+          "start": 37,
+          "url": "https://t.co/Jzv1oDXDQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098561663326969997",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097564192614326272"
+      },
+      {
+        "media_key": "3_2097564240878182400"
+      },
+      {
+        "media_key": "3_2097564271127449600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098229040695959825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercury86456701: 食堂太贵还不让人家加餐吃个鸡了 https://t.co/Jzv1oDXDQf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12601,
+        "height": 1280,
+        "media_key": "13_2097564192614326272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097564192614326272/img/x9X3Kl0vhQWYgnjw.jpg",
+        "public_metrics": {
+          "view_count": 404052
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097564192614326272/vid/avc1/320x568/e9baJfxwn0N7jvEW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097564192614326272/vid/avc1/480x852/uRc8fCEKODxAuTLb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097564192614326272/vid/avc1/720x1280/_Axh4lWoSrSEeD4D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097564192614326272/pl/rEqTnOIkMmrHhM9h.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2097564240878182400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwLkE8bIAA40TL.jpg",
+        "width": 590
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2097564271127449600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwLl1oaUAAdKaK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097564192614326272",
+            "3_2097564240878182400",
+            "3_2097564271127449600"
+          ],
+          "media_source_tweet_id": [
+            "2098229040695959825",
+            "2098229040695959825",
+            "2098229040695959825"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098561663326969997",
+        "created_at": "2026-09-11T23:57:44.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T00:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098561663326969997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1938260088923557888",
+              "start": 3,
+              "username": "Mercury86456701"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jzv1oDXDQf",
+              "end": 60,
+              "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+              "media_key": "13_2097564192614326272",
+              "start": 37,
+              "url": "https://t.co/Jzv1oDXDQf"
+            },
+            {
+              "display_url": "pic.x.com/Jzv1oDXDQf",
+              "end": 60,
+              "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+              "media_key": "3_2097564240878182400",
+              "start": 37,
+              "url": "https://t.co/Jzv1oDXDQf"
+            },
+            {
+              "display_url": "pic.x.com/Jzv1oDXDQf",
+              "end": 60,
+              "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+              "media_key": "3_2097564271127449600",
+              "start": 37,
+              "url": "https://t.co/Jzv1oDXDQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098561663326969997",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097564192614326272"
+          },
+          {
+            "media_key": "3_2097564240878182400"
+          },
+          {
+            "media_key": "3_2097564271127449600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098229040695959825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercury86456701: 食堂太贵还不让人家加餐吃个鸡了 https://t.co/Jzv1oDXDQf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097564192614326272",
+            "3_2097564240878182400",
+            "3_2097564271127449600"
+          ]
+        },
+        "author_id": "1938260088923557888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098229040695959825",
+        "created_at": "2026-09-11T01:56:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098229040695959825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jzv1oDXDQf",
+              "end": 39,
+              "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+              "media_key": "13_2097564192614326272",
+              "start": 16,
+              "url": "https://t.co/Jzv1oDXDQf"
+            },
+            {
+              "display_url": "pic.x.com/Jzv1oDXDQf",
+              "end": 39,
+              "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+              "media_key": "3_2097564240878182400",
+              "start": 16,
+              "url": "https://t.co/Jzv1oDXDQf"
+            },
+            {
+              "display_url": "pic.x.com/Jzv1oDXDQf",
+              "end": 39,
+              "expanded_url": "https://x.com/Mercury86456701/status/2098229040695959825/video/1",
+              "media_key": "3_2097564271127449600",
+              "start": 16,
+              "url": "https://t.co/Jzv1oDXDQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098229040695959825",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097564192614326272"
+          },
+          {
+            "media_key": "3_2097564240878182400"
+          },
+          {
+            "media_key": "3_2097564271127449600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 584812,
+          "like_count": 2357,
+          "quote_count": 12,
+          "reply_count": 963,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "食堂太贵还不让人家加餐吃个鸡了 https://t.co/Jzv1oDXDQf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098561663326969997",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789083358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30193,
+          "following_count": 12180,
+          "like_count": 99268,
+          "listed_count": 105,
+          "media_count": 5849,
+          "tweet_count": 20754
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T15:36:38.000Z",
+        "description": "分享每日好心情💙💙💙蓝v互fo💯💯💯\n段子｜梗图｜人间百态",
+        "id": "1938260088923557888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098439852165599366",
+        "name": "果冻只吃喜之郎",
+        "pinned_tweet_id": "2087719571423908134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938260088923557888/1786071837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085562554361987072/66F-YBGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7776,
+          "following_count": 7433,
+          "like_count": 1581,
+          "listed_count": 3,
+          "media_count": 501,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "Mercury86456701",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087607790432886784",
+    "conversation_id": "2100849698101944352",
+    "created_at": "2026-09-18T15:34:30.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100971734832718067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100971734832718067",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100849698101944352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 应该没人比我玩的开了吧👑😜我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2087607790432886784].",
+      "parameter": "author_id",
+      "resource_id": "2087607790432886784",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2087607790432886784"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087607790432886784",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-18T15:34:30.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100971734832718067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100971734832718067",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100849698101944352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 应该没人比我玩的开了吧👑😜我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2100849698101944352",
+        "created_at": "2026-09-18T07:29:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100849698101944352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100849698101944352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为明确知道他人正在面临困难，想要自杀的同时，还向别人透露如何购买亚硝酸盐等药物，应该负严重责任。我承认，一个人如果铁了心，把亚硝酸盐的路径堵死之后他还会寻找其他的方法，终究可能还是无用功，但我始终坚持，托的时间越久，就越有可能让人的精神重回理智。试想如果有一个人想要自杀，他的手边恰好有足量的亚硝酸盐，那他可能直接一口吞下，但如果一个人想要自杀的同时，还需要现购买亚硝酸盐，在搜索以及等待物流的过程中就存在很长一段时间的缓冲期，在这之前，人的精神和判断力很可能重新回到正常高度，从而重新评估当前最合理的做法"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2105,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我认为明确知道他人正在面临困难，想要自杀的同时，还向别人透露如何购买亚硝酸盐等药物，应该负严重责任。我承认，一个人如果铁了心，把亚硝酸盐的路径堵死之后他还会寻找其他的方法，终究可能还是无用功，但我始终坚持，托的时间越久，就越有可能让人的精神重回理智。试想如果有一个人想要自杀，他的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2100962499788964080",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30430,
+          "following_count": 12156,
+          "like_count": 99570,
+          "listed_count": 104,
+          "media_count": 5891,
+          "tweet_count": 20860
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

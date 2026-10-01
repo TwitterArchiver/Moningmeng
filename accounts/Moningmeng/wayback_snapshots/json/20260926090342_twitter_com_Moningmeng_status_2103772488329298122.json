@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2103772488329298122",
+    "created_at": "2026-09-26T09:03:42.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103772488329298122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782410129012670464",
+          "start": 3,
+          "username": "ANDEL0426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103772488329298122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103628515916849399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ANDEL0426: 在火车站门口抽烟有山东老登说我女孩子还抽烟\n我说我是男的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2103772488329298122",
+        "created_at": "2026-09-26T09:03:42.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103772488329298122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782410129012670464",
+              "start": 3,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103772488329298122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103628515916849399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ANDEL0426: 在火车站门口抽烟有山东老登说我女孩子还抽烟\n我说我是男的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2103628515916849399",
+        "created_at": "2026-09-25T23:31:36.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103628515916849399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103628515916849399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2633,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在火车站门口抽烟有山东老登说我女孩子还抽烟\n我说我是男的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2103772488329298122",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30469,
+          "following_count": 12151,
+          "like_count": 99595,
+          "listed_count": 104,
+          "media_count": 5910,
+          "tweet_count": 20934
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜无性别烟鬼喵｜互fo\n日本語下手desu 好兄弟@yoruheartpath\n非眼熟私信只回口令\n🚪30 纯绿墙外不加v 非得加的话150\n2.0 @adCa00414 3.0 @hamisa414（都死了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "adCa00414"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "hamisa414"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "海女美术大学",
+        "most_recent_tweet_id": "2103756242095395188",
+        "name": "A(*^^*)D",
+        "pinned_tweet_id": "2102362102161965105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102977624972853248/F1ibTcqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 619,
+          "like_count": 3701,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1778
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098399529116803073"
+      ],
+      "media_source_tweet_id": [
+        "2098399619441184978"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098552063768805495",
+    "created_at": "2026-09-11T23:19:35.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T00:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098552063768805495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4313176880",
+          "start": 3,
+          "username": "fake_fuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5c8mNgNAm",
+          "end": 49,
+          "expanded_url": "https://x.com/fake_fuji/status/2098399619441184978/photo/1",
+          "media_key": "3_2098399529116803073",
+          "start": 26,
+          "url": "https://t.co/j5c8mNgNAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098552063768805495",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098399529116803073"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098399619441184978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fake_fuji: 这个人是和药娘有仇吗 https://t.co/j5c8mNgNAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2098399529116803073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8DQQHaoAEuz0J.jpg",
+        "width": 1882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098399529116803073"
+          ],
+          "media_source_tweet_id": [
+            "2098399619441184978"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098552063768805495",
+        "created_at": "2026-09-11T23:19:35.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T00:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098552063768805495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4313176880",
+              "start": 3,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5c8mNgNAm",
+              "end": 49,
+              "expanded_url": "https://x.com/fake_fuji/status/2098399619441184978/photo/1",
+              "media_key": "3_2098399529116803073",
+              "start": 26,
+              "url": "https://t.co/j5c8mNgNAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098552063768805495",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098399529116803073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098399619441184978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fake_fuji: 这个人是和药娘有仇吗 https://t.co/j5c8mNgNAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098399529116803073"
+          ]
+        },
+        "author_id": "4313176880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098399619441184978",
+        "created_at": "2026-09-11T13:13:50.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098399619441184978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5c8mNgNAm",
+              "end": 34,
+              "expanded_url": "https://x.com/fake_fuji/status/2098399619441184978/photo/1",
+              "media_key": "3_2098399529116803073",
+              "start": 11,
+              "url": "https://t.co/j5c8mNgNAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098399619441184978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098399529116803073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3179,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这个人是和药娘有仇吗 https://t.co/j5c8mNgNAm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098552063768805495",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789083358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30187,
+          "following_count": 12177,
+          "like_count": 99225,
+          "listed_count": 105,
+          "media_count": 5849,
+          "tweet_count": 20741
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2098441557200474530",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 552,
+          "like_count": 1486,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

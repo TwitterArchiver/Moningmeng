@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099038940028411904"
+      ],
+      "media_source_tweet_id": [
+        "2099038948672839746"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2099737924757753896",
+    "created_at": "2026-09-15T05:51:47.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099737924757753896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1589809419822329857",
+          "start": 3,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/de8wuFHhb0",
+          "end": 77,
+          "expanded_url": "https://x.com/jianlvup/status/2099038948672839746/photo/1",
+          "media_key": "3_2099038940028411904",
+          "start": 54,
+          "url": "https://t.co/de8wuFHhb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099737924757753896",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099038940028411904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099038948672839746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianlvup: 朝鲜在引进中国电视剧“人民的名义”的时候，特地删减了普通人使用互联网的场景剧情 https://t.co/de8wuFHhb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2099038940028411904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFIy3YbIAAYNfB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099038940028411904"
+          ],
+          "media_source_tweet_id": [
+            "2099038948672839746"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2099737924757753896",
+        "created_at": "2026-09-15T05:51:47.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099737924757753896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1589809419822329857",
+              "start": 3,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/de8wuFHhb0",
+              "end": 77,
+              "expanded_url": "https://x.com/jianlvup/status/2099038948672839746/photo/1",
+              "media_key": "3_2099038940028411904",
+              "start": 54,
+              "url": "https://t.co/de8wuFHhb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099737924757753896",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099038940028411904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099038948672839746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianlvup: 朝鲜在引进中国电视剧“人民的名义”的时候，特地删减了普通人使用互联网的场景剧情 https://t.co/de8wuFHhb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099038940028411904"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2099038948672839746",
+        "created_at": "2026-09-13T07:34:18.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099038948672839746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/de8wuFHhb0",
+              "end": 63,
+              "expanded_url": "https://x.com/jianlvup/status/2099038948672839746/photo/1",
+              "media_key": "3_2099038940028411904",
+              "start": 40,
+              "url": "https://t.co/de8wuFHhb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099038948672839746",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099038940028411904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 336158,
+          "like_count": 2807,
+          "quote_count": 1,
+          "reply_count": 375,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "朝鲜在引进中国电视剧“人民的名义”的时候，特地删减了普通人使用互联网的场景剧情 https://t.co/de8wuFHhb0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2099737924757753896",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30395,
+          "following_count": 12172,
+          "like_count": 99457,
+          "listed_count": 104,
+          "media_count": 5872,
+          "tweet_count": 20807
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "is_identity_verified": false,
+        "location": "为爱发电",
+        "most_recent_tweet_id": "2099646666790080834",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2099646030526681594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589809419822329857/1744989387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21169,
+          "following_count": 1634,
+          "like_count": 93339,
+          "listed_count": 71,
+          "media_count": 4441,
+          "tweet_count": 8379
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104121643564208128"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "conversation_id": "2104121652187664719",
+    "created_at": "2026-09-27T08:11:09.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104121652187664719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqm2K2EFkD",
+          "end": 51,
+          "expanded_url": "https://x.com/Moningmeng/status/2104121652187664719/photo/1",
+          "media_key": "3_2104121643564208128",
+          "start": 28,
+          "url": "https://t.co/tqm2K2EFkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104121652187664719",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104121643564208128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十几年后你的儿子问你当年没有AI的时候你怎么完成作业： https://t.co/tqm2K2EFkD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2104121643564208128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNXfJjbEAAKvQo.jpg",
+        "width": 2394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104121643564208128"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "2104121652187664719",
+        "created_at": "2026-09-27T08:11:09.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104121652187664719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqm2K2EFkD",
+              "end": 51,
+              "expanded_url": "https://x.com/Moningmeng/status/2104121652187664719/photo/1",
+              "media_key": "3_2104121643564208128",
+              "start": 28,
+              "url": "https://t.co/tqm2K2EFkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104121652187664719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104121643564208128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十几年后你的儿子问你当年没有AI的时候你怎么完成作业： https://t.co/tqm2K2EFkD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104121652187664719",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30476,
+          "following_count": 12146,
+          "like_count": 99667,
+          "listed_count": 104,
+          "media_count": 5916,
+          "tweet_count": 20957
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098104046804668416"
+      ],
+      "media_source_tweet_id": [
+        "2098194559549260145"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098392866615963826",
+    "created_at": "2026-09-11T12:47:00.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098392866615963826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987885638038036480",
+          "start": 3,
+          "username": "mizorewww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KKH7NGQrqV",
+          "end": 47,
+          "expanded_url": "https://x.com/mizorewww/status/2098194559549260145/photo/1",
+          "media_key": "3_2098104046804668416",
+          "start": 24,
+          "url": "https://t.co/KKH7NGQrqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098392866615963826",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098104046804668416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098194559549260145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizorewww: 看看大家的权重👀 https://t.co/KKH7NGQrqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2098104046804668416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR32g6uaEAAjWoF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098104046804668416"
+          ],
+          "media_source_tweet_id": [
+            "2098194559549260145"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098392866615963826",
+        "created_at": "2026-09-11T12:47:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098392866615963826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987885638038036480",
+              "start": 3,
+              "username": "mizorewww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKH7NGQrqV",
+              "end": 47,
+              "expanded_url": "https://x.com/mizorewww/status/2098194559549260145/photo/1",
+              "media_key": "3_2098104046804668416",
+              "start": 24,
+              "url": "https://t.co/KKH7NGQrqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098392866615963826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098104046804668416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098194559549260145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizorewww: 看看大家的权重👀 https://t.co/KKH7NGQrqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098104046804668416"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098194559549260145",
+        "created_at": "2026-09-10T23:39:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098194559549260145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKH7NGQrqV",
+              "end": 32,
+              "expanded_url": "https://x.com/mizorewww/status/2098194559549260145/photo/1",
+              "media_key": "3_2098104046804668416",
+              "start": 9,
+              "url": "https://t.co/KKH7NGQrqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098194559549260145",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098104046804668416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14307,
+          "like_count": 294,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "看看大家的权重👀 https://t.co/KKH7NGQrqV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098392866615963826",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789083358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30162,
+          "following_count": 12178,
+          "like_count": 99244,
+          "listed_count": 105,
+          "media_count": 5848,
+          "tweet_count": 20738
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2098376521455210889",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 1152,
+          "like_count": 34545,
+          "listed_count": 5,
+          "media_count": 1356,
+          "tweet_count": 6686
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

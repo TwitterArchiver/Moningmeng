@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1684788633797287936",
+    "conversation_id": "2104759337327763513",
+    "created_at": "2026-09-29T02:25:05.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104759337327763513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2051990529483927552",
+          "start": 3,
+          "username": "Heartfe1tear7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104759337327763513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104161691902828563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heartfe1tear7: 为什么国庆和中秋之间夹了个小三"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2104759337327763513",
+        "created_at": "2026-09-29T02:25:05.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104759337327763513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2051990529483927552",
+              "start": 3,
+              "username": "Heartfe1tear7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104759337327763513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104161691902828563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heartfe1tear7: 为什么国庆和中秋之间夹了个小三"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051990529483927552",
+        "conversation_id": "2104161691902828563",
+        "created_at": "2026-09-27T10:50:15.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104161691902828563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104161691902828563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 224553,
+          "like_count": 5932,
+          "quote_count": 32,
+          "reply_count": 473,
+          "retweet_count": 302
+        },
+        "reply_settings": "everyone",
+        "text": "为什么国庆和中秋之间夹了个小三"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104759347733798983",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1790576974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30458,
+          "following_count": 12158,
+          "like_count": 99725,
+          "listed_count": 103,
+          "media_count": 5925,
+          "tweet_count": 21003
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T11:45:51.000Z",
+        "description": "i was only temporary 2 u\n小号@Na1vetear7\n防走丢 @Amuletus7\n色情内容移步@Tearsvow4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Na1vetear7"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Amuletus7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Tearsvow4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/die4u87718",
+                "end": 23,
+                "expanded_url": "https://ngl.link/die4u87718",
+                "start": 0,
+                "url": "https://t.co/obGCOEHWJU"
+              }
+            ]
+          }
+        },
+        "id": "2051990529483927552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104713633817395444",
+        "name": "4747",
+        "pinned_tweet_id": "2104129429421301938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051990529483927552/1782992244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082457550386278400/e5DwgJ2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 300,
+          "like_count": 5146,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/obGCOEHWJU",
+        "username": "Heartfe1tear7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

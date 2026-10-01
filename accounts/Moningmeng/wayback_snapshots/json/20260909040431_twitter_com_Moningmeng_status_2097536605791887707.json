@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097169414848479233",
+        "3_2097169414840057856"
+      ],
+      "media_source_tweet_id": [
+        "2097169425128657036",
+        "2097169425128657036"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2097536605791887707",
+    "created_at": "2026-09-09T04:04:31.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T05:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097536605791887707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1144143792",
+          "start": 3,
+          "username": "__Crazy_Kid__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/urJztDgiB1",
+          "end": 74,
+          "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+          "media_key": "3_2097169414848479233",
+          "start": 51,
+          "url": "https://t.co/urJztDgiB1"
+        },
+        {
+          "display_url": "pic.x.com/urJztDgiB1",
+          "end": 74,
+          "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+          "media_key": "3_2097169414840057856",
+          "start": 51,
+          "url": "https://t.co/urJztDgiB1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097536605791887707",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097169414848479233"
+      },
+      {
+        "media_key": "3_2097169414840057856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097169425128657036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Crazy_Kid__: 现在才知道，学习强国在 App Store 里是没有评分系统的 https://t.co/urJztDgiB1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097169414848479233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqkeLXbgAEBxv7.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097169414840057856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqkeLVbAAAkn3J.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097169414848479233",
+            "3_2097169414840057856"
+          ],
+          "media_source_tweet_id": [
+            "2097169425128657036",
+            "2097169425128657036"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2097536605791887707",
+        "created_at": "2026-09-09T04:04:31.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097536605791887707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1144143792",
+              "start": 3,
+              "username": "__Crazy_Kid__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urJztDgiB1",
+              "end": 74,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+              "media_key": "3_2097169414848479233",
+              "start": 51,
+              "url": "https://t.co/urJztDgiB1"
+            },
+            {
+              "display_url": "pic.x.com/urJztDgiB1",
+              "end": 74,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+              "media_key": "3_2097169414840057856",
+              "start": 51,
+              "url": "https://t.co/urJztDgiB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097536605791887707",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097169414848479233"
+          },
+          {
+            "media_key": "3_2097169414840057856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097169425128657036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Crazy_Kid__: 现在才知道，学习强国在 App Store 里是没有评分系统的 https://t.co/urJztDgiB1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097169414848479233",
+            "3_2097169414840057856"
+          ]
+        },
+        "author_id": "1144143792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2097169425128657036",
+        "created_at": "2026-09-08T03:45:29.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097169425128657036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urJztDgiB1",
+              "end": 55,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+              "media_key": "3_2097169414848479233",
+              "start": 32,
+              "url": "https://t.co/urJztDgiB1"
+            },
+            {
+              "display_url": "pic.x.com/urJztDgiB1",
+              "end": 55,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2097169425128657036/photo/1",
+              "media_key": "3_2097169414840057856",
+              "start": 32,
+              "url": "https://t.co/urJztDgiB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097169425128657036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097169414848479233"
+          },
+          {
+            "media_key": "3_2097169414840057856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 64315,
+          "like_count": 294,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "现在才知道，学习强国在 App Store 里是没有评分系统的 https://t.co/urJztDgiB1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2097536605791887707",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30073,
+          "following_count": 12169,
+          "like_count": 99207,
+          "listed_count": 105,
+          "media_count": 5830,
+          "tweet_count": 20685
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心\nBuilding https://t.co/7U2e6cCH9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maimai-net.cn",
+                "end": 139,
+                "expanded_url": "https://maimai-net.cn/",
+                "start": 116,
+                "url": "https://t.co/7U2e6cCH9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eap0XQ"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2097492591478718867",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144143792/1767320896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5346,
+          "following_count": 1464,
+          "like_count": 19650,
+          "listed_count": 32,
+          "media_count": 11165,
+          "tweet_count": 51404
+        },
+        "url": "https://t.co/bAk8eap0XQ",
+        "username": "__Crazy_Kid__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

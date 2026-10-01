@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103855042503806977"
+      ],
+      "media_source_tweet_id": [
+        "2103855118420701366"
+      ]
+    },
+    "author_id": "1684788633797287936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103860555496992822",
+    "created_at": "2026-09-26T14:53:38.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103860555496992822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900168705847500800",
+          "start": 3,
+          "username": "wxb_NB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FEyLi50e0V",
+          "end": 46,
+          "expanded_url": "https://x.com/wxb_NB/status/2103855118420701366/photo/1",
+          "media_key": "3_2103855042503806977",
+          "start": 23,
+          "url": "https://t.co/FEyLi50e0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103860555496992822",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103855042503806977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103855118420701366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wxb_NB: 永远搜不到想要的答案 https://t.co/FEyLi50e0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_2103855042503806977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJlA7NakAESnUq.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103855042503806977"
+          ],
+          "media_source_tweet_id": [
+            "2103855118420701366"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103860555496992822",
+        "created_at": "2026-09-26T14:53:38.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103860555496992822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900168705847500800",
+              "start": 3,
+              "username": "wxb_NB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEyLi50e0V",
+              "end": 46,
+              "expanded_url": "https://x.com/wxb_NB/status/2103855118420701366/photo/1",
+              "media_key": "3_2103855042503806977",
+              "start": 23,
+              "url": "https://t.co/FEyLi50e0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103860555496992822",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103855042503806977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103855118420701366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wxb_NB: 永远搜不到想要的答案 https://t.co/FEyLi50e0V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103855042503806977"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103855118420701366",
+        "created_at": "2026-09-26T14:32:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103855118420701366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEyLi50e0V",
+              "end": 34,
+              "expanded_url": "https://x.com/wxb_NB/status/2103855118420701366/photo/1",
+              "media_key": "3_2103855042503806977",
+              "start": 11,
+              "url": "https://t.co/FEyLi50e0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103855118420701366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103855042503806977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永远搜不到想要的答案 https://t.co/FEyLi50e0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2103860555496992822",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30477,
+          "following_count": 12155,
+          "like_count": 99606,
+          "listed_count": 104,
+          "media_count": 5912,
+          "tweet_count": 20938
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 我的世界里才是家 / 梗图爱好者 / 编程全靠AI / 作业写不完 / 梗图收不停",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "is_identity_verified": false,
+        "location": "我喜欢你，请和我生小草莓！",
+        "most_recent_tweet_id": "2103855118420701366",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900168705847500800/1771642631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 520,
+          "like_count": 12557,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
